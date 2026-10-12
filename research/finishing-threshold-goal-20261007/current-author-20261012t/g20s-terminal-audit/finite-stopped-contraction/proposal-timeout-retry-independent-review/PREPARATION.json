@@ -1,0 +1,11 @@
+{
+  "CPU_seconds": 0.0005320000000000047,
+  "shared_finishing_review_CPU_cap_seconds": 30,
+  "already_charged_CPU_seconds": 11,
+  "remaining_retry_review_CPU_seconds": 19,
+  "optimizer_runs": 0,
+  "model_runs": 0,
+  "independent_model_byteidentical_prefix": "f1e9b375a3985904e848e7e2ba8149a3efdaf7938cfb9111265f3d689fc35305",
+  "prefix_manifest_sha256": "7766e022697c707fb576b9108f7323c99f47dd5e658e6603fa68b22a28857c9f",
+  "changes": "Schema/limit/global numbering and accepted complete15-round prefix restore; unchanged polynomial/residual/update arithmetic; excluded earlier partial16 never used."
+}

@@ -1,0 +1,115 @@
+{
+  "status": "ACCEPTED_ADDITIONAL_EXECUTION_EVIDENCE_ONLY",
+  "manifest_at_review": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/THEOREM_MANIFEST.json",
+    "sha256": "8399c5c63643eb3aa52beacdec223800a07db6b9a54d73a982888a687270df38"
+  },
+  "rows": [
+    {
+      "statement": "PW_11",
+      "audit": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/audit.json",
+        "sha256": "be611dcb17413014b1a2b35aee3a9958457e05cb9fcde224a37763ff06500342"
+      },
+      "literal_binding": {
+        "statement": "PW_11",
+        "pin": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/classes.json",
+        "pin_sha256": "0fc8882907e5f43317019cf58da37b20a1bb3f09b6345e699abbb6db99cf105e",
+        "checked_sha256": "0fc8882907e5f43317019cf58da37b20a1bb3f09b6345e699abbb6db99cf105e",
+        "alias": "bytes or exactly one final LF",
+        "cap": "4675531/1000000",
+        "bound": "23",
+        "gamma": 997874785,
+        "budget": 22951120047,
+        "surplus": "8"
+      },
+      "original_evidence": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+          "sha256": "303749a22f3e46923a269bcc2d243d2132b0cb0db2c49327059449119fd789f3"
+        }
+      ],
+      "prior_certificate": {
+        "file": "local-research/claude-20261002/results/contract_PW11_cloud/exact/certificate.json",
+        "sha256": "403e797efedaa32b173022579f5f9f93007e22adf60c14b1766c7928ce555f8a"
+      },
+      "new_files": {
+        "certificate.json": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/certificate.json",
+          "sha256": "403e797efedaa32b173022579f5f9f93007e22adf60c14b1766c7928ce555f8a"
+        },
+        "classes.json": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/classes.json",
+          "sha256": "0fc8882907e5f43317019cf58da37b20a1bb3f09b6345e699abbb6db99cf105e"
+        },
+        "receipt_node.json": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/receipt_node.json",
+          "sha256": "05c9ce292794384aea1de4c9ce62e255aa2c0ea0b23d90d6e069ecc54aa08c57"
+        },
+        "receipt_python.json": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/receipt_python.json",
+          "sha256": "cf77e15b8f410219b4fface1503b678919c9155fa0881d08858dd03b737d93e3"
+        }
+      },
+      "jobs": 12,
+      "rows": 18000,
+      "conclusion": "SAME_LITERAL_BUDGET_ACCEPTED_WITH_REPAIRED_WORKER_BINDING"
+    },
+    {
+      "statement": "Q_11",
+      "audit": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/audit.json",
+        "sha256": "f61c0638ecb235fea43f3286bebab18d991367f7a69631393418a168fbff8cda"
+      },
+      "literal_binding": {
+        "statement": "Q_11",
+        "pin": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/classes.json",
+        "pin_sha256": "9869a38bf87fc3384e342fcf8de914478c27d28ab9a0fa0f1e099418063b8d4b",
+        "checked_sha256": "9869a38bf87fc3384e342fcf8de914478c27d28ab9a0fa0f1e099418063b8d4b",
+        "alias": "bytes or exactly one final LF",
+        "cap": "4675531/1000000",
+        "bound": "23",
+        "gamma": 996035638,
+        "budget": 22908819663,
+        "surplus": "11"
+      },
+      "original_evidence": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/audit.json",
+          "sha256": "f61c0638ecb235fea43f3286bebab18d991367f7a69631393418a168fbff8cda"
+        }
+      ],
+      "prior_certificate": {
+        "file": "local-research/claude-20261002/results/contract_Q11_cloud/exact/certificate.json",
+        "sha256": "197308c5f27b36642b480db7ca560f1b567c823219b2d757e76cdc1d04710f52"
+      },
+      "new_files": {
+        "certificate.json": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/certificate.json",
+          "sha256": "197308c5f27b36642b480db7ca560f1b567c823219b2d757e76cdc1d04710f52"
+        },
+        "classes.json": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/classes.json",
+          "sha256": "9869a38bf87fc3384e342fcf8de914478c27d28ab9a0fa0f1e099418063b8d4b"
+        },
+        "receipt_node.json": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/receipt_node.json",
+          "sha256": "8c5720d3be22bb05df43629b499cab0f3b9d2ad6e7292ed3011749243f588f9e"
+        },
+        "receipt_python.json": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/receipt_python.json",
+          "sha256": "ec005af3e5414368cf4ae53424f0678e15f15671ac5ab911b8fdf2c47261aa26"
+        }
+      },
+      "jobs": 12,
+      "rows": 18000,
+      "conclusion": "SAME_LITERAL_BUDGET_ACCEPTED_WITH_REPAIRED_WORKER_BINDING"
+    }
+  ],
+  "unchanged": "All old proof pins and acceptance records, statements, budgets, root obligations and counts.",
+  "scope": "Repaired Node now supplies an independently audited second complete execution for each listed statement. No new row replay and no implicit manifest or whole-proof reseal.",
+  "checker": {
+    "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/receipt-audits/record_wb_recheck.py",
+    "sha256": "67a9616b22059523f027b0d5e013c8e44ddfd0605cb3b551c09c5d541ca93984"
+  }
+}

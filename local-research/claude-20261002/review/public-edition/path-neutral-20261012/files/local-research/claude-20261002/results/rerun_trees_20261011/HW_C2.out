@@ -1,0 +1,25 @@
+PASS
+labels=16 S_floor=4
+schema=wx-cert-2
+  certificate: /Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/bigbox/gen17/HW_tree.jsonl.gz  (SHA-256 of the checked bytes a8cc9689a3cd9cf15b5f198edb597b734039bf8eeededafb05366a85408e426a)
+  packing file: /Users/builder/Developer/07-math-research/17-squares-certified-bound/upper-packing-certificate.json  (SHA-256 24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7; Sref = 4675530093604551/1000000000000000)
+  nodes 579 (infeasible 289, terminal 1, split 289), rounds evaluated 1776 (not evaluated 0), declarations 64701, steps 156260, terms 22540696, tree depth 11
+  time: 206.25 s
+      206.35 real       225.50 user         1.52 sys
+          2529214464  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+              155127  page reclaims
+                  84  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+              339623  involuntary context switches
+       4528865521184  instructions retired
+        868423951492  cycles elapsed
+          2559346632  peak memory footprint

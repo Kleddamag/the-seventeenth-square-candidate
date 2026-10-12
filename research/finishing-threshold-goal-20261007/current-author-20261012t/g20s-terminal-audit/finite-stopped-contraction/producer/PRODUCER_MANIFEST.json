@@ -1,0 +1,31 @@
+{
+  "certificate_sha256": "530a6356ac517d6bbc0dbc8ffc37aaded5304175c0fbed6fa5418d3f42fd0ed2",
+  "completed_rounds": 3,
+  "cost": {
+    "conservative_preparation_sealing_charge_seconds": 1,
+    "no_additional_rounds": true,
+    "producer_cap_seconds": 30,
+    "run_CPU_seconds": 5.4331,
+    "total_charge_CPU_seconds": 6.4331
+  },
+  "exact_bound_count": 276,
+  "files": {
+    "INPUTS.json": "e16addcfec63db8a522bea4cf92c4d102553c7fb3202c0cdaf3a3ca0a65648b0",
+    "PREPARATION.json": "c3df35aa96edf26bdc39bcf9700a740b6a662249047ab997744da8aff21e4541",
+    "README.md": "25aed994bd441d45f7722c56dd2d908750740c1417138f4622dc383760ecb12a",
+    "RESULT.md": "80d6c9c631a819e9e171d853c88578525ba7bd8728ef127d9a61e81376af2822",
+    "SIDE_JOIN.json": "702ea67a4a3b68501e30b93f847ebb845acbb7b7ca1f107f9b2ab5b0445556b8",
+    "certificate.json": "530a6356ac517d6bbc0dbc8ffc37aaded5304175c0fbed6fa5418d3f42fd0ed2",
+    "model-1.json": "b76c209a3b56d7f112deb952264c7c6c9e7a1dfe32aa069306456f2c11a18ef1",
+    "model-2.json": "8f97eca45ddc2b57e25ca08fd9711f877e8e63044693be72886c1d60baa0851a",
+    "model-3.json": "68b196608d399209c0348c76ba7072f06aeb357ec47f7d778df7cbf0bc71e7fa",
+    "run.py": "c1aa457108ae93dc3b6d93d696e73fb9906b31f2399dd093f41e6bedd66efaf0",
+    "telemetry.json": "9c4390048d72f0cbba6d4cbcb885b0c3be323a58a052058c4bd9f1ff7323bbfe"
+  },
+  "final_angle_radius": "1/400",
+  "final_position_radius": "2951564640979/1000000000000000",
+  "source_sha256": "c1aa457108ae93dc3b6d93d696e73fb9906b31f2399dd093f41e6bedd66efaf0",
+  "status": "PRODUCER_COMPLETED_THREE_FINITE_ROUNDS_TARGET_NOT_REACHED_REQUIRES_SEPARATE_INDEPENDENT_REPLAY",
+  "target_raw_core_radius": "1/10000",
+  "target_reached": false
+}

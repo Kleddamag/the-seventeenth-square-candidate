@@ -1,0 +1,31 @@
+{
+  "status": "PASS_ANALYTIC_STOP_PAIR_COVERAGE_NO_PADDED_RIGIDITY_CLAIM",
+  "reviewer": "Codex contributor 05",
+  "accepted": [
+    "complete two-pair SAT reduction at padded radii .08,.15,.25",
+    "necessary shared-product rows preserving both owners and tangent signs",
+    "padded-A rational sum bound b+z < 32379301/1000000000",
+    "root-terminal bounds b>=-1.7epsilon and b+z<=T/3+.13epsilon",
+    "restoration of the two stopped parallel offset signs"
+  ],
+  "not_replayed_here": [
+    "full root coordinate transfer",
+    "nineteen-option and52-row implementation",
+    "skeleton certificate",
+    "failed dual reuse"
+  ],
+  "finite_contraction_proved": false,
+  "padded_rigidity_proved": false,
+  "capture_proved": false,
+  "measured_cpu_seconds": 0.017407,
+  "input_sha256": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012q/slider-attainability/independent-review/REVIEW.md": "6cbe1d4807bbaa89b06c76061fc3a59b80d1fa447039194b93a5bc8006fbb593",
+    "research/finishing-threshold-goal-20261007/current-author-20261012q/slider-attainability/independent-review/arithmetic-receipt.json": "8f8f741633d418870199f29eb994514081edced90d22ff09fc3af088299928c1",
+    "research/finishing-threshold-goal-20261007/current-author-20261012q/slider-attainability/independent-review/check_mathematics.py": "57e0fb5a266e035c9dd693e618038fc0418e24ed4987fe5863fe4719b965d90b",
+    "research/finishing-threshold-goal-20261007/current-author-20261012q/slider-attainability/STOPPING_PAIRS.md": "64065c54a82f6d27504bc0ba92be2a065f464d282aba3167bac8d14359cd606f",
+    "research/finishing-threshold-goal-20261007/current-author-20261012q/slider-attainability/stopping-pair-constants.json": "e4abc2ddb47c3e8fe577ef3c46be5e537aff9f3a4a0a304127917e186159ecd8",
+    "research/finishing-threshold-goal-20261007/current-author-20261012q/slider-attainability/check_stops.py": "db70d9f1107f2522f56252f3605b16d8a09ed465c03ade9e8bb8bf26ac114d5f",
+    "research/finishing-threshold-goal-20261007/current-author-20261012q/padded-terminal/PROPOSAL.md": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a",
+    "research/finishing-threshold-goal-20261007/current-author-20261012q/padded-terminal/check_stops.py": "4dd254c3ebdef41990e91ed6345fa63c8ebb17217fb692d2f49a31188a3fee59"
+  }
+}

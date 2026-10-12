@@ -1,0 +1,1 @@
+PASS: two exact header joins (both uncut controls fail);17 model hash/box links; four identical independent builders; JPA copy and JG log.

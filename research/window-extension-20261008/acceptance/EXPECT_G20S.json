@@ -1,0 +1,54 @@
+{
+ "name": "G20S: sixteen labels; position radius 1/5 (xi_{2,1} in [-39/125, 0], xi_{11,2} in [-1/5, 1/5], xi_{13,2} in [-1/5, 28/125]), angle radius 1/10 for all 16",
+ "labels": 16,
+ "S_floor": "4",
+ "tube_name": "window of HW with the upper end of xi_{2,1} at 1/100",
+ "terminal_leaves": null,
+ "terminal_leaves_note": "not fixed by the statement (tube angle radius 101/1000 exceeds the gate 1/10)",
+ "window": {
+  "core": "1/5",
+  "alpha": {
+   "default": "1/10"
+  },
+  "box": {
+   "2": {
+    "1": [
+     "-39/125",
+     "0"
+    ]
+   },
+   "13": {
+    "2": [
+     "-1/5",
+     "28/125"
+    ]
+   }
+  }
+ },
+ "tube": {
+  "core": "3/20",
+  "alpha": {
+   "default": "101/1000"
+  },
+  "box": {
+   "2": {
+    "1": [
+     "-8/25",
+     "1/100"
+    ]
+   },
+   "11": {
+    "2": [
+     "-1/5",
+     "2/25"
+    ]
+   },
+   "13": {
+    "2": [
+     "-1/5",
+     "1/10"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+# old class name	new class name   (proposal; NOT applied unless strip_inputs.py is called with --rename-map)
+T_label1_contract_exempt	T_label1_exempt
+T_label2_contract_exempt	T_label2_exempt
+T_label5_contract_exempt	T_label5_exempt
+T_label6_contract_exempt	T_label6_exempt
+T_label10_contract_exempt	T_label10_exempt
+T_label11_contract_exempt	T_label11_exempt
+T_label12_contract_exempt	T_label12_exempt
+T_label13_contract_exempt	T_label13_exempt
+T_label14_contract_exempt	T_label14_exempt
+T_label16_contract_exempt	T_label16_exempt

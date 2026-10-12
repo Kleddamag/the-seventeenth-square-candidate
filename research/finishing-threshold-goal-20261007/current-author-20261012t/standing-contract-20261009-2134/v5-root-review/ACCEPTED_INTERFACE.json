@@ -1,0 +1,65 @@
+{
+  "schema": "s17-independent-v5-target-admission-v1",
+  "status": "ACCEPTED_V5_OLD_AND_WIDENED_TARGETS_PLUS_JPWS_V4",
+  "reviewer": "Codex proof author",
+  "producer": "Claude window analysis",
+  "root_files": {
+    "JPA": {
+      "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+      "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+    },
+    "JPB": {
+      "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+      "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+    },
+    "JPG15m": {
+      "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+      "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+    },
+    "JPG15p": {
+      "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+      "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+    },
+    "JPG17m": {
+      "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+      "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+    },
+    "JPG17p": {
+      "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+      "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+    },
+    "JPG3m": {
+      "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+      "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+    },
+    "JPG3p": {
+      "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+      "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+    },
+    "JPWS": {
+      "file": "research/window-extension-20261008/bigbox/join/JPWS_exact_v4.json",
+      "sha256": "7d32a55bc2b080056d267dd10d38abb003ff84a649cd22aabb05899ec2a8be1f"
+    }
+  },
+  "old_root_contained_for_eight_v5": true,
+  "old_PB11_and_PTW37_contained": true,
+  "JPWS_v4_literal_T020_contained": true,
+  "other16labels_side_terminal_unchanged": true,
+  "new_capture_proofs_accepted": false,
+  "new_local_tree_proofs_accepted": false,
+  "bindings": {
+    "INPUTS.json": {
+      "sha256": "a5fc1ab05d2d6d44a59d2d326177709593d1f3d90493dc3e696d65f136305cea"
+    },
+    "RESULT.json": {
+      "sha256": "a75f0ffa872b5e1e0a13f097cefc760f5aaff0b9b3085cb3fcb4baf14690968f"
+    },
+    "REVIEW.md": {
+      "sha256": "89b10ff88d1bbdf79039cd7e28a77e5a15149a49f54a3270537c4fc96dc7e9ce"
+    }
+  },
+  "review_source": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/standing-contract-20261009-2134/audit_v5_roots.py",
+    "sha256": "48f9b79f6ae93e52785579bd5d94e9e0122ecb4fb052fcdf579abc176dc8abd2"
+  }
+}

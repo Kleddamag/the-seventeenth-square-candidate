@@ -1,0 +1,1 @@
+{"status": "PASS_EXACT_GUARD_PARTITION_ON_ALL_SIGN_ATOMS", "total_atoms": 41160, "atom_counts_by_case": {"JQ": 10976, "JPWS": 10976, "JPW13": 5488, "JPB": 5145, "JPG3m": 735, "JPG17m": 105, "JPG15m": 15, "JG": 5, "JPG15p": 15, "JPG17p": 105, "JPG3p": 735, "JPA": 5145, "REMOVED_HIGH9": 1715}, "CPU_seconds": 0.07847799999999999}

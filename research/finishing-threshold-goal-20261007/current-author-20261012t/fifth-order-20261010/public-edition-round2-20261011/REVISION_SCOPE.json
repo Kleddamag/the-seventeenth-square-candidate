@@ -1,0 +1,78 @@
+{
+  "schema": "s17-author-editorial-revision-v1",
+  "baseline_roster_sha256": "17eb61da5370f72f1757973ae58de2e6efb37a8b605207e997808effc098ef9e",
+  "changed_claims": [
+    {
+      "id": "WALL_PARTITION",
+      "classification": "EDITORIAL_TEXT_ONLY",
+      "old_claim_sha256": "a7becb2cbea41315682e7307f2145491055d4090489fac6cd48cc4e33b9dff3d",
+      "new_claim_sha256": "c87f8343c72f847fd3a1427e19071e160c72f3dc4315b8783f682e3d74e19468"
+    },
+    {
+      "id": "ROOT_ADMISSION",
+      "classification": "EDITORIAL_TEXT_ONLY",
+      "old_claim_sha256": "b50eeba9562b93344f4fdfdafd926b6d5281cae068ac09afee9f0b0d3669c2fd",
+      "new_claim_sha256": "b1d7c0081ac0ddf6bf0d596793f1a7efc1a987b5eebf9d08b0733a4e7405159c"
+    },
+    {
+      "id": "LOCAL_CHECKER_SOUNDNESS",
+      "classification": "EDITORIAL_TEXT_ONLY",
+      "old_claim_sha256": "2e063de6f140b1a698a6a2f215c62385554b09a8c0efb0cdb99c88db2846edf8",
+      "new_claim_sha256": "0450f2ab1f548b8cc655b620c226a46968577d9d3844c275be625a6890372fa5"
+    },
+    {
+      "id": "G20S_PHYSICAL",
+      "classification": "CORRECTED_EXPLICIT_RATIO",
+      "old_claim_sha256": "9afa20f230c38a2fda90c97eba1c5630a52d92b59cd974643a4ba3382fd77415",
+      "new_claim_sha256": "4e6484b797a1b9c128603e11444ae257128a326d2187bc09b65e6ea53844187a"
+    },
+    {
+      "id": "WALL_CONTRADICTION",
+      "classification": "EDITORIAL_TEXT_ONLY",
+      "old_claim_sha256": "a3f1daf9e097b3510877f83896a6f7217fe6979dd7a071871f7d547d440e183e",
+      "new_claim_sha256": "60c0f729f2231fbd7fbdf75887a3c745f3934b9f5aebc20ac0401c7e386a913b"
+    },
+    {
+      "id": "KEY_W_ELIMINATION",
+      "classification": "EDITORIAL_TEXT_ONLY",
+      "old_claim_sha256": "5d7c54bdf1e5e1796e6283adb717bda31306999ba0992ce20e8ec54605fc7250",
+      "new_claim_sha256": "1d4fd150955ea4a3b550547297d5908d09ac04a92011100c601bcb8d7f54b601"
+    },
+    {
+      "id": "COARSE_LOOSE_CAPACITY",
+      "classification": "EDITORIAL_TEXT_ONLY",
+      "old_claim_sha256": "42557ae71965f527db5bc8cf7a89ad507596808628628e86058a9504ec74da17",
+      "new_claim_sha256": "a5803ad5e2f8c07c8edd6417175df9602dfca2a28a859a9077483a6c161c9a99"
+    }
+  ],
+  "ratio": {
+    "numerator": 159201934153319,
+    "denominator": 200000000000000,
+    "used_bound": 1
+  },
+  "acceptance_records": "EXCLUDED",
+  "historical_execution_bytes": "Exact historical execution data or previously declared pure path-neutral copies; editorial extracts of prose do not imply new historical executions.",
+  "current_checks": 31,
+  "independent_changed_source_review": "OPEN",
+  "scope": "Conditional mathematical scope unchanged except the explicit corrected numerical description of an already-proved strict contraction. Historical reviews are not new reviews of edited sources.",
+  "editorial_review": "Declared line extracts applied by file and line hash; the producers did not repeat the editorial read.",
+  "retained_exceptions": "SPEC_v3.0.md, SPEC_v3.0_NOTES.md and the categories explicitly listed in KNOWN_LIMITS.md.",
+  "cpu_limits": {
+    "finite_1": [
+      150,
+      160
+    ],
+    "finite_2": [
+      150,
+      160
+    ],
+    "finite_3": [
+      150,
+      160
+    ],
+    "finite_4": [
+      150,
+      160
+    ]
+  }
+}

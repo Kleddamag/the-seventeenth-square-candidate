@@ -1,0 +1,493 @@
+{
+ "schema": "s17-neutral-merge-provenance-v1",
+ "run_id": "capture-run-3",
+ "statement_id": "Q_1",
+ "merge_attempt_id": "m1",
+ "rows": {
+  "start": 0,
+  "end_exclusive": 18000,
+  "total_intervals": 18000
+ },
+ "source_manifest_sha256": "bdaaf36bf5b67f4ff3e81050cd1b95340be8dc2e992eb52e6160896339f57608",
+ "plan_manifest_sha256": "bc8324cfa721889725f63bd1e2a31cd522e35bee257187154758639e642bd7d6",
+ "merge_manifest_sha256": "7d26c9e73ab876ef07b62413bcec03c8555b7cccb49f4ce0fbf9ae06fada5075",
+ "selection_rule": "per planned slice: the lowest attempt number among the attempts that pass every test of merge_run.sh (record, files, outputs, compare)",
+ "counting_rule": "the merge that counts for a statement is the lowest-numbered merge attempt with verdict PASS that names the current source, plan and merge manifests",
+ "selected_slices": [
+  {
+   "slice_id": "00",
+   "attempt_id": "a1",
+   "start": 0,
+   "end_exclusive": 1500,
+   "provenance_sha256": "572dcdabb4e13491cdbc5bf38bb14101e152a1d7a41f0fd134e7100bf2ab6e7b",
+   "python": {
+    "file": "py.json",
+    "sha256": "ef7ea4ee5a6d639c6d94a650fd659e2e22ee7bdc298035e0890dd611dd14a365",
+    "bytes": 908977
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "fd0b7a8a9fac40ae245b7ba389d9c031ecb6fc4988c50d5d528a7c588eb3b902",
+    "bytes": 907024
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "19efebe545715de59da6f8e20ab226da310b732d620bd112331b3300554cda4f",
+    "bytes": 2814
+   }
+  },
+  {
+   "slice_id": "01",
+   "attempt_id": "a1",
+   "start": 1500,
+   "end_exclusive": 3000,
+   "provenance_sha256": "ad2f217e5b056d862325c7e5ab59c716db0b52c17b1455534a42b184a87ef9ac",
+   "python": {
+    "file": "py.json",
+    "sha256": "079da265661dd5cbae9099d4ba2913bb0df7c93649542920c5c58bf4900357b1",
+    "bytes": 892742
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "58cbebe60d805821271f6190f22a2f396d498008e1a50f7b4baa54a0b325cb2c",
+    "bytes": 890799
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "cf172132bfbfaf6a1e22dcd850052b69d7282e0939e7b27f0744eee256d7ba21",
+    "bytes": 2765
+   }
+  },
+  {
+   "slice_id": "02",
+   "attempt_id": "a1",
+   "start": 3000,
+   "end_exclusive": 4500,
+   "provenance_sha256": "a03357c8f1b2a3aaeefb365ee1354aa59300d7390a492a7ce56f24396af09804",
+   "python": {
+    "file": "py.json",
+    "sha256": "4b83d624d7b419cddb3f3e45c85ff73abde07fdf7e048058ad8c44b51f921153",
+    "bytes": 892730
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "fbb0fcc99a8c80d8f13be965dddca2f8d17ab6fe6c7803054e709df615f8f130",
+    "bytes": 890803
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "e49470ef4cc3253fa7479dce7f99ed62b5baf1943cb22c2c72052c9bd76e843c",
+    "bytes": 2765
+   }
+  },
+  {
+   "slice_id": "03",
+   "attempt_id": "a1",
+   "start": 4500,
+   "end_exclusive": 6000,
+   "provenance_sha256": "fe92cb48c0defd6ee65274350bc726a2c7e53c384d403be7106d8d0523ab0c4f",
+   "python": {
+    "file": "py.json",
+    "sha256": "d8a82e8a67a6719dedbeb7ce86c2f3f6bc6ad3131d046163ee1382b3e4d2828a",
+    "bytes": 892732
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "5fce09eedaa271edaf116a5fc3e622a83127133e88d83975f1f37224e9eb9383",
+    "bytes": 890774
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "b39f71248885fc3f0f78d2aec28a82ea3a5953f39f723bc300967a18e6dc31a2",
+    "bytes": 2765
+   }
+  },
+  {
+   "slice_id": "04",
+   "attempt_id": "a1",
+   "start": 6000,
+   "end_exclusive": 7500,
+   "provenance_sha256": "75894f9d046ae82fef303aa4700a7c19d34d4e85d9ec3c37b4be88e9b027fdfa",
+   "python": {
+    "file": "py.json",
+    "sha256": "51ab3fa0fb2baff20cc35990a52becb513b21fee7ace46913e993f8629a16fbd",
+    "bytes": 892747
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "f30d0ee978304f9040a16bc8aff8db937a29b64b21a12095017b7e79f5716b46",
+    "bytes": 890795
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "a8fb5eb7f6a22f1a8b5bafb37292790161f95912941476f94b09e6bab29e76eb",
+    "bytes": 2765
+   }
+  },
+  {
+   "slice_id": "05",
+   "attempt_id": "a1",
+   "start": 7500,
+   "end_exclusive": 9000,
+   "provenance_sha256": "0ae48bc993594d697976664e2d37bfe52ff0f0c2d4ed91e041041b6c4f34b9ed",
+   "python": {
+    "file": "py.json",
+    "sha256": "6fe3cde12d8b528f10ec1942e735ffd7288ddacbf561fa9c0b9873bd261727d4",
+    "bytes": 892839
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "2a3bd4c7e9f723cb4330d40aefad651b3cb9d345cbc19dc739c520933120b149",
+    "bytes": 890817
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "e2ba4a6e741ed0bf47471d1af08614dfb975bafd22d005b55bb38ec0b26eb9f0",
+    "bytes": 2765
+   }
+  },
+  {
+   "slice_id": "06",
+   "attempt_id": "a1",
+   "start": 9000,
+   "end_exclusive": 10500,
+   "provenance_sha256": "e9577c3be0c18b2dfd562907a35a1ab52c8159edb0ea6dc95f22ac9c7dcc66aa",
+   "python": {
+    "file": "py.json",
+    "sha256": "f52b1e6ec58ac742cd3eeeb2a5215ef62bcaca504152c5797d7bdbf8953e48b4",
+    "bytes": 873729
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "301cdae35ae03f0c6a018674bc140b91d901d4b8104033158aa61d36cbeafc7f",
+    "bytes": 871783
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "4fd97b5de3f2c5f6d9d881b32409920be51361f0d985957262882bc8588cd8da",
+    "bytes": 2758
+   }
+  },
+  {
+   "slice_id": "07",
+   "attempt_id": "a1",
+   "start": 10500,
+   "end_exclusive": 12000,
+   "provenance_sha256": "79ad8dce397719fe4bc7e6b91e06683fc4709a2123d8ac215f718fadc10f799e",
+   "python": {
+    "file": "py.json",
+    "sha256": "fcc28df36fa90fe3b429b0bc71425ac8c6dc974c94997de62ed05dca6255e53b",
+    "bytes": 874698
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "b923fb8403f2ab66ac34d2011ace8a5a53a0b9439562245c1d21ee437cb05e02",
+    "bytes": 872797
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "59cd3640aa3dee3cfdebfab468115ae00492f19b5681c70dba404b59673014dd",
+    "bytes": 2733
+   }
+  },
+  {
+   "slice_id": "08",
+   "attempt_id": "a1",
+   "start": 12000,
+   "end_exclusive": 13500,
+   "provenance_sha256": "c10cf603b2552f7ecfebf7b9e43ac095fae0af36ad7808d632674aa34d0786bf",
+   "python": {
+    "file": "py.json",
+    "sha256": "2e6539e4d340ff22bca2837dd42c634245f8cccdc049d89a80b86fee002b3e35",
+    "bytes": 874654
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "9b78456b02789a5c2c32e3dc12466d6165216725295f5fcf195c8ddb32596578",
+    "bytes": 872724
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "83573e50a88bbcca6e47d9ac54da1868fdf5b0afc7880d322af30db28ea78fd3",
+    "bytes": 2729
+   }
+  },
+  {
+   "slice_id": "09",
+   "attempt_id": "a1",
+   "start": 13500,
+   "end_exclusive": 15000,
+   "provenance_sha256": "0a2c4e5faafc14fe484f49683686249aff6a2850de129b8d5d65e49a21720334",
+   "python": {
+    "file": "py.json",
+    "sha256": "f919d99b74d75f76a33395c705cf6ee9a7d0907bbce8956c37e37cbca42cd365",
+    "bytes": 874709
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "e801b4d1ecfbf8bf52ec479e6e395a6e76159b59d925b7c7a2dcd26b7dfdb174",
+    "bytes": 872784
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "aa4efb1643dfa01231ba850253b367c3954cc83f762fc47579ac12bed488e674",
+    "bytes": 2733
+   }
+  },
+  {
+   "slice_id": "10",
+   "attempt_id": "a1",
+   "start": 15000,
+   "end_exclusive": 16500,
+   "provenance_sha256": "f8d9c7d202504994dc596d0a159609ba905ed0dcf3c8895e0720145de64571d0",
+   "python": {
+    "file": "py.json",
+    "sha256": "8cb62daef4464fc4f11b9a6a581ebfc8dd992cedb20595713f3bf85b7f0dd3eb",
+    "bytes": 874746
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "bdbe3256d29020ac2a33af37b1ca9a9d182de0bee0a0c440d0d7e40c95879418",
+    "bytes": 872780
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "46f394b4f79159115fd9565c44476c8c6e936800d150c6a11d747b0ab71fab68",
+    "bytes": 2733
+   }
+  },
+  {
+   "slice_id": "11",
+   "attempt_id": "a1",
+   "start": 16500,
+   "end_exclusive": 18000,
+   "provenance_sha256": "a7fa9b5739554b69b1a703a5ff4d755fd6fdefaf766a26a80f369cc901c26071",
+   "python": {
+    "file": "py.json",
+    "sha256": "110212f20d2714376e931d437ee383fae866e7c6b9ade0bd325f0926d9426458",
+    "bytes": 892073
+   },
+   "node": {
+    "file": "node.json",
+    "sha256": "534007cd70d33a165e42625ee6722a14f8af74cf1925d6f74b2f4063818ea9e7",
+    "bytes": 890109
+   },
+   "compare": {
+    "file": "compare.json",
+    "sha256": "f0febad5bca18e87d6e4155854b01b5832df173bb6e3edd016e0e5563b426759",
+    "bytes": 2815
+   }
+  }
+ ],
+ "not_selected": [],
+ "planned_slices_without_a_selected_attempt": [],
+ "input_sha256_before": {
+  "certificate": "24879434490bb22bcc7776148feadb3ae211a2948081d4985c3de155a691cee2",
+  "classes": "40c38b3011d40ce4240a44fde78d832e55aa0a22fee633299d732157bedd7931"
+ },
+ "input_sha256_after": {
+  "certificate": "24879434490bb22bcc7776148feadb3ae211a2948081d4985c3de155a691cee2",
+  "classes": "40c38b3011d40ce4240a44fde78d832e55aa0a22fee633299d732157bedd7931"
+ },
+ "source_sha256_before": {
+  "python_checker_main": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+  "python_checker_restricted": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+  "python_checker_general": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+  "python_checker_sweep": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+  "python_checker_rule": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275",
+  "node_checker": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40",
+  "merge_wrapper": "04ff6bb6c0929ece2d1c5711e0125a461d5b123ca135fddbf81ab0b75f186e48"
+ },
+ "source_sha256_after": {
+  "python_checker_main": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+  "python_checker_restricted": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+  "python_checker_general": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+  "python_checker_sweep": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+  "python_checker_rule": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275",
+  "node_checker": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40",
+  "merge_wrapper": "04ff6bb6c0929ece2d1c5711e0125a461d5b123ca135fddbf81ab0b75f186e48"
+ },
+ "slice_files_unchanged": true,
+ "invocation": {
+  "python": {
+   "argv": [
+    "python",
+    "-B",
+    "src/exact_classes.py",
+    "inputs/certificate.json",
+    "--classes",
+    "inputs/classes.json",
+    "--output",
+    "out/receipt_python.json",
+    "--merge",
+    "slices/00.py.json",
+    "slices/01.py.json",
+    "slices/02.py.json",
+    "slices/03.py.json",
+    "slices/04.py.json",
+    "slices/05.py.json",
+    "slices/06.py.json",
+    "slices/07.py.json",
+    "slices/08.py.json",
+    "slices/09.py.json",
+    "slices/10.py.json",
+    "slices/11.py.json"
+   ],
+   "timeout_seconds": 3600,
+   "note": "argv[0] names the program, its path is not recorded; working directory = run root; PYTHONOPTIMIZE unset"
+  },
+  "node": {
+   "argv": [
+    "node",
+    "src/node/verify_classes_wb.js",
+    "inputs/certificate.json",
+    "--classes",
+    "inputs/classes.json",
+    "--output",
+    "out/receipt_node.json",
+    "--merge",
+    "slices/00.node.json",
+    "slices/01.node.json",
+    "slices/02.node.json",
+    "slices/03.node.json",
+    "slices/04.node.json",
+    "slices/05.node.json",
+    "slices/06.node.json",
+    "slices/07.node.json",
+    "slices/08.node.json",
+    "slices/09.node.json",
+    "slices/10.node.json",
+    "slices/11.node.json"
+   ],
+   "timeout_seconds": 3600,
+   "note": "argv[0] names the program, its path is not recorded; working directory = run root; PYTHONOPTIMIZE unset"
+  }
+ },
+ "runtime": {
+  "python_implementation": "CPython",
+  "python_version": "3.9.6",
+  "python_optimization_level": 0,
+  "numpy_version": "2.0.2",
+  "numba_version": "0.60.0",
+  "node_version": "v25.6.1",
+  "platform_system": "Darwin",
+  "platform_architecture": "arm64"
+ },
+ "started_utc": "2026-10-11T19:55:04Z",
+ "finished_utc": "2026-10-11T19:55:08Z",
+ "exits": {
+  "python": {
+   "started": true,
+   "exit_code": 0,
+   "signal": null,
+   "timed_out": false
+  },
+  "node": {
+   "started": true,
+   "exit_code": 0,
+   "signal": null,
+   "timed_out": false
+  },
+  "wrapper": {
+   "exit_code": 0
+  }
+ },
+ "outputs": {
+  "python": {
+   "file": "receipt_python.json",
+   "sha256": "a65d7cee719cfba9d650a3b2e8c8beba307326dcd88fbc573a6236f67c7a9124",
+   "bytes": 2372
+  },
+  "node": {
+   "file": "receipt_node.json",
+   "sha256": "780f6b9eaccb660516bf33ab248a1f8a28f8f0ce8fb0b875c102acd561199ae6",
+   "bytes": 2054
+  }
+ },
+ "checks": [
+  {
+   "check": "inputs: before == after == plan",
+   "ok": true
+  },
+  {
+   "check": "sources: before == after == merge manifest",
+   "ok": true
+  },
+  {
+   "check": "slice files unchanged during the merges",
+   "ok": true
+  },
+  {
+   "check": "both merges started, exited, no signal, no time limit",
+   "ok": true
+  },
+  {
+   "check": "both merges exit code 0",
+   "ok": true
+  },
+  {
+   "check": "both receipts present",
+   "ok": true
+  },
+  {
+   "check": "python receipt: PASS_CLASSES_EXACT_COVER for rows 0..total, merged files = the selected slices, no problem, none missing, none failed",
+   "ok": true
+  },
+  {
+   "check": "python receipt: input sha256 = plan, checker_sha256 = staged sources",
+   "ok": true
+  },
+  {
+   "check": "python receipt: minima and cell counts = those recomputed from the 18000 selected rows",
+   "ok": true
+  },
+  {
+   "check": "node receipt: PASS_CLASSES_EXACT_COVER for rows 0..total, merged files = the selected slices, no problem, none missing, none failed",
+   "ok": true
+  },
+  {
+   "check": "node receipt: input sha256 = plan, checker_sha256 = staged sources",
+   "ok": true
+  },
+  {
+   "check": "node receipt: minima and cell counts = those recomputed from the 18000 selected rows",
+   "ok": true
+  },
+  {
+   "check": "the two receipts agree on status, statement, header, coverage, minima and cell counts",
+   "ok": true
+  }
+ ],
+ "verdict": "PASS",
+ "detail": [],
+ "environment_names_set": [
+  "NODE_USE_SYSTEM_CA",
+  "PYTHONDONTWRITEBYTECODE"
+ ],
+ "receipts_compared_on": [
+  "status",
+  "statement",
+  "schema",
+  "symmetry",
+  "bound",
+  "classes",
+  "total_intervals",
+  "required_units",
+  "budget_units",
+  "surplus",
+  "certificate_sha256",
+  "classes_sha256",
+  "start",
+  "end_exclusive",
+  "merged_files",
+  "problems",
+  "missing_intervals",
+  "first_missing_intervals",
+  "failed_intervals",
+  "unrestricted_minimum_units",
+  "deficit_minimum_units",
+  "cells_default",
+  "cells_by_class"
+ ],
+ "receipts_differ_in": []
+}

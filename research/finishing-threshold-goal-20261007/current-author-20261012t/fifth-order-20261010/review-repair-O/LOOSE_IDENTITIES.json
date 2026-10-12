@@ -1,0 +1,102 @@
+{
+  "status": "AUTHOR_EXACT_COMPOSITION_REPAIR_REQUIRES_SEPARATE_FRESH_REVIEW",
+  "physical_centre_box": [
+    "1000469/2000000",
+    "8351531/2000000"
+  ],
+  "AQ": {
+    "centre": {
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "13/5"
+        ],
+        [
+          "-131/250",
+          "13/5"
+        ]
+      ]
+    },
+    "angle_tan_half": [
+      "-207107/500000",
+      "207107/500000"
+    ]
+  },
+  "rows": [
+    {
+      "role": 3,
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+        "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+        "bound": "20"
+      },
+      "accepted_proof": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/audit.json",
+          "sha256": "bf1d4106418df7823b09124ab05faef5f38f6b7ca1bc58260d6e47b34dccfcbb"
+        }
+      ],
+      "physical_clipped_box": [
+        "129/100",
+        "8751/5000",
+        "1000469/2000000",
+        "3751/5000"
+      ],
+      "diameter_squared": "1097067164761/4000000000000"
+    },
+    {
+      "role": 15,
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+        "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+        "bound": "20"
+      },
+      "accepted_proof": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/audit.json",
+          "sha256": "237a72116f1345279e276d0863a5cfd267ee295ce1df56eac42cab4defdcac9e"
+        }
+      ],
+      "physical_clipped_box": [
+        "5369/2500",
+        "1019/400",
+        "19879/5000",
+        "8351531/2000000"
+      ],
+      "diameter_squared": "799624844761/4000000000000"
+    },
+    {
+      "role": 17,
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_17/classes.json",
+        "sha256": "a3d752494123ba8d2d28548c48e03d25842d7e33a890b099da439c7e083a0056",
+        "bound": "20"
+      },
+      "accepted_proof": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_17/audit.json",
+          "sha256": "41e7654f7dcd46ac1d2217edd1c4925e3b48624a8567fedc28ca1dbadba37c3c"
+        }
+      ],
+      "physical_clipped_box": [
+        "19629/5000",
+        "8351531/2000000",
+        "24137/10000",
+        "7159/2500"
+      ],
+      "diameter_squared": "1059571044761/4000000000000"
+    }
+  ],
+  "proof": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/review-repair-O/F1_PROOF.md",
+    "sha256": "8f6b6bc1ae3446d9b9d9970418a1243ed5eccf8a49c351545c81f18883d0d9a8"
+  }
+}

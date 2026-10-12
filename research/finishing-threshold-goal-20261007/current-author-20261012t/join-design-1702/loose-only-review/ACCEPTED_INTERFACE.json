@@ -1,0 +1,82 @@
+{
+  "schema": "s17-independent-loose-only-repair-acceptance-v1",
+  "status": "ACCEPTED_CURRENT_1747_STATIC_LOOSE_ONLY_REPAIR",
+  "producer_manifest_sha256": "7b9eae940cdd24c1a70f4099d4381dce78e622413237ab777c41e971a09c317e",
+  "producer_contract_sha256": "7d6476a8a9207bb61f5cadc3c23d5f369771b87dbef2c30580c2890326884320",
+  "prior_broad_acceptance_sha256": "744941b99b2510d0c8babf605c0fa6899b8a045a42b31b4fca3335a4b0b0bfb3",
+  "artifacts": {
+    "REVIEW.md": {
+      "sha256": "28d48bf8527eb58db61ff0cd4a64f32ca435bb30790978058de4f140d6076c8a",
+      "bytes": 7904
+    },
+    "review.py": {
+      "sha256": "10c066f77f6ed9219ccd15debde46746b1bd3a7fca8091fdb9db0f001eca8dbc",
+      "bytes": 9381
+    },
+    "RECEIPT.json": {
+      "sha256": "412db51ab92213142700941d0066fdad6196909d8c8569f9402fa4dfe3c55bbd",
+      "bytes": 315355
+    },
+    "INPUTS.json": {
+      "sha256": "a7b8faaa51d4eff6ddb5975d4078fb426463945743ff204d811f6dfb78dfefeb",
+      "bytes": 6819
+    },
+    "parse_classes.js": {
+      "sha256": "579ad54903b35069359a7b478018a1a7d9eea063a52ef5a50ddfd1db1d23ae43",
+      "bytes": 981
+    },
+    "CLASS_PARSE_RECEIPT.json": {
+      "sha256": "db09e2c7c932b659a6149daaef384272a5be24b4a3a3c18bc89c66805ffb44c8",
+      "bytes": 4178
+    }
+  },
+  "selected_capture_files": 32,
+  "selected_Q_hypothesis_split": {
+    "old_through_13_over_5": [
+      3,
+      4,
+      15,
+      17
+    ],
+    "new_through_129_over_50": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16
+    ]
+  },
+  "current_wall_handover_static_gap_closed": true,
+  "three_branch_profiles_disjoint_capacity_one": true,
+  "whole_wall_union_profile_disjoint_capacity_one": true,
+  "optional_single_polygon_outer_profile_disjoint_capacity_one": true,
+  "marker_target12_same_parent": true,
+  "no_branch_assignment_fallback_needed_for_unions": true,
+  "actual_side_cap": "4675531/1000000",
+  "fixed_frame_center": [
+    "1169/500",
+    "1169/500"
+  ],
+  "largest_wall_union_or_bbox_diameter_squared": "23901514570849/36000000000000",
+  "new_capture_certificates_accepted": false,
+  "actual_local_root_inclusions_accepted": false,
+  "local_exclusions_or_optimality_proved": false,
+  "hypotheses": [
+    "Exactly17 independently oriented physical unit squares with interior disjointness and actual side<=cap",
+    "One common selected marker half-frame and frame-stage L9 occupancy/uniqueness",
+    "Required selected exact capture implications or separately accepted inherited consequences"
+  ],
+  "outstanding": [
+    "Selected charge certificates",
+    "Common-frame inclusion in actual endpoint roots",
+    "Complete local exclusion and G-exit trees",
+    "Terminal theorem composition at actual S<=S*"
+  ]
+}

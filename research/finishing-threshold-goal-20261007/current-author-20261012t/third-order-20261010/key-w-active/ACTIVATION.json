@@ -1,0 +1,79 @@
+{
+  "status": "AMENDMENT_A_ACTIVE",
+  "selector": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/key-w-active/PER_BRANCH_CAPTURE_OPTIONS_V5_PSS_PSE_KEYW.json",
+    "sha256": "2a8c19b955ccd1431336272fa8026ba0ad5cb2eaaa8b25aacf0930db7dc1fce3"
+  },
+  "previous_selector": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/selector/PER_BRANCH_CAPTURE_OPTIONS_V5_PSS_PSE.json",
+    "sha256": "bf162dccc402d3423000ea0b2c7ffb84282cb210f2fd42c41c665b1a76747e80"
+  },
+  "amendment": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/key-w/CONDITIONAL_AMENDMENT.json",
+    "sha256": "4253c8a936c814708b4e65dac4681baf9d36eae233c185e7476128d558ace583"
+  },
+  "independent_review": {
+    "file": "research/window-extension-20261008/reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+    "sha256": "0600869f8775b6aea1c3c954b52365cc87e90c27087d156f1f58149d40d1163d"
+  },
+  "independent_check_source": {
+    "file": "research/window-extension-20261008/reviews/join_roots/keyw_amendment/check_keyw.py",
+    "sha256": "e4d0e8998481e31f2f51945f35a0f1695a9647c29d7622588f9d4e22f15db599"
+  },
+  "independent_check_output": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/receipt-audits/KEY_W/independent-review-replay.txt",
+    "sha256": "aaf060aa74c8d7f94350a1227e93b2b6f7ebbe5700c2c7328a3f30a5439a4cd4"
+  },
+  "exact_budget_review": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/audit.json",
+    "sha256": "91cc652c84ea595cf3e81c60a0d4b95b25bb059026e0ce4d38b1c17853da37e8"
+  },
+  "base_premise": {
+    "name": "KEY_W",
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/classes.json",
+    "sha256": "64a965273a216b9a75ae424d4a94a4fbafeb04c3c1577b4e818a8d6e8355d4ed",
+    "bound": "20",
+    "status": "COUNTED",
+    "certificate": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/certificate.json",
+      "sha256": "2f5a9a445788be1913678b6de8ac9ba8d468626758777a89be4cdef405b46130"
+    },
+    "exact_budget_review": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/audit.json",
+      "sha256": "91cc652c84ea595cf3e81c60a0d4b95b25bb059026e0ce4d38b1c17853da37e8"
+    },
+    "semantic_amendment_review": {
+      "file": "research/window-extension-20261008/reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+      "sha256": "0600869f8775b6aea1c3c954b52365cc87e90c27087d156f1f58149d40d1163d"
+    },
+    "frame_dependency": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/FRAME_L9.json",
+      "sha256": "603673f2213d128aad4cebc6cbf4a9dde348e0c05e9bbff0168434d326052424"
+    },
+    "frame_review": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "sha256": "ba53b261c4cdf35c06067d02b014aec168c6be4a86de4943d4501368c3ba8c13"
+    }
+  },
+  "removed_root": {
+    "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+    "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+  },
+  "remaining_clause_count": 84,
+  "unchanged_root_obligations": [
+    "JQ",
+    "JG",
+    "JPA",
+    "JPWS",
+    "JPW13",
+    "JPG3m",
+    "JPG3p",
+    "JPG17m",
+    "JPG17p",
+    "JPG15m",
+    "JPG15p"
+  ],
+  "premise_scope": "Literal KEY_W class only, all independent orientations and quarter-turn images, fixed-U frame, unique actual L9 occupant. Original KEY statement is not substituted.",
+  "review_note": "55 reviewer checks replayed, none failed. Essential branch exclusions use rational arc order and all quarter turns; printed padding diagnostics use floating angles and are not used as new proof premises.",
+  "global_optimality_claimed": false
+}

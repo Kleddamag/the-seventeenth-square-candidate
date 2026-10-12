@@ -1,0 +1,11 @@
+{
+  "new_exact_replay_cpu_seconds": 1.8550989999999998,
+  "new_conservative_charge_seconds": 4,
+  "prior_review_charge_seconds": 5,
+  "total_charge_seconds": 9,
+  "shared_cap_seconds": 60,
+  "remaining_seconds": 51,
+  "one_native_thread": true,
+  "failed_review_runs": 0,
+  "solver_symbolic_or_old_checker_called": false
+}

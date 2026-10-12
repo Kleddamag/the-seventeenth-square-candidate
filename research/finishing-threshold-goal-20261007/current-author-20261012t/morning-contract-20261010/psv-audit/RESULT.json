@@ -1,0 +1,3801 @@
+{
+  "status": "INDEPENDENT_LITERAL_PSV_INTERFACE_AUDIT_NO_NEW_CAPTURE_OR_LOCAL_CERTIFICATES",
+  "producer": "Claude analysis",
+  "reviewer": "automated reviewer",
+  "files": 45,
+  "current_v5_admissible": 7,
+  "all_simultaneous_target_positions_distinct_capacity_one": true,
+  "CPU_seconds": 1.5541369999999999,
+  "results": [
+    {
+      "name": "PSEb_L02_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L02_T09.json",
+      "sha256": "e711e12bb25d15c19134f2f9b6bbeff86b29df87a1f29af0108581f4ef0835af",
+      "label": 2,
+      "trigger": 9,
+      "end": "b",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-526561066856766165463780212600558357817067569632584793616210000/11501396025574499071182170345834548449013262078873367086087357713",
+            "61301/200000",
+            0
+          ]
+        ]
+      },
+      "current_v5_admissible": true,
+      "required_changes": {
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-105583/500000",
+              "0"
+            ],
+            [
+              "-1/1000000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-500417/10000000",
+            "500417/10000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "99749582826111/100250417173889",
+              "-10008340000000/100250417173889"
+            ],
+            "hi": [
+              "99749582826111/100250417173889",
+              "10008340000000/100250417173889"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_ON_CURRENT_V5"
+    },
+    {
+      "name": "PSEb_L06_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L06_T09.json",
+      "sha256": "31560959e79dc4db1a8b5cebcf4ce4b71f642b4a13c319acddb89bb1b0404ef3",
+      "label": 6,
+      "trigger": 9,
+      "end": "b",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-526561066856766165463780212600558357817067569632584793616210000/11501396025574499071182170345834548449013262078873367086087357713",
+            "61301/200000",
+            0
+          ]
+        ]
+      },
+      "current_v5_admissible": true,
+      "required_changes": {
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-51345001/1000000000",
+            "50041701/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997363690872309999/1002636309127690001",
+              "-102690002000000000/1002636309127690001"
+            ],
+            "hi": [
+              "997495828161026599/1002504171838973401",
+              "100083402000000000/1002504171838973401"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_ON_CURRENT_V5"
+    },
+    {
+      "name": "PSEb_L07_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L07_T09.json",
+      "sha256": "379c1f61f15a1beb0d281714d43b6240999a248ff4421187371f5595b952e154",
+      "label": 7,
+      "trigger": 9,
+      "end": "b",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-526561066856766165463780212600558357817067569632584793616210000/11501396025574499071182170345834548449013262078873367086087357713",
+            "61301/200000",
+            0
+          ]
+        ]
+      },
+      "current_v5_admissible": true,
+      "required_changes": {
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-1/1000000",
+              "49983/500000"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-500417/10000000",
+            "500417/10000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "99749582826111/100250417173889",
+              "-10008340000000/100250417173889"
+            ],
+            "hi": [
+              "99749582826111/100250417173889",
+              "10008340000000/100250417173889"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_ON_CURRENT_V5"
+    },
+    {
+      "name": "PSEb_L08_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L08_T09.json",
+      "sha256": "9a286a65e9e51201586af35b2da26f6114f3cd4fab7ad5e29d141e4ce24e93fe",
+      "label": 8,
+      "trigger": 9,
+      "end": "b",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-526561066856766165463780212600558357817067569632584793616210000/11501396025574499071182170345834548449013262078873367086087357713",
+            "61301/200000",
+            0
+          ]
+        ]
+      },
+      "current_v5_admissible": true,
+      "required_changes": {
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-500417/10000000",
+            "500417/10000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "99749582826111/100250417173889",
+              "-10008340000000/100250417173889"
+            ],
+            "hi": [
+              "99749582826111/100250417173889",
+              "10008340000000/100250417173889"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_ON_CURRENT_V5"
+    },
+    {
+      "name": "PSEb_L12_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L12_T09.json",
+      "sha256": "3203cce37aec3e72d64ac781242d5bfbbdd4d8811a9ee1a6b64cbfc1446faa40",
+      "label": 12,
+      "trigger": 9,
+      "end": "b",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": true,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-526561066856766165463780212600558357817067569632584793616210000/11501396025574499071182170345834548449013262078873367086087357713",
+            "61301/200000",
+            0
+          ]
+        ]
+      },
+      "current_v5_admissible": true,
+      "required_changes": {
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-49957/500000",
+              "119987/1000000"
+            ],
+            [
+              "-99913/1000000",
+              "24997/250000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-12510413/250000000",
+            "9073349/200000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "62343489566569431/62656510433430569",
+              "-6255206500000000/62656510433430569"
+            ],
+            "hi": [
+              "39917674337924199/40082325662075801",
+              "3629339600000000/40082325662075801"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_ON_CURRENT_V5"
+    },
+    {
+      "name": "PSEp_L06_T17",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/auxiliary-design-0310/PSEp_L06_T17.json",
+      "sha256": "b59370c229f9797a5ff938b90f6661501bea863bf62f549bc8fe9a048a7855d7",
+      "label": 6,
+      "trigger": 17,
+      "end": "p",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "canonical_gate_component_contained_in_root": true,
+        "intervals": [
+          [
+            "1/20",
+            "207107/500000",
+            0
+          ],
+          [
+            "-207107/500000",
+            "-5853/14147",
+            3
+          ]
+        ],
+        "qualification": "Branch chosen by canonical gate component; root padding is not a new branch premise."
+      },
+      "current_v5_admissible": true,
+      "required_changes": {
+        "JPG17p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+            "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-51345001/1000000000",
+            "50041701/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997363690872309999/1002636309127690001",
+              "-102690002000000000/1002636309127690001"
+            ],
+            "hi": [
+              "997495828161026599/1002504171838973401",
+              "100083402000000000/1002504171838973401"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_ON_CURRENT_V5"
+    },
+    {
+      "name": "PSEp_L07_T17",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/auxiliary-design-0310/PSEp_L07_T17.json",
+      "sha256": "feaff3884fa1d2ea7e51e2582e58200d27b53929f20e3a21b9d0a6017813a8c1",
+      "label": 7,
+      "trigger": 17,
+      "end": "p",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "canonical_gate_component_contained_in_root": true,
+        "intervals": [
+          [
+            "1/20",
+            "207107/500000",
+            0
+          ],
+          [
+            "-207107/500000",
+            "-5853/14147",
+            3
+          ]
+        ],
+        "qualification": "Branch chosen by canonical gate component; root padding is not a new branch premise."
+      },
+      "current_v5_admissible": true,
+      "required_changes": {
+        "JPG17p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+            "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-1/1000000",
+              "49983/500000"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-500417/10000000",
+            "500417/10000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "99749582826111/100250417173889",
+              "-10008340000000/100250417173889"
+            ],
+            "hi": [
+              "99749582826111/100250417173889",
+              "10008340000000/100250417173889"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_ON_CURRENT_V5"
+    },
+    {
+      "name": "PSSV10_L05_T03",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSSV10_L05_T03.json",
+      "sha256": "cd7d5181a8375f78b25688b17641c9e0d7a5f9b5af52d83478f3e579d06e9a86",
+      "label": 5,
+      "trigger": 3,
+      "end": "both",
+      "bound": "23",
+      "premises": [
+        "L_3"
+      ],
+      "roots": [
+        "JPG3m",
+        "JPG3p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG3m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+            "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-50041701/1000000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997495828161026599/1002504171838973401",
+              "-100083402000000000/1002504171838973401"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        },
+        "JPG3p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+            "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-50041701/1000000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997495828161026599/1002504171838973401",
+              "-100083402000000000/1002504171838973401"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSSV10_L06_T03",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSSV10_L06_T03.json",
+      "sha256": "752d51a068a6b10cd814c0a793463aac2d5a40bd3e1fd1be890cb7fea3d45a73",
+      "label": 6,
+      "trigger": 3,
+      "end": "both",
+      "bound": "23",
+      "premises": [
+        "L_3"
+      ],
+      "roots": [
+        "JPG3m",
+        "JPG3p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG3m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+            "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-56233/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-51345001/1000000000",
+            "50041701/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997363690872309999/1002636309127690001",
+              "-102690002000000000/1002636309127690001"
+            ],
+            "hi": [
+              "997495828161026599/1002504171838973401",
+              "100083402000000000/1002504171838973401"
+            ]
+          }
+        },
+        "JPG3p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+            "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-56233/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-51345001/1000000000",
+            "50041701/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997363690872309999/1002636309127690001",
+              "-102690002000000000/1002636309127690001"
+            ],
+            "hi": [
+              "997495828161026599/1002504171838973401",
+              "100083402000000000/1002504171838973401"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSSV10_L07_T03",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSSV10_L07_T03.json",
+      "sha256": "c72c9885c2d3f5cb9bf6c8208cc200853475236ef2cea1935003b1b92f1f0b97",
+      "label": 7,
+      "trigger": 3,
+      "end": "both",
+      "bound": "23",
+      "premises": [
+        "L_3"
+      ],
+      "roots": [
+        "JPG3m",
+        "JPG3p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG3m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+            "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "56233/500000"
+            ],
+            [
+              "-56233/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "344293/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24881462330151/25118537669849",
+              "3442930000000/25118537669849"
+            ]
+          }
+        },
+        "JPG3p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+            "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "56233/500000"
+            ],
+            [
+              "-56233/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "344293/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24881462330151/25118537669849",
+              "3442930000000/25118537669849"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSSV10_L08_T03",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSSV10_L08_T03.json",
+      "sha256": "246d0e4889c1e586adc570edc0795505f0ef22cd77d09d4d845efe086ce757b1",
+      "label": 8,
+      "trigger": 3,
+      "end": "both",
+      "bound": "23",
+      "premises": [
+        "L_3"
+      ],
+      "roots": [
+        "JPG3m",
+        "JPG3p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG3m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+            "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        },
+        "JPG3p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+            "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSSV11_L05_T03",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSSV11_L05_T03.json",
+      "sha256": "d8f99c374feef54ef91d85f8a051b617f980d3413b009dc2b9437402ad3276cc",
+      "label": 5,
+      "trigger": 3,
+      "end": "both",
+      "bound": "23",
+      "premises": [
+        "L_3"
+      ],
+      "roots": [
+        "JPG3m",
+        "JPG3p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG3m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+            "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-1/1000000",
+              "68733/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-50041701/1000000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997495828161026599/1002504171838973401",
+              "-100083402000000000/1002504171838973401"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        },
+        "JPG3p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+            "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-1/1000000",
+              "68733/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-50041701/1000000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997495828161026599/1002504171838973401",
+              "-100083402000000000/1002504171838973401"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSSV11_L06_T03",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSSV11_L06_T03.json",
+      "sha256": "d4bc848706e9fa83c13194a26a08ac0541cd756e05b96fbe4a6aa4a52e305c2e",
+      "label": 6,
+      "trigger": 3,
+      "end": "both",
+      "bound": "23",
+      "premises": [
+        "L_3"
+      ],
+      "roots": [
+        "JPG3m",
+        "JPG3p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG3m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+            "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-51345001/1000000000",
+            "50041701/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997363690872309999/1002636309127690001",
+              "-102690002000000000/1002636309127690001"
+            ],
+            "hi": [
+              "997495828161026599/1002504171838973401",
+              "100083402000000000/1002504171838973401"
+            ]
+          }
+        },
+        "JPG3p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+            "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-51345001/1000000000",
+            "50041701/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997363690872309999/1002636309127690001",
+              "-102690002000000000/1002636309127690001"
+            ],
+            "hi": [
+              "997495828161026599/1002504171838973401",
+              "100083402000000000/1002504171838973401"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSSV11_L07_T03",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSSV11_L07_T03.json",
+      "sha256": "06ba7b6405c789365cf351358c3072f3aede83c0e5bb5f667f5d0d230eb3be5d",
+      "label": 7,
+      "trigger": 3,
+      "end": "both",
+      "bound": "23",
+      "premises": [
+        "L_3"
+      ],
+      "roots": [
+        "JPG3m",
+        "JPG3p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG3m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+            "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-75141/1000000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "994353830119/1005646169881",
+              "-150282000000/1005646169881"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        },
+        "JPG3p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+            "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-75141/1000000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "994353830119/1005646169881",
+              "-150282000000/1005646169881"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSSV11_L08_T03",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSSV11_L08_T03.json",
+      "sha256": "7b27df9dbd38f97644289d0c516323110f010b8e104516625fd5b45cc33b027f",
+      "label": 8,
+      "trigger": 3,
+      "end": "both",
+      "bound": "23",
+      "premises": [
+        "L_3"
+      ],
+      "roots": [
+        "JPG3m",
+        "JPG3p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG3m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+            "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-56233/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        },
+        "JPG3p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+            "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-56233/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L02_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L02_T09.json",
+      "sha256": "80b4c560d4fb24eb7902af69bc53373544852b66f708d543d68fb302e2690882",
+      "label": 2,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-105583/500000",
+              "0"
+            ],
+            [
+              "-1/1000000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-281547/5000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "24920731286791/25079268713209",
+              "-2815470000000/25079268713209"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-105583/500000",
+              "0"
+            ],
+            [
+              "-1/1000000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-281547/5000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "24920731286791/25079268713209",
+              "-2815470000000/25079268713209"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L05_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L05_T09.json",
+      "sha256": "1222171480c5a566d7e53d78a27a44d82fc1c3df6190b7023ab6b17caca40d2c",
+      "label": 5,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "94983/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-281547/5000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "24920731286791/25079268713209",
+              "-2815470000000/25079268713209"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "94983/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-281547/5000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "24920731286791/25079268713209",
+              "-2815470000000/25079268713209"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L05_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L05_T17.json",
+      "sha256": "24c7fbd27c5cb602842e085a0fb5903eb3dce37309a8c6b0a15e303fc2fb7a59",
+      "label": 5,
+      "trigger": 17,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m",
+        "JPG17p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-1/1000000",
+              "94983/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-50041701/1000000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997495828161026599/1002504171838973401",
+              "-100083402000000000/1002504171838973401"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        },
+        "JPG17p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+            "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-1/1000000",
+              "94983/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-50041701/1000000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997495828161026599/1002504171838973401",
+              "-100083402000000000/1002504171838973401"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L06_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L06_T09.json",
+      "sha256": "a0d346579eb70e5e782d197899ace54e8f5aa89e054b6791bf54a8d059ddb232",
+      "label": 6,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-72017/1250000",
+            "125163/2000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "1557313551711/1567686448289",
+              "-180042500000/1567686448289"
+            ],
+            "hi": [
+              "3984334223431/4015665776569",
+              "500652000000/4015665776569"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-72017/1250000",
+            "125163/2000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "1557313551711/1567686448289",
+              "-180042500000/1567686448289"
+            ],
+            "hi": [
+              "3984334223431/4015665776569",
+              "500652000000/4015665776569"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L06_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L06_T17.json",
+      "sha256": "3441e36dddca8dcef16c9e90650f5c8f3ba01b5fc9ce9e0fab3d5971b7c9c705",
+      "label": 6,
+      "trigger": 17,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m",
+        "JPG17p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-51345001/1000000000",
+            "50041701/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997363690872309999/1002636309127690001",
+              "-102690002000000000/1002636309127690001"
+            ],
+            "hi": [
+              "997495828161026599/1002504171838973401",
+              "100083402000000000/1002504171838973401"
+            ]
+          }
+        },
+        "JPG17p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+            "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-51345001/1000000000",
+            "50041701/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997363690872309999/1002636309127690001",
+              "-102690002000000000/1002636309127690001"
+            ],
+            "hi": [
+              "997495828161026599/1002504171838973401",
+              "100083402000000000/1002504171838973401"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L07_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L07_T09.json",
+      "sha256": "9ad0d41869d8fbab76cd138f496060b066073e4e4a23c7401c14060d3c20aab1",
+      "label": 7,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "49983/500000"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "49983/500000"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L07_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L07_T17.json",
+      "sha256": "0aa30a7a9e61e545fd71a987bf2294382ec88950754727fa125ed69404edeccb",
+      "label": 7,
+      "trigger": 17,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m",
+        "JPG17p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-194139/2500000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "6212310048679/6287689951321",
+              "-970695000000/6287689951321"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        },
+        "JPG17p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+            "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-194139/2500000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "6212310048679/6287689951321",
+              "-970695000000/6287689951321"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L08_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L08_T09.json",
+      "sha256": "9384a595ca3f4e65e0b16a8d959128635f6c75f2bff7ef0c77e60c7b4cba2473",
+      "label": 8,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L08_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L08_T17.json",
+      "sha256": "fe780e235247fa21ad68b838c55c204ef156fa6c2dc7a5fba4a8dadf4eb360cc",
+      "label": 8,
+      "trigger": 17,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m",
+        "JPG17p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-194139/2500000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "6212310048679/6287689951321",
+              "-970695000000/6287689951321"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        },
+        "JPG17p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+            "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-194139/2500000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "6212310048679/6287689951321",
+              "-970695000000/6287689951321"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10_L12_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L12_T09.json",
+      "sha256": "f6275cdb6aa6043591535123012e7db0df9d9b3889383cdfdcaac41e6bd3ae8a",
+      "label": 12,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": true,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-49957/500000",
+              "119987/1000000"
+            ],
+            [
+              "-99913/1000000",
+              "14061/125000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-12510413/250000000",
+            "9073349/200000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "62343489566569431/62656510433430569",
+              "-6255206500000000/62656510433430569"
+            ],
+            "hi": [
+              "39917674337924199/40082325662075801",
+              "3629339600000000/40082325662075801"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-49957/500000",
+              "119987/1000000"
+            ],
+            [
+              "-99913/1000000",
+              "14061/125000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-12510413/250000000",
+            "9073349/200000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "62343489566569431/62656510433430569",
+              "-6255206500000000/62656510433430569"
+            ],
+            "hi": [
+              "39917674337924199/40082325662075801",
+              "3629339600000000/40082325662075801"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10a_L02_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L02_T09.json",
+      "sha256": "e23c4b83c920f9b77eb034e5170dfdceaf549e15b85ae6cfe1b2a0a07a95508c",
+      "label": 2,
+      "trigger": 9,
+      "end": "a",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-408817/1000000",
+            "-731165041282267094281609866766009908803805490759217707528852287/16266042907568734763354049441564893193169670351494048120296432287",
+            3
+          ]
+        ]
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-105583/500000",
+              "0"
+            ],
+            [
+              "-1/1000000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-281547/5000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "24920731286791/25079268713209",
+              "-2815470000000/25079268713209"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10a_L06_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L06_T09.json",
+      "sha256": "a5cb5090816384e9efe02790ce78218dd6647877a5d25f7f33c48313308c0e2f",
+      "label": 6,
+      "trigger": 9,
+      "end": "a",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-408817/1000000",
+            "-731165041282267094281609866766009908803805490759217707528852287/16266042907568734763354049441564893193169670351494048120296432287",
+            3
+          ]
+        ]
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-72017/1250000",
+            "125163/2000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "1557313551711/1567686448289",
+              "-180042500000/1567686448289"
+            ],
+            "hi": [
+              "3984334223431/4015665776569",
+              "500652000000/4015665776569"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10a_L07_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L07_T09.json",
+      "sha256": "945cb6ec34072f834b1710422e7c94fa19fa57d085910b2b5be4939d6e6ce41b",
+      "label": 7,
+      "trigger": 9,
+      "end": "a",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-408817/1000000",
+            "-731165041282267094281609866766009908803805490759217707528852287/16266042907568734763354049441564893193169670351494048120296432287",
+            3
+          ]
+        ]
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "49983/500000"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10a_L08_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L08_T09.json",
+      "sha256": "55834e9f1e28e24f111d79f31a0877f3980699697c2377b90c482144092086cc",
+      "label": 8,
+      "trigger": 9,
+      "end": "a",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-408817/1000000",
+            "-731165041282267094281609866766009908803805490759217707528852287/16266042907568734763354049441564893193169670351494048120296432287",
+            3
+          ]
+        ]
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": true,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-49983/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10a_L12_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L12_T09.json",
+      "sha256": "526b3412c416cdc921ec03ee542978eabcaaf71b8c6bc85b53b4c9fb617c175d",
+      "label": 12,
+      "trigger": 9,
+      "end": "a",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": true,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-408817/1000000",
+            "-731165041282267094281609866766009908803805490759217707528852287/16266042907568734763354049441564893193169670351494048120296432287",
+            3
+          ]
+        ]
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-49957/500000",
+              "119987/1000000"
+            ],
+            [
+              "-99913/1000000",
+              "14061/125000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-12510413/250000000",
+            "9073349/200000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "62343489566569431/62656510433430569",
+              "-6255206500000000/62656510433430569"
+            ],
+            "hi": [
+              "39917674337924199/40082325662075801",
+              "3629339600000000/40082325662075801"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10m_L06_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10m_L06_T17.json",
+      "sha256": "ec5045209b22bf4d606e672ee7e5fd253f19555b29276fb879201d765eff97c5",
+      "label": 6,
+      "trigger": 17,
+      "end": "m",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "canonical_gate_component_contained_in_root": true,
+        "intervals": [
+          [
+            "-207107/500000",
+            "-1/20",
+            0
+          ],
+          [
+            "5853/14147",
+            "207107/500000",
+            1
+          ]
+        ],
+        "qualification": "Branch chosen by canonical gate component; root padding is not a new branch premise."
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": true,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-51345001/1000000000",
+            "50041701/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "997363690872309999/1002636309127690001",
+              "-102690002000000000/1002636309127690001"
+            ],
+            "hi": [
+              "997495828161026599/1002504171838973401",
+              "100083402000000000/1002504171838973401"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV10m_L07_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV10m_L07_T17.json",
+      "sha256": "c26499f9c4e419d69aea38af4d33b2d95b6f68f8566725600253d18a1458ea8a",
+      "label": 7,
+      "trigger": 17,
+      "end": "m",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "canonical_gate_component_contained_in_root": true,
+        "intervals": [
+          [
+            "-207107/500000",
+            "-1/20",
+            0
+          ],
+          [
+            "5853/14147",
+            "207107/500000",
+            1
+          ]
+        ],
+        "qualification": "Branch chosen by canonical gate component; root padding is not a new branch premise."
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-194139/2500000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "6212310048679/6287689951321",
+              "-970695000000/6287689951321"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11_L02_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L02_T09.json",
+      "sha256": "47e004af9f71c3a8807d2e65d8e77c896af9784ffd3496daf13f3addd6e29c02",
+      "label": 2,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-105583/500000",
+              "0"
+            ],
+            [
+              "-1/1000000",
+              "56233/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "125163/2000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "3984334223431/4015665776569",
+              "500652000000/4015665776569"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-105583/500000",
+              "0"
+            ],
+            [
+              "-1/1000000",
+              "56233/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "125163/2000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "3984334223431/4015665776569",
+              "500652000000/4015665776569"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11_L05_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L05_T09.json",
+      "sha256": "3243b36df4235e0e894c8e64d217957bf70d36ce6cc7b21a14a55bf9ef31a991",
+      "label": 5,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "94983/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "94983/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11_L05_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L05_T17.json",
+      "sha256": "6244c461b5e6219735d8f0d172f63a4d9b12a78de982a482f42d0e7769ffc690",
+      "label": 5,
+      "trigger": 17,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m",
+        "JPG17p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "94983/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-281547/5000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "24920731286791/25079268713209",
+              "-2815470000000/25079268713209"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        },
+        "JPG17p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+            "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "94983/500000"
+            ],
+            [
+              "-19987/200000",
+              "49983/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-281547/5000000",
+            "51345001/1000000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "24920731286791/25079268713209",
+              "-2815470000000/25079268713209"
+            ],
+            "hi": [
+              "997363690872309999/1002636309127690001",
+              "102690002000000000/1002636309127690001"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11_L06_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L06_T09.json",
+      "sha256": "77c451432f1d40e7f9ca41fa4ac8faba6da65f3ac750f06a16979cfee7b04e56",
+      "label": 6,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "56233/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-43853/625000",
+            "344293/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "388701914391/392548085609",
+              "-54816250000/392548085609"
+            ],
+            "hi": [
+              "24881462330151/25118537669849",
+              "3442930000000/25118537669849"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "56233/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-43853/625000",
+            "344293/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "388701914391/392548085609",
+              "-54816250000/392548085609"
+            ],
+            "hi": [
+              "24881462330151/25118537669849",
+              "3442930000000/25118537669849"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11_L07_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L07_T09.json",
+      "sha256": "c5055e8911f71dd70ea44418ff4656896844aa6bb74024bf9a39927c059e63cd",
+      "label": 7,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-194139/2500000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "6212310048679/6287689951321",
+              "-970695000000/6287689951321"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-194139/2500000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "6212310048679/6287689951321",
+              "-970695000000/6287689951321"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11_L07_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L07_T17.json",
+      "sha256": "81b43c0c36d282c85827c712b275eb476a1a2f50f8d4a7e1960e306509f04666",
+      "label": 7,
+      "trigger": 17,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m",
+        "JPG17p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-801711/10000000",
+            "801711/10000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "99357259472479/100642740527521",
+              "-16034220000000/100642740527521"
+            ],
+            "hi": [
+              "99357259472479/100642740527521",
+              "16034220000000/100642740527521"
+            ]
+          }
+        },
+        "JPG17p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+            "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-801711/10000000",
+            "801711/10000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "99357259472479/100642740527521",
+              "-16034220000000/100642740527521"
+            ],
+            "hi": [
+              "99357259472479/100642740527521",
+              "16034220000000/100642740527521"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11_L08_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L08_T09.json",
+      "sha256": "c9d44cf6ee2974a6779067537f0ee54848198705f6f1af152c73cae9e2c7826a",
+      "label": 8,
+      "trigger": 9,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA",
+        "JPB"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-56233/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        },
+        "JPB": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json",
+            "sha256": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-56233/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11_L08_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L08_T17.json",
+      "sha256": "aa0f335c14b52a0f3b980f742d20f890d82e27deaf31f27c57671651fd151ea1",
+      "label": 8,
+      "trigger": 17,
+      "end": "both",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m",
+        "JPG17p"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {},
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-68733/500000",
+              "0"
+            ],
+            [
+              "-74983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-21931/250000",
+            "28989/312500"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "62019031239/62980968761",
+              "-10965500000/62980968761"
+            ],
+            "hi": [
+              "96815887879/98496612121",
+              "18118125000/98496612121"
+            ]
+          }
+        },
+        "JPG17p": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+            "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-68733/500000",
+              "0"
+            ],
+            [
+              "-74983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-21931/250000",
+            "28989/312500"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "62019031239/62980968761",
+              "-10965500000/62980968761"
+            ],
+            "hi": [
+              "96815887879/98496612121",
+              "18118125000/98496612121"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11a_L02_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11a_L02_T09.json",
+      "sha256": "51ac8dbe5772f133b0c382b0756d0815a6502843cf72db80c2d24d804dec4640",
+      "label": 2,
+      "trigger": 9,
+      "end": "a",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-408817/1000000",
+            "-731165041282267094281609866766009908803805490759217707528852287/16266042907568734763354049441564893193169670351494048120296432287",
+            3
+          ]
+        ]
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-105583/500000",
+              "0"
+            ],
+            [
+              "-1/1000000",
+              "56233/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "125163/2000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "3984334223431/4015665776569",
+              "500652000000/4015665776569"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11a_L06_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11a_L06_T09.json",
+      "sha256": "e6bbdfbda9432798e5e90f8a88769f17ef8cde95f1006ad4810436d769e439f0",
+      "label": 6,
+      "trigger": 9,
+      "end": "a",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-408817/1000000",
+            "-731165041282267094281609866766009908803805490759217707528852287/16266042907568734763354049441564893193169670351494048120296432287",
+            3
+          ]
+        ]
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-62483/500000",
+              "0"
+            ],
+            [
+              "-19987/200000",
+              "56233/500000"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-43853/625000",
+            "344293/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "388701914391/392548085609",
+              "-54816250000/392548085609"
+            ],
+            "hi": [
+              "24881462330151/25118537669849",
+              "3442930000000/25118537669849"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11a_L07_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11a_L07_T09.json",
+      "sha256": "b700e10ddc8eecc7714d656d1a107282941a95c8e9e7006fa49f58be9d704491",
+      "label": 7,
+      "trigger": 9,
+      "end": "a",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-408817/1000000",
+            "-731165041282267094281609866766009908803805490759217707528852287/16266042907568734763354049441564893193169670351494048120296432287",
+            3
+          ]
+        ]
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-194139/2500000",
+            "194139/2500000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "6212310048679/6287689951321",
+              "-970695000000/6287689951321"
+            ],
+            "hi": [
+              "6212310048679/6287689951321",
+              "970695000000/6287689951321"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11a_L08_T09",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11a_L08_T09.json",
+      "sha256": "07cb53c9faadad8c179f56ff86f8551f5e054bbbac781dc738660e470241559e",
+      "label": 8,
+      "trigger": 9,
+      "end": "a",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPA"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "root_intersection_original_trigger_covered": true,
+        "intervals": [
+          [
+            "-408817/1000000",
+            "-731165041282267094281609866766009908803805490759217707528852287/16266042907568734763354049441564893193169670351494048120296432287",
+            3
+          ]
+        ]
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPA": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+            "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-56233/500000",
+              "0"
+            ],
+            [
+              "-49983/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-125163/2000000",
+            "281547/5000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "3984334223431/4015665776569",
+              "-500652000000/4015665776569"
+            ],
+            "hi": [
+              "24920731286791/25079268713209",
+              "2815470000000/25079268713209"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    },
+    {
+      "name": "PSV11m_L07_T17",
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSV11m_L07_T17.json",
+      "sha256": "6b4b64abbef4a2c70c5a0f32428c833f253d0d8f4a5a1099fe984923da75defd",
+      "label": 7,
+      "trigger": 17,
+      "end": "m",
+      "bound": "23",
+      "premises": [],
+      "roots": [
+        "JPG17m"
+      ],
+      "target_geometry_and_distinct_assignment_pass": true,
+      "marker_complement_checked": false,
+      "trigger_cut_check": {
+        "canonical_gate_component_contained_in_root": true,
+        "intervals": [
+          [
+            "-207107/500000",
+            "-1/20",
+            0
+          ],
+          [
+            "5853/14147",
+            "207107/500000",
+            1
+          ]
+        ],
+        "qualification": "Branch chosen by canonical gate component; root padding is not a new branch premise."
+      },
+      "current_v5_admissible": false,
+      "required_changes": {
+        "JPG17m": {
+          "root": {
+            "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+            "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+          },
+          "position_already_fits": false,
+          "angle_already_fits": false,
+          "required_box": [
+            [
+              "-1/1000000",
+              "62483/500000"
+            ],
+            [
+              "-62483/500000",
+              "0"
+            ]
+          ],
+          "required_arc_tau_about_reference": [
+            "-801711/10000000",
+            "801711/10000000"
+          ],
+          "required_arc_identity": {
+            "c": [
+              "1",
+              "0"
+            ],
+            "lo": [
+              "99357259472479/100642740527521",
+              "-16034220000000/100642740527521"
+            ],
+            "hi": [
+              "99357259472479/100642740527521",
+              "16034220000000/100642740527521"
+            ]
+          }
+        }
+      },
+      "status": "SEALABLE_WITH_NAMED_ROOT_ENLARGEMENTS_NO_LOCAL_PROOF_TRANSFER"
+    }
+  ],
+  "inputs": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/standing-contract-20261009-2134/check_widened.py": "648730ce61e1a1d8db4667f833a2477b0268e51a85825b4ac6bae60f62fc3e1f",
+    "upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+    "research/window-extension-20261008/terminal/instances/box-wide/logs/composition.out": "53ea429530b116f5841429702026adb5cb11a071a19b77cb483ae9298d57d0ed",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L01.json": "0fb76171922569a834bba77f1293c979bae63fc29b1d1cc2dcff6e2157b21a0a",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L02.json": "60ddc0128cc8c1dd752be14877165dcb49d6c6acbcc603c1fe9ce4222c219aff",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L05.json": "b223e91853e51b04a3d1c39df8c911172bea25e2bc621e9f235d8a6a5928b751",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L06.json": "339ca41b471b2b3e2c652d622b89912d90b123b210be9f869ed6896a66652a83",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L07.json": "ac947c12e578a0996b54d2455ff305620eb15d3ea63f4781d5803c1709504dd0",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L08.json": "c265f6fa35ba8f3a0b1f311f2d8d573f1c8d3c33c6ef90dbface4ac14e4f187e",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L10.json": "33fb89765b25295d80c9eb91b9c489f655726e04b3e4b8616172964b6d4df1b3",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L11.json": "5401e6c8fd37a9d40b49c280f1d17dc02794bb724cf18ac85c1711a397310426",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L12.json": "8542e0f8cfe1756edb6a596a2831698f5df6e4bddc307237cf53e0410b6a886b",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L13.json": "f076204411b4ae14de3a64fd54d6d30725f3b1472a75ce3d55fad368614162f3",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L14.json": "2a79ff6ccb231df2b12d996e1c68b4ff39b7ddc6f3a7eba840e2117b959d64ed",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PT_L16.json": "5ff533135962a7f9fc299c34e61778d116b25e3e4a57ff47e0dfa919a299536f",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_4/classes.json": "1d82397ce1399d4c82099901b8c548b6c73847e0e3615a5cd1922abe81523aae",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_17/classes.json": "a3d752494123ba8d2d28548c48e03d25842d7e33a890b099da439c7e083a0056",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2_PTw/PTW37_L11.json": "c60f4cea0ab71f69db569c937c57b805d993d128095e50383ac153bbc0378b0e",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/standing-contract-20261009-2134/v5-root-review/PER_BRANCH_CAPTURE_OPTIONS_V5.json": "fbd521549301e14281fe44bfecfc8fab14e9d81210bafc8dd522c5ffdb3b5859",
+    "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89",
+    "research/window-extension-20261008/bigbox/join/JPB_exact_v5.json": "2e6b85726d14cc85af8e0c5d1048f689febc2afe16cfd385de910dbe1c749787",
+    "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06",
+    "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653",
+    "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272",
+    "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12",
+    "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e",
+    "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9",
+    "local-research/claude-20261002/lp2/poc/classes/psv/SHA256SUMS": "28f12a8040742e612cbb576adc5b832989d931cff2f9ee1723bc882c5cba9cfc",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L02_T09.json": "e711e12bb25d15c19134f2f9b6bbeff86b29df87a1f29af0108581f4ef0835af",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T09/classes.json": "02a9e631e8aef429b0ae9e611dbcb710666e9d58e46534ffc32b818ac7c1a7e3",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L06_T09.json": "31560959e79dc4db1a8b5cebcf4ce4b71f642b4a13c319acddb89bb1b0404ef3",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T09/classes.json": "a60ff063c193a12c693a51d2210401435787bfc9fe47d0e513a5537e1969bae7",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L07_T09.json": "379c1f61f15a1beb0d281714d43b6240999a248ff4421187371f5595b952e154",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T09/classes.json": "15008f41f0178377a1bfd7236a94cbb0983563d69672e1097ce78bdb7c0a13ff",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L08_T09.json": "9a286a65e9e51201586af35b2da26f6114f3cd4fab7ad5e29d141e4ce24e93fe",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T09/classes.json": "6033cb4d727787bb32cecbb639cd9774d64702870ddae39c3f6aedd13ed4ffd9",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L12_T09.json": "3203cce37aec3e72d64ac781242d5bfbbdd4d8811a9ee1a6b64cbfc1446faa40",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T09/classes.json": "72a0c9e08a1cb86666eb7070dea5dc0da4c8a0e04420de01bcfe77a26e26f866",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/auxiliary-design-0310/PSEp_L06_T17.json": "b59370c229f9797a5ff938b90f6661501bea863bf62f549bc8fe9a048a7855d7",
+    "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PS_L06_T17.json": "cc37fecee91420ecac5332a81c5b11d9ede90a8347c96069327136e946d4e57b",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/auxiliary-design-0310/PSEp_L07_T17.json": "feaff3884fa1d2ea7e51e2582e58200d27b53929f20e3a21b9d0a6017813a8c1",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T17/classes.json": "005656a102ffa96d41fd8bc82f7f0e7c8af6788238aec87ebb4380b6a4bf043a",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSSV10_L05_T03.json": "cd7d5181a8375f78b25688b17641c9e0d7a5f9b5af52d83478f3e579d06e9a86",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T03/classes.json": "f70a3923ed7948c3b61464156bbb4debdab3b612e443f9017bcb7cf09f961444",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSSV10_L06_T03.json": "752d51a068a6b10cd814c0a793463aac2d5a40bd3e1fd1be890cb7fea3d45a73",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T03/classes.json": "24017292d83783d46f864ed4b62e387679d94a9b118d403dd5bc1559a4331c52",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSSV10_L07_T03.json": "c72c9885c2d3f5cb9bf6c8208cc200853475236ef2cea1935003b1b92f1f0b97",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T03/classes.json": "a40daf705130c2bb72607801009ef1bad21ff35c6f725b24fb222a5d71576fad",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSSV10_L08_T03.json": "246d0e4889c1e586adc570edc0795505f0ef22cd77d09d4d845efe086ce757b1",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T03/classes.json": "2a63485ed9c40b6dc1cf4dc85b57e5dccc7fb4e8099479c641bdc9262416d42c",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSSV11_L05_T03.json": "d8f99c374feef54ef91d85f8a051b617f980d3413b009dc2b9437402ad3276cc",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSSV11_L06_T03.json": "d4bc848706e9fa83c13194a26a08ac0541cd756e05b96fbe4a6aa4a52e305c2e",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSSV11_L07_T03.json": "06ba7b6405c789365cf351358c3072f3aede83c0e5bb5f667f5d0d230eb3be5d",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSSV11_L08_T03.json": "7b27df9dbd38f97644289d0c516323110f010b8e104516625fd5b45cc33b027f",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L02_T09.json": "80b4c560d4fb24eb7902af69bc53373544852b66f708d543d68fb302e2690882",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L05_T09.json": "1222171480c5a566d7e53d78a27a44d82fc1c3df6190b7023ab6b17caca40d2c",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T09/classes.json": "52d382b99c4316a30679aac1acc9ae2f7fab767647311c8c3fcdae89a4f0167b",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L05_T17.json": "24c7fbd27c5cb602842e085a0fb5903eb3dce37309a8c6b0a15e303fc2fb7a59",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T17/classes.json": "fd6975bab124ef46cb82c69c08de6698276cbdc21148a1cbf1e082bf74166b15",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L06_T09.json": "a0d346579eb70e5e782d197899ace54e8f5aa89e054b6791bf54a8d059ddb232",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L06_T17.json": "3441e36dddca8dcef16c9e90650f5c8f3ba01b5fc9ce9e0fab3d5971b7c9c705",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L07_T09.json": "9ad0d41869d8fbab76cd138f496060b066073e4e4a23c7401c14060d3c20aab1",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L07_T17.json": "0aa30a7a9e61e545fd71a987bf2294382ec88950754727fa125ed69404edeccb",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L08_T09.json": "9384a595ca3f4e65e0b16a8d959128635f6c75f2bff7ef0c77e60c7b4cba2473",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L08_T17.json": "fe780e235247fa21ad68b838c55c204ef156fa6c2dc7a5fba4a8dadf4eb360cc",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T17/classes.json": "ec2ef3a80c75d895214105b5f225a76cf290ce760efb16dd022c6980654ffa59",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10_L12_T09.json": "f6275cdb6aa6043591535123012e7db0df9d9b3889383cdfdcaac41e6bd3ae8a",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L02_T09.json": "e23c4b83c920f9b77eb034e5170dfdceaf549e15b85ae6cfe1b2a0a07a95508c",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L06_T09.json": "a5cb5090816384e9efe02790ce78218dd6647877a5d25f7f33c48313308c0e2f",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L07_T09.json": "945cb6ec34072f834b1710422e7c94fa19fa57d085910b2b5be4939d6e6ce41b",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L08_T09.json": "55834e9f1e28e24f111d79f31a0877f3980699697c2377b90c482144092086cc",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10a_L12_T09.json": "526b3412c416cdc921ec03ee542978eabcaaf71b8c6bc85b53b4c9fb617c175d",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10m_L06_T17.json": "ec5045209b22bf4d606e672ee7e5fd253f19555b29276fb879201d765eff97c5",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV10m_L07_T17.json": "c26499f9c4e419d69aea38af4d33b2d95b6f68f8566725600253d18a1458ea8a",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L02_T09.json": "47e004af9f71c3a8807d2e65d8e77c896af9784ffd3496daf13f3addd6e29c02",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L05_T09.json": "3243b36df4235e0e894c8e64d217957bf70d36ce6cc7b21a14a55bf9ef31a991",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L05_T17.json": "6244c461b5e6219735d8f0d172f63a4d9b12a78de982a482f42d0e7769ffc690",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L06_T09.json": "77c451432f1d40e7f9ca41fa4ac8faba6da65f3ac750f06a16979cfee7b04e56",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L07_T09.json": "c5055e8911f71dd70ea44418ff4656896844aa6bb74024bf9a39927c059e63cd",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L07_T17.json": "81b43c0c36d282c85827c712b275eb476a1a2f50f8d4a7e1960e306509f04666",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L08_T09.json": "c9d44cf6ee2974a6779067537f0ee54848198705f6f1af152c73cae9e2c7826a",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11_L08_T17.json": "aa0f335c14b52a0f3b980f742d20f890d82e27deaf31f27c57671651fd151ea1",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11a_L02_T09.json": "51ac8dbe5772f133b0c382b0756d0815a6502843cf72db80c2d24d804dec4640",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11a_L06_T09.json": "e6bbdfbda9432798e5e90f8a88769f17ef8cde95f1006ad4810436d769e439f0",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11a_L07_T09.json": "b700e10ddc8eecc7714d656d1a107282941a95c8e9e7006fa49f58be9d704491",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11a_L08_T09.json": "07cb53c9faadad8c179f56ff86f8551f5e054bbbac781dc738660e470241559e",
+    "local-research/claude-20261002/lp2/poc/classes/psv/PSV11m_L07_T17.json": "6b4b64abbef4a2c70c5a0f32428c833f253d0d8f4a5a1099fe984923da75defd"
+  }
+}

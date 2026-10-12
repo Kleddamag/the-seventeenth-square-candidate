@@ -1,0 +1,179 @@
+{
+  "schema": "s17-g20s-finite-entry-exact-root-stop-v1",
+  "status": "PRODUCER_PASS_REQUIRES_SEPARATE_INDEPENDENT_REVIEW",
+  "producer": "Codex contributor 10",
+  "exact_root_epsilon_max": "501/100000",
+  "exact_root_slider_domain": {
+    "a": [
+      "0",
+      "320000000001/1000000000000"
+    ],
+    "b": [
+      "-50000000001/1000000000000",
+      "200000000001/1000000000000"
+    ],
+    "z": [
+      "-200000000001/1000000000000",
+      "75000000001/1000000000000"
+    ]
+  },
+  "claims": {
+    "b_lower": "-8517/1000000",
+    "b_plus_z_upper": "49/2000",
+    "z_upper": "33/1000"
+  },
+  "stronger_rational_rhs_in": "root-interface.json",
+  "SAT_options": 16,
+  "strictly_excluded": 12,
+  "retained_both_owner_choices": 4,
+  "independent_angles": true,
+  "physical_parents": 17,
+  "unrestricted_physical_label": 4,
+  "unscaled_slider_indices": {
+    "a": 2,
+    "b": 21,
+    "z": 25
+  },
+  "full_gate_review_sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+  "prior_stop_review_sha256": "e8af5453f7e97d18ee2dab652644d797218ce2382fb928b53a8cb151cee7645d",
+  "new_radius_guards_all_recomputed": true,
+  "old_sum_coefficient13_over100_rejected": true,
+  "raw_coordinate_transfer_proved": false,
+  "finite_contraction_or_terminal_proved": false,
+  "capture_or_global_optimality_proved": false,
+  "negative_controls": 7,
+  "files": [
+    {
+      "path": "COSTS.json",
+      "sha256": "429cd39fe0ecfbee4e6a4f7b7d7ac0fda9e2729d98089d0031749969b34211ea"
+    },
+    {
+      "path": "PROOF.md",
+      "sha256": "62a0c88675cb34b427087793cac3af27d4f2ac62b6ba720bd09ac2debab719a4"
+    },
+    {
+      "path": "SOURCE.diff",
+      "sha256": "8483b318c899b804351d60af44e503d76878866fd20c7c1b8bd8eb6aa72c5da6"
+    },
+    {
+      "path": "check_stops.py",
+      "sha256": "2b39c67e67568c68c2fc24310050976949268cfc6e66110633daba340168972f"
+    },
+    {
+      "path": "dependencies.json",
+      "sha256": "4b2a990bc565ba455546dc4871461d58f54a2c6312fd1d54b4d4b0e9ae5b3347"
+    },
+    {
+      "path": "export_interface.py",
+      "sha256": "f79634c8ca744d282339605b8702240f024c1bb4eea7a31cab5ada220166fe10"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/independent-review/MANIFEST.json",
+      "sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/gate-receipt.json",
+      "sha256": "334bf800ec70961ff70cc29a431225160f6053132d938590d5cc989ff5510f51"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/root_geometry.py",
+      "sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/uniform.py",
+      "sha256": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/stop-coupled-finish/stop-producer/check_stops.py",
+      "sha256": "ee0320cc1eb673a9cd1dc5ec9c1dab9ff75b15d3b4da247b49cf3ed2de0a4194"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/stop-coupled-finish/stop-producer/manifest.json",
+      "sha256": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/stop-coupled-finish/stop-review/manifest.json",
+      "sha256": "e8af5453f7e97d18ee2dab652644d797218ce2382fb928b53a8cb151cee7645d"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/padded-terminal/check_stops.py",
+      "sha256": "4dd254c3ebdef41990e91ed6345fa63c8ebb17217fb692d2f49a31188a3fee59"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/slider-attainability/independent-review/check_mathematics.py",
+      "sha256": "57e0fb5a266e035c9dd693e618038fc0418e24ed4987fe5863fe4719b965d90b"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/slider-attainability/independent-review/review-manifest.json",
+      "sha256": "a41efd5c42b5989e885f6228b6b25ab97dc759acaf85d099dea4d612a2ab13b1"
+    },
+    {
+      "path": "inputs/research/uniform-capture-20261007/bridge.py",
+      "sha256": "8d5c2a8253f1aae97a243e907d08b337f334a8f27c66e3235e66a30fd8ae9f10"
+    },
+    {
+      "path": "inputs/research/uniform-capture-20261007/root_geometry.py",
+      "sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a"
+    },
+    {
+      "path": "inputs/research/uniform-capture-20261007/uniform.py",
+      "sha256": "f02470279d59f342244a2dfc2a0a65fbbf601e28c97a107a495782ee65b2282b"
+    },
+    {
+      "path": "inputs/research/uniform-capture-20261007/upstream-root-certificate.json",
+      "sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+    },
+    {
+      "path": "interface-telemetry.json",
+      "sha256": "47a710ad41062899ffc7dd5f28bc3bbc96620b58b386f83b35cf8070fae97aea"
+    },
+    {
+      "path": "prepare.py",
+      "sha256": "3f5f454d71fe47308cc417a8a719ec464c54e9f435da72e01e4e73638c5e4a0b"
+    },
+    {
+      "path": "receipt.json",
+      "sha256": "980aec13f9ea60c72fbd0dff0443240c4adef6590fa236af252c4de4f96ad10a"
+    },
+    {
+      "path": "replay-output.jsonl",
+      "sha256": "d5efabd95d68a4a3c51ddf28216fa624316af2f7b7e9e081e369e5f4f472e417"
+    },
+    {
+      "path": "root-interface.json",
+      "sha256": "c0a2e20edd832648f44edef6e0ee83507a7e6acd91e83785c0ccd10a3958bc0e"
+    },
+    {
+      "path": "seal.py",
+      "sha256": "13d1891a03bb758cef132231ab9938fb2098df47dcc5b8c3d847c56c23db0625"
+    },
+    {
+      "path": "telemetry.json",
+      "sha256": "c47f6961ea7ed21a1d89e8d03ee2fca27bf0f3a5856e1b3bb3b54d8253641436"
+    }
+  ],
+  "CPU_charge_seconds": 2,
+  "CPU_cap_seconds": 10,
+  "replay": "/usr/bin/python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/check_stops.py --snapshot --check",
+  "seal_CPU_seconds": 0.004604000000000004
+}

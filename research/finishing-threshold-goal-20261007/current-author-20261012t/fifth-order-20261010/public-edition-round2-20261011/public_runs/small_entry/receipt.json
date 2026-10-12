@@ -1,0 +1,44 @@
+{
+  "id": "small_entry",
+  "status": "PASS",
+  "error": null,
+  "missing_required_output": [],
+  "wall_seconds": 0.024350999970920384,
+  "cpu_seconds": 0.023147,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "executable": "python3.12",
+  "script_sha256": "ac1eb19c3037b7865efeedf2c5db82cff7f25ecb654566df3a31a6316587757f",
+  "original_last_line": "{\"status\": \"ACCEPTED_RATIONAL_SMALL_ENTRY_COROLLARY\", \"cpu_seconds\": 0.004978000000000003, \"interface_sha256\": \"12e6abc0cef8ce99e1158e67e546a747277ce77886ff4c3482c778c7db8d1478\"}",
+  "inputs_read": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/upper-packing-certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation-independent-review/COSTS.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation-independent-review/MANIFEST.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation-independent-review/REVIEW.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation-independent-review/check.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation-independent-review/finalize.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation-independent-review/receipt.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/PRODUCER_MANIFEST.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/accepted-root-gate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/instance/research/uniform-capture-20261007/bridge.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/instance/research/uniform-capture-20261007/root_geometry.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/instance/research/uniform-capture-20261007/uniform.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/instance/upper-packing-certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/check_corollary.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/COSTS.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/MANIFEST.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/REVIEW.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/check.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/receipt.json"
+  ],
+  "redirected_outputs": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/MATHEMATICAL_INTERFACE.json": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/small_entry/outputs/research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/MATHEMATICAL_INTERFACE.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/receipt.json": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/small_entry/outputs/research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/receipt.json"
+  },
+  "path_adaptations": [
+    "author repository prefix",
+    "BI manifest.json case alias",
+    "round2: revision-v4/PROOF.md reads revision-v7/PROOF.md"
+  ],
+  "scope": "New execution of the named check only, not a new independent mathematical review."
+}

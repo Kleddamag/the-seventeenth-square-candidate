@@ -1,0 +1,17 @@
+{
+  "status": "PASS_ALL_98_NEW_CAPTURE_RECORDS_AND_EXACT_MINIMUM_DECISIONS",
+  "statement_count": 98,
+  "rows_per_engine": 1728000,
+  "slices": 1152,
+  "scope": "Both recorded engines, all selected new saved exact row minima, exact class inequalities, complete coverage, literal theorem/input/source/process bindings. No geometry sweep; no cryptographic execution authentication. Earliest-attempt policy and old/new compatibility require separate release-preparation gates; this replay does not establish them.",
+  "index": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/CAPTURE_AUDIT_INPUTS.json",
+    "sha256": "239f25d7731eab5bd8a87b0a656b572abb85bb11bb4d9f2cfa67f194dd9bb92a",
+    "bytes": 26549
+  },
+  "source": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/provenance.py",
+    "sha256": "eb3d75ded7fbb0babd805882e41e55393ecf132f4a23747a61c29bc687501f7a",
+    "bytes": 831
+  }
+}

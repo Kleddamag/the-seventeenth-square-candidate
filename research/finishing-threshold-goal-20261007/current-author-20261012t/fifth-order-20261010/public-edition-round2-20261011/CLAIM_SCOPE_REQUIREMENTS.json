@@ -1,0 +1,16 @@
+[
+  {
+    "id": "CLASS_PS_L06_T17_ENDm_H4T4",
+    "old_claim_sha256": "b853bba56ad7f6dc9cf0baaf511ee34517546155574d67ff729c442fca53b2ba",
+    "required_sentences": [
+      "Only the signed actual clause named by the S6 activation may use its occupancy implication."
+    ]
+  },
+  {
+    "id": "CLASS_PS_L06_T17_ENDp_H4T4",
+    "old_claim_sha256": "30e4d792f86abb6decf919184b6c3148165b460df6dc62f927611f304f04910d",
+    "required_sentences": [
+      "Only BRANCH_JPG17p_L06 may use this signed occupancy implication; it is not the original two-arm inequality."
+    ]
+  }
+]

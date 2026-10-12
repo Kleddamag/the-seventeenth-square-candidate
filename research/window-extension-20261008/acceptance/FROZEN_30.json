@@ -1,0 +1,16 @@
+{
+ "C1": {
+  "file": "checker/wxcheck_v30.py",
+  "sha256": "cf8db52bfa1cc565d8610bf13b279d1b5da2f84c91ce2854d15a3b0a88cd096c"
+ },
+ "C2": {
+  "file": "checker2/wxcheck2_v30.js",
+  "sha256": "97210adf74a3ebed7cde021a3cb1ff6ea6380d8d2d55540a2a2a1cb17dc27542"
+ },
+ "SPEC": {
+  "file": "SPEC_v3.0.md",
+  "sha256": "0a6dfc2ae10ed6f30a21ebe357a6e73dd7355223c521cc67a3f2bdab9549aba0"
+ },
+ "frozen_on": "2026-10-09 03:15",
+ "note": "Written by the lead of the window-extension session. C1 = proto30/wxcheck_v30_candidate.py byte for byte, frozen on the reviewer's sentence 'freeze cf8db52b... as it stands' (reviews/REVIEW_30_PY.md part P9). C2 frozen by its author (checker2/CHECKER2_NOTES.md section 10); its code review reviews/REVIEW_30_JS.md was still in work when this file was written: an acceptance made with this file counts as PROVED only once that review has its verdict. SPEC = the final text accepted by the referee (reviews/REVIEW_30.md part G)."
+}

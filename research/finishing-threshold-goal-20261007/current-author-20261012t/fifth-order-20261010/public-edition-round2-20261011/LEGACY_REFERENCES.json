@@ -1,0 +1,136 @@
+{
+  "scope": "Bounded text scan for historical generator mentions; not runtime dependencies unless in actual observed reads.",
+  "terms": [
+    "audit_v5_roots.py",
+    "d-selected-roots-v2-review/check_review.py",
+    "mk_join_roots_v2.py"
+  ],
+  "matches": [
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_ADMISSION.md",
+      "sha256": "dd31cfa4c8545bab768a527b8dbe65c0d2de2a138695ac3e3dd859e44e9b2bae",
+      "hits": [
+        {
+          "line": 74,
+          "text": "- NOT RUN: d-selected-roots-v2-review/check_review.py (reviewers' admission script; bound to a producer directory and writes beside itself) and anything in v5-root-review."
+        }
+      ]
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_D_join.md",
+      "sha256": "24308f74322369528ae3a0e44d3a52245eb4da26ab4e2b1f8151848b07719fca",
+      "hits": [
+        {
+          "line": 17,
+          "text": "- Cause: the reviewed admission (d-selected-roots-v2-review/check_review.py, line 203) splits label 9 by its representative about the reference direction: JPA = [gate end, ref + 45 deg], JPB = [ref - 45 deg, gate start]. The manuscript splits by theta9 in [0, pi/2). The two differ on theta9 in (84.85, 90) degrees, which the text gives to JPA and the admission gave to JPB."
+        },
+        {
+          "line": 87,
+          "text": "- audit_v5_roots.py, not rerun because it writes into the repository."
+        }
+      ]
+    },
+    {
+      "hits": [
+        {
+          "line": 11,
+          "text": "Names of generating or formerly reviewed programs in historical records identify earlier sources. They are not public commands or additional runtime requirements. Verification uses the exact pinned root JSON and the separate EXPECT-region comparison. In particular, historical mentions of `audit_v5_roots.py`, `check_review.py` and `mk_join_roots_v2.py` do not instruct the reader to run those programs. `LEGACY_REFERENCES.json` identifies remaining occurrences and their historical role."
+        }
+      ],
+      "historical_source": "research/finishing-threshold-goal-20261007/current-author-20261012i/fifth-order-20261010/public-edition-round2-20261011/PUBLIC_ENTRYPOINTS.md",
+      "availability": "not carried",
+      "historical_sha256": "165d13653fe1483198c0f76f595d9db1162eee5ff6a88d405573fffdc5cb5631"
+    },
+    {
+      "hits": [
+        {
+          "line": 62,
+          "text": "    \"file\": \"research/finishing-threshold-goal-20261007/current-author-20261012i/standing-contract-20261009-2134/audit_v5_roots.py\","
+        }
+      ],
+      "historical_source": "research/finishing-threshold-goal-20261007/current-author-20261012i/standing-contract-20261009-2134/v5-root-review/ACCEPTED_INTERFACE.json",
+      "availability": "not carried",
+      "historical_sha256": "a1edc2d610cb4f0768d56a68c8fcd63853bac9bca856c8a0b29c26e7acdd25f9"
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JG_exact_v2.json",
+      "sha256": "f635af684d0f81d318ad2f46f2721082e595d47ea294164062c10b6f2b941f32",
+      "hits": [
+        {
+          "line": 2,
+          "text": " \"what\": \"EXACT root region JG of VERSION 2 of the join design (case G: rigid labels in E_j, labels 3, 9, 15, 17 in their slots and inside their gates (label 9's box cut by the support bound of a gated square at the left wall), label 4 in its slot with any direction); made by bigbox/join/mk_join_roots_v2.py\","
+        }
+      ]
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v2.json",
+      "sha256": "c22019fc396021fc9693c51613d048032951af77f9025bd0b43ac47fb093f2df",
+      "hits": [
+        {
+          "line": 2,
+          "text": " \"what\": \"EXACT root region JPA of VERSION 2 of the join design (case T, kind A: label 9 right of x = 53/100 with its direction above its gate; rigid labels in PB_j; 3, 15, 17 any direction); made by bigbox/join/mk_join_roots_v2.py\","
+        }
+      ]
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v2.json",
+      "sha256": "f1d215af1f31f6257f61d5e37a4001a0746ac46e9785d983241bb3ed6ddf99dd",
+      "hits": [
+        {
+          "line": 2,
+          "text": " \"what\": \"EXACT root region JPG15m of VERSION 2 of the join design (case T: labels 9, 3 and 17 inside their gates, label 15 below its gate; rigid labels in PB_j); made by bigbox/join/mk_join_roots_v2.py\","
+        }
+      ]
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v2.json",
+      "sha256": "7d4837920728a2785f25b2a52728dd9c33d1e3e3ca073d0a9ae1cd5208a3fca8",
+      "hits": [
+        {
+          "line": 2,
+          "text": " \"what\": \"EXACT root region JPG15p of VERSION 2 of the join design (case T: labels 9, 3 and 17 inside their gates, label 15 above its gate; rigid labels in PB_j); made by bigbox/join/mk_join_roots_v2.py\","
+        }
+      ]
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v2.json",
+      "sha256": "984e734e6b47d4f8a59381013c0d519b87e64af19b6e3a91458f311ae65fc0c3",
+      "hits": [
+        {
+          "line": 2,
+          "text": " \"what\": \"EXACT root region JPG17m of VERSION 2 of the join design (case T: labels 9 and 3 inside their gates, label 17 below its gate; rigid labels in PB_j; 15 any direction); made by bigbox/join/mk_join_roots_v2.py\","
+        }
+      ]
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v2.json",
+      "sha256": "6dfba8a0339739aca2900f2d1e3074df726b8b6531f20d21ccb09b3b7b8a7fd0",
+      "hits": [
+        {
+          "line": 2,
+          "text": " \"what\": \"EXACT root region JPG17p of VERSION 2 of the join design (case T: labels 9 and 3 inside their gates, label 17 above its gate; rigid labels in PB_j; 15 any direction); made by bigbox/join/mk_join_roots_v2.py\","
+        }
+      ]
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v2.json",
+      "sha256": "2eb206e89b27241d2eefe219445ff53b40194e3e4caf9bae1e984a1b8a547004",
+      "hits": [
+        {
+          "line": 2,
+          "text": " \"what\": \"EXACT root region JPG3m of VERSION 2 of the join design (case T: label 9 inside its gate (box cut by the support bound), label 3 below its gate; rigid labels in PB_j; 15, 17 any direction); made by bigbox/join/mk_join_roots_v2.py\","
+        }
+      ]
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v2.json",
+      "sha256": "230da863b3f62e51dbd8dbd9b1e1cded3f2e34f50146888fc434b4f56b531d60",
+      "hits": [
+        {
+          "line": 2,
+          "text": " \"what\": \"EXACT root region JPG3p of VERSION 2 of the join design (case T: label 9 inside its gate (box cut by the support bound), label 3 above its gate; rigid labels in PB_j; 15, 17 any direction); made by bigbox/join/mk_join_roots_v2.py\","
+        }
+      ]
+    }
+  ]
+}

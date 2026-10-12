@@ -1,0 +1,96 @@
+{
+ "rows": [
+  6000,
+  7500
+ ],
+ "certificate_sha256": "31b813eac2063502d12ca9c7e88d57aba93bb4fea21f876c46d0455b8c9062b8",
+ "classes_sha256": "b1d6815c9f28bc0df7bdabad8c774e8e76de94fca8cddb6d4ede2a5ddcf6d9cd",
+ "python_output_sha256": "1bed9e131ad6b98c7fc148d1178812b0f2826e89786aa69ec9c62d4fbaf58a44",
+ "python_output_bytes": 744072,
+ "node_output_sha256": "130618d0b7b738247b2eadee56aa64e26e99691591a6675d5710240d2e99140f",
+ "node_output_bytes": 742146,
+ "python": "PASS",
+ "python_note": "every row passes",
+ "python_exit": 0,
+ "node": "PASS",
+ "node_note": "every row passes",
+ "node_exit": 0,
+ "agree": "yes",
+ "rows_compared": 1500,
+ "rows_differing": 0,
+ "header_fields_differing": 0,
+ "rows_with_witness_compared": 0,
+ "compared_per_row": [
+  "passed",
+  "minimum_units",
+  "cells",
+  "deficient_slabs",
+  "deficit_minimum_units",
+  "default",
+  "classes",
+  "witness: slab, cell, charge"
+ ],
+ "compared_in_header": [
+  "schema",
+  "symmetry",
+  "bound",
+  "classes",
+  "total_intervals",
+  "required_units",
+  "budget_units",
+  "surplus",
+  "certificate_sha256",
+  "classes_sha256"
+ ],
+ "differences": [],
+ "python_minimum_units_of_slice": 876496780,
+ "python_cells_of_slice": 987250167362,
+ "python_cells_default": {
+  "cells": 846075697169,
+  "minimum_units": 1001462641
+ },
+ "python_cells_by_class": [
+  {
+   "name": "M",
+   "threshold": "5/4",
+   "cells": 19832216450,
+   "minimum_units": 1252138268
+  },
+  {
+   "name": "T_interior-W",
+   "threshold": "7/8",
+   "cells": 121342253743,
+   "minimum_units": 876496780
+  }
+ ],
+ "python_checker_sha256": {
+  "exact_classes.py": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+  "exact_restricted.py": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+  "exact_general.py": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+  "integer_sweep.py": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+  "boolean_rule.py": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275"
+ },
+ "node_minimum_units_of_slice": 876496780,
+ "node_cells_of_slice": 987250167362,
+ "node_cells_default": {
+  "cells": 846075697169,
+  "minimum_units": 1001462641
+ },
+ "node_cells_by_class": [
+  {
+   "name": "M",
+   "threshold": "5/4",
+   "cells": 19832216450,
+   "minimum_units": 1252138268
+  },
+  {
+   "name": "T_interior-W",
+   "threshold": "7/8",
+   "cells": 121342253743,
+   "minimum_units": 876496780
+  }
+ ],
+ "node_checker_sha256": {
+  "verify_classes.js": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40"
+ }
+}

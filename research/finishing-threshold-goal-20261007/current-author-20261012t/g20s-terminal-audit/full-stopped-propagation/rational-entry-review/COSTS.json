@@ -1,0 +1,11 @@
+{
+  "measured_check_cpu_seconds": 0.003237999999999998,
+  "additional_conservative_charge_seconds": 1,
+  "prior_shared_charge_seconds": 9,
+  "total_shared_charge_seconds": 10,
+  "original_cap_seconds": 60,
+  "remaining_seconds": 50,
+  "single_native_thread": true,
+  "failed_runs": 0,
+  "new_optimizer_or_model_or_certificate_replay": false
+}

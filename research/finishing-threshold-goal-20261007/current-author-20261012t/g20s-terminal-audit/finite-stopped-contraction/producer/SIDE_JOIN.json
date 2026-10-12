@@ -1,0 +1,23 @@
+{
+  "Sref": "4675530093604551/1000000000000000",
+  "Sstar_upper": "18702120374418203806536445081932586595068575420063518785870052852972573895623523/4000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "accepted_full_gate_review": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/independent-review/MANIFEST.json",
+  "accepted_full_gate_review_sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+  "consequence": "actual S<=S* implies model side51=S-Sref<0",
+  "model_floor_implied": true,
+  "positive_margin": "193463554918067413404931424579936481214129947147027426104376477/4000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "rational_reference_sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+  "root_gate_receipt": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+  "root_gate_receipt_sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+  "side_floor": {
+    "Sref": "4675530093604551/1000000000000000",
+    "centre_y_core_index": 15,
+    "model_delta_lower": "-1/50",
+    "physical_label": 8,
+    "proved_delta_lower": "-312500000000000323264740583067756265381186720884493986257/62500000000000000000000000000000000000000000000000000000000",
+    "reason": "top containment; every unit square has vertical half support at least1/2",
+    "reference_y": "260970630850284437176735259416932243734618813279115506013743/62500000000000000000000000000000000000000000000000000000000",
+    "unit_square_vertical_support_lower": "1/2"
+  },
+  "status": "EXACT_ARITHMETIC_PASS_ON_ACCEPTED_ROOT_ENCLOSURE"
+}

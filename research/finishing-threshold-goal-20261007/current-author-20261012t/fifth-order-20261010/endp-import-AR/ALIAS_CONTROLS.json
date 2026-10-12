@@ -1,0 +1,9 @@
+{
+  "status": "PASS_ONE_EXPLICIT_WHITESPACE_ALIAS_NEGATIVE_CONTROLS",
+  "original_sha256": "7072785dd92ff4c273c1b1921d5e83582fe90cc88d3d70b4aebc2b2c42a80f88",
+  "checked_sha256": "8c4870ddca35cac260e5e8135760e5d5b593be9206717908d36a1bde546f57d9",
+  "exact_default_json_dumps": true,
+  "changed_bound_rejected": true,
+  "changed_arm_rejected": true,
+  "unlisted_key_reordering_rejected": true
+}

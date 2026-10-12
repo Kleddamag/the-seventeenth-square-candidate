@@ -1,0 +1,65 @@
+{
+ "status": "PASS_CLASSES_EXACT_COVER",
+ "statement": "For every family of closed unit squares with pairwise disjoint interiors inside a square of side 4675531/1000000, read in the frame with the container centre at (1169/500, 1169/500), the sum of tau(pose) over the squares is less than 23, where tau(pose) is the least threshold among the classes that contain the pose and 1 if no class contains it. A class is the listed slots exactly as written (angle gates with all quarter-turn lifts). Classes: M threshold 4 (1 slots); AQ_label9_wall_pose threshold 4 (1 slots); QB_label17_exempt threshold 0 (1 slots).",
+ "implementation": "node verify_classes.js",
+ "schema": "s17-classes-v1",
+ "symmetry": "fixed",
+ "bound": "23",
+ "classes": [
+  {
+   "name": "M",
+   "threshold": "4",
+   "slots": 1
+  },
+  {
+   "name": "AQ_label9_wall_pose",
+   "threshold": "4",
+   "slots": 1
+  },
+  {
+   "name": "QB_label17_exempt",
+   "threshold": "0",
+   "slots": 1
+  }
+ ],
+ "total_intervals": 18000,
+ "required_units": "999830405",
+ "budget_units": "22996099299",
+ "surplus": "16",
+ "certificate_sha256": "f6b976a94684212eb4fb4616243e508fb9f350566f8d10ac496fb37a06ca196f",
+ "classes_sha256": "94277f4cf2bc9fd1a42896a2d46d9a47f95e301e28bf3eb16db82de23be92bca",
+ "checker_sha256": {
+  "verify_classes.js": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40"
+ },
+ "start": 0,
+ "end_exclusive": 18000,
+ "merged_files": 12,
+ "problems": [],
+ "missing_intervals": 0,
+ "first_missing_intervals": [],
+ "failed_intervals": [],
+ "unrestricted_minimum_units": 898321667,
+ "deficit_minimum_units": null,
+ "cells_default": {
+  "cells": 45837580300125,
+  "minimum_units": 999999893
+ },
+ "cells_by_class": [
+  {
+   "name": "M",
+   "cells": 523347352323,
+   "minimum_units": 4006454466
+  },
+  {
+   "name": "AQ_label9_wall_pose",
+   "cells": 1858517141,
+   "minimum_units": 4006888677
+  },
+  {
+   "name": "QB_label17_exempt",
+   "cells": 249679664650,
+   "minimum_units": 898321667
+  }
+ ],
+ "verified_utc": "2026-10-11T19:28:37.515Z"
+}

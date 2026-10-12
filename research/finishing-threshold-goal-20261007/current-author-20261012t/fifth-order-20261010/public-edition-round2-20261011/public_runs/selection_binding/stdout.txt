@@ -1,0 +1,529 @@
+{
+  "status": "SELECTED_MAP_READINESS_ONLY_NOT_A_MATHEMATICAL_REVIEW",
+  "scenario": "original",
+  "manifest": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-BK-20261011/runtime/THEOREM_MANIFEST.json",
+    "sha256": "7036076ae72b95f09495fce68c7438c15bbe201be8b70fc59ceddb9ea9786340"
+  },
+  "selected_map": {
+    "file": "/private/tmp/s17-roster-only-t-final-20261012/17-squares-certified-bound/research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/runtime/SELECTED_ORIGINAL_MAP.json",
+    "sha256": "8b7048860475046a8f92d5f8993d6e7af773b879454c4a1857966e0f317852a3"
+  },
+  "clauses": [
+    {
+      "clause": "BRANCH_JPA_L01",
+      "selected": "CLASS_PS_L01_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L02",
+      "selected": "CLASS_PS_L02_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L05",
+      "selected": "CLASS_PS_L05_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L06",
+      "selected": "CLASS_PS_L06_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L07",
+      "selected": "CLASS_PS_L07_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L08",
+      "selected": "CLASS_PS_L08_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L10",
+      "selected": "CLASS_PS_L10_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L11",
+      "selected": "CLASS_PSW37_L11_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L12",
+      "selected": "CLASS_PS_L12_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L13",
+      "selected": "CLASS_PS_L13_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L14",
+      "selected": "CLASS_PS_L14_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPA_L16",
+      "selected": "CLASS_PS_L16_T09",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L01",
+      "selected": "CLASS_PSS_L01_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L01",
+      "selected": "CLASS_PSS_L01_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L02",
+      "selected": "CLASS_PSS_L02_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L02",
+      "selected": "CLASS_PSS_L02_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L05",
+      "selected": "CLASS_PSS_L05_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L05",
+      "selected": "CLASS_PSS_L05_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L06",
+      "selected": "CLASS_PSS_L06_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L06",
+      "selected": "CLASS_PSS_L06_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L07",
+      "selected": "CLASS_PSS_L07_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L07",
+      "selected": "CLASS_PSS_L07_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L08",
+      "selected": "CLASS_PSS_L08_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L08",
+      "selected": "CLASS_PSS_L08_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L10",
+      "selected": "CLASS_PSS_L10_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L10",
+      "selected": "CLASS_PSS_L10_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L11",
+      "selected": "CLASS_PSSW37_L11_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L11",
+      "selected": "CLASS_PSSW37_L11_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L12",
+      "selected": "CLASS_PSS_L12_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L12",
+      "selected": "CLASS_PSS_L12_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L13",
+      "selected": "CLASS_PSS_L13_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L13",
+      "selected": "CLASS_PSS_L13_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L14",
+      "selected": "CLASS_PSS_L14_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L14",
+      "selected": "CLASS_PSS_L14_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L16",
+      "selected": "CLASS_PSS_L16_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L16",
+      "selected": "CLASS_PSS_L16_T03",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L01",
+      "selected": "CLASS_PS_L01_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L01",
+      "selected": "CLASS_PS_L01_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L02",
+      "selected": "CLASS_PS_L02_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L02",
+      "selected": "CLASS_PS_L02_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L05",
+      "selected": "CLASS_PS_L05_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L05",
+      "selected": "CLASS_PS_L05_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L06",
+      "selected": "CLASS_PS_L06_T17_ENDm_H4T4",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L06",
+      "selected": "CLASS_PS_L06_T17_ENDp_H4T4",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L07",
+      "selected": "CLASS_PS_L07_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L07",
+      "selected": "CLASS_PS_L07_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L08",
+      "selected": "CLASS_PS_L08_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L08",
+      "selected": "CLASS_PS_L08_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L10",
+      "selected": "CLASS_PS_L10_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L10",
+      "selected": "CLASS_PS_L10_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L11",
+      "selected": "CLASS_PSW37_L11_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L11",
+      "selected": "CLASS_PSW37_L11_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L12",
+      "selected": "CLASS_PS_L12_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L12",
+      "selected": "CLASS_PS_L12_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L13",
+      "selected": "CLASS_PS_L13_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L13",
+      "selected": "CLASS_PS_L13_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L14",
+      "selected": "CLASS_PS_L14_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L14",
+      "selected": "CLASS_PS_L14_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L16",
+      "selected": "CLASS_PS_L16_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L16",
+      "selected": "CLASS_PS_L16_T17",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L01",
+      "selected": "CLASS_PSS_L01_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L01",
+      "selected": "CLASS_PSS_L01_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L02",
+      "selected": "CLASS_PSS_L02_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L02",
+      "selected": "CLASS_PSS_L02_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L05",
+      "selected": "CLASS_PSS_L05_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L05",
+      "selected": "CLASS_PSS_L05_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L06",
+      "selected": "CLASS_PSS_L06_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L06",
+      "selected": "CLASS_PSS_L06_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L07",
+      "selected": "CLASS_PSS_L07_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L07",
+      "selected": "CLASS_PSS_L07_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L08",
+      "selected": "CLASS_PSS_L08_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L08",
+      "selected": "CLASS_PSS_L08_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L10",
+      "selected": "CLASS_PSS_L10_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L10",
+      "selected": "CLASS_PSS_L10_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L11",
+      "selected": "CLASS_PSSW37_L11_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L11",
+      "selected": "CLASS_PSSW37_L11_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L12",
+      "selected": "CLASS_PSS_L12_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L12",
+      "selected": "CLASS_PSS_L12_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L13",
+      "selected": "CLASS_PSS_L13_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L13",
+      "selected": "CLASS_PSS_L13_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L14",
+      "selected": "CLASS_PSS_L14_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L14",
+      "selected": "CLASS_PSS_L14_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L16",
+      "selected": "CLASS_PSS_L16_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L16",
+      "selected": "CLASS_PSS_L16_T15",
+      "status": "SELECTED_INPUTS_COUNTED",
+      "reasons": []
+    }
+  ],
+  "other_open": [],
+  "unique_open_selected": [],
+  "ready_for_final_assembly_reader": true,
+  "final_independent_review": {
+    "status": "OUTSIDE_THIS_REPLAY_SCOPE"
+  },
+  "qualification": "No alternate COUNTED option may substitute for the chosen ID or a specifically required predecessor CLASS. This is the input gate for a fresh final review, never an optimality seal. Large proof arithmetic is imported via audited manifest pins.",
+  "script": {
+    "file": "/private/tmp/s17-roster-only-t-final-20261012/17-squares-certified-bound/research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/selection.py",
+    "sha256": "201ac21f55ae48dd167fdfc77a573c921cff9b9f916ccb605ab19849027c2c22"
+  }
+}

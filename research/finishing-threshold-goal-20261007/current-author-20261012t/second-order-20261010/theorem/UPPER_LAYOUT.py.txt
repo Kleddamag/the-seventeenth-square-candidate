@@ -1,0 +1,79 @@
+# Exact verbatim construction source: research/finishing-threshold-goal-20261007/current-author-20261012t/contract-stage-20261009-1252/reflection-closed/chirality-coupling/exact-root-extension/producer/inputs/H256_CHECKER.py
+# SHA-256 2d3b9d6e361e8790bb2f6d14cf4f11d44b473fbc828bb080d7d3a1939d5c2145
+# H254 construction labels, not the later capture labels. Call _layout(t,b,1/2) using exact arithmetic.
+# Axis labels1..8,15,17; theta labels9..14; beta label16.
+def _layout(
+    t: Any, b: Any, half: Any
+) -> tuple[Any, dict[str, Any], tuple[tuple[Any, Any], ...]]:
+    """The H-254 centres with the fixed interior slider barycentre."""
+    d_t, d_b = 1 + t * t, 1 + b * b
+    c, s = (1 - t * t) / d_t, 2 * t / d_t
+    d, e = (1 - b * b) / d_b, 2 * b / d_b
+    k_denom = 1 + 2 * t - t * t
+    side = (6 + 4 * t) / k_denom
+    h, k = (c + s) / 2, (d + e) / 2
+    alpha, gamma = c * d - s * e, c * e + s * d
+    x = half + (2 + c * s + 3 * s - s * side) / c
+    y = 3 * half + (2 + 3 * c - c * side) / s
+    aa = d * (x + half) - e * (side - 1) + half
+    bb = (d + e) * (side - 1) - half
+    u10, v10 = 3 * half + c * s + 2 * s, c * (side - 1) - s - half
+    u11, v11 = c + 2 * s + half, 2 * c + (c * c - s * s) / 2 - 1
+    u12, v12 = u11 + 1, v10 - 1
+    u13 = 2 * c + s + half
+    u14, v14 = u13 + 1, v10 - 2
+    r, hh = side - 3 * half, v11 - 1
+    ell = c + s / 2 + half
+    slack = c * (c + 4 - side)
+    lambda6, lambda13 = r - slack / (3 * s), hh - slack / 3
+
+    def rotate(uu: Any, vv: Any) -> tuple[Any, Any]:
+        return c * uu - s * vv, s * uu + c * vv
+
+    centres = (
+        (half, half),
+        (3 * half, half),
+        (half, 3 * half),
+        (half, side - half),
+        (side - half, half),
+        (lambda6, half),
+        (side - half, 3 * half),
+        (side - half, side - half),
+        (h, 2 + h),
+        rotate(u10, v10),
+        rotate(u11, v11),
+        rotate(u12, v12),
+        rotate(u13, lambda13),
+        rotate(u14, v14),
+        (x, side - half),
+        (d * aa + e * bb, -e * aa + d * bb),
+        (side - half, y),
+    )
+    aux = {
+        "c": c,
+        "s": s,
+        "d": d,
+        "e": e,
+        "alpha": alpha,
+        "gamma": gamma,
+        "h": h,
+        "k": k,
+        "X": x,
+        "Y": y,
+        "A": aa,
+        "B": bb,
+        "u": (c, s),
+        "v": (-s, c),
+        "w": (s, -c),
+        "p": (d, -e),
+        "q": (e, d),
+        "ex": (1, 0),
+        "ey": (0, 1),
+        "R": r,
+        "H": hh,
+        "L": ell,
+        "T": slack,
+        "lambda6": lambda6,
+        "lambda13": lambda13,
+    }
+    return side, aux, centres

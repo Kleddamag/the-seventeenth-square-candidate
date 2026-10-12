@@ -1,0 +1,19 @@
+{
+  "schema": "s17-author-edition-v2",
+  "proof": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v7/PROOF.md",
+    "sha256": "0d4c408d1e38a8d858281443b27ac4e0cf3591ba9045be8e8ec176a318916ee6",
+    "bytes": 59659
+  },
+  "labels": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v7/LABELS.tsv",
+    "sha256": "8c2eea257aa3d32d850b9f2468e606ec174ce7f36ae93ea301ef124e2250fffb",
+    "bytes": 62656
+  },
+  "class_row_lemma": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v7/CLASS_ROW_LEMMA.md",
+    "sha256": "43bce2307f2f1c9b8f075c06b9f7d4daef6dd0ea6e11e4b6c0df81f256b8ee26",
+    "bytes": 6151
+  },
+  "scope": "Corrected conditional proof and freshly replayed evidence. Independent review of changed sources and final package assembly remain separate."
+}

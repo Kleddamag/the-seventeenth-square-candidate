@@ -1,0 +1,161 @@
+{
+  "status": "PASS_INDEPENDENT_RECORD_AND_TREE_COVERAGE_IMPORT",
+  "root": {
+    "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+    "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+  },
+  "expect": {
+    "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPA_v5.json",
+    "sha256": "a76bfcad84e5279a5e66a6220b2b8990ce5dd2390da171b34da0a352036af29e"
+  },
+  "certificate": {
+    "file": "local-research/claude-20261002/results/assembly/JPA_v5/JPA_v5.cert.jsonl.gz",
+    "sha256": "b9f9283979d2fab1f20307ac09f988e23dbd3b51abb827b9982c50c48214d2a7",
+    "bytes": 1704473363,
+    "uncompressed_sha256": "a935595a1f22fe641d157e7d7468316a14e40f80cdfbb4829603f6e847cc5a79"
+  },
+  "receipts": [
+    {
+      "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPA_v5_C1.json",
+      "sha256": "cef4439925dbc4f97ab140a8e0608c011f1d23c45ed04d6f97b0c81c86b1af7a"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPA_v5_C2.json",
+      "sha256": "d34bc01c0293288ccbef0421d771e1de34bc163ed0cd78786e356a5b5c56c5b6"
+    }
+  ],
+  "acceptance_log": {
+    "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPA_v5.log",
+    "sha256": "678d7e6d42bafaacfe924e622f71fa0da9ecefe9ffa8efb93b2578fb349affcc"
+  },
+  "small_audit": {
+    "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/local-region-audits/JPA_v5/SMALL_AUDIT.json",
+    "sha256": "532ead4d9444174792c4a812187ebd94505cdeb8666ad70164541ceb4bd50502"
+  },
+  "record": {
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+    "sha256": "24a7a4d625b6b2e17407d771a4ce300211cc3eaea6bccdef638d944b28e3a439"
+  },
+  "independent_review": {
+    "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/jpa-import-AG/INDEPENDENT_REVIEW.md",
+    "sha256": "623d8b32ac8719250616ed0f9927fd071e3ac8f3835751ff2bf70859aeeb122b"
+  },
+  "review_evidence": [
+    {
+      "file": "research/window-extension-20261008/reviews/join_roots/batch7/t_JPA_v5_nodes.json",
+      "sha256": "3d3ff95025f226a5c67d96e77f726373b08544ca3d7e2611bd5cfc199a24521d"
+    },
+    {
+      "file": "research/window-extension-20261008/reviews/join_roots/batch7/t_JPA_v5.out",
+      "sha256": "e4311b47ccf0966bf42763e99e529ade0f7881750ce822ca54a1a94454402735"
+    },
+    {
+      "file": "research/window-extension-20261008/reviews/join_roots/batch7/hand_checks.out",
+      "sha256": "7e1bd820e1e50c867cb136e39f66b82c2422a1350e9083d5f1706f5be23705b2"
+    },
+    {
+      "file": "research/window-extension-20261008/reviews/join_roots/batch7/t_tree.py",
+      "sha256": "3e129bd40491f0b73fbf03c1a5ccd6a228c0b4fb9b14264ae8a06c02bc24cf3d"
+    },
+    {
+      "file": "research/window-extension-20261008/reviews/join_roots/batch7/rjlib.py",
+      "sha256": "1ecc5cea24fa7c50fb04f3cb356fed797bc067ea36bc4e87f5c6158d068ce9cd"
+    }
+  ],
+  "counts": {
+    "accepted": 416,
+    "infeasible": 281,
+    "nodes": 416,
+    "rounds_evaluated": 281,
+    "split": 135,
+    "steps": 281,
+    "terminal": 0,
+    "terms": 12439907,
+    "zero_steps": 281
+  },
+  "resolved_review_hash_failure": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/marker-import-AD/PRE_MARKER_MANIFEST.json",
+    "sha256": "d76878ade4f4f58c638bb76ce902373b2e7ced40140db544102cb088f362827e"
+  },
+  "arc9": {
+    "absolute_tan_half": [
+      "4681042904454480031653329281018747708888411133112830373560107742466647792138290000/11155146265100217163720006541733982805522488581810783754619893727177995359794348863",
+      "7767438933143233834536219787399441642182932430367415206383790000/8498603974425500928817829654165451550986737921126632913912642287"
+    ],
+    "retained_clause": [
+      "591183/1408817",
+      "44941/100000"
+    ],
+    "margins": [
+      "12915894488745736229664932065924156659942026224019622323895633488212413240944929/15715559695759692643940528456106044454127775796360922936832334821041721888799395182125071",
+      "394808132099666946211619896252094606065398254123389510854230942979933/849860397442550092881782965416545155098673792112663291391264228700000"
+    ],
+    "x_seam": "x9=53/100 belongs to the wall cases; actual JPA is off-wall.",
+    "gate_seam": "The closed upper gate endpoint belongs to T9/JPA.",
+    "lower_exit": "Excluded by accepted KEY_W and amendment A, not by a JPB tree."
+  },
+  "dependencies": {
+    "KEY_W": {
+      "name": "KEY_W",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/classes.json",
+      "sha256": "64a965273a216b9a75ae424d4a94a4fbafeb04c3c1577b4e818a8d6e8355d4ed",
+      "bound": "20",
+      "status": "COUNTED",
+      "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000 in the fixed-U frame, the literal KEY_W high-first score sum is strictly below20.",
+      "proof": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/audit.json",
+          "sha256": "91cc652c84ea595cf3e81c60a0d4b95b25bb059026e0ce4d38b1c17853da37e8"
+        }
+      ],
+      "accepted_by": "Codex proof author audit of authentic saved exact executions",
+      "certificate": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/certificate.json",
+        "sha256": "2f5a9a445788be1913678b6de8ac9ba8d468626758777a89be4cdef405b46130"
+      }
+    },
+    "KEY_W_ELIMINATION": {
+      "id": "KEY_W_ELIMINATION",
+      "statement": "The literal KEY_W budget and occupied half-marker force the unique L9 parent into its gate-or-wall union. Off-wall its canonical tan-half direction satisfies30651/100000<=t9<=44941/100000. Thus the old lower JPB predicate and the high atom44941/100000<t9<1 are impossible. The retained JPA predicate is591183/1408817<=t9<=44941/100000; all other case predicates remain unchanged. This eliminates actual cases, not every point of a padded JPB root.",
+      "status": "COUNTED",
+      "proof": [
+        {
+          "file": "research/window-extension-20261008/reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+          "sha256": "0600869f8775b6aea1c3c954b52365cc87e90c27087d156f1f58149d40d1163d"
+        },
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/audit.json",
+          "sha256": "91cc652c84ea595cf3e81c60a0d4b95b25bb059026e0ce4d38b1c17853da37e8"
+        },
+        {
+          "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/key-w-active/ACTIVATION.json",
+          "sha256": "cb220c626ac61193aa5bb803cd78b188998d659e5fd4d713d00d76cc1e8f175b"
+        },
+        {
+          "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_D_join.md",
+          "sha256": "8e7631592ea2a3ef74c27010ce10fd6ce3bdd52f9d93dd24e946c0f7aacc4ce1"
+        },
+        {
+          "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/case-repair-S/PROOF.md",
+          "sha256": "f63251b65b5c5a0d350546e58a3ca2441c4ca6c1e563ee038a4d17ac15aa3f0f"
+        }
+      ],
+      "accepted_by": "independent window amendment review plus Codex exact provenance audit",
+      "depends_on": [
+        "KEY_W",
+        "FRAME_ASSIGNMENT"
+      ],
+      "marker_application_status": "MARKER_PREMISE_DISCHARGED_OTHER_DEPENDENCIES_STILL_APPLY"
+    },
+    "root_admission": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/join-design-1702/d-selected-roots-v2-review/ACCEPTED_INTERFACE.json",
+      "sha256": "be2c31acfc0c52371187532e41f20c76598bbe6c2decf67bc645ff080c80d73a"
+    },
+    "v5_admission": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/standing-contract-20261009-2134/v5-root-review/ACCEPTED_INTERFACE.json",
+      "sha256": "ef2b0fff65415574d3bd730ae643f7bdfcabd3f7e0e5e4313da73a5b3df0f2de"
+    }
+  },
+  "scope": "Own: hashes of small sources/review/receipts, root/header subset, exact label9 admission, source status and dependency traversal. Imported: full stream and all 415 children/93 option splits/281 leaf coverage from independent review; arithmetic from two frozen complete reports. No new polynomial arithmetic replay or full stream read.",
+  "cpu_seconds": 0.036185
+}

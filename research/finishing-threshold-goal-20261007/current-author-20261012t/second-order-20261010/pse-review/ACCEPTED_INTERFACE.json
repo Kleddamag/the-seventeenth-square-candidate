@@ -1,0 +1,90 @@
+{
+  "status": "ACCEPTED_CONDITIONAL_SEVEN_PSE_SELECTOR_OPTIONS_NO_EXACT_BUDGETS",
+  "producer": "Claude analysis",
+  "independent_reviewer": "Codex proof author",
+  "selector": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/selector/PER_BRANCH_CAPTURE_OPTIONS_V5_PSS_PSE.json",
+    "sha256": "bf162dccc402d3423000ea0b2c7ffb84282cb210f2fd42c41c665b1a76747e80"
+  },
+  "audit": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/pse-review/RESULT.json",
+    "sha256": "14d3a318fabffbfc5648867ab4b66b71d494e69051f161db3b0afbc90ae756c5"
+  },
+  "files": [
+    {
+      "name": "PSEb_L02_T09",
+      "roots": [
+        "JPB"
+      ],
+      "label": 2,
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L02_T09.json",
+      "sha256": "e711e12bb25d15c19134f2f9b6bbeff86b29df87a1f29af0108581f4ef0835af"
+    },
+    {
+      "name": "PSEb_L06_T09",
+      "roots": [
+        "JPB"
+      ],
+      "label": 6,
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L06_T09.json",
+      "sha256": "31560959e79dc4db1a8b5cebcf4ce4b71f642b4a13c319acddb89bb1b0404ef3"
+    },
+    {
+      "name": "PSEb_L07_T09",
+      "roots": [
+        "JPB"
+      ],
+      "label": 7,
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L07_T09.json",
+      "sha256": "379c1f61f15a1beb0d281714d43b6240999a248ff4421187371f5595b952e154"
+    },
+    {
+      "name": "PSEb_L08_T09",
+      "roots": [
+        "JPB"
+      ],
+      "label": 8,
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L08_T09.json",
+      "sha256": "9a286a65e9e51201586af35b2da26f6114f3cd4fab7ad5e29d141e4ce24e93fe"
+    },
+    {
+      "name": "PSEb_L12_T09",
+      "roots": [
+        "JPB"
+      ],
+      "label": 12,
+      "file": "local-research/claude-20261002/lp2/poc/classes/psv/PSEb_L12_T09.json",
+      "sha256": "3203cce37aec3e72d64ac781242d5bfbbdd4d8811a9ee1a6b64cbfc1446faa40"
+    },
+    {
+      "name": "PSEp_L06_T17",
+      "roots": [
+        "JPG17p"
+      ],
+      "label": 6,
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/auxiliary-design-0310/PSEp_L06_T17.json",
+      "sha256": "b59370c229f9797a5ff938b90f6661501bea863bf62f549bc8fe9a048a7855d7"
+    },
+    {
+      "name": "PSEp_L07_T17",
+      "roots": [
+        "JPG17p"
+      ],
+      "label": 7,
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/auxiliary-design-0310/PSEp_L07_T17.json",
+      "sha256": "feaff3884fa1d2ea7e51e2582e58200d27b53929f20e3a21b9d0a6017813a8c1"
+    }
+  ],
+  "count_argument": {
+    "n": 17,
+    "empty_target_and_wall_exemption_minimum_score": 23,
+    "strict_required_bound": 23,
+    "marker_trigger_distinct": true,
+    "generic_identity": "sum psi =17+3N(M_j union T_cut)-N((E_j union WC) minus (M_j union T_cut))",
+    "needed_antecedent": "common half-marker; off-wall actual label9; inherited L9 uniqueness; correct branch-specific actual trigger; distinct physical-parent assignment",
+    "without_trigger_controls": "score20 with only one marker, hence no branch-free target consequence"
+  },
+  "geometric_coverage": "All unchanged low targets, marker high classes including label12 complement, wall exemption, all quarter-turn arcs, closed physical clipping, capacity-one/strict separation of complete simultaneous profiles, both old and W37 label11 choices, exact endpoint projection and current root factors independently checked.",
+  "extra_L_premise_from_PSS": false,
+  "remaining": "An authentic complete exact budget for each PSE option actually chosen; other clauses and root coverage unchanged."
+}

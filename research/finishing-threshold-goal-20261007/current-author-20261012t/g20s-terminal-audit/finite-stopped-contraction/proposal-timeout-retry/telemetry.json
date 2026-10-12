@@ -1,0 +1,8 @@
+{
+  "CPU_seconds": 4.556524,
+  "completed_rounds": 2,
+  "error": null,
+  "source_sha256": "ee3a1e9971285c8e1ab7c806fed24b4da90c504eac170bcf14625c14fe3336c8",
+  "status": "PRODUCER_TARGET_REACHED_REQUIRES_SEPARATE_REVIEW",
+  "wall_seconds": 4.524506092071533
+}

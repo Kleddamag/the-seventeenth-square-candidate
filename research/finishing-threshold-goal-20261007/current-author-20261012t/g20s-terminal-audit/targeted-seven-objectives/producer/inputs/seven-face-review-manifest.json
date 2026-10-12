@@ -1,0 +1,79 @@
+{
+  "status": "ACCEPTED_CONDITIONAL_SEVEN_FACE_COVER_AND_FINISHING_CRITERION",
+  "producer": "automated producer",
+  "independent_reviewer": "Codex contributor 07",
+  "corollary_sha256": "eae7b83669a7506459d19a92b4ea2012cd1dd96401b267b58506493ef43ca116",
+  "accepted_five_round_review_sha256": "7d9db75869c3bc781ca3a08e892dd12d4c3e5f5140fae3f0577ff32ddee2a901",
+  "faces": [
+    {
+      "coordinate": 8,
+      "value": "1",
+      "bounds": [
+        "-6981541439/1000000000000000",
+        "1"
+      ]
+    },
+    {
+      "coordinate": 14,
+      "value": "-1",
+      "bounds": [
+        "-1",
+        "1/10000"
+      ]
+    },
+    {
+      "coordinate": 15,
+      "value": "-1",
+      "bounds": [
+        "-1",
+        "1/10000"
+      ]
+    },
+    {
+      "coordinate": 41,
+      "value": "-1",
+      "bounds": [
+        "-1",
+        "1"
+      ]
+    },
+    {
+      "coordinate": 41,
+      "value": "1",
+      "bounds": [
+        "-1",
+        "1"
+      ]
+    },
+    {
+      "coordinate": 44,
+      "value": "-1",
+      "bounds": [
+        "-1",
+        "147523492924843/200000000000000"
+      ]
+    },
+    {
+      "coordinate": 49,
+      "value": "-1",
+      "bounds": [
+        "-1",
+        "223378506073533/500000000000000"
+      ]
+    }
+  ],
+  "strict_interior_other_core_coordinates": 39,
+  "no_face_exclusion_or_new_terminal_capture_global_theorem": true,
+  "files": {
+    "check_seven_faces.py": "909c5bf38ff9926a4a84890511da28faa9f25162fbfcf77263f74716e0eb90e2",
+    "seven-face-receipt.json": "246a3b816ff3a96f140a339ca5aaaa9c0a0138c5b124c65c4ddcd3b8d21a227c",
+    "SEVEN_FACE_REVIEW.md": "4ac66c485f6b07bc5f1c368c084a815d15bdbcf97e40854fe549eb09af3eae4c"
+  },
+  "cost": {
+    "census_cpu_seconds": 0.004684000000000001,
+    "conservative_charge_cpu_seconds": 1,
+    "single_thread": true,
+    "model_or_solver_run": false
+  },
+  "seal_cpu_seconds": 0.0004200000000000037
+}

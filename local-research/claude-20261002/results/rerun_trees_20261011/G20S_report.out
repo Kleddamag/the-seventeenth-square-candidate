@@ -1,0 +1,54 @@
+ok    FROZEN.json has the entries C1, C2, SPEC, frozen_on (and at most a note)
+ok    frozen Python checker checker/wxcheck_v30.py has the SHA-256 cf8db52bfa1cc565... of FROZEN.json (found cf8db52bfa1cc565...)
+ok    frozen Node checker checker2/wxcheck2_v30.js has the SHA-256 97210adf74a3ebed... of FROZEN.json (found 97210adf74a3ebed...)
+ok    frozen specification text SPEC_v3.0.md has the SHA-256 0a6dfc2ae10ed6f3... of FROZEN.json (found 0a6dfc2ae10ed6f3...)
+certificate '/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/bigbox/gen17/G20S_tree.jsonl.gz'
+sha256      3275f52aca2e23e1916744d294bfdca827dd71db7cfe38fede277cca94c68f84
+sha256 of the uncompressed stream f17da3bdb241141cfb592110a8e56d9f13eff0cf3f2d5bc26ccf4f134e509e22
+ok    EXPECT.json has only known entries (unknown: [])
+statement: schema wx-cert-2, 16 labels, S_floor = 4
+ok    header schema 'wx-cert-2', expected 'wx-cert-2'
+ok    both reports: schema checked under = 'wx-cert-2' (C1 None = key absent, as in every wx-cert-2 report of C1, C2 'wx-cert-2')
+ok    header label set: None (absent = 16), expected 16
+ok    header S_floor: None (absent = 4), expected 4
+ok    header has no field outside SPEC 3.0 section 10
+ok    both reports: label set used = 16 (C1 16, C2 16)
+ok    both reports: S_floor used = 4 (C1 '4', C2 '4')
+ok    C1 exit code 0
+ok    C2 exit code 0
+ok    C1 report: verdict 'PASS', mode 'full'
+ok    C2 report: result 'PASS', mode 'certificate'
+ok    C1 checked this file (hash of the file and of the uncompressed stream)
+ok    C2 checked this file (hash of the uncompressed stream)
+ok    reference file hash 24e296f5995a in the header and in both reports
+C1: wxcheck 3.0 / SPEC 3.0 / wx-cert-2, wx-cert-3; C2: wxcheck2.js SPEC_v3.0.md version 3.0
+ok    C1 report names the frozen text by its hash (spec_sha256 0a6dfc2ae10ed6f3...)
+ok    C2 report names version 3.0 (spec 'SPEC_v3.0.md version 3.0'; spec_sha256 0a6dfc2ae10ed6f3)
+ok    node ids unique in both reports
+ok    same node ids in both reports (679, 679)
+ok    every node accepted by both
+ok    every node entry of both reports has a closure kind (a rejected node has none)
+ok    same closure kind per node in both reports (differences: 0)
+nodes 679: infeasible 302, split 339, terminal 38
+C1 evidence of the infeasible leaves: 0-step 237, pair 1-5: all 8 options excluded 5, pair 13-14: all 8 options excluded 1, pair 14-17: all 8 options excluded 22, pair 2-6: all 8 options excluded 35, pair 3-13: all 8 options excluded 1, pair 5-9: all 8 options excluded 1
+C2 evidence of the infeasible leaves: 0-step 237, pair 65
+ok    no leaf has zero_step_L in only one report (only C1: 0, only C2: 0)
+ok    zero_step_L is the same rational number in both reports for all 237 leaves that have it (different: [])
+ok    every leaf closed by a `0` step has zero_step_L in both reports (237 leaves by C1's evidence, 237 by C2's, 237 with both values)
+ok    every zero_step_L is positive
+      smallest zero_step_L: 1.833399e-06 at node 'root.1.2.1.1.2.2.2.1.2'
+terminal leaves: '38 leaves'
+      number of terminal leaves: 38 (not fixed by the statement)
+ok    C1 counts agree with its node list
+ok    C2 counts agree with its node list
+ok    same number of steps and terms evaluated (218259, 30019872)
+ok    same number of rounds evaluated (C1 3006, C2 3006)
+ok    Sref = 4675530093604551/10^15
+ok    root id 'root' (header against the Python report; the Node report has no root key)
+ok    centre maps occur only under wx-cert-3 (header: window False, tube False)
+ok    both reports: centre maps present in the header: window False, tube False (C1 None None, C2 False False)
+ok    header window = expected window 'G20S: sixteen labels; position radius 1/5 (xi_{2,1} in [-39/125, 0], xi_{11,2} in [-1/5, 1/5], xi_{13,2} in [-1/5, 28/125]), angle radius 1/10 for all 16' (boxes, angle radii and centres)
+ok    header tube = expected tube 'window of HW with the upper end of xi_{2,1} at 1/100' (boxes, angle radii and centres)
+labels with a centre other than the identity: window [], tube []
+root region: not part of this statement (the statement is the header window)
+RESULT: ACCEPTED

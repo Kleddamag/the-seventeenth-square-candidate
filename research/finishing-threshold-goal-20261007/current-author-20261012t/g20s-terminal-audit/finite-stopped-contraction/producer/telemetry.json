@@ -1,0 +1,8 @@
+{
+  "CPU_seconds": 5.439289,
+  "completed_rounds": 3,
+  "error": null,
+  "source_sha256": "c1aa457108ae93dc3b6d93d696e73fb9906b31f2399dd093f41e6bedd66efaf0",
+  "status": "THREE_ROUNDS_COMPLETED_TARGET_NOT_REACHED",
+  "wall_seconds": 5.522245168685913
+}

@@ -1,0 +1,243 @@
+{
+  "strict_surpluses": [
+    {
+      "statement": "Q_6",
+      "checks": [
+        {
+          "language": "python",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_6/receipt_python.json",
+            "sha256": "ab0defbc8051c7e380b604160e5f563b749f2de551c3306215b97f63e1fbfc64"
+          },
+          "M": 22991882724,
+          "Gamma": 999647075,
+          "B": "23",
+          "surplus": "1"
+        },
+        {
+          "language": "node",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_6/receipt_node.json",
+            "sha256": "23772410340b161f9f7afb4d809cd1119914bc502e7eaec39d724dfe80a37a7f"
+          },
+          "M": 22991882724,
+          "Gamma": 999647075,
+          "B": "23",
+          "surplus": "1"
+        }
+      ]
+    },
+    {
+      "statement": "Q_7",
+      "checks": [
+        {
+          "language": "python",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_7/receipt_python.json",
+            "sha256": "c99a9a7d94d83a518462ddf226b72dc713d5ad9fc36d4880677389f0a870f6f0"
+          },
+          "M": 22996173236,
+          "Gamma": 999833619,
+          "B": "23",
+          "surplus": "1"
+        },
+        {
+          "language": "node",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_7/receipt_node.json",
+            "sha256": "bb9ff43cef93edc7e970ed1ecb813c5b500c9ef0225a78120da5d2e896ea2f4a"
+          },
+          "M": 22996173236,
+          "Gamma": 999833619,
+          "B": "23",
+          "surplus": "1"
+        }
+      ]
+    },
+    {
+      "statement": "Q_16",
+      "checks": [
+        {
+          "language": "python",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_16/receipt_python.json",
+            "sha256": "9d39be7b2d8f5c4b3851ce1ba43b7bc0bbb2185e0b8476b2a541dfcb0ec12c1a"
+          },
+          "M": 22989300560,
+          "Gamma": 999534807,
+          "B": "23",
+          "surplus": "1"
+        },
+        {
+          "language": "node",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_16/receipt_node.json",
+            "sha256": "180c12dcafdfc58e9cdf19fd1fa698332f952808b854ec5b8da56221429a3dc7"
+          },
+          "M": 22989300560,
+          "Gamma": 999534807,
+          "B": "23",
+          "surplus": "1"
+        }
+      ]
+    },
+    {
+      "statement": "PW_6",
+      "checks": [
+        {
+          "language": "python",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_6/receipt_python.json",
+            "sha256": "2d146cd4cac2676316dab3286a69f3bd07e176adea579f97f279049160d975bf"
+          },
+          "M": 22994259820,
+          "Gamma": 999750427,
+          "B": "23",
+          "surplus": "1"
+        },
+        {
+          "language": "node",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_6/receipt_node.json",
+            "sha256": "bf9636e52da9d662a9aa78cdb9bb49e39fd0daccc7decdf22a645e74f3dd190d"
+          },
+          "M": 22994259820,
+          "Gamma": 999750427,
+          "B": "23",
+          "surplus": "1"
+        }
+      ]
+    },
+    {
+      "statement": "C_10",
+      "checks": [
+        {
+          "language": "python",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_10/receipt_python.json",
+            "sha256": "61bd625165c6f43062034c40b29c2158901b8f67ab54cee1e98e2c318e39f96e"
+          },
+          "M": 19960201999,
+          "Gamma": 998010100,
+          "B": "20",
+          "surplus": "1"
+        },
+        {
+          "language": "node",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_10/receipt_node.json",
+            "sha256": "f4c4dedcb8440553d8a67589d1f5cf472aaaaa3f51ceef5d1476485ed5c93863"
+          },
+          "M": 19960201999,
+          "Gamma": 998010100,
+          "B": "20",
+          "surplus": "1"
+        }
+      ]
+    },
+    {
+      "statement": "CLASS_PSS_L02_T15",
+      "checks": [
+        {
+          "language": "python",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T15/receipt_python.json",
+            "sha256": "6fc4350a08d7695effb81560192554974138ad1d8afd36dee77cb0299a3d097b"
+          },
+          "M": 22990701053,
+          "Gamma": 999595698,
+          "B": "23",
+          "surplus": "1"
+        },
+        {
+          "language": "node",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T15/receipt_node.json",
+            "sha256": "9fc7e602e1a84153853a4db3c2238049e468bd8c00a4fe7c7e610e3ba4487a24"
+          },
+          "M": 22990701053,
+          "Gamma": 999595698,
+          "B": "23",
+          "surplus": "1"
+        }
+      ]
+    },
+    {
+      "statement": "CLASS_PS_L14_T17",
+      "checks": [
+        {
+          "language": "python",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T17/receipt_python.json",
+            "sha256": "8fcd4ff8014b9fe58a46c4ccb95430af07418bf5a03d160a8fbcdb8ef1f2ce74"
+          },
+          "M": 22996186369,
+          "Gamma": 999834190,
+          "B": "23",
+          "surplus": "1"
+        },
+        {
+          "language": "node",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T17/receipt_node.json",
+            "sha256": "300deb8f9a2e2152a78f2d1d90d80817e606931d2391ce039071ce588f4337e8"
+          },
+          "M": 22996186369,
+          "Gamma": 999834190,
+          "B": "23",
+          "surplus": "1"
+        }
+      ]
+    },
+    {
+      "statement": "CLASS_PS_L06_T17_ENDm_H4T4",
+      "checks": [
+        {
+          "language": "python",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/receipt_python.json",
+            "sha256": "30bcd4dba55d57bd2db3c4b67bf306208b800472611be84c60a16c3028b91bc9"
+          },
+          "M": 22990779368,
+          "Gamma": 999599103,
+          "B": "23",
+          "surplus": "1"
+        },
+        {
+          "language": "node",
+          "receipt": {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/receipt_node.json",
+            "sha256": "807e884e5abff6a781a4dbfcef132609e6fc9513b4c2b6484173f2bf00dc48d3"
+          },
+          "M": 22990779368,
+          "Gamma": 999599103,
+          "B": "23",
+          "surplus": "1"
+        }
+      ]
+    }
+  ],
+  "JG_marker_C12_union": {
+    "source": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_12/classes.json",
+      "sha256": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc"
+    },
+    "diameter_squared": "395297917766944391671300275503574165854282269423230216349730582773381913012622904979646715780310902919469366925555054169/1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "safe_rational_upper_bound": "3953/10000",
+    "maximizing_vertices": [
+      [
+        "316/125",
+        "2547012102643921775806662891470063558909859975260625258172763/1000000000000000000000000000000000000000000000000000000000000"
+      ],
+      [
+        "20889/10000",
+        "2997/1000"
+      ]
+    ],
+    "proof": "Vertex-pair maximum over a finite union of convex polygons; no angle restriction needed."
+  },
+  "chart": {
+    "file": "research/window-extension-20261008/SPEC_v3.0.md",
+    "sha256": "0a6dfc2ae10ed6f30a21ebe357a6e73dd7355223c521cc67a3f2bdab9549aba0"
+  }
+}

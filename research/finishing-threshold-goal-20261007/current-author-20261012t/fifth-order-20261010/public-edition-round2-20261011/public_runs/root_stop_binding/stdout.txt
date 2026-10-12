@@ -1,0 +1,26 @@
+{
+  "status": "ACCEPTED_G20S_BROAD_ROOT_STOP_THEOREM",
+  "producer_manifest_sha256": "5a3aab61d2a5f5b08090fc4fc8e0ad67482007b06e370d0cbdc4db255cdf9ead",
+  "arithmetic_receipt_sha256": "968ab678be4d9229568f2c942742b29fd3f3458df4650a85ef7603819f145fbb",
+  "root_interface_sha256": "c0a2e20edd832648f44edef6e0ee83507a7e6acd91e83785c0ccd10a3958bc0e",
+  "checked_all16_SAT_options": true,
+  "both_retained_owners_each_pair": true,
+  "full_closed_padded_domain": true,
+  "new_radius": "501/100000",
+  "parametric_sum_coefficient": "7/50",
+  "stronger_rational_bounds_bound": true,
+  "source_geometry_layout_and_core_map_unchanged": true,
+  "unscaled_slider_indices_checked": true,
+  "negative_binding_controls_rejected": [
+    "missing_owner",
+    "changed_normal_sign",
+    "old_coefficient_interface",
+    "scaled_slider_index"
+  ],
+  "producer_source_imported": false,
+  "raw_reference_transfer_accepted": false,
+  "larger_radius_rigidity_claimed": false,
+  "finite_contraction_or_global_capture_claimed": false,
+  "new_LP_or_model_calls": 0,
+  "CPU_seconds": 0.02089
+}

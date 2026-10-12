@@ -1,0 +1,85 @@
+{
+  "schema": "s17-g20s-padded-root-stop-independent-review-v1",
+  "status": "ACCEPTED_G20S_PADDED_ROOT_STOP_EXTENSION",
+  "reviewer": "Codex contributor 03",
+  "producer": "Codex contributor 10",
+  "files": [
+    {
+      "path": "REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169"
+    },
+    {
+      "path": "check.py",
+      "sha256": "55fdb424142a6d6224a95cd525568ff69ab6dae3e5740b3a3bb577d90f6f0053"
+    },
+    {
+      "path": "producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1"
+    },
+    {
+      "path": "receipt.json",
+      "sha256": "62c302926da9e25e2cfb4ae42b7d8ebe188bf19a445c57b8af4c9c434ec5bcc2"
+    },
+    {
+      "path": "resources.json",
+      "sha256": "c83af2c724b86b5696283e447bc41aaa3fe0f9ff24ccfe6f32d58ec2ee2930ad"
+    }
+  ],
+  "producer_manifest": {
+    "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-producer/manifest.json",
+    "sha256": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d"
+  },
+  "dependencies_index": {
+    "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-producer/dependencies.json",
+    "sha256": "437b4dc0f026c24b2032cb75c61437fee9f0ed3558627882a32f2f37339be3fa"
+  },
+  "full_gate_review_sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+  "epsilon_max": "1/5000",
+  "domain": {
+    "a": [
+      "0",
+      "320000000001/1000000000000"
+    ],
+    "b": [
+      "-50000000001/1000000000000",
+      "200000000001/1000000000000"
+    ],
+    "z": [
+      "-200000000001/1000000000000",
+      "75000000001/1000000000000"
+    ],
+    "root_core_coordinates": 45,
+    "independent_physical_angles": 16,
+    "angle_units": "radians",
+    "physical_square4": "present, unrestricted, unused by the implication"
+  },
+  "claims": {
+    "b_lower": "-17/50000",
+    "b_plus_z_upper": "3/125",
+    "z_upper": "1/40",
+    "stronger": "b>=-(17/10)*epsilon; b+z<=T/3+(13/100)*epsilon"
+  },
+  "independent_polynomial_identities": 4,
+  "SAT_options": 16,
+  "strictly_excluded_options": 12,
+  "retained_options": 4,
+  "both_owners_retained_per_pair": true,
+  "old_norm_6_over_5_rejected": true,
+  "new_norm_pair_9_11": "5/4",
+  "unscaled_slider_indices": {
+    "a": 2,
+    "b": 21,
+    "z": 25
+  },
+  "negative_controls_rejected": 6,
+  "whole_closed_domain": true,
+  "new_reference_transfer": false,
+  "finite_contraction": false,
+  "normalized_dual_acceptance": false,
+  "terminal_equality": false,
+  "global_capture_or_optimality": false,
+  "conservative_review_cpu_charge_seconds": 2,
+  "review_cpu_cap_seconds": 10,
+  "new_solver_calls": 0,
+  "replay": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/check.py --check"
+}

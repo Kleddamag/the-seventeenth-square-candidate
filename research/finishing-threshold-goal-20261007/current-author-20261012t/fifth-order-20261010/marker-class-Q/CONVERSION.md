@@ -1,0 +1,9 @@
+# Q1: marker through the reviewed class checker
+
+Selected route (b). FRAME_MARKER_CLASS.json has the same `orbit` symmetry, literal frame, polygon vertices and closed angle slot as the pinned restricted marker; one class has threshold0 and the bound is17. For each physical pose p, the class high-first score is exactly0 on the original exempt union of declared orbit images and quarter-turn representatives, and1 outside. Thus a strict class score budget below17 for seventeen parents forces occupation of the exact original orbit marker. No geometric enlargement, new marker selection or row training is needed for this reformulation.
+
+The existing certificate at local-research/claude-20261002/results/screen_marker_hexagon_cap/certificate.json, SHA2564f6fd3419ed523520619bf95d89e741c6cc163159d9fa983cc06a400370be89f, is unchanged and has no embedded restriction object. Its symmetric potential shape is accepted by the class checker. Python and Node whole-file validation both PASS:9000 direction rows, identical cap4675531/1000000, strict budget surplus13. This validates source/format/budget/row-chain prerequisites ONLY. No spatial row charge sweep was run here; new complete authenticated class receipts remain required.
+
+The certificate has 9000 rows: six slices of 1500 or twelve slices of 750 give a complete cover; twelve slices of 1500 do not. Reviewed sources are Python exact_classes.py (802dc62a...) and the repaired Node class driver (7f6b2347...). The original Node file 72b92624... was used only for its exported loadAll validation.
+
+The historical restricted receipts remain evidence for their historical object; they are not relabelled as class-checker executions. Until new exact class receipts or an independently accepted restricted-row soundness proof are supplied, the final premise closure records this scope obligation explicitly.

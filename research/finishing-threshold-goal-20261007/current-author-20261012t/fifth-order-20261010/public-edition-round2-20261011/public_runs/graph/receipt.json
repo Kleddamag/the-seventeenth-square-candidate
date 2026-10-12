@@ -1,0 +1,24 @@
+{
+  "id": "graph",
+  "status": "PASS",
+  "error": null,
+  "missing_required_output": [],
+  "wall_seconds": 0.016665332950651646,
+  "cpu_seconds": 0.016135,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "executable": "python3.12",
+  "script_sha256": "85a941f882f5852f1885837180f6a13e3448c53d422e5084791bc220d6d56a11",
+  "original_last_line": "PASS graph: 328 nodes, 1537 edges, 210 unique H6 bindings, all ancestors of FINAL",
+  "inputs_read": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/DEPENDENCY_GRAPH.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/OBLIGATIONS.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/entry_checks.py"
+  ],
+  "redirected_outputs": {},
+  "path_adaptations": [
+    "author repository prefix",
+    "BI manifest.json case alias",
+    "round2: revision-v4/PROOF.md reads revision-v7/PROOF.md"
+  ],
+  "scope": "New execution of the named check only, not a new independent mathematical review."
+}

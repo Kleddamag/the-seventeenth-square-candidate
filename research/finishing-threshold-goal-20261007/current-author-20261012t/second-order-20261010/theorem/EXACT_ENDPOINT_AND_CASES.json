@@ -1,0 +1,808 @@
+{
+  "status": "EXACT_EXTRACTION_AND_SMALL_RATIONAL_COMPARISONS_PASS; expository supplement, not a new independent proof of the theorem",
+  "sources": {
+    "bridge": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/bridge.py",
+      "sha256": "ccc190e5f9c35a44a8ec309327815359f737093160d4bbaa9b147e388bc5bb09"
+    },
+    "root_input": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/upstream-root-certificate.json",
+      "sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+    },
+    "accepted_gate": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5"
+    },
+    "accepted_gate_review": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/independent-review/MANIFEST.json",
+      "sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd"
+    },
+    "selected_admission": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/join-design-1702/d-selected-roots-v2-review/ACCEPTED_INTERFACE.json",
+      "sha256": "be2c31acfc0c52371187532e41f20c76598bbe6c2decf67bc645ff080c80d73a"
+    },
+    "v5_admission": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/standing-contract-20261009-2134/v5-root-review/ACCEPTED_INTERFACE.json",
+      "sha256": "ef2b0fff65415574d3bd730ae643f7bdfcabd3f7e0e5e4313da73a5b3df0f2de"
+    },
+    "current_selector": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/key-w-active/PER_BRANCH_CAPTURE_OPTIONS_V5_PSS_PSE_KEYW.json",
+      "sha256": "2a8c19b955ccd1431336272fa8026ba0ad5cb2eaaa8b25aacf0930db7dc1fce3"
+    },
+    "fresh_join_review": {
+      "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_D_join.md",
+      "sha256": "8e7631592ea2a3ef74c27010ce10fd6ce3bdd52f9d93dd24e946c0f7aacc4ce1"
+    }
+  },
+  "endpoint": {
+    "variables": [
+      "t",
+      "beta"
+    ],
+    "polynomials_as_a_b_coefficient": [
+      [
+        [
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          -1
+        ],
+        [
+          1,
+          2,
+          -3
+        ],
+        [
+          2,
+          0,
+          -3
+        ],
+        [
+          2,
+          2,
+          1
+        ],
+        [
+          3,
+          0,
+          -1
+        ],
+        [
+          3,
+          2,
+          -1
+        ],
+        [
+          4,
+          0,
+          -1
+        ],
+        [
+          4,
+          1,
+          -1
+        ],
+        [
+          4,
+          2,
+          -1
+        ],
+        [
+          5,
+          1,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          1,
+          -1
+        ],
+        [
+          0,
+          2,
+          4
+        ],
+        [
+          0,
+          3,
+          -1
+        ],
+        [
+          1,
+          1,
+          3
+        ],
+        [
+          1,
+          2,
+          -2
+        ],
+        [
+          1,
+          3,
+          -5
+        ],
+        [
+          1,
+          4,
+          2
+        ],
+        [
+          2,
+          1,
+          -4
+        ],
+        [
+          2,
+          2,
+          -2
+        ],
+        [
+          2,
+          3,
+          4
+        ],
+        [
+          2,
+          4,
+          2
+        ],
+        [
+          3,
+          0,
+          -2
+        ],
+        [
+          3,
+          2,
+          2
+        ],
+        [
+          4,
+          0,
+          -2
+        ],
+        [
+          4,
+          1,
+          1
+        ],
+        [
+          4,
+          2,
+          -2
+        ],
+        [
+          4,
+          3,
+          1
+        ],
+        [
+          5,
+          1,
+          1
+        ],
+        [
+          5,
+          3,
+          1
+        ]
+      ]
+    ],
+    "grouped_by_beta_power": [
+      {
+        "0": [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            -3
+          ],
+          [
+            3,
+            -1
+          ],
+          [
+            4,
+            -1
+          ]
+        ],
+        "1": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            -1
+          ],
+          [
+            4,
+            -1
+          ],
+          [
+            5,
+            1
+          ]
+        ],
+        "2": [
+          [
+            1,
+            -3
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            -1
+          ],
+          [
+            4,
+            -1
+          ]
+        ]
+      },
+      {
+        "0": [
+          [
+            3,
+            -2
+          ],
+          [
+            4,
+            -2
+          ]
+        ],
+        "1": [
+          [
+            0,
+            -1
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            -4
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ]
+        ],
+        "2": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            -2
+          ],
+          [
+            2,
+            -2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            -2
+          ]
+        ],
+        "3": [
+          [
+            0,
+            -1
+          ],
+          [
+            1,
+            -5
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ]
+        ],
+        "4": [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      }
+    ],
+    "isolating_box_midpoint": [
+      "362043893314323383453621978739944164218293243036741520638379/1000000000000000000000000000000000000000000000000000000000000",
+      "330948674722739910429808533282915634174672003999685385633441/1000000000000000000000000000000000000000000000000000000000000"
+    ],
+    "isolating_box_radius": "1/1000000000000",
+    "tight_root_intervals": [
+      [
+        "362043893314323383453621978739944164218293243036741520538379/1000000000000000000000000000000000000000000000000000000000000",
+        "362043893314323383453621978739944164218293243036741520738379/1000000000000000000000000000000000000000000000000000000000000"
+      ],
+      [
+        "330948674722739910429808533282915634174672003999685385533441/1000000000000000000000000000000000000000000000000000000000000",
+        "330948674722739910429808533282915634174672003999685385733441/1000000000000000000000000000000000000000000000000000000000000"
+      ]
+    ],
+    "L": "(6+4*t)/(1+2*t-t*t)",
+    "L_interval": [
+      "46755300936045509516341112704831466487671438550158796943662667240051399850981213/10000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "18702120374418203806536445081932586595068575420063518785870052852972573895623523/4000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    ],
+    "uniqueness_imported_not_reproved": true
+  },
+  "directions": {
+    "label9": {
+      "physical_representative": "theta9 in [0,pi/2), t9=tan(theta9/2)",
+      "lower_exit": [
+        "0",
+        "61301/200000"
+      ],
+      "upper_exit": [
+        "591183/1408817",
+        "1 (excluded)"
+      ],
+      "gate": [
+        "61301/200000",
+        "591183/1408817"
+      ],
+      "gate_endpoints": "both excluded from gate, owned by exits",
+      "source_arc": [
+        "-408817/1000000",
+        "61301/200000"
+      ],
+      "quarter_turn_map": "t -> (t-1)/(1+t)",
+      "source": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T09/classes.json",
+        "sha256": "cf863943c8ad07d46ec51c7211e89c366108e935329a22615ce0c2a11c2ddb7a"
+      }
+    },
+    "other_loose": {
+      "3": {
+        "negative_exit": "tau <= -1/20",
+        "positive_exit": "tau >= 1/20",
+        "gate": "-1/20 < tau < 1/20",
+        "quarter_turn_representative": "theta in [-pi/4,pi/4), tau=tan(theta/2)",
+        "source": {
+          "file": "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PS_L01_T03.json",
+          "sha256": "86688ba3829fa497e1590bc7fcc45c1c238b4781bb363b8034ec98e6b9920f0e"
+        }
+      },
+      "17": {
+        "negative_exit": "tau <= -1/20",
+        "positive_exit": "tau >= 1/20",
+        "gate": "-1/20 < tau < 1/20",
+        "quarter_turn_representative": "theta in [-pi/4,pi/4), tau=tan(theta/2)",
+        "source": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T17/classes.json",
+          "sha256": "908568bc86012c6c6e6059c89a8d18163ab8f44396c4f959e5a840e6ce0351b5"
+        }
+      },
+      "15": {
+        "negative_exit": "tau <= -1/20",
+        "positive_exit": "tau >= 1/20",
+        "gate": "-1/20 < tau < 1/20",
+        "quarter_turn_representative": "theta in [-pi/4,pi/4), tau=tan(theta/2)",
+        "source": {
+          "file": "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes_v2/PS_L01_T15.json",
+          "sha256": "b2660c2c68530da0b17be93cafb1732d8c09257c8ee20f8d7e8c755b6ae22a3c"
+        }
+      }
+    }
+  },
+  "C_legacy_exemption_absence": {
+    "all_twelve_C_files_have_identical_nonwall_X_slots": true,
+    "wall_slot_note": "The ten literal budget files recut its angle; C7/C8 retain the older slot. All have x<=53/100, so off-wall absence is identical. C7/C8 occupancy remains the separately reviewed E07A transfer.",
+    "source_files": [
+      {
+        "name": "C_1",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_1/classes.json",
+        "sha256": "e208025e9e5905f3d1ad524a692facfe28b3e7092fcdbfef2fd74d26cb5de1a6",
+        "bytes": 3088,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_1",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "COUNTED",
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+            "sha256": "303749a22f3e46923a269bcc2d243d2132b0cb0db2c49327059449119fd789f3"
+          }
+        ],
+        "accepted_by": "independent reviewer identified in the proof pin"
+      },
+      {
+        "name": "C_2",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_2/classes.json",
+        "sha256": "3e22dfbff872b1f02d7fb678e34ef2abfafeb950985970b492a3b49787f49823",
+        "bytes": 3090,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_2",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "COUNTED",
+        "receipt_review": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_2/audit.json",
+          "sha256": "969af6f3f8457a185f04cdb217331bbc407423491226414fb00316d6393bd200"
+        },
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_2/audit.json",
+            "sha256": "969af6f3f8457a185f04cdb217331bbc407423491226414fb00316d6393bd200"
+          }
+        ],
+        "accepted_by": "Codex proof author provenance audit of both saved exact executions"
+      },
+      {
+        "name": "C_5",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_5/classes.json",
+        "sha256": "8fe1d426f7f4e679cc3ad90ab3675f05efd131ac2fce1bff9f0e4ec87cc94d8b",
+        "bytes": 3102,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_5",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "COUNTED",
+        "receipt_review": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_5/audit.json",
+          "sha256": "443bafde807ca5f30e19cce02ed059069b0c6593d8aeb8cebe3863616be55725"
+        },
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_5/audit.json",
+            "sha256": "443bafde807ca5f30e19cce02ed059069b0c6593d8aeb8cebe3863616be55725"
+          }
+        ],
+        "accepted_by": "Codex proof author provenance audit of both saved exact executions"
+      },
+      {
+        "name": "C_6",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_6/classes.json",
+        "sha256": "33716398433a43b158c35552df8a88cc3cfa0253d26d27e1e6f59a0ae445f406",
+        "bytes": 3104,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_6",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "COUNTED",
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_6/audit.json",
+            "sha256": "67c50fa7a60bf4de97bf22a50e8f32671c54307bf5329b7210ddc4151d110a53"
+          }
+        ],
+        "accepted_by": "independent reviewer identified in the proof pin"
+      },
+      {
+        "name": "C_7",
+        "file": "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes/C_L07.json",
+        "sha256": "456a1da31fdd594edad7d5a3e4ca66e51eca58e30154724c1d1b16b02e21d60d",
+        "bytes": 3100,
+        "bound": "20",
+        "kind": "derived_no_new_budget_required",
+        "group": "C_7",
+        "discharge": "E07A + sealed C7/C8 reflection transfer",
+        "status": "COUNTED",
+        "exact_statement": "The named target occupancy consequence in the common half frame, conditional on the inherited E07A and frame premises. No literal score bound is asserted from this transfer.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/join-design-1702/c7-c8-inherited-review/RECEIPT.json",
+            "sha256": "c7a98e1b58c50a7d14f303b9645f0d636063e99edb246c584a8bfc799c82d6bb"
+          }
+        ],
+        "accepted_by": "independent C7/C8 reviewer"
+      },
+      {
+        "name": "C_8",
+        "file": "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes/C_L08.json",
+        "sha256": "88b7d7340b6f4d98ac25bd23752cb61d877beb524a824013e18ef0f0da9b32ca",
+        "bytes": 3102,
+        "bound": "20",
+        "kind": "derived_no_new_budget_required",
+        "group": "C_8",
+        "discharge": "E07A + sealed C7/C8 reflection transfer",
+        "status": "COUNTED",
+        "exact_statement": "The named target occupancy consequence in the common half frame, conditional on the inherited E07A and frame premises. No literal score bound is asserted from this transfer.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/join-design-1702/c7-c8-inherited-review/RECEIPT.json",
+            "sha256": "c7a98e1b58c50a7d14f303b9645f0d636063e99edb246c584a8bfc799c82d6bb"
+          }
+        ],
+        "accepted_by": "independent C7/C8 reviewer"
+      },
+      {
+        "name": "C_10",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_10/classes.json",
+        "sha256": "0bf38130aeeb319b5f03b781e3df934cb3d5634d963310c9ccc1eacf142e689e",
+        "bytes": 3118,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_10",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "COUNTED",
+        "receipt_review": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_10/audit.json",
+          "sha256": "66f19650776893432440ce415fbc3fbe99e4c9af5c8f63253ab7a335f62d3f84"
+        },
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_10/audit.json",
+            "sha256": "66f19650776893432440ce415fbc3fbe99e4c9af5c8f63253ab7a335f62d3f84"
+          }
+        ],
+        "accepted_by": "Codex proof author provenance audit of both saved exact executions"
+      },
+      {
+        "name": "C_11",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_11/classes.json",
+        "sha256": "9b036d26a87e4f89f356303004f817a9a8b2d1afff120ee6ff69cb4be69122b6",
+        "bytes": 3139,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_11",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "COUNTED",
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+            "sha256": "303749a22f3e46923a269bcc2d243d2132b0cb0db2c49327059449119fd789f3"
+          }
+        ],
+        "accepted_by": "independent reviewer identified in the proof pin"
+      },
+      {
+        "name": "C_12",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_12/classes.json",
+        "sha256": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc",
+        "bytes": 4786,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_12",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "COUNTED",
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+            "sha256": "303749a22f3e46923a269bcc2d243d2132b0cb0db2c49327059449119fd789f3"
+          }
+        ],
+        "accepted_by": "independent reviewer identified in the proof pin"
+      },
+      {
+        "name": "C_13",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_13/classes.json",
+        "sha256": "4b42b2e549c779e2d130fd9c27b129b04f843f3c089f1cfd0c908b996a63bd15",
+        "bytes": 3146,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_13",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "COUNTED",
+        "receipt_review": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_13/audit.json",
+          "sha256": "8d08dce7f8c8cc0d258cd89f956925a4ff364aa891e614cfc4a39b5233371523"
+        },
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_13/audit.json",
+            "sha256": "8d08dce7f8c8cc0d258cd89f956925a4ff364aa891e614cfc4a39b5233371523"
+          }
+        ],
+        "accepted_by": "Codex proof author provenance audit of both saved exact executions"
+      },
+      {
+        "name": "C_14",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_14/classes.json",
+        "sha256": "f26744f1409e9e928123c63d26ce4e0e59d1987b51a695cbfc92eb3f3001a412",
+        "bytes": 3120,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_14",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "COUNTED",
+        "receipt_review": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_14/audit.json",
+          "sha256": "bd6e687e4be82287dff9e8813e065819259810b6ee68fc7616e0d79df5698b7f"
+        },
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [
+          {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_14/audit.json",
+            "sha256": "bd6e687e4be82287dff9e8813e065819259810b6ee68fc7616e0d79df5698b7f"
+          }
+        ],
+        "accepted_by": "Codex proof author provenance audit of both saved exact executions"
+      },
+      {
+        "name": "C_16",
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_16/classes.json",
+        "sha256": "01af04bb70955f839052b3c7abef582aad2578a29d60d6d8aecf3589109e6140",
+        "bytes": 3117,
+        "bound": "20",
+        "kind": "required",
+        "group": "C_16",
+        "discharge": "exact budget on this class or explicit accepted alias",
+        "status": "RECEIPT OPEN",
+        "exact_statement": "For every physical seventeen-square packing at side <=4675531/1000000, in this file's frame and symmetry interpretation, the high-first class score sum is < 20. For an exempt-only restriction the score is the number of parents outside its exempt union.",
+        "proof": [],
+        "accepted_by": null,
+        "needed": "Matching strict exact class budget, all rows on both accepted algorithms, authentic saved execution/provenance and semantic join."
+      }
+    ],
+    "legacy_below_angle_margin": "1/200000",
+    "legacy_above_lift_margin": "974949/14197000000",
+    "legacy_wall_x_max": "53/100",
+    "legacy_region9_offwall_centre_clip_equals_T9_rectangle": true,
+    "loose_arc_cover_rational_margin": "309449/250000000000",
+    "statement": "In the fully gated off-wall case no legacy C X slot can be occupied: this uses the imported actual-parent identification/capacity argument as well as the angle inclusions checked here."
+  },
+  "excluded_branches": [
+    {
+      "root": "JPB",
+      "predicate": "x9 > 53/100 and 0 <= t9 <= 61301/200000",
+      "reason": "KEY_W with unique L9 parent and wall-first classification",
+      "proof": {
+        "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/key-w-active/ACTIVATION.json",
+        "sha256": "cb220c626ac61193aa5bb803cd78b188998d659e5fd4d713d00d76cc1e8f175b"
+      }
+    },
+    {
+      "root": "REMOVED_HIGH9",
+      "predicate": "x9 > 53/100 and 44941/100000 < t9 < 1",
+      "reason": "KEY_W forces the unique off-wall L9 parent into literal slot1, whose only canonical quarter-turn representative has t9<=44941/100000. This is an impossible angular atom, not another local root."
+    }
+  ],
+  "branches": [
+    {
+      "root": "JQ",
+      "predicate": "x9 <= 53/100 and y9 <= 129/50",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JQ_exact_v1.json",
+        "sha256": "f4d1607eb4378487fcf6d8a8011125855bfb5912a6fa833ad3dcfcd6be14d93e"
+      }
+    },
+    {
+      "root": "JPWS",
+      "predicate": "x9 <= 53/100 and 129/50 < y9 <= 13/5",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPWS_exact_v4.json",
+        "sha256": "7d32a55bc2b080056d267dd10d38abb003ff84a649cd22aabb05899ec2a8be1f"
+      }
+    },
+    {
+      "root": "JPW13",
+      "predicate": "x9 <= 53/100 and y9 > 13/5",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPW13_exact_v2x.json",
+        "sha256": "e1a489e1f0d04ec0ee091ccbab9c4028a08c04ec15deeea26ff738e62b09505b"
+      }
+    },
+    {
+      "root": "JPA",
+      "predicate": "x9 > 53/100 and 591183/1408817 <= t9 <= 44941/100000",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      }
+    },
+    {
+      "root": "JPG3m",
+      "predicate": "x9 > 53/100 and 61301/200000 < t9 < 591183/1408817 and tau3 <= -1/20",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      }
+    },
+    {
+      "root": "JPG3p",
+      "predicate": "x9 > 53/100 and 61301/200000 < t9 < 591183/1408817 and tau3 >= 1/20",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      }
+    },
+    {
+      "root": "JPG17m",
+      "predicate": "x9 > 53/100 and 61301/200000 < t9 < 591183/1408817 and -1/20 < tau3 < 1/20 and tau17 <= -1/20",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      }
+    },
+    {
+      "root": "JPG17p",
+      "predicate": "x9 > 53/100 and 61301/200000 < t9 < 591183/1408817 and -1/20 < tau3 < 1/20 and tau17 >= 1/20",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      }
+    },
+    {
+      "root": "JPG15m",
+      "predicate": "x9 > 53/100 and 61301/200000 < t9 < 591183/1408817 and -1/20 < tau3 < 1/20 and -1/20 < tau17 < 1/20 and tau15 <= -1/20",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      }
+    },
+    {
+      "root": "JPG15p",
+      "predicate": "x9 > 53/100 and 61301/200000 < t9 < 591183/1408817 and -1/20 < tau3 < 1/20 and -1/20 < tau17 < 1/20 and tau15 >= 1/20",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      }
+    },
+    {
+      "root": "JG",
+      "predicate": "x9 > 53/100 and 61301/200000 < t9 < 591183/1408817 and -1/20 < tau3 < 1/20 and -1/20 < tau17 < 1/20 and -1/20 < tau15 < 1/20",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JG_exact_v2.json",
+        "sha256": "f635af684d0f81d318ad2f46f2721082e595d47ea294164062c10b6f2b941f32"
+      }
+    }
+  ],
+  "coverage": "Disjoint exhaustive decision list on the admitted common frame after removal of exactly the reviewed KEY_W-impossible JPB branch when active. Each root may be a closed larger enclosure; its exact geometric admission is imported. No independent reflection of individual squares is used; quarter-turn changes only a square side representative.",
+  "active_amendment": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/key-w-active/ACTIVATION.json",
+    "sha256": "cb220c626ac61193aa5bb803cd78b188998d659e5fd4d713d00d76cc1e8f175b"
+  },
+  "not_verified_here": [
+    "Banach contraction arithmetic",
+    "new source-to-root geometric projection",
+    "new charge or local certificates",
+    "independent review of this new extraction"
+  ],
+  "offwall_keyw_direction_interval": [
+    "30651/100000",
+    "44941/100000"
+  ],
+  "case_repair": "S1: upper KEY_W exclusion is explicit. Eleven retained roots; two impossible guard atoms (old JPB and high9), both removed using the same accepted literal KEY_W budget."
+}

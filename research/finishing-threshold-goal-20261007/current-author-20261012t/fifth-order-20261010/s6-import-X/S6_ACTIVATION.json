@@ -1,0 +1,253 @@
+{
+  "status": "COUNTED_FOUR_CONDITIONAL_SIGNED_JOINS_FROM_INDEPENDENT_S6_AND_AUDITED_BUDGETS",
+  "base_manifest": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/s6-import-X/PRE_SIGNED_IMPORT_MANIFEST.json",
+    "sha256": "48e244efaaee86d6bee1fa5f846b2c4a1ec8d70fd2613d3f15808b736a673cc7"
+  },
+  "base_selector": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/key-w-active/PER_BRANCH_CAPTURE_OPTIONS_V5_PSS_PSE_KEYW.json",
+    "sha256": "2a8c19b955ccd1431336272fa8026ba0ad5cb2eaaa8b25aacf0930db7dc1fce3"
+  },
+  "independent_review": {
+    "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_S6_joins.md",
+    "sha256": "5bf2f5b613368ee7706d46c20b0625efb86fd91f8a00fdafb3e6d96578b71fb9"
+  },
+  "own_small_replay": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/s6-import-X/independent-script-replay/RESULT.json",
+    "sha256": "cd7f07bf481b7798595177a32ba95a532593e31a9e3143f24e7db063d5dbc6fa"
+  },
+  "dependency_annotations": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/s6-import-X/DEPENDENCIES.json",
+    "sha256": "39d6468b03e9e97c1618fedfd191f974c65098e9b4e478d2a3f26051d9932ff4"
+  },
+  "erratum": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/s6-import-X/ERRATUM.md",
+    "sha256": "b0d987e939d416d9538e1c7eac314ec9c49c855ecbd4abd60f85bf5bcd76b28c"
+  },
+  "rows": [
+    {
+      "clause": "BRANCH_JPG17p_L05",
+      "root_bindings": {
+        "JPG17p": {
+          "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+          "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+        }
+      },
+      "source_option": "CLASS_PS_L05_T17",
+      "candidate": {
+        "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fourth-order-20261010/batch2/proposals/PS_L05_T17_ENDp_H4T4.json",
+        "sha256": "8d474b69d08f73008f228293d056a2fae68e0a3c9c314e979fcf0c7e801ad210",
+        "bound": "23",
+        "extra_capture_premises": [],
+        "id": "CLASS_PS_L05_T17_ENDp_H4T4",
+        "status": "COUNTED",
+        "exact_statement": "Literal high-first score bound <23 at cap4675531/1000000. Only the signed actual clause named by the S6 activation may use its occupancy implication.",
+        "accepted_by": "Independent S6 geometry reviewer and Codex authentic-execution provenance audit",
+        "proof": [
+          {
+            "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_S6_joins.md",
+            "sha256": "5bf2f5b613368ee7706d46c20b0625efb86fd91f8a00fdafb3e6d96578b71fb9"
+          },
+          {
+            "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/receipt-audits/option_PSL05T17ENDpH4T4/SAVED_PROVENANCE.json",
+            "sha256": "5ae978db57c372e4a99ffaddd6187e0aa457686ece009ab2a787d3238e0440a5"
+          }
+        ],
+        "supplemental": true
+      },
+      "common_frame_dependencies": [
+        "FRAME_MARKER",
+        "FRAME_0506",
+        "FRAME_1114",
+        "FRAME_0917",
+        "FRAME_ASSIGNMENT",
+        "CHARGE_SEMANTICS"
+      ],
+      "offwall_classification_dependencies": [
+        "KEY_W",
+        "KEY_W_ELIMINATION",
+        "WALL_PARTITION",
+        "COARSE_LOOSE_CAPACITY",
+        "L_3",
+        "L_4",
+        "L_15",
+        "L_17"
+      ],
+      "source_extra_premises": [],
+      "audit": {
+        "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/receipt-audits/option_PSL05T17ENDpH4T4/SAVED_PROVENANCE.json",
+        "sha256": "5ae978db57c372e4a99ffaddd6187e0aa457686ece009ab2a787d3238e0440a5"
+      },
+      "certificate_sha256": "5d875463f6cea355d53116adf51a5135728ad8f1fedb6f61125a552254a4309e"
+    },
+    {
+      "clause": "BRANCH_JPG17m_L06",
+      "root_bindings": {
+        "JPG17m": {
+          "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+          "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+        }
+      },
+      "source_option": "CLASS_PS_L06_T17",
+      "candidate": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/classes.json",
+        "sha256": "b9b44bd070c7a08faf890face91d3203c6e6bbf23c21e5c75f36a59d22d04cb2",
+        "bound": "23",
+        "extra_capture_premises": [],
+        "id": "CLASS_PS_L06_T17_ENDm_H4T4",
+        "status": "COUNTED",
+        "exact_statement": "Literal high-first score bound <23 at cap4675531/1000000. Only the signed actual clause named by the S6 activation may use its occupancy implication.",
+        "accepted_by": "Independent S6 geometry reviewer and Codex authentic-execution provenance audit",
+        "proof": [
+          {
+            "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_S6_joins.md",
+            "sha256": "5bf2f5b613368ee7706d46c20b0625efb86fd91f8a00fdafb3e6d96578b71fb9"
+          },
+          {
+            "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/audit.json",
+            "sha256": "f256ac9fddb9836286d8593baabcad321f323f78a06eebfc95984e59d00fe6c4"
+          }
+        ],
+        "supplemental": true
+      },
+      "common_frame_dependencies": [
+        "FRAME_MARKER",
+        "FRAME_0506",
+        "FRAME_1114",
+        "FRAME_0917",
+        "FRAME_ASSIGNMENT",
+        "CHARGE_SEMANTICS"
+      ],
+      "offwall_classification_dependencies": [
+        "KEY_W",
+        "KEY_W_ELIMINATION",
+        "WALL_PARTITION",
+        "COARSE_LOOSE_CAPACITY",
+        "L_3",
+        "L_4",
+        "L_15",
+        "L_17"
+      ],
+      "source_extra_premises": [],
+      "audit": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/audit.json",
+        "sha256": "f256ac9fddb9836286d8593baabcad321f323f78a06eebfc95984e59d00fe6c4"
+      },
+      "certificate_sha256": "5e51e7bdbb88accab552268191441a94c2ca37bcf4c1afe98a8064025fd3dbe2"
+    },
+    {
+      "clause": "BRANCH_JPA_L16",
+      "root_bindings": {
+        "JPA": {
+          "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+          "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+        }
+      },
+      "source_option": "CLASS_PS_L16_T09",
+      "candidate": {
+        "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fourth-order-20261010/batch2/proposals/PS_L16_T09_ENDa_H4T4.json",
+        "sha256": "3e283f77fcb46d3fa9c94b3608a3cb9870d5f8aac33318dfc6c21136bd78c897",
+        "bound": "23",
+        "extra_capture_premises": [],
+        "id": "CLASS_PS_L16_T09_ENDa_H4T4",
+        "status": "COUNTED",
+        "exact_statement": "Literal high-first score bound <23 at cap4675531/1000000. Only the signed actual clause named by the S6 activation may use its occupancy implication.",
+        "accepted_by": "Independent S6 geometry reviewer and Codex authentic-execution provenance audit",
+        "proof": [
+          {
+            "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_S6_joins.md",
+            "sha256": "5bf2f5b613368ee7706d46c20b0625efb86fd91f8a00fdafb3e6d96578b71fb9"
+          },
+          {
+            "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/receipt-audits/option_PSL16T09ENDaH4T4/SAVED_PROVENANCE.json",
+            "sha256": "cf44c55b171f893410abf58766b98e3745ca7e30c5c69f7fe3152a24d2d7b0b0"
+          }
+        ],
+        "supplemental": true
+      },
+      "common_frame_dependencies": [
+        "FRAME_MARKER",
+        "FRAME_0506",
+        "FRAME_1114",
+        "FRAME_0917",
+        "FRAME_ASSIGNMENT",
+        "CHARGE_SEMANTICS"
+      ],
+      "offwall_classification_dependencies": [
+        "KEY_W",
+        "KEY_W_ELIMINATION",
+        "WALL_PARTITION",
+        "COARSE_LOOSE_CAPACITY",
+        "L_3",
+        "L_4",
+        "L_15",
+        "L_17"
+      ],
+      "source_extra_premises": [],
+      "audit": {
+        "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/receipt-audits/option_PSL16T09ENDaH4T4/SAVED_PROVENANCE.json",
+        "sha256": "cf44c55b171f893410abf58766b98e3745ca7e30c5c69f7fe3152a24d2d7b0b0"
+      },
+      "certificate_sha256": "1e6564f4dc1b3a7feb068d051feb83cf5cc9f789b91e7ca4196a95028e34150a"
+    },
+    {
+      "clause": "BRANCH_JPG17m_L01",
+      "root_bindings": {
+        "JPG17m": {
+          "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+          "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+        }
+      },
+      "source_option": "CLASS_PS_L01_T17",
+      "candidate": {
+        "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fourth-order-20261010/proposals/PS_L01_T17_ENDm_H4T4.json",
+        "sha256": "2100d7d8564b06d3781a9d3e2c29dd72439f7f27f48f0b38568cd9b52060b1af",
+        "bound": "23",
+        "extra_capture_premises": [],
+        "id": "CLASS_PS_L01_T17_ENDm_H4T4",
+        "status": "COUNTED",
+        "exact_statement": "Literal high-first score bound <23 at cap4675531/1000000. Only the signed actual clause named by the S6 activation may use its occupancy implication.",
+        "accepted_by": "Independent S6 geometry reviewer and Codex authentic-execution provenance audit",
+        "proof": [
+          {
+            "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_S6_joins.md",
+            "sha256": "5bf2f5b613368ee7706d46c20b0625efb86fd91f8a00fdafb3e6d96578b71fb9"
+          },
+          {
+            "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/receipt-audits/option_PSL01T17ENDmH4T4/SAVED_PROVENANCE.json",
+            "sha256": "95a6f0c1884515ebc3371b8ada1201dad5177aed686eaeb2b328609904295072"
+          }
+        ],
+        "supplemental": true
+      },
+      "common_frame_dependencies": [
+        "FRAME_MARKER",
+        "FRAME_0506",
+        "FRAME_1114",
+        "FRAME_0917",
+        "FRAME_ASSIGNMENT",
+        "CHARGE_SEMANTICS"
+      ],
+      "offwall_classification_dependencies": [
+        "KEY_W",
+        "KEY_W_ELIMINATION",
+        "WALL_PARTITION",
+        "COARSE_LOOSE_CAPACITY",
+        "L_3",
+        "L_4",
+        "L_15",
+        "L_17"
+      ],
+      "source_extra_premises": [],
+      "audit": {
+        "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/receipt-audits/option_PSL01T17ENDmH4T4/SAVED_PROVENANCE.json",
+        "sha256": "95a6f0c1884515ebc3371b8ada1201dad5177aed686eaeb2b328609904295072"
+      },
+      "certificate_sha256": "ec5fc22aec6e1873b810e4f480599424c09112f4d913f375c33a7491ef6f7d26"
+    }
+  ],
+  "unchanged_roots": true,
+  "marker_status": "OPEN_AND_EXPLICIT_ANTECEDENT",
+  "final_independent_assembly_review": "OPEN",
+  "scope": "Only four literal actual-clause alternatives. No original two-sign inequality, opposite-sign coverage, marker receipt, local conclusion or global optimality inferred."
+}

@@ -1,0 +1,7 @@
+PASS
+labels=17 S_floor=4675530093604551/1000000000000000
+schema=wx-cert-3
+  certificate: /Volumes/s17/local-research/claude-20261002/results/assembly/JPG15m_v5/JPG15m_v5.cert.jsonl.gz  (SHA-256 of the checked bytes d551253dcc44686ff826ac93841ae9a07ca614290c4e4d6a1a379621875648f9)
+  packing file: /Volumes/s17/upper-packing-certificate.json  (SHA-256 24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7; Sref = 4675530093604551/1000000000000000)
+  nodes 61 (infeasible 39, terminal 0, split 22), rounds evaluated 39 (not evaluated 0), declarations 1443, steps 39, terms 1453516, tree depth 7
+  time: 190.38 s

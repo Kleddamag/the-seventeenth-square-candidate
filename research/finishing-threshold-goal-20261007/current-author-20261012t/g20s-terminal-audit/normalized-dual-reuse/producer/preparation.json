@@ -1,0 +1,54 @@
+{
+  "status": "PREPARED_WEIGHTS_ONLY_REUSE",
+  "old_steps": 5,
+  "old_objectives_per_step": 92,
+  "sources": [
+    {
+      "relative_path": "instance/research/joint-capture-20261007/pilot.py",
+      "sha256": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306"
+    },
+    {
+      "relative_path": "instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc"
+    },
+    {
+      "relative_path": "instance/research/uniform-capture-20261007/relational.py",
+      "sha256": "e268531d2279c38a7f47f809911890d17d8620aa9c49f1a87d230db6f17db1f0"
+    },
+    {
+      "relative_path": "instance/research/uniform-capture-20261007/rigidity.py",
+      "sha256": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41"
+    },
+    {
+      "relative_path": "instance/research/uniform-capture-20261007/root_geometry.py",
+      "sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a"
+    },
+    {
+      "relative_path": "instance/research/uniform-capture-20261007/uniform.py",
+      "sha256": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d"
+    },
+    {
+      "relative_path": "instance/research/uniform-capture-20261007/upstream-root-certificate.json",
+      "sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+    },
+    {
+      "relative_path": "instance/research/uniform-capture-20261007/verify.py",
+      "sha256": "1a6c91a8cc1e665e03e3a96815dab106c236ca4dd64de0132aafd933562423d0"
+    },
+    {
+      "relative_path": "instance/upper-packing-certificate.json",
+      "sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+    }
+  ],
+  "inputs": {
+    "old-uniform-rigidity.json": "73894585ed9ac8caa50ee1020c9589ea983b3b5413566385b7336eb179f6b7a0",
+    "accepted-old-terminal-manifest.json": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+    "accepted-root-gate.json": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+    "full-gate-producer-manifest.json": "09f90b6d55714f11a8ba02fa925c7fe6fb9015786c9a7e038fcb49cba8e41665",
+    "full-gate-receipt.json": "334bf800ec70961ff70cc29a431225160f6053132d938590d5cc989ff5510f51",
+    "full-gate-result.md": "068d914d988542e60abccfc918187c4ddf78c9833ae45c7559e55710259a072a"
+  },
+  "source_directory": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/instance",
+  "cpu_seconds": 0.008217000000000002,
+  "no_models_or_solver_run": true
+}

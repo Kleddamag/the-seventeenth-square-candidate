@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/check_stops.py --snapshot --check",
+  "producer_checker_sha256": "2b39c67e67568c68c2fc24310050976949268cfc6e66110633daba340168972f",
+  "producer_receipt_sha256": "980aec13f9ea60c72fbd0dff0443240c4adef6590fa236af252c4de4f96ad10a",
+  "calculation_CPU_seconds": 0.016406,
+  "read_only": true
+}

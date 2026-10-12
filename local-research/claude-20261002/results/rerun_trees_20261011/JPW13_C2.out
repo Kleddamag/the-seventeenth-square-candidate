@@ -1,0 +1,25 @@
+PASS
+labels=17 S_floor=4675530093604551/1000000000000000
+schema=wx-cert-3
+  certificate: /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPW13/JPW13.cert.jsonl.gz  (SHA-256 of the checked bytes 134a56c888a6f39ea3c364be34e21c22000f0fa49763d020bbc1e7e7efc5b6d3)
+  packing file: /Users/builder/Developer/07-math-research/17-squares-certified-bound/upper-packing-certificate.json  (SHA-256 24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7; Sref = 4675530093604551/1000000000000000)
+  nodes 255 (infeasible 163, terminal 0, split 92), rounds evaluated 163 (not evaluated 0), declarations 6150, steps 163, terms 7133642, tree depth 12
+  time: 955.42 s
+      955.64 real      1006.95 user         5.46 sys
+          3411673088  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+              496665  page reclaims
+                 172  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   4  voluntary context switches
+             1213438  involuntary context switches
+      20036413364666  instructions retired
+       3845824876933  cycles elapsed
+          5225506032  peak memory footprint

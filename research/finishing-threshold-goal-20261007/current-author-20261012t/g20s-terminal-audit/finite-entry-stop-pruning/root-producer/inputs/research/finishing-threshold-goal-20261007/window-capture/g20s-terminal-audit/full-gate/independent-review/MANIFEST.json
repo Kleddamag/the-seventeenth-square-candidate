@@ -1,0 +1,104 @@
+{
+  "status": "ACCEPTED_COMPLETE_G20S_ANALYTIC_GATE_ROOT_AND_FINITE_OPTION_COVERAGE",
+  "reviewer": "Codex contributor 07",
+  "producer": "Codex contributor 06",
+  "producer_manifest_sha256": "09f90b6d55714f11a8ba02fa925c7fe6fb9015786c9a7e038fcb49cba8e41665",
+  "domains": {
+    "rational_sliders": {
+      "a": [
+        "0",
+        "8/25"
+      ],
+      "b": [
+        "-1/20",
+        "1/5"
+      ],
+      "z": [
+        "-1/5",
+        "3/40"
+      ]
+    },
+    "root_epsilon": "1/5000",
+    "root_padding": "1/1000000000000 on all endpoints except lower a",
+    "finite_core_position": "1/200",
+    "finite_independent_angles": "1/400"
+  },
+  "root_option_result": {
+    "pairs": 19,
+    "options": 152,
+    "strictly_excluded": 125,
+    "not_excluded": 27,
+    "maximum_excluded_upper": "-3365926800028998423860729021900032623942417419912097684606460886741811915738261520107533/200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uniform_gap_upper_lt": "-1/60"
+  },
+  "finite_option_result": {
+    "pairs": 19,
+    "options": 152,
+    "strictly_excluded": 125,
+    "not_excluded": 27,
+    "maximum_excluded_upper": "-409234888799611985694621237734790253324833868684709654142030069243887484364369126679909312852777220279934651646053143647962201386092588047471846618862975826855986478123787183257829/45243031227447726876470454466099116750384157140063176196802084336302582514589024035541203653098732147400577199987509905640000000000000000000000000000000000000000000000000000000000000",
+    "uniform_gap_upper_lt": "-9/1000"
+  },
+  "accepted": {
+    "complete_52_label_source_roster_binding": true,
+    "reference_parallel_branches": 8,
+    "identities": "Inherited accepted52 labelled identities by unchanged algebra/source and exact roster; producer fresh52 symbolic receipt bound; reviewer did not rerun SymPy.",
+    "normalized_244_rows": "Bound model file and dimensions, not independently replayed coefficients or contraction."
+  },
+  "missing": [
+    "strict normalized contraction",
+    "finite contraction and actual bridge",
+    "independent proof-chain replay",
+    "actual tree-terminal composition",
+    "common-frame capture",
+    "optimality"
+  ],
+  "dependencies": {
+    "prior_independent_assessment_manifest": "ab96060dce2f0e5b17006b52a9a8c0d7b70f6a94897c9dd0f013d9911cfbdd12",
+    "accepted_root_gate": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+    "accepted_terminal_manifest": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+    "producer_fresh_symbolic_receipt": "d3b5d47c765b94815364e0312eaf9990b946f18ee0df4e1600f50a92b8ceadba",
+    "own_interval_layout_source": "4168f30f0f8020cb360522953746bb07053fe6eb430b11d57a5badcd4155955b"
+  },
+  "files": {
+    "check.py": {
+      "sha256": "e8c2c4da2043ccf6491ebf8d9e46d989bd41fbd7392ae4e60e701df330879548",
+      "bytes": 12190
+    },
+    "receipt.json": {
+      "sha256": "2a2b6b37824dfedc120c179eafc49a19a9e70f2f42704ab831f576446081883a",
+      "bytes": 142123
+    },
+    "bind.py": {
+      "sha256": "435ef9c8c7d28303508eb3907d20f5192d57ab8561d6d685421a4b9bc2682314",
+      "bytes": 1849
+    },
+    "binding-receipt.json": {
+      "sha256": "18cdc5c8be63ee53c0ba4e4975324cf711553dd2c01ba55e7e9db7e0ffd532dd",
+      "bytes": 1348
+    },
+    "REVIEW.md": {
+      "sha256": "8d036de57d583155208ae6b1014f11041f952e22724922183373d0978863bf02",
+      "bytes": 7817
+    },
+    "COSTS.json": {
+      "sha256": "0f358f41e8af2526d39342a9b3a57054862a1371624baa38140da3e1c4d419e9",
+      "bytes": 471
+    }
+  },
+  "cost": {
+    "independent_geometry_cpu_seconds": 0.23445100000000002,
+    "binding_cpu_seconds": 0.004455000000000001,
+    "measured_total_cpu_seconds": 0.238906,
+    "conservative_review_cpu_seconds": 3,
+    "review_cap_cpu_seconds": 8,
+    "producer_charge_separate": 10,
+    "combined_conservative_cpu_seconds": 13,
+    "combined_cap_cpu_seconds": 20,
+    "single_core": true,
+    "failed_review_runs": 0,
+    "solver_discovery_or_certificate_replay": false,
+    "sympy_replay_by_reviewer": false
+  },
+  "seal_cpu_seconds": 0.0011470000000000022
+}

@@ -1,0 +1,52 @@
+{
+  "status": "ACCEPTED_G20S_SOURCE_REUSE_AND_CONDITIONAL_CONSTANT_LEMMAS_ONLY",
+  "reviewer": "Codex contributor 07",
+  "producer": "Codex contributor 06",
+  "producer_manifest_sha256": "d83b2a3290687ada0f1c36287e8fba371a7a1f3fc01ef7a1c77b906b381148e0",
+  "current_terminal_a_upper": "8/25",
+  "broad_G20S_root_a_upper": "39/125",
+  "accepted": {
+    "all45_conditional_exact_root_transfer": true,
+    "eight_reference_parallel_branches": true,
+    "side_floor_and_actual_S_wall_repair": true,
+    "one_competing_5_11_SAT_option_excluded": true,
+    "full17_semantics_and_future_tree_join_obligations": true
+  },
+  "not_established": {
+    "new_complete52_roster": true,
+    "full152_option_audit": true,
+    "combined_box_normalized_contraction": true,
+    "new_finite_certificate_or_replay": true,
+    "actual_HW_G20S_tree_joins": true,
+    "capture_region_membership_or_global_capture": true,
+    "wider_original17_family_scope": true
+  },
+  "files": {
+    "check.py": {
+      "sha256": "4168f30f0f8020cb360522953746bb07053fe6eb430b11d57a5badcd4155955b",
+      "bytes": 8305
+    },
+    "receipt.json": {
+      "sha256": "0de9ee604ca36101806d6352272d763dfc7eb52a8f64ed94f7f94872de9e245f",
+      "bytes": 5047
+    },
+    "REVIEW.md": {
+      "sha256": "ac96d816b9bf4265c739d85b2194aae83389f229cff8ddc669ee78b364f2db1f",
+      "bytes": 7962
+    },
+    "COSTS.json": {
+      "sha256": "3869e7dff1cf802709645b1612bb49beabfd7377cc652db56a7e4b647d8f0e32",
+      "bytes": 232
+    }
+  },
+  "cost": {
+    "measured_check_cpu_seconds": 0.010303,
+    "conservative_total_cpu_seconds": 2,
+    "cap_cpu_seconds": 3,
+    "single_core": true,
+    "failed_runs": 0,
+    "solver_model_or_certificate_replay": false,
+    "producer_cost_separate": true
+  },
+  "seal_cpu_seconds": 0.0004329999999999959
+}

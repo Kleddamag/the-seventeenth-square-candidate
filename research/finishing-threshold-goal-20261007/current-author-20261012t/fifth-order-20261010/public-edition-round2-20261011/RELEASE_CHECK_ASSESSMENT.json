@@ -1,0 +1,37 @@
+{
+  "isolated_current_checks": "31/31 PASS with original repository denied",
+  "isolated_seal_check": "PASS on roster-only tree; output identical to author seal check",
+  "status": "SEALED_AUTHOR_REVISION_INDEPENDENT_DELTA_REVIEW_AND_ASSEMBLY_OPEN",
+  "scope": "Finite author revision with 31 fresh checks and explicit claim correction; independent review of changed source bytes and final assembly remain separate premises.",
+  "counts": {
+    "public_inputs": 6748,
+    "claims": 210,
+    "checks": 31,
+    "proof_labels": 95,
+    "proof_label_rows": 278
+  },
+  "checks": {
+    "closure": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/AUTHOR_SEAL_CHECK.out",
+      "sha256": "eb4c0f936167b78b5839f71a7574571dde3de04c53dc417526f97fa0cc756ee5",
+      "bytes": 550
+    },
+    "replays": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/PUBLIC_REPLAY_RESULTS.json",
+      "sha256": "099fddb296eac6e6b4dcfe84dc18589a921d8b825d71ccf560b9f6a47e54b732",
+      "bytes": 3346033
+    }
+  },
+  "preserved_execution_inputs": 5247,
+  "declared_path_neutral_historical_copies": 39,
+  "changes": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/REVISION_SCOPE.json",
+    "sha256": "6808db182d20c6f266a35163aadcce8e6ea3be6599a996e650f57acd27b073b9",
+    "bytes": 3196
+  },
+  "path_neutral_policy": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/PATH_NEUTRAL_POLICY.json",
+    "sha256": "8bf0a6e240fc7d45e1ca100188cc6872692914f9a8120e9c2abd0abe778d15db",
+    "bytes": 953
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "status": "ISOLATED_TWO_CONSTANT_INSTANCE",
+  "sources": [
+    {
+      "relative_path": "upper-packing-certificate.json",
+      "accepted_sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+      "instance_sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+    },
+    {
+      "relative_path": "research/joint-capture-20261007/pilot.py",
+      "accepted_sha256": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306",
+      "instance_sha256": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306"
+    },
+    {
+      "relative_path": "research/uniform-capture-20261007/uniform.py",
+      "accepted_sha256": "2855813f04e0bc846ea88faaa6a3709033dcbf848747de968f68ff385bf04993",
+      "instance_sha256": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d"
+    },
+    {
+      "relative_path": "research/uniform-capture-20261007/bridge.py",
+      "accepted_sha256": "ccc190e5f9c35a44a8ec309327815359f737093160d4bbaa9b147e388bc5bb09",
+      "instance_sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc"
+    },
+    {
+      "relative_path": "research/uniform-capture-20261007/root_geometry.py",
+      "accepted_sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a",
+      "instance_sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a"
+    },
+    {
+      "relative_path": "research/uniform-capture-20261007/rigidity.py",
+      "accepted_sha256": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41",
+      "instance_sha256": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41"
+    },
+    {
+      "relative_path": "research/uniform-capture-20261007/relational.py",
+      "accepted_sha256": "e268531d2279c38a7f47f809911890d17d8620aa9c49f1a87d230db6f17db1f0",
+      "instance_sha256": "e268531d2279c38a7f47f809911890d17d8620aa9c49f1a87d230db6f17db1f0"
+    },
+    {
+      "relative_path": "research/uniform-capture-20261007/verify.py",
+      "accepted_sha256": "1a6c91a8cc1e665e03e3a96815dab106c236ca4dd64de0132aafd933562423d0",
+      "instance_sha256": "1a6c91a8cc1e665e03e3a96815dab106c236ca4dd64de0132aafd933562423d0"
+    },
+    {
+      "relative_path": "research/uniform-capture-20261007/upstream-root-certificate.json",
+      "accepted_sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9",
+      "instance_sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+    }
+  ],
+  "inputs": {
+    "accepted-terminal-manifest.json": {
+      "source": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/MANIFEST.json",
+      "sha256": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d"
+    },
+    "accepted-gate-receipt.json": {
+      "source": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5"
+    },
+    "assessment-producer-manifest.json": {
+      "source": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/PRODUCER_MANIFEST.json",
+      "sha256": "d83b2a3290687ada0f1c36287e8fba371a7a1f3fc01ef7a1c77b906b381148e0"
+    },
+    "assessment-review-manifest.json": {
+      "source": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/MANIFEST.json",
+      "sha256": "ab96060dce2f0e5b17006b52a9a8c0d7b70f6a94897c9dd0f013d9911cfbdd12"
+    }
+  },
+  "source_diff_sha256": "270f840b3dbb32d92e1b321a1f8700842267eea73cf1af1efbe8f51656b0f41c",
+  "cpu_seconds": 0.010927999999999993,
+  "solver_or_model_called": false,
+  "source_path_scope": {
+    "accepted_base": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot",
+    "instance_base": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance",
+    "meaning": "Every sources[].relative_path is relative to each base, not to the repository root. analytic_gate checks the two actual source files against accepted_sha256 and instance_sha256."
+  },
+  "record_scope": "Reissued source-comparison data. The cpu_seconds field is a historical preparation measurement, not the time of the current analytic-gate replay; that replay has a separate actual receipt."
+}

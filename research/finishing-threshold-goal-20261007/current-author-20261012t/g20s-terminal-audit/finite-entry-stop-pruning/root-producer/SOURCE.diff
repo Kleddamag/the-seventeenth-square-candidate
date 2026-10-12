@@ -1,0 +1,89 @@
+--- accepted-small-radius-check_stops.py
++++ larger-radius-check_stops.py
+@@ -1,15 +1,16 @@
+ #!/usr/bin/env python3
+-"""New G20S slider-domain stop checks. Stdlib rationals, no model/LP import."""
++"""G20S finite-entry root stop guards. Exact rationals, no model/LP import."""
+ from pathlib import Path
+ from fractions import Fraction as F
+ from itertools import product
+-import ast,hashlib,json,time,sys,resource
++import ast,hashlib,json,time,sys,resource,traceback,signal
+ resource.setrlimit(resource.RLIMIT_CPU,(8,10))
++START=time.process_time();WALL=time.monotonic()
+ HERE=Path(__file__).resolve().parent;ROOT=HERE.parents[5]
+ if '--snapshot'in sys.argv:ROOT=HERE/'inputs'
+ W=ROOT/'research/finishing-threshold-goal-20261007/current-author-20261012t'
+ FULL=W/'g20s-terminal-audit/full-gate'
+-EPS=F(1,5000);PAD=F(1,10**12)
++EPS=F(501,100000);PAD=F(1,10**12)
+ RATIONAL={'a':(F(0),F(8,25)),'b':(-F(1,20),F(1,5)),'z':(-F(1,5),F(3,40))}
+ PADDED={k:(lo if k=='a'else lo-PAD,hi+PAD)for k,(lo,hi)in RATIONAL.items()}
+ def need(x,message):
+@@ -41,7 +42,9 @@
+  full=json.loads((FULL/'independent-review/MANIFEST.json').read_text())
+  need(full['status']=='ACCEPTED_COMPLETE_G20S_ANALYTIC_GATE_ROOT_AND_FINITE_OPTION_COVERAGE','full gate not accepted')
+  need(full['domains']['rational_sliders']=={k:list(map(str,v))for k,v in RATIONAL.items()},'wrong declared sliders')
+- need(full['domains']['root_epsilon']==str(EPS),'wrong epsilon')
++ # The older small gate supplies identities and domain conventions only.
++ # Every new-radius stop/SAT estimate is recomputed below.
++ need(full['domains']['root_epsilon']=='1/5000','wrong inherited gate')
+  gate=json.loads((FULL/'producer/gate-receipt.json').read_text())
+  need(gate['padded_box']=={str(i):list(map(str,PADDED[k]))for k,i in [('a',2),('b',21),('z',25)]},'wrong padded root domain')
+  old=ROOT/'research/uniform-capture-20261007';new=FULL/'producer/instance/research/uniform-capture-20261007'
+@@ -55,7 +58,7 @@
+   lo,hi=map(F,iv);r=F(definition['box']['radius']);m=F(mid)
+   need(m-r<lo<hi<m+r,'root enclosure not in declared root box')
+  return [I(*v)for v in rr['intervals']]
+-def stop_checks(root,D9=F(5,4),eps=EPS,bounds=PADDED):
++def stop_checks(root,D9=F(5,4),eps=EPS,bounds=PADDED,sum_coefficient=F(14,100)):
+  need(0<=eps<=EPS,'unreviewed epsilon')
+  t,beta=root;c=(1-t*t)/(1+t*t);s=2*t/(1+t*t)
+  S=(6+4*t)/(1+2*t-t*t);T=c*(c+4-S)
+@@ -81,25 +84,36 @@
+   rec.append({'pair':list(pair),'X0':X.record(),'N0':N.record(),'D':str(D),'delta_norm_coefficient':str(dr),'norm_squared_upper':str(norm2),'norm_squared_slack':str(D*D-norm2),'actual_N_lower':str(N.lo-dr*eps),'excluded':excluded,'retained':retained})
+  coefficient_b=F(141,100)+F(277,1000)+F(241,100)*EPS
+  coefficient_sum=F(129,1000)+2*EPS
+- need(coefficient_b<F(17,10) and coefficient_sum<F(13,100),'stop coefficient')
+- blower=-F(17,10)*eps;sumupper=(T/3+F(13,100)*eps).hi;zupper=sumupper-blower
+- need(blower>=-F(17,50000),'target lower b')
+- need(sumupper<F(3,125),'target sum upper')
+- need(zupper<F(1,40),'target z upper')
+- return {'status':'PASS_G20S_PADDED_ROOT_PHYSICAL_STOPS_PENDING_REVIEW','rational_input_sliders':{k:list(map(str,v))for k,v in RATIONAL.items()},'exact_root_padded_sliders':{k:list(map(str,v))for k,v in bounds.items()},'epsilon':str(eps),'unscaled_slider_indices':{'a':2,'b':21,'z':25},'root_intervals':[v.record()for v in root],'c_plus_s':(c+s).record(),'T_over_3':(T/3).record(),'new_b_plus_z_projection':sum_new.record(),'old_b_plus_z_projection':sum_old.record(),'complete_stop_pairs':rec,'b_coefficient_strict_upper':str(coefficient_b),'sum_coefficient_strict_upper':str(coefficient_sum),'stronger_conclusions':{'b_lower':str(blower),'b_plus_z_upper':str(sumupper),'z_upper':str(zupper)},'simple_closed_conclusions':{'b_lower':'-17/50000','b_plus_z_upper':'3/125','z_upper':'1/40'},'independent_angles':True,'both_owners_and_boundary_degeneracies_retained':True,'new_reference_transfer_or_finite_contraction_claimed':False,'optimizer_or_solver_calls':0}
++ need(coefficient_b<F(17,10) and coefficient_sum<sum_coefficient,'stop coefficient')
++ blower=-F(17,10)*eps;sumupper=(T/3+sum_coefficient*eps).hi;zupper=sumupper-blower
++ need(blower>=-F(8517,1000000),'target lower b')
++ need(sumupper<F(49,2000),'target sum upper')
++ need(zupper<F(33,1000),'target z upper')
++ return {'status':'PASS_G20S_FINITE_ENTRY_ROOT_STOPS_PENDING_REVIEW','rational_input_sliders':{k:list(map(str,v))for k,v in RATIONAL.items()},'exact_root_padded_sliders':{k:list(map(str,v))for k,v in bounds.items()},'epsilon':str(eps),'unscaled_slider_indices':{'a':2,'b':21,'z':25},'root_intervals':[v.record()for v in root],'c_plus_s':(c+s).record(),'T_over_3':(T/3).record(),'new_b_plus_z_projection':sum_new.record(),'old_b_plus_z_projection':sum_old.record(),'complete_stop_pairs':rec,'b_coefficient_strict_upper':str(coefficient_b),'sum_coefficient_strict_upper':str(coefficient_sum),'chosen_sum_coefficient':str(sum_coefficient),'stronger_conclusions':{'b_lower':str(blower),'b_plus_z_upper':str(sumupper),'z_upper':str(zupper)},'simple_closed_conclusions':{'b_lower':'-8517/1000000','b_plus_z_upper':'49/2000','z_upper':'33/1000'},'target_slacks':{'b_lower':str(blower+F(8517,1000000)),'b_plus_z_upper':str(F(49,2000)-sumupper),'z_upper':str(F(33,1000)-zupper)},'independent_angles':True,'both_owners_and_boundary_degeneracies_retained':True,'new_reference_transfer_or_finite_contraction_claimed':False,'optimizer_or_solver_calls':0}
+ def main():
+  start=time.process_time();root=load();out=stop_checks(root);bad=[]
+- for name,kw in [('old D=6/5',{'D9':F(6,5)}),('too large epsilon',{'eps':F(1,100)}),('D9=1',{'D9':F(1)})]:
++ for name,kw in [('old D=6/5',{'D9':F(6,5)}),('too large epsilon',{'eps':F(1,100)}),('D9=1',{'D9':F(1)}),('old sum coefficient 13/100',{'sum_coefficient':F(13,100)})]:
+   try:stop_checks(root,**kw)
+   except ValueError:bad.append(name)
+   else:raise ValueError('invalid guard accepted '+name)
+  # Closed targets cannot be tightened merely by display rounding.
+  a=out['stronger_conclusions']
+- need(F(a['b_lower'])<-F(1,4000) and F(a['b_plus_z_upper'])>F(1,50) and F(a['z_upper'])>F(3,125),'target corruption controls')
+- out['negative_controls']=bad+['b>=-1/4000 rejected','b+z<=1/50 rejected','z<=3/125 rejected']
++ need(F(a['b_lower'])<-F(17,2000) and F(a['b_plus_z_upper'])>F(3,125) and F(a['z_upper'])>F(1,40),'target corruption controls')
++ out['negative_controls']=bad+['b>=-17/2000 not implied by displayed bound','b+z<=3/125 not implied by displayed bound','z<=1/40 not implied by displayed bound']
+  out['cpu_seconds']=round(time.process_time()-start,6)
+  if '--check'in sys.argv:
+   old=json.loads((HERE/'receipt.json').read_text());need({k:v for k,v in old.items()if k!='cpu_seconds'}=={k:v for k,v in out.items()if k!='cpu_seconds'},'receipt mismatch')
+  else:(HERE/'receipt.json').write_text(json.dumps(out,indent=2)+'\n')
+  print(json.dumps({'status':out['status'],'cpu_seconds':out['cpu_seconds'],'simple_closed_conclusions':out['simple_closed_conclusions'],'old_D_rejected':'old D=6/5'in bad},indent=2))
+-if __name__=='__main__':main()
++if __name__=='__main__':
++ status='ERROR'
++ def timeout(signum,frame):raise TimeoutError('Producer CPU cap reached')
++ signal.signal(signal.SIGXCPU,timeout)
++ try:main();status='PASS'
++ except BaseException:
++  if '--check' not in sys.argv:(HERE/'failure.txt').write_text(traceback.format_exc())
++  raise
++ finally:
++  telemetry={'status':status,'process_CPU_seconds':time.process_time(),'calculation_CPU_seconds':time.process_time()-START,'wall_seconds':time.monotonic()-WALL,'runtime':sys.version,'solver_calls':0}
++  if '--check' in sys.argv:print(json.dumps({'replay_telemetry':telemetry}))
++  else:(HERE/'telemetry.json').write_text(json.dumps(telemetry,indent=2)+'\n')

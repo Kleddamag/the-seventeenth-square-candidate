@@ -1,0 +1,1 @@
+{"status": "INDEPENDENT_BROAD_ROOT_STOP_ARITHMETIC_PASS_PRODUCER_BINDING_SEPARATE_OBLIGATION", "b_coefficient_upper": "16990741/10000000", "tangential_coefficient_upper": "6951/50000", "decimal_display": {"sum_upper": 0.02443914319540521, "z_upper": 0.032956143195405206, "sum_slack": 6.0856804594791165e-05, "z_slack": 4.3856804594791165e-05}, "CPU_seconds": 0.012589000000000003}

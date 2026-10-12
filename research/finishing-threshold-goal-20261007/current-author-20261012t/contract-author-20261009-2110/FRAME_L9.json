@@ -1,0 +1,191 @@
+{
+  "schema": "s17-explicit-frame-l9-lemma-v1",
+  "status": "AUTHOR_BINDING_OF_ACCEPTED_DEPENDENCIES_NEW_REVIEW_SEPARATE_OBLIGATION",
+  "lemma": {
+    "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/FRAME_L9.md",
+    "sha256": "6412adc4058858a99c876b8e8f900170a321088fca513a8577efceb2e88226a2",
+    "bytes": 4795
+  },
+  "contract": {
+    "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/join-design-1702/d-selected-roots-v2-producer/FINISHING_CONTRACT.json",
+    "sha256": "258fba208f17fa7760bf2a0d97664f89de3f29624a38555d4598da804100d708",
+    "bytes": 6204
+  },
+  "actual_cap": "4675531/1000000",
+  "U": "1169/250",
+  "half_marker_tan_interval": [
+    "0",
+    "207107/500000"
+  ],
+  "L9": [
+    [
+      "-131/250",
+      "4501/5000"
+    ],
+    [
+      "24137/10000",
+      "29637/10000"
+    ]
+  ],
+  "charge_objects": [
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-snapshot-20261009-1144/marker.json",
+      "sha256": "9e1ef6e5ac1e7e431ec19a2fb021cc8e16667ce096112e3b1fc382892917e5ed",
+      "bytes": 1122,
+      "binding_route": "stable committed inputs",
+      "bound": "17",
+      "budget_units": 16971591304,
+      "certificate_sha256": "a0de9a67de3543ce0703a01293878d257fc3addef09a8d237ad9c48b534101e7",
+      "class_or_restriction_sha256": "9e1ef6e5ac1e7e431ec19a2fb021cc8e16667ce096112e3b1fc382892917e5ed",
+      "id": "marker",
+      "original_receipt_keys": {
+        "node": [
+          "git:569bba988cde4ad621854b5bca05b813523e3f6f:results/mkvHEX12a_0/node.json",
+          "git:e17489d900f5a2cc7394a5eee6d6782282ea7e00:results/mkvHEX12a_1b/node.json",
+          "git:2854b33c25ab71a9f9a2553ad3f32cfaa856d480:results/mkvHEX12a_2/node.json",
+          "git:2b7f2793971dc13597cf0d9aa8a81195263a27f3:results/mkvHEX12a_3/node.json",
+          "git:8840685d89c07abcd8a01d08002bdec70ba92b7d:results/mkvHEX12a_4/node.json",
+          "git:ef1ac41f3915d8324e6a2ff3afac817c303aad95:results/mkvHEX12a_5/node.json"
+        ],
+        "python": [
+          "git:569bba988cde4ad621854b5bca05b813523e3f6f:results/mkvHEX12a_0/py.json",
+          "git:e17489d900f5a2cc7394a5eee6d6782282ea7e00:results/mkvHEX12a_1b/py.json",
+          "git:2854b33c25ab71a9f9a2553ad3f32cfaa856d480:results/mkvHEX12a_2/py.json",
+          "git:2b7f2793971dc13597cf0d9aa8a81195263a27f3:results/mkvHEX12a_3/py.json",
+          "git:8840685d89c07abcd8a01d08002bdec70ba92b7d:results/mkvHEX12a_4/py.json",
+          "git:ef1ac41f3915d8324e6a2ff3afac817c303aad95:results/mkvHEX12a_5/py.json"
+        ]
+      },
+      "required_units": 998328901,
+      "rows_per_implementation": 9000,
+      "surplus": "13"
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_1114/classes.json",
+      "sha256": "b1d6815c9f28bc0df7bdabad8c774e8e76de94fca8cddb6d4ede2a5ddcf6d9cd",
+      "bytes": 2183,
+      "binding_route": "saved one-worker Node inputs",
+      "bound": "137/8",
+      "budget_units": 17104561312,
+      "certificate_sha256": "31b813eac2063502d12ca9c7e88d57aba93bb4fea21f876c46d0455b8c9062b8",
+      "class_or_restriction_sha256": "b1d6815c9f28bc0df7bdabad8c774e8e76de94fca8cddb6d4ede2a5ddcf6d9cd",
+      "id": "pair11_14",
+      "original_receipt_keys": {
+        "node": [
+          "local:local-research/claude-20261002/results/screen_classp1114_count2_hex/node_by_macchat/node_0_4500.json",
+          "local:local-research/claude-20261002/results/screen_classp1114_count2_hex/node_by_macchat/node_4500_9000.json"
+        ],
+        "python": [
+          "local:local-research/claude-20261002/results/screen_classp1114_count2_hex/receipt_python.json"
+        ]
+      },
+      "required_units": 998806500,
+      "rows_per_implementation": 9000,
+      "surplus": "1/2"
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0506/classes.json",
+      "sha256": "fe34f35030d736a4d165a4f5a92cdd154acc9583ede2e2aa8a5aba9da1e9cc6d",
+      "bytes": 1669,
+      "binding_route": "stable committed inputs",
+      "bound": "137/8",
+      "budget_units": 17108306740,
+      "certificate_sha256": "0daea27e630024fc56d01258871c0dbe400b07a7d9f9ba24e34e7a8d8033c4fc",
+      "class_or_restriction_sha256": "fe34f35030d736a4d165a4f5a92cdd154acc9583ede2e2aa8a5aba9da1e9cc6d",
+      "id": "pair05_06",
+      "original_receipt_keys": {
+        "node": [
+          "git:ceff39312712d08bc12d9593773d9384e96b6a8a:results/cvP0506m_0/node.json",
+          "git:bc426a33512d42cbf04ed47ef251a07597cdc7e3:results/cvP0506m_1/node.json",
+          "git:6c51b53154d6d9efdd8e399bef84255c52aa43c3:results/cvP0506m_2/node.json",
+          "git:cb366f86a78a1120d24e9bc2729aba9e96d8568a:results/cvP0506m_3/node.json",
+          "git:abd01a3c5fd1bab7c0beb3340c041a1ce79df24c:results/cvP0506m_4/node.json",
+          "git:82464224a29886cdec1dd5443a70e689b16a62a4:results/cvP0506m_5/node.json"
+        ],
+        "python": [
+          "git:ceff39312712d08bc12d9593773d9384e96b6a8a:results/cvP0506m_0/py.json",
+          "git:bc426a33512d42cbf04ed47ef251a07597cdc7e3:results/cvP0506m_1/py.json",
+          "git:6c51b53154d6d9efdd8e399bef84255c52aa43c3:results/cvP0506m_2/py.json",
+          "git:cb366f86a78a1120d24e9bc2729aba9e96d8568a:results/cvP0506m_3/py.json",
+          "git:abd01a3c5fd1bab7c0beb3340c041a1ce79df24c:results/cvP0506m_4/py.json",
+          "git:82464224a29886cdec1dd5443a70e689b16a62a4:results/cvP0506m_5/py.json"
+        ]
+      },
+      "required_units": 999025212,
+      "rows_per_implementation": 9000,
+      "surplus": "31/2"
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0917/classes.json",
+      "sha256": "20fe5ad1403ae2b9bac9dc64b8421da81e0cd5f46a16b6e1a9659782ebbc2c71",
+      "bytes": 2459,
+      "binding_route": "stable committed inputs",
+      "bound": "145/8",
+      "budget_units": 18124911136,
+      "certificate_sha256": "5153d438092b7fe1523a9184fe43082638c23b05d9a4f1ecfc9e869ee3c17734",
+      "class_or_restriction_sha256": "20fe5ad1403ae2b9bac9dc64b8421da81e0cd5f46a16b6e1a9659782ebbc2c71",
+      "id": "pair09_17",
+      "original_receipt_keys": {
+        "node": [
+          "git:d3861eb128036cd5480ce0fe617d0c95b34727b7:results/cvP0917a_0/node.json",
+          "git:cb72f139b79cb3eac29fa97cefffe056e34e50a0:results/cvP0917a_1/node.json",
+          "git:ddcf9201a323a68fa4972f709de9835e98508724:results/cvP0917a_2/node.json",
+          "git:4ce7aea8b0e9b11c05125f1ced147fa57cf4af1f:results/cvP0917a_3/node.json",
+          "git:bb9cd2926a8d6ff0799ea7a656d0088c2a34e104:results/cvP0917a_4/node.json",
+          "git:33072cde8cf412023ddd35455cf12d01a68e9e75:results/cvP0917a_5/node.json"
+        ],
+        "python": [
+          "git:d3861eb128036cd5480ce0fe617d0c95b34727b7:results/cvP0917a_0/py.json",
+          "git:cb72f139b79cb3eac29fa97cefffe056e34e50a0:results/cvP0917a_1/py.json",
+          "git:ddcf9201a323a68fa4972f709de9835e98508724:results/cvP0917a_2/py.json",
+          "git:4ce7aea8b0e9b11c05125f1ced147fa57cf4af1f:results/cvP0917a_3/py.json",
+          "git:bb9cd2926a8d6ff0799ea7a656d0088c2a34e104:results/cvP0917a_4/py.json",
+          "git:33072cde8cf412023ddd35455cf12d01a68e9e75:results/cvP0917a_5/py.json"
+        ]
+      },
+      "required_units": 999995098,
+      "rows_per_implementation": 9000,
+      "surplus": "61/4"
+    }
+  ],
+  "dependencies": [
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-snapshot-20261009-1144/receipt-independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "7e17dae995c422ed9db9cfc7d35595968c7c7c4b2eebe414d067ebde12386c29",
+      "bytes": 12323
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-snapshot-20261009-1144/geometry-independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "2dfea1818e8de51bd358f50ed7d84be4a6fd14cee6076d0198c13d97cf2ceb56",
+      "bytes": 6885
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "efd913623a2f9821a5b96a1a79ae12be40e4b14030d558ffc8b12ef5178cbf4e",
+      "bytes": 3734
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-stage-20261009-1252/inherited-loose-counts/independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "63d36a4f4db2035515eb21f2aea0ff7363256eff3733f7b218de2d05aabf5e17",
+      "bytes": 4988
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/join-design-files-20261009-1525/frame-premise-producer/THEOREM.md",
+      "sha256": "fb5cde9c4e50feb8e22c9a5069b0ce0b1fada72ed75c540eb9b44cf29f4b6809",
+      "bytes": 11047
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/join-design-files-20261009-1525/frame-premise-producer/INPUTS.json",
+      "sha256": "e1ddd174b50b16d87f1a0e4b1449e08da4d6e7b6c8e88d18d6889c99bd5f2f25",
+      "bytes": 20924
+    }
+  ],
+  "new_capture_required": false,
+  "requires_new_union_count": false,
+  "uses_L09low": false,
+  "new_L09low_inspected": {
+    "path": "local-research/claude-20261002/results/contract_L09q_cloud/exact/classes.json",
+    "sha256": "fc54e12632e23709a6dfb15b177a579be39de884ed4a7bdf8d4e8a9f02dfea85",
+    "bytes": 1777
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "status": "PASS_ALL_OLD_NEW_ROW_FIELDS_EQUAL",
+  "new_authentic_execution_audit": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_1114/audit.json",
+    "sha256": "21e84eee4afbe573ea2d82d462b50b77c2171bca12e491bc8d7128abc04d0a6e"
+  },
+  "class_bytes_equal": true,
+  "certificate_bytes_equal": true,
+  "comparisons": [
+    {
+      "implementation": "python",
+      "old_sources": [
+        {
+          "file": "local-research/claude-20261002/results/screen_classp1114_count2_hex/receipt_python.json",
+          "sha256": "6dc053dba241c8994ce204afe4688a417145da44df9f35d3281b1a1eaa884e2d"
+        }
+      ],
+      "new_sources": [
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/0.py.json",
+          "sha256": "40a78b121d05ce588cd89524fe88df8215a2bb7395fd1172ae609403bd10ed88"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/1.py.json",
+          "sha256": "f93fc163ec210a4220b2111ff293f2f9ca539b2dd414eca71101ad0caee0c66b"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/2.py.json",
+          "sha256": "21c50d28b2cd1909618e6997fc47ee42d30cb1898318a44fb415a5668654c94f"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/3.py.json",
+          "sha256": "aa9a4db9deaaad0d71d6fc97c80a98bb0b3978dd64d8b00aa3600fe1f98f30a8"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/4.py.json",
+          "sha256": "5b3ffaf63c7ad6df72383e9afc072dea8267ed485e820f43907a080b4a8948b9"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/5.py.json",
+          "sha256": "3e3d491e8f6bbda0435894ed75d2927a1306943c75bb0de941496a70b0a6fc35"
+        }
+      ],
+      "rows_equal": 9000,
+      "differences": 0
+    },
+    {
+      "implementation": "node",
+      "old_sources": [
+        {
+          "file": "local-research/claude-20261002/results/screen_classp1114_count2_hex/node_by_macchat/node_0_4500.json",
+          "sha256": "19089eacb81ff5ccb22934d72bb73e5ade7f173d840604537811d07a1c2e5afd"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classp1114_count2_hex/node_by_macchat/node_4500_9000.json",
+          "sha256": "1f3ab85d0bbc04c5fb0a82d12e8747bef804c6bb5e45a93c51b4d39565b630bd"
+        }
+      ],
+      "new_sources": [
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/0.node.json",
+          "sha256": "fdd541876e787aa3e693f3ea61bd7e0776551d9d51348192195996a9d0e13db2"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/1.node.json",
+          "sha256": "3910dcfa0a43e0491e7e933e2298b0b520f0d7cc4908280e1ecfc38c63b0c8f1"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/2.node.json",
+          "sha256": "be922484be75297f2efa2b55e039dcbe32cdf7754dec0e848645dca5cb6c96b0"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/3.node.json",
+          "sha256": "7825d3a3126545f0ec75ada42e702604cf796e088ee89a22a730e48034038f22"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/4.node.json",
+          "sha256": "9d252f762a3d7cac29ee2883690001a2469572d07da390dc04986e2183cf3bbc"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classp1114_count2_hex/exact/slices/5.node.json",
+          "sha256": "8a91a47344112fa38bddf5555592c27ceeb3ab237b506bce3c2c8386c973e833"
+        }
+      ],
+      "rows_equal": 9000,
+      "differences": 0
+    }
+  ],
+  "scope": "Saved-result comparison; not a checker rerun"
+}

@@ -1,0 +1,14 @@
+{
+  "ancestor_rounds_replayed": 0,
+  "conservative_total_charge_CPU_seconds": 11,
+  "failed_review_executions": 0,
+  "full_new_replay_CPU_seconds": 8.711676,
+  "input_binding_CPU_seconds": 0.006564,
+  "new_complete_model_reconstructions": 6,
+  "optimizer_runs": 0,
+  "partial_models_used": 0,
+  "remaining_conservative_finishing_review_CPU_seconds": 19,
+  "seal_CPU_seconds_before_write": 0.0061239999999999975,
+  "source_preparation_CPU_seconds": 0.0005549999999999999,
+  "telemetry_process_CPU_seconds": 8.713935
+}

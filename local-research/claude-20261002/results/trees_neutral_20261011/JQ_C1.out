@@ -1,0 +1,6 @@
+PASS
+nodes=1 accepted=1 infeasible=1 terminal=0 split=0 rounds_evaluated=1 steps=1 terms=48209 zero_steps=1
+root='jQTw.n0.JQ.leaf' packing_sha256=24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7 certificate_sha256=0b2a8ff8a3f9e12d96291643785fdf29ce1e07889b6f3b5ece8190f961c5482e
+labels=17 S_floor=4675530093604551/1000000000000000
+gzip input: certificate_sha256 is the hash of the compressed file; uncompressed_sha256=3d4606d12b2305b838adf3f3a91719dc85e4ff91e2e2bc0e38a80ae800069c7b
+checker: wxcheck 3.0 / SPEC 3.0 / wx-cert-2, wx-cert-3; 27.7 s

@@ -1,0 +1,53 @@
+{
+  "finite_1": {
+    "expected_status": "PASS_EXACT_FINITE_PARTIAL_CONTRACTION_TARGET_NOT_REACHED",
+    "explanation": "Rounds 1\u20133 validate finite bounds without yet reaching the small-entry radius; finite_4 reaches it at round 17 and finite_join checks the transfer to small_entry.",
+    "closure": [
+      "finite_4",
+      "finite_join",
+      "small_entry"
+    ]
+  },
+  "finite_2": {
+    "expected_status": "PASS_EXACT_FINITE_PARTIAL_CONTRACTION_TARGET_NOT_REACHED",
+    "explanation": "Rounds 4\u20139 validate the continuation without yet reaching the small-entry radius; finite_4 reaches it at round 17 and finite_join checks the transfer to small_entry.",
+    "closure": [
+      "finite_4",
+      "finite_join",
+      "small_entry"
+    ]
+  },
+  "finite_3": {
+    "expected_status": "PASS_EXACT_FINITE_COMPLETED_PREFIX_PARTIAL_ROUND_EXCLUDED_TARGET_NOT_REACHED",
+    "explanation": "Rounds 10\u201315 are complete and the old partial round 16 is deliberately excluded; finite_4 supplies complete rounds 16\u201317 and finite_join checks their small_entry transfer.",
+    "closure": [
+      "finite_4",
+      "finite_join",
+      "small_entry"
+    ]
+  },
+  "normalized_prefix": {
+    "expected_status": "ACCEPTED_STOPPED_PROPAGATION_INCONCLUSIVE",
+    "explanation": "The first three stopped normalized rounds leave one norm face at radius 1; normalized_finish verifies rounds 4\u20135 and the strict ratio 159201934153319/200000000000000 < 1.",
+    "closure": [
+      "normalized_finish"
+    ]
+  },
+  "normalized_five_rounds": {
+    "expected_status": "ACCEPTED_FIVE_ROUND_OLD_WEIGHT_REUSE_INCONCLUSIVE",
+    "explanation": "The five rounds with reused weights correctly give no strict contraction; normalized_sixth_round removes six remaining norm faces, then the stopped chain normalized_prefix and normalized_finish closes the final face.",
+    "closure": [
+      "normalized_sixth_round",
+      "normalized_prefix",
+      "normalized_finish"
+    ]
+  },
+  "normalized_sixth_round": {
+    "expected_status": "ACCEPTED_SIX_NORM_FACES_ELIMINATED_ONE_REMAINS",
+    "explanation": "The targeted round eliminates six norm faces but leaves one; the full-domain stopped chain normalized_prefix and normalized_finish supplies strict contraction for that remaining obstruction.",
+    "closure": [
+      "normalized_prefix",
+      "normalized_finish"
+    ]
+  }
+}

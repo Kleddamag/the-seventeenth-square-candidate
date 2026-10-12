@@ -1,0 +1,471 @@
+{
+  "scope": "Syntactic inventory of current public Python inputs, not a semantic proof.",
+  "uses": [
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/bridge.py",
+      "sha256": "ccc190e5f9c35a44a8ec309327815359f737093160d4bbaa9b147e388bc5bb09",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/check_endpoint_enclosure.py",
+      "sha256": "c5516de0a97c3d52e05c21b86dde7b58ca3114a5f2ec70d4fec4ac41e529eb51",
+      "hits": [
+        {
+          "line": 139,
+          "text": "    for small, claimed, terminal in zip(roots,ep['tight_root_intervals'],gate['root']['intervals']):"
+        },
+        {
+          "line": 149,
+          "text": "    tight=tuple(map(Q,ep['L_interval'])); wide=tuple(map(Q,old['side_interval']))"
+        },
+        {
+          "line": 151,
+          "text": "    terminal_side=tuple(map(Q,gate['side_interval']))"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/adm.py",
+      "sha256": "92804b7047a6b2e9758c57817e761fdb9f976247302f2fbc253dc616fe0674cb",
+      "hits": [
+        {
+          "line": 33,
+          "text": "Llo,Lhi=[F(x) for x in ec[\"endpoint\"][\"L_interval\"]]"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/root_chart_transfer.py",
+      "sha256": "a130af5a3f8e021be4e1193a7a182f8430599ead13f9894a89f2bd943a284f95",
+      "hits": [
+        {
+          "line": 77,
+          "text": "t,beta=[J(*x) for x in gate['root']['intervals']]"
+        },
+        {
+          "line": 113,
+          "text": "    drift=2*F(gate['root']['tight_root_radius']) if i in range(8,14) or i==15 else F(0)"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/reader-corrections-AQ/verify_frame.py",
+      "sha256": "0dc1ca54835a29dfa4a82a183321ff5a472fb6d664fec695abd0dd59718dffcf",
+      "hits": [
+        {
+          "line": 6,
+          "text": "m=load(W/'second-order-20261010/theorem/THEOREM_MANIFEST.json');ep=W/'second-order-20261010/theorem/EXACT_ENDPOINT_AND_CASES.json';Lhi=F(load(ep)['endpoint']['L_interval'][1]);ref=Path('upper-packing-certificate.json');d=load(ref);R=F(d['side']);eps=F(d['squares'][0]['x'])-F(1,2)"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/check_transfer.py",
+      "sha256": "38e5e22060476d04cc0d79d6f43099716d09930fb617ac75e31e51a18effa2f6",
+      "hits": [
+        {
+          "line": 18,
+          "text": "root=[I(*v) for v in gate['root']['intervals']]"
+        },
+        {
+          "line": 55,
+          "text": "    drift=2*F(gate['root']['tight_root_radius']) if 9<=label<=14 or label==16 else F(0)"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/export.py",
+      "sha256": "e5f79c67a228620c925df14980983c6dbb5d8c6de4f66ed7ab1ee79cccf45b5b",
+      "hits": [
+        {
+          "line": 28,
+          "text": "for small,large in zip(gate['root']['intervals'],rr['root_intervals']):"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/check_binding.py",
+      "sha256": "bc90201c786ac7039becc17d62ed9799b7ac411166c7a70c9602f942fd1196f4",
+      "hits": [
+        {
+          "line": 39,
+          "text": "small=load(P/'inputs/accepted-root-gate.json')['root']['intervals'];large=load(RR/'arithmetic-receipt.json')['root_intervals']"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/check_transfer.py",
+      "sha256": "3598ba9b3d067d624f5632a9a3d8cb406dfa0d71243cb770e7c79d0b35f05663",
+      "hits": [
+        {
+          "line": 54,
+          "text": "t,beta=[J(*x) for x in gate['root']['intervals']]"
+        },
+        {
+          "line": 92,
+          "text": "    drift=2*F(gate['root']['tight_root_radius']) if i in range(8,14) or i==15 else F(0)"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/padded-terminal/check_stops.py",
+      "sha256": "4dd254c3ebdef41990e91ed6345fa63c8ebb17217fb692d2f49a31188a3fee59",
+      "hits": [
+        {
+          "line": 69,
+          "text": " max_core_drift=max(max_core_drift,2*F(rr['tight_root_radius']))"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/uniform-capture-20261007/bridge.py",
+      "sha256": "8d5c2a8253f1aae97a243e907d08b337f334a8f27c66e3235e66a30fd8ae9f10",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/check_binding.py",
+      "sha256": "265a0d458066ebf933aba89dce79634dc30b50ab53a3c58038489ec628972fb5",
+      "hits": [
+        {
+          "line": 62,
+          "text": " assert load(full/'producer/inputs/accepted-gate-receipt.json')['root']['intervals']==a['root_intervals']"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/check.py",
+      "sha256": "85d064c0d1a83f0ff3096ced34446426ffaa2194419e82dde5cede98705c6ff5",
+      "hits": [
+        {
+          "line": 72,
+          "text": "    rootdata=load(rootsource);sideupper=F(rootdata['side_interval'][1])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-independent-review/check.py",
+      "sha256": "edf090f0813b2c06a2262bc872f24da19f9bd13bbb44da2063daa66b85226880",
+      "hits": [
+        {
+          "line": 72,
+          "text": "    rootdata=load(rootsource);sideupper=F(rootdata['side_interval'][1])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/independent-review/check.py",
+      "sha256": "2d99441c24f99af20741b2a177b2904e883539d05ecf26bb46533f3add3c0434",
+      "hits": [
+        {
+          "line": 60,
+          "text": "    rootdata=load(rootsource);sideupper=F(rootdata['side_interval'][1])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/check.py",
+      "sha256": "36d3a6bfa167c4522a05b104d59380698985da73b6c5260c85a2f6ee36da147e",
+      "hits": [
+        {
+          "line": 72,
+          "text": "    rootdata=load(rootsource);sideupper=F(rootdata['side_interval'][1])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation-independent-review/check.py",
+      "sha256": "19defded8adaa959890f6a06b3b71202ae12d3eb284a0a867651f0d2dfe17dd1",
+      "hits": [
+        {
+          "line": 137,
+          "text": "root=[bridge.I(*v) for v in load(PROD/'inputs/accepted-root-gate.json')['root']['intervals']]"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/prefix/propagate.py",
+      "sha256": "84e6cfdedf41675ffaeb8166f7a04f772042799d73b186177676f96b2ec0f9d8",
+      "hits": [
+        {
+          "line": 61,
+          "text": "    data=g.geometry(*[b.I(*v) for v in rootgate['root']['intervals']])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/propagate.py",
+      "sha256": "76282c4c101128ee2e97d8b2722299fe219b71afdeb339b03ecb1e34ae311429",
+      "hits": [
+        {
+          "line": 68,
+          "text": "    data=g.geometry(*[b.I(*v) for v in rootgate['root']['intervals']])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/independent-review/check.py",
+      "sha256": "687117633213c48f4ca27b20861d4cb55842a1ad439bdc676f6edfd5552d5007",
+      "hits": [
+        {
+          "line": 124,
+          "text": "root=[bridge.I(*v) for v in load(PROD/'inputs/accepted-root-gate.json')['root']['intervals']]"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/propagate.py",
+      "sha256": "84e6cfdedf41675ffaeb8166f7a04f772042799d73b186177676f96b2ec0f9d8",
+      "hits": [
+        {
+          "line": 61,
+          "text": "    data=g.geometry(*[b.I(*v) for v in rootgate['root']['intervals']])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/check.py",
+      "sha256": "4168f30f0f8020cb360522953746bb07053fe6eb430b11d57a5badcd4155955b",
+      "hits": [
+        {
+          "line": 72,
+          "text": "t,beta=[J(*x) for x in gate['root']['intervals']]"
+        },
+        {
+          "line": 108,
+          "text": "    drift=2*F(gate['root']['tight_root_radius']) if i in range(8,14) or i==15 else F(0)"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/independent-review/check-v2.py",
+      "sha256": "3c20d1bcc8c7ab0357d66197b343087482e8cfa29c81c5e931a2bc8c2c547d8a",
+      "hits": [
+        {
+          "line": 134,
+          "text": "root = [bridge.I(*v) for v in read(PROD / 'inputs/accepted-root-gate.json')['root']['intervals']]"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/reuse_weights.py",
+      "sha256": "b312f4d986f9bc2da10c8a13b45b2b89d2b089fd559b427ced9879e8842e444c",
+      "hits": [
+        {
+          "line": 53,
+          "text": "    root=[b.I(*v) for v in accepted['root']['intervals']]"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/check_constants-v1.py",
+      "sha256": "1386b335f0eddd7bccf37c30b546d3e4b8241af6a7af6eec7513179f3c9a25a0",
+      "hits": [
+        {
+          "line": 25,
+          "text": "root = [I(*v) for v in gate['root']['intervals']]"
+        },
+        {
+          "line": 57,
+          "text": "    drift = 2*F(gate['root']['tight_root_radius']) if i in range(8,14) or i == 15 else F(0)"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/check_constants.py",
+      "sha256": "a0a14a2365ad322e4979c94fa8ecd09f0f48d51e836855cda38f81896295b00e",
+      "hits": [
+        {
+          "line": 25,
+          "text": "root = [I(*v) for v in gate['root']['intervals']]"
+        },
+        {
+          "line": 57,
+          "text": "    drift = 2*F(gate['root']['tight_root_radius']) if i in range(8,14) or i == 15 else F(0)"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/independent-review/check.py",
+      "sha256": "5ede8a98a86e54defb14626dd552953d133bf779c353fa11c9e3709085132393",
+      "hits": [
+        {
+          "line": 87,
+          "text": "root=[bridge.I(*v) for v in load(PROD/'inputs/accepted-root-gate.json')['root']['intervals']]"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/targeted_round.py",
+      "sha256": "38d44a4df7f9c9d3826816d89e7ff8b3bae83f969a72e861b61be67d9fcc6ec7",
+      "hits": [
+        {
+          "line": 53,
+          "text": "    root=[b.I(*v) for v in old_gate['root']['intervals']]"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/check_stops.py",
+      "sha256": "4dd254c3ebdef41990e91ed6345fa63c8ebb17217fb692d2f49a31188a3fee59",
+      "hits": [
+        {
+          "line": 69,
+          "text": " max_core_drift=max(max_core_drift,2*F(rr['tight_root_radius']))"
+        }
+      ]
+    },
+    {
+      "file": "research/uniform-capture-20261007/bridge.py",
+      "sha256": "8d5c2a8253f1aae97a243e907d08b337f334a8f27c66e3235e66a30fd8ae9f10",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+      "hits": [
+        {
+          "line": 120,
+          "text": "                     tight_root_radius=str(tight_rounded),"
+        },
+        {
+          "line": 177,
+          "text": "    angle_drift=2*F(root_receipt['tight_root_radius'])"
+        }
+      ]
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/padded-terminal/check_stops.py",
+      "sha256": "4dd254c3ebdef41990e91ed6345fa63c8ebb17217fb692d2f49a31188a3fee59",
+      "hits": [
+        {
+          "line": 69,
+          "text": " max_core_drift=max(max_core_drift,2*F(rr['tight_root_radius']))"
+        }
+      ]
+    }
+  ]
+}

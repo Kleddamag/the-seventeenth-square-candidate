@@ -1,0 +1,1768 @@
+{
+  "rows": [
+    {
+      "clause": "BRANCH_JPA_L01",
+      "root": "JPA",
+      "label": 1,
+      "selected": "CLASS_PS_L01_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T09/classes.json",
+        "sha256": "cf863943c8ad07d46ec51c7211e89c366108e935329a22615ce0c2a11c2ddb7a",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L02",
+      "root": "JPA",
+      "label": 2,
+      "selected": "CLASS_PS_L02_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T09/classes.json",
+        "sha256": "02a9e631e8aef429b0ae9e611dbcb710666e9d58e46534ffc32b818ac7c1a7e3",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L05",
+      "root": "JPA",
+      "label": 5,
+      "selected": "CLASS_PS_L05_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T09/classes.json",
+        "sha256": "52d382b99c4316a30679aac1acc9ae2f7fab767647311c8c3fcdae89a4f0167b",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L06",
+      "root": "JPA",
+      "label": 6,
+      "selected": "CLASS_PS_L06_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T09/classes.json",
+        "sha256": "a60ff063c193a12c693a51d2210401435787bfc9fe47d0e513a5537e1969bae7",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L07",
+      "root": "JPA",
+      "label": 7,
+      "selected": "CLASS_PS_L07_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T09/classes.json",
+        "sha256": "15008f41f0178377a1bfd7236a94cbb0983563d69672e1097ce78bdb7c0a13ff",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L08",
+      "root": "JPA",
+      "label": 8,
+      "selected": "CLASS_PS_L08_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T09/classes.json",
+        "sha256": "6033cb4d727787bb32cecbb639cd9774d64702870ddae39c3f6aedd13ed4ffd9",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L10",
+      "root": "JPA",
+      "label": 10,
+      "selected": "CLASS_PS_L10_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L10_T09/classes.json",
+        "sha256": "b0a6d13da7851e18cc12c159dd7d32a22f190b8f827395629d9eb1f74b9e2b04",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L11",
+      "root": "JPA",
+      "label": 11,
+      "selected": "CLASS_PSW37_L11_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T09/classes.json",
+        "sha256": "412cd87edd916b8adffa65e311c6c0d3a22151afbffadaaba6118c78f91d1bca",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L12",
+      "root": "JPA",
+      "label": 12,
+      "selected": "CLASS_PS_L12_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T09/classes.json",
+        "sha256": "72a0c9e08a1cb86666eb7070dea5dc0da4c8a0e04420de01bcfe77a26e26f866",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L13",
+      "root": "JPA",
+      "label": 13,
+      "selected": "CLASS_PS_L13_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L13_T09/classes.json",
+        "sha256": "991d8796d38b3a714d7459c70bb5cfb4cb791809b6743417a488e2800ca165dd",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L14",
+      "root": "JPA",
+      "label": 14,
+      "selected": "CLASS_PS_L14_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T09/classes.json",
+        "sha256": "6a0ae987bd8639ae4f20bf5945b04d53d30b65b76ec7a244bca6ffc2a9fe0645",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPA_L16",
+      "root": "JPA",
+      "label": 16,
+      "selected": "CLASS_PS_L16_T09",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L16_T09/classes.json",
+        "sha256": "9569dba71efd7fac6cb5b7c66ec0646b1030d3f7de000b33192e0c59594b7378",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L01",
+      "root": "JPG3m",
+      "label": 1,
+      "selected": "CLASS_PSS_L01_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T03/classes.json",
+        "sha256": "8ae6c76791b55d51e8260e70dc79150466ac59f63aa64a7fae52d43eccef8004",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L01",
+      "root": "JPG3p",
+      "label": 1,
+      "selected": "CLASS_PSS_L01_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T03/classes.json",
+        "sha256": "8ae6c76791b55d51e8260e70dc79150466ac59f63aa64a7fae52d43eccef8004",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L02",
+      "root": "JPG3m",
+      "label": 2,
+      "selected": "CLASS_PSS_L02_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T03/classes.json",
+        "sha256": "d088c2915c27c540d11c357d413b1c24ebe30424d5e9e0b6f57da23a4fa81efa",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L02",
+      "root": "JPG3p",
+      "label": 2,
+      "selected": "CLASS_PSS_L02_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T03/classes.json",
+        "sha256": "d088c2915c27c540d11c357d413b1c24ebe30424d5e9e0b6f57da23a4fa81efa",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L05",
+      "root": "JPG3m",
+      "label": 5,
+      "selected": "CLASS_PSS_L05_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T03/classes.json",
+        "sha256": "f70a3923ed7948c3b61464156bbb4debdab3b612e443f9017bcb7cf09f961444",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L05",
+      "root": "JPG3p",
+      "label": 5,
+      "selected": "CLASS_PSS_L05_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T03/classes.json",
+        "sha256": "f70a3923ed7948c3b61464156bbb4debdab3b612e443f9017bcb7cf09f961444",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L06",
+      "root": "JPG3m",
+      "label": 6,
+      "selected": "CLASS_PSS_L06_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T03/classes.json",
+        "sha256": "24017292d83783d46f864ed4b62e387679d94a9b118d403dd5bc1559a4331c52",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L06",
+      "root": "JPG3p",
+      "label": 6,
+      "selected": "CLASS_PSS_L06_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T03/classes.json",
+        "sha256": "24017292d83783d46f864ed4b62e387679d94a9b118d403dd5bc1559a4331c52",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L07",
+      "root": "JPG3m",
+      "label": 7,
+      "selected": "CLASS_PSS_L07_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T03/classes.json",
+        "sha256": "a40daf705130c2bb72607801009ef1bad21ff35c6f725b24fb222a5d71576fad",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L07",
+      "root": "JPG3p",
+      "label": 7,
+      "selected": "CLASS_PSS_L07_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T03/classes.json",
+        "sha256": "a40daf705130c2bb72607801009ef1bad21ff35c6f725b24fb222a5d71576fad",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L08",
+      "root": "JPG3m",
+      "label": 8,
+      "selected": "CLASS_PSS_L08_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T03/classes.json",
+        "sha256": "2a63485ed9c40b6dc1cf4dc85b57e5dccc7fb4e8099479c641bdc9262416d42c",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L08",
+      "root": "JPG3p",
+      "label": 8,
+      "selected": "CLASS_PSS_L08_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T03/classes.json",
+        "sha256": "2a63485ed9c40b6dc1cf4dc85b57e5dccc7fb4e8099479c641bdc9262416d42c",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L10",
+      "root": "JPG3m",
+      "label": 10,
+      "selected": "CLASS_PSS_L10_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T03/classes.json",
+        "sha256": "4abd345bf45ae7c33bf9ff807f3c6a7f2940d5112373825ddb8557e58715556c",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L10",
+      "root": "JPG3p",
+      "label": 10,
+      "selected": "CLASS_PSS_L10_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T03/classes.json",
+        "sha256": "4abd345bf45ae7c33bf9ff807f3c6a7f2940d5112373825ddb8557e58715556c",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L11",
+      "root": "JPG3m",
+      "label": 11,
+      "selected": "CLASS_PSSW37_L11_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T03/classes.json",
+        "sha256": "62884f4713ede60ac2a9e94bb9c9f9ca457eb53ba0af74a610e72e617d9a32ac",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L11",
+      "root": "JPG3p",
+      "label": 11,
+      "selected": "CLASS_PSSW37_L11_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T03/classes.json",
+        "sha256": "62884f4713ede60ac2a9e94bb9c9f9ca457eb53ba0af74a610e72e617d9a32ac",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L12",
+      "root": "JPG3m",
+      "label": 12,
+      "selected": "CLASS_PSS_L12_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T03/classes.json",
+        "sha256": "f482bf2f00cff2a68336582f6f59f8eee9e597a9bb2e262be53f220fc1ec4b25",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L12",
+      "root": "JPG3p",
+      "label": 12,
+      "selected": "CLASS_PSS_L12_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T03/classes.json",
+        "sha256": "f482bf2f00cff2a68336582f6f59f8eee9e597a9bb2e262be53f220fc1ec4b25",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L13",
+      "root": "JPG3m",
+      "label": 13,
+      "selected": "CLASS_PSS_L13_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T03/classes.json",
+        "sha256": "de107501a681e10c34dee1e1a4e5ca7be1a68fa8764ee7486603b398c322aef5",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L13",
+      "root": "JPG3p",
+      "label": 13,
+      "selected": "CLASS_PSS_L13_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T03/classes.json",
+        "sha256": "de107501a681e10c34dee1e1a4e5ca7be1a68fa8764ee7486603b398c322aef5",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L14",
+      "root": "JPG3m",
+      "label": 14,
+      "selected": "CLASS_PSS_L14_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T03/classes.json",
+        "sha256": "79a1e0632b4e0387426630b04955b250fca1b018244d3d3e7bb9a49fa273b7a4",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L14",
+      "root": "JPG3p",
+      "label": 14,
+      "selected": "CLASS_PSS_L14_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T03/classes.json",
+        "sha256": "79a1e0632b4e0387426630b04955b250fca1b018244d3d3e7bb9a49fa273b7a4",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3m_L16",
+      "root": "JPG3m",
+      "label": 16,
+      "selected": "CLASS_PSS_L16_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T03/classes.json",
+        "sha256": "e201fcfe967ae51b6afed3e023c2fe55974b91663b3da081cbae0c4330046b06",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG3p_L16",
+      "root": "JPG3p",
+      "label": 16,
+      "selected": "CLASS_PSS_L16_T03",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T03/classes.json",
+        "sha256": "e201fcfe967ae51b6afed3e023c2fe55974b91663b3da081cbae0c4330046b06",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+          "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+          "bound": "20",
+          "name": "L_3"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L01",
+      "root": "JPG17m",
+      "label": 1,
+      "selected": "CLASS_PS_L01_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T17/classes.json",
+        "sha256": "908568bc86012c6c6e6059c89a8d18163ab8f44396c4f959e5a840e6ce0351b5",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L01",
+      "root": "JPG17p",
+      "label": 1,
+      "selected": "CLASS_PS_L01_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T17/classes.json",
+        "sha256": "908568bc86012c6c6e6059c89a8d18163ab8f44396c4f959e5a840e6ce0351b5",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L02",
+      "root": "JPG17m",
+      "label": 2,
+      "selected": "CLASS_PS_L02_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T17/classes.json",
+        "sha256": "4977cb1cead16954109054d905ce709a04cf1d8a411c17f5cbf83c113b69c30c",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L02",
+      "root": "JPG17p",
+      "label": 2,
+      "selected": "CLASS_PS_L02_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T17/classes.json",
+        "sha256": "4977cb1cead16954109054d905ce709a04cf1d8a411c17f5cbf83c113b69c30c",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L05",
+      "root": "JPG17m",
+      "label": 5,
+      "selected": "CLASS_PS_L05_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T17/classes.json",
+        "sha256": "fd6975bab124ef46cb82c69c08de6698276cbdc21148a1cbf1e082bf74166b15",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L05",
+      "root": "JPG17p",
+      "label": 5,
+      "selected": "CLASS_PS_L05_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T17/classes.json",
+        "sha256": "fd6975bab124ef46cb82c69c08de6698276cbdc21148a1cbf1e082bf74166b15",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L06",
+      "root": "JPG17m",
+      "label": 6,
+      "selected": "CLASS_PS_L06_T17_ENDm_H4T4",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/classes.json",
+        "sha256": "b9b44bd070c7a08faf890face91d3203c6e6bbf23c21e5c75f36a59d22d04cb2",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L06",
+      "root": "JPG17p",
+      "label": 6,
+      "selected": "CLASS_PS_L06_T17_ENDp_H4T4",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDp_H4T4/classes.json",
+        "sha256": "c4664fbfdf7caee23936b18f9f6d7844bd426abb9f188aa8128368ce35a57288",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L07",
+      "root": "JPG17m",
+      "label": 7,
+      "selected": "CLASS_PS_L07_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T17/classes.json",
+        "sha256": "005656a102ffa96d41fd8bc82f7f0e7c8af6788238aec87ebb4380b6a4bf043a",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L07",
+      "root": "JPG17p",
+      "label": 7,
+      "selected": "CLASS_PS_L07_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T17/classes.json",
+        "sha256": "005656a102ffa96d41fd8bc82f7f0e7c8af6788238aec87ebb4380b6a4bf043a",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L08",
+      "root": "JPG17m",
+      "label": 8,
+      "selected": "CLASS_PS_L08_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T17/classes.json",
+        "sha256": "ec2ef3a80c75d895214105b5f225a76cf290ce760efb16dd022c6980654ffa59",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L08",
+      "root": "JPG17p",
+      "label": 8,
+      "selected": "CLASS_PS_L08_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T17/classes.json",
+        "sha256": "ec2ef3a80c75d895214105b5f225a76cf290ce760efb16dd022c6980654ffa59",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L10",
+      "root": "JPG17m",
+      "label": 10,
+      "selected": "CLASS_PS_L10_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L10_T17/classes.json",
+        "sha256": "3b865a9969842eae2228a0e2f9927632ce83b28827819044db3089150b99730a",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L10",
+      "root": "JPG17p",
+      "label": 10,
+      "selected": "CLASS_PS_L10_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L10_T17/classes.json",
+        "sha256": "3b865a9969842eae2228a0e2f9927632ce83b28827819044db3089150b99730a",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L11",
+      "root": "JPG17m",
+      "label": 11,
+      "selected": "CLASS_PSW37_L11_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T17/classes.json",
+        "sha256": "e8364ed2427eddc1b8c601b75a79b080ff821b19af44fd353f86edde7e0a4808",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L11",
+      "root": "JPG17p",
+      "label": 11,
+      "selected": "CLASS_PSW37_L11_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T17/classes.json",
+        "sha256": "e8364ed2427eddc1b8c601b75a79b080ff821b19af44fd353f86edde7e0a4808",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L12",
+      "root": "JPG17m",
+      "label": 12,
+      "selected": "CLASS_PS_L12_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T17/classes.json",
+        "sha256": "0d50c1245b0c491762133539e274e3b2f42c473e70c0c365a53e834a07656694",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L12",
+      "root": "JPG17p",
+      "label": 12,
+      "selected": "CLASS_PS_L12_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T17/classes.json",
+        "sha256": "0d50c1245b0c491762133539e274e3b2f42c473e70c0c365a53e834a07656694",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L13",
+      "root": "JPG17m",
+      "label": 13,
+      "selected": "CLASS_PS_L13_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L13_T17/classes.json",
+        "sha256": "5be93afc48f5a0c695fe8636de0cc3590d06132bba5b4d4673abfdc65b41e21b",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L13",
+      "root": "JPG17p",
+      "label": 13,
+      "selected": "CLASS_PS_L13_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L13_T17/classes.json",
+        "sha256": "5be93afc48f5a0c695fe8636de0cc3590d06132bba5b4d4673abfdc65b41e21b",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L14",
+      "root": "JPG17m",
+      "label": 14,
+      "selected": "CLASS_PS_L14_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T17/classes.json",
+        "sha256": "0f4387d451bc63dc98a4cfe73d460aa27f47bc1a1fba1a46aa3be7ec1b505c9d",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L14",
+      "root": "JPG17p",
+      "label": 14,
+      "selected": "CLASS_PS_L14_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T17/classes.json",
+        "sha256": "0f4387d451bc63dc98a4cfe73d460aa27f47bc1a1fba1a46aa3be7ec1b505c9d",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17m_L16",
+      "root": "JPG17m",
+      "label": 16,
+      "selected": "CLASS_PS_L16_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L16_T17/classes.json",
+        "sha256": "c5121f5d7ca01b8708317050f19c2b0d529183112ab1bd133d8e3f5f17ecbd16",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG17p_L16",
+      "root": "JPG17p",
+      "label": 16,
+      "selected": "CLASS_PS_L16_T17",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L16_T17/classes.json",
+        "sha256": "c5121f5d7ca01b8708317050f19c2b0d529183112ab1bd133d8e3f5f17ecbd16",
+        "bound": "23"
+      },
+      "extra_capture_premises": [],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L01",
+      "root": "JPG15m",
+      "label": 1,
+      "selected": "CLASS_PSS_L01_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T15/classes.json",
+        "sha256": "f86fd85a135968cefe289e156c0682a97d6bbfbb69f75f1b23f6321670bcbc2d",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L01",
+      "root": "JPG15p",
+      "label": 1,
+      "selected": "CLASS_PSS_L01_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T15/classes.json",
+        "sha256": "f86fd85a135968cefe289e156c0682a97d6bbfbb69f75f1b23f6321670bcbc2d",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L02",
+      "root": "JPG15m",
+      "label": 2,
+      "selected": "CLASS_PSS_L02_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T15/classes.json",
+        "sha256": "b4da182de81bbfba970a818f90cd4d88d9ffe32c90cb269a1086a42e41811a48",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L02",
+      "root": "JPG15p",
+      "label": 2,
+      "selected": "CLASS_PSS_L02_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T15/classes.json",
+        "sha256": "b4da182de81bbfba970a818f90cd4d88d9ffe32c90cb269a1086a42e41811a48",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L05",
+      "root": "JPG15m",
+      "label": 5,
+      "selected": "CLASS_PSS_L05_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T15/classes.json",
+        "sha256": "0efc813df60b0a8038d47e7136c8bfbc0dd9aa8517a87a8853afdcbd8d4df41f",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L05",
+      "root": "JPG15p",
+      "label": 5,
+      "selected": "CLASS_PSS_L05_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T15/classes.json",
+        "sha256": "0efc813df60b0a8038d47e7136c8bfbc0dd9aa8517a87a8853afdcbd8d4df41f",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L06",
+      "root": "JPG15m",
+      "label": 6,
+      "selected": "CLASS_PSS_L06_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T15/classes.json",
+        "sha256": "de85adf8c426e8b707c74fca6ba8280ad71e0728946c8733d3f3ba3d085eeacb",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L06",
+      "root": "JPG15p",
+      "label": 6,
+      "selected": "CLASS_PSS_L06_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T15/classes.json",
+        "sha256": "de85adf8c426e8b707c74fca6ba8280ad71e0728946c8733d3f3ba3d085eeacb",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L07",
+      "root": "JPG15m",
+      "label": 7,
+      "selected": "CLASS_PSS_L07_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T15/classes.json",
+        "sha256": "9be54730c0d6f3df38c08c4382e761990ba05c58a232a2c15385961e9c3f4ad4",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L07",
+      "root": "JPG15p",
+      "label": 7,
+      "selected": "CLASS_PSS_L07_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T15/classes.json",
+        "sha256": "9be54730c0d6f3df38c08c4382e761990ba05c58a232a2c15385961e9c3f4ad4",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L08",
+      "root": "JPG15m",
+      "label": 8,
+      "selected": "CLASS_PSS_L08_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T15/classes.json",
+        "sha256": "6cf2ec359c7c854c499a1f02afd9fd9eaac7801ecd3a3d8f6b6b87a16a3c581f",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L08",
+      "root": "JPG15p",
+      "label": 8,
+      "selected": "CLASS_PSS_L08_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T15/classes.json",
+        "sha256": "6cf2ec359c7c854c499a1f02afd9fd9eaac7801ecd3a3d8f6b6b87a16a3c581f",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L10",
+      "root": "JPG15m",
+      "label": 10,
+      "selected": "CLASS_PSS_L10_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T15/classes.json",
+        "sha256": "409e2c0ed3c0cecd4ccf80d23455ea7236ed78b776070f1710b0cbb61b95b7dc",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L10",
+      "root": "JPG15p",
+      "label": 10,
+      "selected": "CLASS_PSS_L10_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T15/classes.json",
+        "sha256": "409e2c0ed3c0cecd4ccf80d23455ea7236ed78b776070f1710b0cbb61b95b7dc",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L11",
+      "root": "JPG15m",
+      "label": 11,
+      "selected": "CLASS_PSSW37_L11_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T15/classes.json",
+        "sha256": "dbb66ab1b94e553edd86968f0580430318bfb44805252c90fe469792fb90a4f1",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L11",
+      "root": "JPG15p",
+      "label": 11,
+      "selected": "CLASS_PSSW37_L11_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T15/classes.json",
+        "sha256": "dbb66ab1b94e553edd86968f0580430318bfb44805252c90fe469792fb90a4f1",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L12",
+      "root": "JPG15m",
+      "label": 12,
+      "selected": "CLASS_PSS_L12_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T15/classes.json",
+        "sha256": "f97677de9779e9e150a1aded11b776dea42879d58108c615419440406fe8d260",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L12",
+      "root": "JPG15p",
+      "label": 12,
+      "selected": "CLASS_PSS_L12_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T15/classes.json",
+        "sha256": "f97677de9779e9e150a1aded11b776dea42879d58108c615419440406fe8d260",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L13",
+      "root": "JPG15m",
+      "label": 13,
+      "selected": "CLASS_PSS_L13_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T15/classes.json",
+        "sha256": "d4cf80e98fc30a7f055b873d42b7aeda7f1c8c5d22ed3567b19a5bee8543237a",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L13",
+      "root": "JPG15p",
+      "label": 13,
+      "selected": "CLASS_PSS_L13_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T15/classes.json",
+        "sha256": "d4cf80e98fc30a7f055b873d42b7aeda7f1c8c5d22ed3567b19a5bee8543237a",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L14",
+      "root": "JPG15m",
+      "label": 14,
+      "selected": "CLASS_PSS_L14_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/classes.json",
+        "sha256": "2981d82e61a486f553de90a396a7a20807206d892a8aa3cb86d4b867cd9a5aa0",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L14",
+      "root": "JPG15p",
+      "label": 14,
+      "selected": "CLASS_PSS_L14_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/classes.json",
+        "sha256": "2981d82e61a486f553de90a396a7a20807206d892a8aa3cb86d4b867cd9a5aa0",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15m_L16",
+      "root": "JPG15m",
+      "label": 16,
+      "selected": "CLASS_PSS_L16_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T15/classes.json",
+        "sha256": "766f855f06919d30dc4fb3102f466814ab7a7b87f96ce892b51ea76c0df3be16",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      },
+      "extra_class_premises": []
+    },
+    {
+      "clause": "BRANCH_JPG15p_L16",
+      "root": "JPG15p",
+      "label": 16,
+      "selected": "CLASS_PSS_L16_T15",
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T15/classes.json",
+        "sha256": "766f855f06919d30dc4fb3102f466814ab7a7b87f96ce892b51ea76c0df3be16",
+        "bound": "23"
+      },
+      "extra_capture_premises": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+          "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+          "bound": "20",
+          "name": "L_15"
+        }
+      ],
+      "root_binding": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "extra_class_premises": []
+    }
+  ]
+}

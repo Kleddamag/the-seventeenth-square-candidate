@@ -1,0 +1,28 @@
+# Independent review: E_JPG15m, v5
+
+**COUNTED / PROVED as a local EMPTY statement, 10 October 2026.** Reviewer: Codex. I did not produce the root tree, the lead record, or either full arithmetic acceptance run. This review accepts the exact statement below and its binding, with the two contextual corrections below. It does not accept a global case exclusion.
+
+Let seventeen physical unit squares have pairwise disjoint interiors and be contained in `[0,S]^2`, for `S <= R = 4675530093604551/10^15`. Use the fixed origin and fixed reference chart of SPEC3 and `upper-packing-certificate.json` (SHA `24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7`). They cannot simultaneously satisfy all 34 closed coordinate intervals and 17 closed independent direction arcs of `research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json`, SHA `f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06`. Quarter-turn choices are those of the admitted root; no equality between different labels' orientations is imposed.
+
+The review's complete literal bindings and results are in `AUDIT.json`; `LEAD_RECORD_SNAPSHOT.md` preserves the reviewed lead text. Replay from the repository root:
+
+```
+python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPG15m_v5/audit.py
+```
+
+The full compressed certificate SHA is `ed66c59b16b4b3549826311b8ba2b5be9c538e0235abab3cebb19789b9637c58`; the complete decompressed stream SHA is `d551253dcc44686ff826ac93841ae9a07ca614290c4e4d6a1a379621875648f9`. The EXPECT SHA is `b6b3ba8dd075a735d15a3cf31a0aee7b58ff6988129e3bc89eb0bb8cd6798d13`. Both frozen checkers' default complete executions accepted these bytes. Their receipts agree on every node identity, line, closure and each of the 39 positive exact zero-step lower bounds. The least bound is about 0.002831597; the exact rational is retained in AUDIT.json. No floating sign or tolerance is used to accept a leaf.
+
+I streamed the actual certificate with my own reader and checked the assumption-free root against every literal root interval/arc and the selected manifest root hash. I checked the finite tree independently: 61 distinct reachable nodes, 60 parent-child edges, depth 7, 22 splits and 39 infeasible leaves, no terminal leaves or disconnected pieces. Every child contains its entire required closed piece in all 34 coordinates, all 17 arcs and side interval, with exactly the inherited assumptions and the specified extra option. This includes changed arc centres and degeneracies; containment is rational and permits the 37 nodes extending beyond a root arc. Label11's full v5 box and arc remain unchanged at every node. No split narrows them silently.
+
+The 11 arc splits are exactly the cuts reported in the lead record. The other 11 splits concern pair(12,15), eight times with four options, and pair(14,17), three times with two options. No omitted option is supplied as a floating premise. In addition to the saved complete receipts, I replayed all omitted-option exclusions in the frozen Python **geometry** kernel on each splitting node. All these nodes have zero rounds: these exclusions use the initial exact box/arcs and require no un-replayed polynomial contraction. This supplementary check reuses the independently reviewed frozen kernel; it is not a second independently implemented option-bound algorithm. My tree/child-coverage reader is separate from that kernel.
+
+The singleton side interval `[R,R]` is sufficient. Any packing at a smaller S with these fixed root poses is also a packing at R without moving any square; containment only weakens, and the reference chart does not change. Applying the exact EMPTY root at R is then a contradiction. This uses the already independently reviewed SPEC3 section11 argument. It does not assume an uncertified lower bound or conflate R with the algebraic optimum.
+
+**Verification limits.** I imported the two saved full exact polynomial evaluations rather than rerunning 1,453,516 terms. I verified their actual input/source/EXPECT/reference hashes and all saved per-node results. Soundness of the polynomial rules and checker implementations is inherited from the independently accepted SPEC3/Python/Node/acceptance reviews already pinned by the theorem manifest. I did not regenerate the tree or audit a floating solver. This new streaming/geometry pass cost 9.16 process CPU seconds, peak RSS 378,060,800 bytes, one process. An earlier reader run stopped on my wrong name for the geometry-kernel label-selector API; that harness error was corrected and the entire pass rerun successfully. It was not a certificate rejection.
+
+Two corrections to the lead record's surrounding context are required when it is next edited, but do not change its literal EMPTY theorem:
+
+- Its statement that no class statement for this branch has certified is outdated: PSS_L12_T15 and its L15 premise are now counted. Other capture obligations remain open.
+- Its statement that the v5 admission has not been independently reviewed is outdated for this contract: the independent v5 admission acceptance is `ef2b0fff65415574d3bd730ae643f7bdfcabd3f7e0e5e4313da73a5b3df0f2de`. This review checks that the new region root is exactly the selected admitted one; it does not extend that admission to any unlisted class file.
+
+**Consequence and remaining obligation.** LOCAL_JPG15m is discharged. Complete capture into this region still requires the other eleven rigid-label clauses and the remaining loose-label base statements L3,L4,L17, alongside the already counted shared premises. Closing this local region is not closing the entire packing case or proving global optimality.

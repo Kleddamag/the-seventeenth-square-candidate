@@ -1,0 +1,9 @@
+{
+  "CPU_seconds": 0.0005039999999999975,
+  "new_review_CPU_cap_seconds": 30,
+  "optimizer_runs": 0,
+  "model_runs": 0,
+  "independent_model_byteidentical_prefix": "f1e9b375a3985904e848e7e2ba8149a3efdaf7938cfb9111265f3d689fc35305",
+  "prefix_manifest_sha256": "65ba63fc416b50daf3c179901b059d9e2da6b340c3b70604983aa52931fa86ec",
+  "changes": "Schema/limit/global numbering and accepted prefix restore; unchanged polynomial/residual/update arithmetic; explicit terminal threshold and physical17 join."
+}

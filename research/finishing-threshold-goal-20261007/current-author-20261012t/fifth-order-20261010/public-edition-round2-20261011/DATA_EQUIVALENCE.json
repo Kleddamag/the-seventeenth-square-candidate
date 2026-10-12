@@ -1,0 +1,145 @@
+[
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/SMALL_CHECKS_PUBLIC.json",
+    "sha256": "aeac451de711382536319d360aa9b1b9dcbacaf0b904081c68b6e49cf4c7b5d8",
+    "mode": "pin_metadata_only",
+    "canonical_mathematical_sha256": "d856a10a6fd7f29aa9f10c12f55ae99ab7608942b7819fea7ad1c0edd20b01a8",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/SMALL_CHECKS_PUBLIC.json",
+      "sha256": "2bd527647b421e844d101e2b1cede6cfb4bccc17bcb92a058ab29765ee347153",
+      "bytes": 7921
+    },
+    "scope": "Exact equality after explicitly declared metadata projection; not semantic equivalence of English.",
+    "bytes": 8689
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/FRAME_DISJOINTNESS_PUBLIC.json",
+    "sha256": "0c2ff4c4397b7174358068d92b83da881ff35f7f73d5913361c8e59b9689cb58",
+    "mode": "pin_metadata_only",
+    "canonical_mathematical_sha256": "dfbae64fd6de8d5f1ca6d5c3d928a71849fdadc10b8af70d967c7f9262a60210",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/FRAME_DISJOINTNESS_PUBLIC.json",
+      "sha256": "7de46e9d79a4472c75a8fce6a042f2c89555701e0268cc3d29c69d825d5a3737",
+      "bytes": 1327
+    },
+    "scope": "Exact equality after explicitly declared metadata projection; not semantic equivalence of English.",
+    "bytes": 1432
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/CLASS_ROW_SOURCES_PUBLIC.json",
+    "sha256": "df45d25eb06c49b152a6bf40fdd4f472f753c86ab0695ef9e813a84af20d1953",
+    "mode": "pin_metadata_only",
+    "canonical_mathematical_sha256": "e3b2f9f1176b98324c41be6823abf0a185ab15a69f10dae12587d55c5a42a8a6",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/CLASS_ROW_SOURCES_PUBLIC.json",
+      "sha256": "bd9bffa16570c209f36fcb9c7ed0a395fd9ef0d1b36fb2a8c43c33c99f63e30e",
+      "bytes": 1868
+    },
+    "scope": "Exact equality after explicitly declared metadata projection; not semantic equivalence of English.",
+    "bytes": 2033
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/CLASS_ALIASES_PUBLIC.json",
+    "sha256": "22829606e07df8819cf46095b878cab378cc4a3b07614a9667112e87b2f1e27d",
+    "mode": "current_aliases",
+    "canonical_mathematical_sha256": "c588646f03e290c8aafd4cb7496d8e8ec04b06074f8607eb027cb760ac2e066d",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/CLASS_ALIASES_PUBLIC.json",
+      "sha256": "5865a58e1019387029d27a2130a27f98903519efcab1ac0937c3873d5db12d13",
+      "bytes": 58115
+    },
+    "scope": "Exact equality after pin/optional-slot metadata and declared class-name normalization. Current capture execution/alias identities require the separate current-run replay.",
+    "bytes": 99644
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/LABEL11_ARCS_PUBLIC.json",
+    "sha256": "422aba267f1f497eb4b84cda0593631bf2acec2baa239d0b1212b32b08bcfa21",
+    "mode": "current_arc_records",
+    "canonical_mathematical_sha256": "2ce6d4ed36f80763f0729a39db3ade3733eca09465bf95350edd47b20eb0b9d0",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/LABEL11_ARCS_PUBLIC.json",
+      "sha256": "688cb63f9ed59d82ea056790d6a8caba51e5bf250015454b85787a70b5521e90",
+      "bytes": 9276
+    },
+    "scope": "Exact equality after pin/optional-slot metadata and declared class-name normalization. Current capture execution/alias identities require the separate current-run replay.",
+    "bytes": 8348
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/LABEL11_MARGINS_PUBLIC.json",
+    "sha256": "96a46c1042e619e140ee97a63085088e7e759337766372a59cabf56460cb01e5",
+    "mode": "pin_metadata_only",
+    "canonical_mathematical_sha256": "95937604ecfd518843e225f1a16eaabd7fe5247dcaf2c9f2b8637718a95131bb",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/LABEL11_MARGINS_PUBLIC.json",
+      "sha256": "1dd0ec25aae67e48f46a7f21ce03c05d2ae628ae861c019d43b76742cc01b2d4",
+      "bytes": 11308
+    },
+    "scope": "Exact equality after explicitly declared metadata projection; not semantic equivalence of English.",
+    "bytes": 11318
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/LITERAL_STATEMENTS_PUBLIC.json",
+    "sha256": "ffc36bac9d8f0f027b76a3f4d7cbba063ae38c69b0987e7346078788f786923c",
+    "mode": "current_literals",
+    "canonical_mathematical_sha256": "ccb85b38a58ddc988e2714f6c9dedf469ea307dd299139bfe503ff34f6470fbf",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/LITERAL_STATEMENTS_PUBLIC.json",
+      "sha256": "10aaf4e5ab188b012300eaaf78c987e85fd06c9255be5a0991a4cfcf2e012f8f",
+      "bytes": 187342
+    },
+    "scope": "Exact equality after pin/optional-slot metadata and declared class-name normalization. Current capture execution/alias identities require the separate current-run replay.",
+    "bytes": 212536
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/REVIEWS_PUBLIC.json",
+    "sha256": "a2b3dee366ff09012d72f2de8872906337a6f1d78e1a5ecfe89495e139d889a3",
+    "mode": "pin_metadata_only",
+    "canonical_mathematical_sha256": "a53828a1036401b0c2eed087710ab5e00b7bacabff8a0526149dc246eedd50d9",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/REVIEWS_PUBLIC.json",
+      "sha256": "5c33de85186d0d7fee569fc9a0b71e0e6e1037a17db1dc580c7e843c9d8c4801",
+      "bytes": 12229
+    },
+    "scope": "Exact equality after explicitly declared metadata projection; not semantic equivalence of English.",
+    "bytes": 12432
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012i/fifth-order-20261010/public-edition-round2-20261011/runtime/SELECTED_ORIGINAL_MAP.json",
+    "sha256": "8b7048860475046a8f92d5f8993d6e7af773b879454c4a1857966e0f317852a3",
+    "mode": "pin_metadata_only",
+    "canonical_mathematical_sha256": "11cc7e8a46ac71c40272f190f8b0ed269a064b77ea86d01baffdcb45a7f57944",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/runtime/SELECTED_ORIGINAL_MAP.json",
+      "sha256": "57dd5d08ecb77b500648c243ed86fd5f6608215f4492986487477b169382ee51",
+      "bytes": 67163
+    },
+    "scope": "Exact equality after explicitly declared metadata projection; not semantic equivalence of English.",
+    "bytes": 72743
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/runtime/RECEIPT_ROSTER.json",
+    "sha256": "0a193a116df987efcc5ecfa6512ed4c1dabe8369cb95c33e8d858d44fcea0983",
+    "mode": "current_roster",
+    "canonical_mathematical_sha256": "9b7d0ce8a4c25c27536564f04eb4fefc3d8f0c77e62df6c0f5ee76c586e2c6f1",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-round2-20261011/runtime/RECEIPT_ROSTER.json",
+      "sha256": "59258a4f2c993bffbb6aaf9dc16903486ecd048ab214ef319172fded78b48e0b",
+      "bytes": 247665
+    },
+    "scope": "Exact equality after pin/optional-slot metadata and declared class-name normalization. Current capture execution/alias identities require the separate current-run replay.",
+    "bytes": 250271
+  },
+  {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/bc_composition/outputs/research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/SOURCE_BINDINGS.json",
+    "sha256": "3057028a71c508d5acfdc2bfcf1b674ec5a584b4d56a9b199340d61c916779b1",
+    "mode": "composition",
+    "canonical_mathematical_sha256": "dc27e8b30ef54c885b78ea245cc4899f754fec052588b7014538ebb6dc17948b",
+    "baseline": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-BK-20261011/public_runs/bc_composition-03/outputs/research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/public-edition-BK-20261011/SOURCE_BINDINGS.json",
+      "sha256": "4ca7c4b636ea9cc157d78fa72d7cde2abc7d11f0ccc7153a87f0464c48cfbd97",
+      "bytes": 13678
+    },
+    "scope": "Exact equality after explicitly declared metadata projection; not semantic equivalence of English.",
+    "bytes": 14117
+  }
+]

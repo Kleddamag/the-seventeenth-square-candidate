@@ -1,0 +1,14 @@
+{
+  "files": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/PRUNING.json": "0a2655c65353b67cfd22ba05b9e84208e9c03c6664c3900ff3f771326ae9eb34",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/MANIFEST.json": "1f53aada94731e6d9189efd5833ebf3911b02d311a2616cc5bf1a35ab3cb3f18",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/independent-review/MANIFEST.json": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/joint-capture-20261007/pilot.py": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/uniform.py": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/MANIFEST.json": "5a70b980bdf8c519d1bcb19a6f710737e41073e782286f849e9ac62915f3b3cc",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/MATHEMATICAL_INTERFACE.json": "d1aead18ef637439b696c303e050c63afeb9782e326703e7e9c7bd9b70939ff4"
+  },
+  "schema": "finite-stopped-input-bindings-v1",
+  "uniform_path": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/uniform.py"
+}

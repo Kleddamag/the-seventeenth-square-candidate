@@ -1,0 +1,18 @@
+{
+  "schema": "s17-path-neutral-policy-v1",
+  "rules": [
+    {
+      "output": "builder",
+      "input_description": "original build-account name"
+    },
+    {
+      "output": "00000000-0000-0000-0000-000000000000",
+      "input_description": "identifier of a temporary working folder (a UUID)"
+    }
+  ],
+  "unchanged": "/Volumes/s17",
+  "stage_one": "Only the two global byte substitutions; no other byte edits.",
+  "stage_two": "Declared editorial extracts and explicit path/digest/byte-count rebinding follow the pure substitution stage; see EDITORIAL_LINE_EDITS.json, EDITORIAL_EXTRACTS.json and PATH_REFERENCE_BINDINGS.json.",
+  "originals": "Private originals are not distributed; no claim of public availability or a new historical execution.",
+  "limitation": "The build-account name is not printed in the edition. It is not a secret: someone who knows it can recompute the before-hashes. No string-length or digest commitment is published."
+}

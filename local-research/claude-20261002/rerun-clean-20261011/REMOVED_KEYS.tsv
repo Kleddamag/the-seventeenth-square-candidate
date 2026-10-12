@@ -1,0 +1,197 @@
+id	file	keys_removed (renamed = class names replaced)	bytes_removed
+FRAME_MARKER	classes.json	comment=1 label=1 renamed=0	265
+FRAME_MARKER	certificate.json	source=1 classes.comment=0 classes.label=0 classes.renamed=0	118
+FRAME_0506	classes.json	comment=1 label=2 renamed=0	594
+FRAME_0506	certificate.json	source=1 classes.comment=1 classes.label=2 classes.renamed=0	706
+FRAME_1114	classes.json	comment=1 label=2 renamed=0	773
+FRAME_1114	certificate.json	source=1 classes.comment=1 classes.label=2 classes.renamed=0	885
+FRAME_0917	classes.json	comment=1 label=4 renamed=0	567
+FRAME_0917	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	675
+E07A	classes.json	comment=1 label=2 renamed=0	690
+E07A	certificate.json	source=1 classes.comment=1 classes.label=2 classes.renamed=0	802
+Q_1	classes.json	comment=1 label=3 renamed=0	955
+Q_1	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1065
+Q_2	classes.json	comment=1 label=3 renamed=0	955
+Q_2	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1065
+Q_3	classes.json	comment=1 label=3 renamed=0	750
+Q_3	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	860
+Q_4	classes.json	comment=1 label=3 renamed=0	750
+Q_4	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	860
+Q_5	classes.json	comment=1 label=3 renamed=0	955
+Q_5	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1065
+Q_6	classes.json	comment=1 label=3 renamed=0	955
+Q_6	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1065
+Q_7	classes.json	comment=1 label=3 renamed=0	955
+Q_7	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1065
+Q_8	classes.json	comment=1 label=3 renamed=0	955
+Q_8	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1065
+Q_10	classes.json	comment=1 label=3 renamed=0	1030
+Q_10	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1140
+Q_11	classes.json	comment=1 label=3 renamed=0	958
+Q_11	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1068
+Q_12	classes.json	comment=1 label=8 renamed=0	1509
+Q_12	certificate.json	source=1 classes.comment=1 classes.label=8 classes.renamed=0	1609
+Q_13	classes.json	comment=1 label=3 renamed=0	958
+Q_13	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1068
+Q_14	classes.json	comment=1 label=3 renamed=0	958
+Q_14	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1068
+Q_15	classes.json	comment=1 label=3 renamed=0	753
+Q_15	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	863
+Q_16	classes.json	comment=1 label=3 renamed=0	958
+Q_16	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1068
+Q_17	classes.json	comment=1 label=3 renamed=0	753
+Q_17	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	863
+PW_1	classes.json	comment=1 label=3 renamed=0	930
+PW_1	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1040
+PW_2	classes.json	comment=1 label=3 renamed=0	930
+PW_2	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1040
+PW_5	classes.json	comment=1 label=3 renamed=0	932
+PW_5	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1042
+PW_6	classes.json	comment=1 label=3 renamed=0	931
+PW_6	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1041
+PW_7	classes.json	comment=1 label=3 renamed=0	930
+PW_7	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1040
+PW_8	classes.json	comment=1 label=3 renamed=0	930
+PW_8	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1040
+PW_10	classes.json	comment=1 label=3 renamed=0	935
+PW_10	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1045
+PW_11	classes.json	comment=1 label=3 renamed=0	1227
+PW_11	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1337
+PW_12	classes.json	comment=1 label=7 renamed=0	1394
+PW_12	certificate.json	source=1 classes.comment=1 classes.label=7 classes.renamed=0	1496
+PW_13	classes.json	comment=1 label=3 renamed=0	1227
+PW_13	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1337
+PW_14	classes.json	comment=1 label=3 renamed=0	935
+PW_14	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1045
+PW_16	classes.json	comment=1 label=3 renamed=0	935
+PW_16	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1045
+L_3	classes.json	comment=1 label=3 renamed=0	718
+L_3	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	828
+L_4	classes.json	comment=1 label=3 renamed=0	694
+L_4	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	804
+L_15	classes.json	comment=1 label=3 renamed=0	696
+L_15	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	806
+L_17	classes.json	comment=1 label=3 renamed=0	720
+L_17	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	830
+C_1	classes.json	comment=1 label=11 renamed=1	2012
+C_1	certificate.json	source=1 classes.comment=1 classes.label=11 classes.renamed=1	2106
+C_2	classes.json	comment=1 label=11 renamed=1	2042
+C_2	certificate.json	source=1 classes.comment=1 classes.label=11 classes.renamed=1	2136
+C_5	classes.json	comment=1 label=11 renamed=1	2012
+C_5	certificate.json	source=1 classes.comment=1 classes.label=11 classes.renamed=1	2106
+C_6	classes.json	comment=1 label=11 renamed=1	2012
+C_6	certificate.json	source=1 classes.comment=1 classes.label=11 classes.renamed=1	2106
+C_10	classes.json	comment=1 label=11 renamed=1	2014
+C_10	certificate.json	source=1 classes.comment=1 classes.label=11 classes.renamed=1	2108
+C_11	classes.json	comment=1 label=11 renamed=1	2056
+C_11	certificate.json	source=1 classes.comment=1 classes.label=11 classes.renamed=1	2150
+C_12	classes.json	comment=1 label=14 renamed=1	2409
+C_12	certificate.json	source=1 classes.comment=1 classes.label=14 classes.renamed=1	2497
+C_13	classes.json	comment=1 label=11 renamed=1	2070
+C_13	certificate.json	source=1 classes.comment=1 classes.label=11 classes.renamed=1	2164
+C_14	classes.json	comment=1 label=11 renamed=1	1968
+C_14	certificate.json	source=1 classes.comment=1 classes.label=11 classes.renamed=1	2062
+C_16	classes.json	comment=1 label=11 renamed=1	1968
+C_16	certificate.json	source=1 classes.comment=1 classes.label=11 classes.renamed=1	2062
+KEY_W	classes.json	comment=1 label=4 renamed=0	691
+KEY_W	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	799
+SL11_T020	classes.json	comment=1 label=3 renamed=0	1126
+SL11_T020	certificate.json	source=1 classes.comment=1 classes.label=3 classes.renamed=0	1236
+CLASS_PS_L01_T09	classes.json	comment=1 label=4 renamed=0	1106
+CLASS_PS_L01_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1214
+CLASS_PS_L02_T09	classes.json	comment=1 label=4 renamed=0	1106
+CLASS_PS_L02_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1214
+CLASS_PS_L05_T09	classes.json	comment=1 label=4 renamed=0	1106
+CLASS_PS_L05_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1214
+CLASS_PS_L06_T09	classes.json	comment=1 label=4 renamed=0	1106
+CLASS_PS_L06_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1214
+CLASS_PS_L07_T09	classes.json	comment=1 label=4 renamed=0	1106
+CLASS_PS_L07_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1214
+CLASS_PS_L08_T09	classes.json	comment=1 label=4 renamed=0	1106
+CLASS_PS_L08_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1214
+CLASS_PS_L10_T09	classes.json	comment=1 label=4 renamed=0	1109
+CLASS_PS_L10_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1217
+CLASS_PSW37_L11_T09	classes.json	comment=1 label=4 renamed=0	2070
+CLASS_PSW37_L11_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	2178
+CLASS_PS_L12_T09	classes.json	comment=1 label=8 renamed=0	1571
+CLASS_PS_L12_T09	certificate.json	source=1 classes.comment=1 classes.label=8 classes.renamed=0	1671
+CLASS_PS_L13_T09	classes.json	comment=1 label=4 renamed=0	1109
+CLASS_PS_L13_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1217
+CLASS_PS_L14_T09	classes.json	comment=1 label=4 renamed=0	1211
+CLASS_PS_L14_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1319
+CLASS_PS_L16_T09	classes.json	comment=1 label=4 renamed=0	1109
+CLASS_PS_L16_T09	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	1217
+CLASS_PSS_L01_T03	classes.json	comment=1 label=5 renamed=0	1608
+CLASS_PSS_L01_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1714
+CLASS_PSS_L02_T03	classes.json	comment=1 label=5 renamed=0	1608
+CLASS_PSS_L02_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1714
+CLASS_PSS_L05_T03	classes.json	comment=1 label=5 renamed=0	1608
+CLASS_PSS_L05_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1714
+CLASS_PSS_L06_T03	classes.json	comment=1 label=5 renamed=0	1608
+CLASS_PSS_L06_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1714
+CLASS_PSS_L07_T03	classes.json	comment=1 label=5 renamed=0	1608
+CLASS_PSS_L07_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1714
+CLASS_PSS_L08_T03	classes.json	comment=1 label=5 renamed=0	1608
+CLASS_PSS_L08_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1714
+CLASS_PSS_L10_T03	classes.json	comment=1 label=5 renamed=0	1612
+CLASS_PSS_L10_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1718
+CLASS_PSSW37_L11_T03	classes.json	comment=1 label=5 renamed=0	2588
+CLASS_PSSW37_L11_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	2694
+CLASS_PSS_L12_T03	classes.json	comment=1 label=9 renamed=0	2074
+CLASS_PSS_L12_T03	certificate.json	source=1 classes.comment=1 classes.label=9 classes.renamed=0	2172
+CLASS_PSS_L13_T03	classes.json	comment=1 label=5 renamed=0	1612
+CLASS_PSS_L13_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1718
+CLASS_PSS_L14_T03	classes.json	comment=1 label=5 renamed=0	1714
+CLASS_PSS_L14_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1820
+CLASS_PSS_L16_T03	classes.json	comment=1 label=5 renamed=0	1612
+CLASS_PSS_L16_T03	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1718
+CLASS_PS_L01_T17	classes.json	comment=1 label=5 renamed=0	1103
+CLASS_PS_L01_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1209
+CLASS_PS_L02_T17	classes.json	comment=1 label=5 renamed=0	1103
+CLASS_PS_L02_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1209
+CLASS_PS_L05_T17	classes.json	comment=1 label=5 renamed=0	1103
+CLASS_PS_L05_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1209
+CLASS_PS_L07_T17	classes.json	comment=1 label=5 renamed=0	1103
+CLASS_PS_L07_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1209
+CLASS_PS_L08_T17	classes.json	comment=1 label=5 renamed=0	1103
+CLASS_PS_L08_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1209
+CLASS_PS_L10_T17	classes.json	comment=1 label=5 renamed=0	1106
+CLASS_PS_L10_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1212
+CLASS_PSW37_L11_T17	classes.json	comment=1 label=5 renamed=0	2068
+CLASS_PSW37_L11_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	2174
+CLASS_PS_L12_T17	classes.json	comment=1 label=9 renamed=0	1568
+CLASS_PS_L12_T17	certificate.json	source=1 classes.comment=1 classes.label=9 classes.renamed=0	1666
+CLASS_PS_L13_T17	classes.json	comment=1 label=5 renamed=0	1106
+CLASS_PS_L13_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1212
+CLASS_PS_L14_T17	classes.json	comment=1 label=5 renamed=0	1208
+CLASS_PS_L14_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1314
+CLASS_PS_L16_T17	classes.json	comment=1 label=5 renamed=0	1106
+CLASS_PS_L16_T17	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1212
+CLASS_PSS_L01_T15	classes.json	comment=1 label=5 renamed=0	1618
+CLASS_PSS_L01_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1724
+CLASS_PSS_L02_T15	classes.json	comment=1 label=5 renamed=0	1618
+CLASS_PSS_L02_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1724
+CLASS_PSS_L05_T15	classes.json	comment=1 label=5 renamed=0	1618
+CLASS_PSS_L05_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1724
+CLASS_PSS_L06_T15	classes.json	comment=1 label=5 renamed=0	1618
+CLASS_PSS_L06_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1724
+CLASS_PSS_L07_T15	classes.json	comment=1 label=5 renamed=0	1618
+CLASS_PSS_L07_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1724
+CLASS_PSS_L08_T15	classes.json	comment=1 label=5 renamed=0	1618
+CLASS_PSS_L08_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1724
+CLASS_PSS_L10_T15	classes.json	comment=1 label=5 renamed=0	1622
+CLASS_PSS_L10_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1728
+CLASS_PSSW37_L11_T15	classes.json	comment=1 label=5 renamed=0	2599
+CLASS_PSSW37_L11_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	2705
+CLASS_PSS_L12_T15	classes.json	comment=1 label=9 renamed=0	2084
+CLASS_PSS_L12_T15	certificate.json	source=1 classes.comment=1 classes.label=9 classes.renamed=0	2182
+CLASS_PSS_L13_T15	classes.json	comment=1 label=5 renamed=0	1622
+CLASS_PSS_L13_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1728
+CLASS_PSS_L14_T15	classes.json	comment=1 label=5 renamed=0	1724
+CLASS_PSS_L14_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1830
+CLASS_PSS_L16_T15	classes.json	comment=1 label=5 renamed=0	1622
+CLASS_PSS_L16_T15	certificate.json	source=1 classes.comment=1 classes.label=5 classes.renamed=0	1728
+CLASS_PS_L06_T17_ENDm_H4T4	classes.json	comment=1 label=4 renamed=0	721
+CLASS_PS_L06_T17_ENDm_H4T4	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	829
+CLASS_PS_L06_T17_ENDp_H4T4	classes.json	comment=1 label=4 renamed=0	721
+CLASS_PS_L06_T17_ENDp_H4T4	certificate.json	source=1 classes.comment=1 classes.label=4 classes.renamed=0	829

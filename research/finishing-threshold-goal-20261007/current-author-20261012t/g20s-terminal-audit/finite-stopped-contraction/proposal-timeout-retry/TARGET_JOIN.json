@@ -1,0 +1,24 @@
+{
+  "accepted_rational_entry_review_sha256": "5a70b980bdf8c519d1bcb19a6f710737e41073e782286f849e9ac62915f3b3cc",
+  "accepted_raw_stop_export_sha256": "0a2655c65353b67cfd22ba05b9e84208e9c03c6664c3900ff3f771326ae9eb34",
+  "all45_raw_core_radius": "64007486789/1000000000000000",
+  "all_three_raw_slider_intervals_in_terminal_domain": true,
+  "certificate_sha256": "7e4396baa344e4dfe1c8db8fe1fcfa2f3d3cd1d1095015f53752285b3edf82a9",
+  "conclusion_if_new_finite_replay_accepts": [
+    "All45 exact-root core coordinates equal zero",
+    "actual S=S*"
+  ],
+  "hypotheses_still_required": "All17 physical unit squares; same common frame/injective labels; actual S<=S*; accepted original finite entry",
+  "mathematical_interface_sha256": "d1aead18ef637439b696c303e050c63afeb9782e326703e7e9c7bd9b70939ff4",
+  "not_claimed": [
+    "raw core coordinates equal zero",
+    "arbitrary capture",
+    "entire HW/G20S tree accepted",
+    "global optimality"
+  ],
+  "positive_target_slack": "35992513211/1000000000000000",
+  "same_common_labels_and_physical_guards": true,
+  "same_reference_and_coordinate_map_bytes": true,
+  "status": "EXACT_TARGET_AND_TERMINAL_INTERFACE_JOIN_REQUIRES_SEPARATE_NEW_FINITE_REPLAY",
+  "target": "1/10000"
+}

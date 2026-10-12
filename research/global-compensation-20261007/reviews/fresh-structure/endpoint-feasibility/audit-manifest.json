@@ -1,0 +1,16 @@
+{
+  "status": "ACCEPTED_EXACT_ENDPOINT_FEASIBILITY",
+  "conclusion": "There exists a packing of17 independently framed unit squares in a square of exact side S*; hence L17<=S*. No global lower bound is claimed.",
+  "root_identity": "Unique common zero of pinned F1,F2 in the exact midpoint +/-10^-12 box; independently proved by rational Banach contraction.",
+  "hashes": {
+    "check_endpoint.py": "3d49d934f7d66fd42b67feba38db86e1e1435a2620bc6f1b63c282a8236bf9b2",
+    "endpoint-receipt.json": "f75bb799888eee7fbe68cd8ed2a2be4a93e5cff6b164ac61d698a8cc378636b5",
+    "REVIEW.md": "b72a932dbdba3ee791c09783cf00ccd842f273f4a0e26db86c1e135fa5975a6c"
+  },
+  "source_hashes": {
+    "research/global-compensation-20261007/checks/endpoint_saturation.py": "931943b31aec96325bed92d2d8a3ae99c7bf83889ea6c14ad02a847ebe30010a",
+    "research/uniform-capture-20261007/bridge.py": "8d5c2a8253f1aae97a243e907d08b337f334a8f27c66e3235e66a30fd8ae9f10",
+    "research/uniform-capture-20261007/upstream-root-certificate.json": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9",
+    "upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+  }
+}

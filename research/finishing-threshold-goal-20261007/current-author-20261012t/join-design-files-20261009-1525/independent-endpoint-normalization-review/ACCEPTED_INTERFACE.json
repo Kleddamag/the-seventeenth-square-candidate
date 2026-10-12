@@ -1,0 +1,67 @@
+{
+  "status": "ACCEPTED_CONDITIONAL_ENDPOINT_NORMALIZATION_AND_C11_C13_POSITION_JOIN",
+  "producer_manifest_sha256": "0c5fd5a9e4d5139ae033755d7af9992f8871cc4f3c2b8a680f10876494651b79",
+  "producer_interface_sha256": "ddb94014cb60e03e58db7fa51a8c71e9dd95969204eab1848c54ec13078409a8",
+  "normalization": {
+    "endpoint": "actual algebraic Sstar",
+    "translation": "(Sstar-S)/2*(1,1)",
+    "fixed_U_pose_set_exactly_invariant": true,
+    "all17_actual_parents_preserved": true,
+    "common_D4_commutes": true,
+    "injective_role_assignment_preserved": true,
+    "strict_smaller_side_implies_positive_inset_from_all_walls": true
+  },
+  "conditional_finishing": {
+    "premise": "All relevant endpoint packings satisfy a complete capture/exclusion into an accepted local theorem forcing actual wall contact.",
+    "conclusion": "No original physical packing in the corresponding domain has S<Sstar.",
+    "local_contact": "Exact-root core zero puts nonslider role8 at (Sstar-1/2,Sstar-1/2), axis(1,0).",
+    "G20S_required_roles": 16,
+    "Hplus_required_physical_squares": 17,
+    "rational_reference_side_is_not_endpoint": true
+  },
+  "position_join": {
+    "literal_classes": [
+      "C_L11",
+      "C_L13"
+    ],
+    "closed_polygon_coverage": "All vertices, edges and convex interiors by affine extrema",
+    "endpoint": "Sstar",
+    "fixed_reference": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+    "label13_corrected": true,
+    "label11_13_own_coordinate_bases": true,
+    "each_coordinate_absolute_value_strictly_less_than": "199951/1000000",
+    "margin_to_radius_1_5_strictly_greater_than": "49/1000000",
+    "G20S_11_13_slider_position_cuts_satisfied": true,
+    "Hplus_entry_inferred": false,
+    "rational_basis_margins": {
+      "11": "89297767270752515057142121782095717400643725298459475507782371473553605560151654582488046336795915635394910599988630457032638976391516342204871609471258104630339950250547614713318637410192920298535773994071999564966908996953260875902121171851440143204334983174848332796971434390608769835877979503/1801817298263839296324489445089049643260452639848443004775398278829074498875049790825578051546246330023882237274472155860415335094752379953796350018562782248201053484853110951526494128459718795111941689262535326007192786531589556317086735119000000000000000000000000000000000000000000000000000000000000",
+      "13": "44563144625661444920494683389477436039844259260483810105494662375172407219686225590227887860258343945550234667857251502553213345108144779124945617494433078022589818163198729025729010640941318397136434725147394410977146886240987206148534828789481392755016793055835738847284939326509225308372536623/900908649131919648162244722544524821630226319924221502532014479697142453092540473986055110599511140567066284313684068695246905532798235037551955261920546174207640451897928119624244409747009760321904961743674830568107604170310983895755567559500000000000000000000000000000000000000000000000000000000000"
+    },
+    "exact_root_basis_checked_separately": true
+  },
+  "dependencies": {
+    "root_gate_review": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+    "root_gate": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+    "G20S": "a4a354b56032a200259c3b84dc1455ce5652f49a5c8138012b05754661336ee3",
+    "Hplus": "6b9a943c249459b879155579445ab4ec6aa47ad3e8674b1d577471bd29adcc25",
+    "sixteen_finite": "eb793556d044f9de7b81e39ff93789ad4aab3825453533a7c258d2adf66ad855",
+    "actual_slots_independent": "b4c6cb2de4cc13c068a6bf2fb1f82b0855116414d8b821136562cf5624ffba66"
+  },
+  "not_proved": [
+    "Full C-profile local admission",
+    "Literal C angle gate admission",
+    "Other position/slider or loose-role premises",
+    "Common-frame capture and complete case coverage",
+    "Any new charge certificate",
+    "Global optimality"
+  ],
+  "replay": {
+    "result_sha256": "af3c201753858aff28a6b02f24eef04a2d6d783384226b02ee86fe659722d319",
+    "source_sha256": "80efbf5ff4f15b91f023de36dc1d4da3d723f5fa9c549bed18cea2ba9038bd25",
+    "cpu_seconds": 0.009329999999999998,
+    "peak_rss_bytes": 14614528,
+    "controls": 5,
+    "failed_arithmetic_runs": 0,
+    "conservative_review_cpu_seconds": 1
+  }
+}

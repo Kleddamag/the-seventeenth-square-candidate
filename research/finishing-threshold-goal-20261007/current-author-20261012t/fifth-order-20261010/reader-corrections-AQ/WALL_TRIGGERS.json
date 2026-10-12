@@ -1,0 +1,824 @@
+{
+  "status": "PASS_ALL_29_WALL_TRIGGER_LITERALS",
+  "script": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/reader-corrections-AQ/verify_wall_triggers.py",
+    "sha256": "8a3911c4145bb1206bf7b974bf9c3f3ef005d14c1bc8079f989b08d12511b0c3"
+  },
+  "rho": "207107/500000",
+  "quarter_turn_cover_test": "309449/250000000000",
+  "rows": [
+    {
+      "name": "Q_1",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_1/classes.json",
+      "sha256": "40c38b3011d40ce4240a44fde78d832e55aa0a22fee633299d732157bedd7931",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_2",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_2/classes.json",
+      "sha256": "ebab89a44794133cc656a67ae2e7ca42d04de0eef679478994dca30cd990cfbb",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_3",
+      "type": "loose_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_3/classes.json",
+      "sha256": "26dd485c091bb835d0a632637a7e4817276fba7a59a9595a2e9ef69d8714faf1",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "13/5"
+        ],
+        [
+          "-131/250",
+          "13/5"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_4",
+      "type": "loose_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_4/classes.json",
+      "sha256": "c0520b39b27d618e81ade2657be0d203f610a0a2e316a070edc8292147bc709f",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "13/5"
+        ],
+        [
+          "-131/250",
+          "13/5"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_5",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_5/classes.json",
+      "sha256": "c380520234cd962a468c66a3035127081c6a7d78c490f6ca4ed753874a8b0a59",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_6",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_6/classes.json",
+      "sha256": "337b5da1acc32aba2db8f4ec5fd57e73538f63b428ab48cc6f645993add74493",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_7",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_7/classes.json",
+      "sha256": "e4818172bd8c628bfeb7ab3edadc43ad7b8dffd3af46c21640a6ef8b2dd7f757",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_8",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_8/classes.json",
+      "sha256": "33829e421ec29e7c64e7f4586a336a6bf5a52944b4715b4b788de67056d84c62",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_10",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_10/classes.json",
+      "sha256": "f0a70efeb3783db28a9529fcd1c4cb8a84c8bc1ac5fcaba963d6a1cd96077c55",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_11",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/classes.json",
+      "sha256": "9869a38bf87fc3384e342fcf8de914478c27d28ab9a0fa0f1e099418063b8d4b",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_12",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_12/classes.json",
+      "sha256": "c29d666395db09fc22baf396eb4fb19853e9c4dbd4f5fcd0aee11f95f3f86889",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_13",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_13/classes.json",
+      "sha256": "61ad2287267695b82a10b4f011b446a68f62ae0824721c323eafa42d324f7878",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_14",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_14/classes.json",
+      "sha256": "ca8ca9972536dfc4d4bfd857bf9176ae4b3b2a151080f207dc2cdb84ba6ce481",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_15",
+      "type": "loose_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_15/classes.json",
+      "sha256": "8c78dcca7213fc4d58b14045e4c65931fb897941608537d4065db3f2fdcf58f8",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "13/5"
+        ],
+        [
+          "-131/250",
+          "13/5"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_16",
+      "type": "rigid_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_16/classes.json",
+      "sha256": "be16c4d71835d2d8c2d60a35c4339307d2791c3aff77bd329f2cd5f755ffae96",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "-131/250",
+          "129/50"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "Q_17",
+      "type": "loose_Q",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_17/classes.json",
+      "sha256": "94277f4cf2bc9fd1a42896a2d46d9a47f95e301e28bf3eb16db82de23be92bca",
+      "polygon": [
+        [
+          "-131/250",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "24137/10000"
+        ],
+        [
+          "53/100",
+          "13/5"
+        ],
+        [
+          "-131/250",
+          "13/5"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_1",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_1/classes.json",
+      "sha256": "974ebb07bdcbb027dbabeb0d38ad600980a903783ec2b231002dbf4115792dae",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_2",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_2/classes.json",
+      "sha256": "770eba40a4928d01a6722e72819330a8df1febba994c69b383637d0e188c44b1",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_5",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_5/classes.json",
+      "sha256": "9747b1045f00f4f44f93bfa8e38f4cfc928dff8f2b1290fb4e1fb7eb0f5a4228",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_6",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_6/classes.json",
+      "sha256": "4f4699f5e548d290ece62ccdd59d3539fac3cc57c76e1d5a30b8d45cdf4b0197",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_7",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_7/classes.json",
+      "sha256": "a8878a5a98bb238b383218d05cee2308ace18e46e45dd35582c1721092beccc4",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_8",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_8/classes.json",
+      "sha256": "f77336fb746031f0056215374106ac61b13b37411321b7c7903b0617d3d6b51d",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_10",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_10/classes.json",
+      "sha256": "770cf844df42e279f6851e33e4846904b093e5b25ee40116a4d708b4c4718f15",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_11",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/classes.json",
+      "sha256": "0fc8882907e5f43317019cf58da37b20a1bb3f09b6345e699abbb6db99cf105e",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_12",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_12/classes.json",
+      "sha256": "024c5dc5a82230fded20926ec3ab2a297e028efd9f89be2bda4826d5c7aa2b99",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_13",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_13/classes.json",
+      "sha256": "e06867f2c24fdb10d9410a374b23ba966b6e923931ecb731dbf288367e24e724",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_14",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_14/classes.json",
+      "sha256": "4e873486808763ad11336fb5387a89eea03ededca5f9b888cd53c7f8550cca65",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "PW_16",
+      "type": "PW",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_16/classes.json",
+      "sha256": "1990f88ecdad2cbf321ba27896d349a16136df57894e07140f44f2e5cc1d5546",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "29637/10000"
+        ],
+        [
+          "-131/250",
+          "29637/10000"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    },
+    {
+      "name": "SL11_T020",
+      "type": "slab",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/SL11_T020/classes.json",
+      "sha256": "0571ecd0f5d4bef2b2c76476d282cdb8f974865da0794e4b28aed2152def8659",
+      "polygon": [
+        [
+          "-131/250",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "129/50"
+        ],
+        [
+          "53/100",
+          "13/5"
+        ],
+        [
+          "-131/250",
+          "13/5"
+        ]
+      ],
+      "angle_tan_half": [
+        "-207107/500000",
+        "207107/500000"
+      ]
+    }
+  ],
+  "scope": "Exact trigger geometry and complete orientation cover only. Captured targets, budgets and local admissions are separately imported."
+}

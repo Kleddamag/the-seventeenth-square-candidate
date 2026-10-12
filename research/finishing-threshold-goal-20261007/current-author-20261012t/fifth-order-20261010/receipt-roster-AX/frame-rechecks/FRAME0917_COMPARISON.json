@@ -1,0 +1,126 @@
+{
+  "status": "PASS_ALL_OLD_NEW_ROW_FIELDS_EQUAL",
+  "new_authentic_execution_audit": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0917/audit.json",
+    "sha256": "4952707c1ba3ac8ae707d11d84d107509f8107b23d6239e3d0806db3a28ded23"
+  },
+  "class_bytes_equal": true,
+  "certificate_bytes_equal": true,
+  "comparisons": [
+    {
+      "implementation": "python",
+      "old_sources": [
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/0.py.json",
+          "sha256": "d80c355dee2fcc5e5a8e081b13e208b672922cd5752cd28a64d2a2b962678030"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/1.py.json",
+          "sha256": "2d441f0cd7880da05fd0b6cd622659763a010e85f07211b55e5cac4efc4d7ec4"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/2.py.json",
+          "sha256": "b755f480f9c954e9353a71865667d904d0880ae09db6443b2cd406451f0b1094"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/3.py.json",
+          "sha256": "d5854ac1f4f7e7805b1dcffc0cc43e5550d80fe9c0e2c79e42b1cc04c4412542"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/4.py.json",
+          "sha256": "b7213f71976aabff9f65023a8f00a8ade32a29ac4f8d35f3020fbd48e48fcd0f"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/5.py.json",
+          "sha256": "dbe65b1f51ef7792046472727d5b2125ad5ff6c1487d760cf7e079d2123728d7"
+        }
+      ],
+      "new_sources": [
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/0.py.json",
+          "sha256": "7736913df715db62dc545a270878c00a525ec6f6da738a5ad63596f571539891"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/1b.py.json",
+          "sha256": "b3b3509f5a5d4436049e6583c1da41aebb525edc133fc6246a98ccbb0a469ab6"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/2.py.json",
+          "sha256": "b102bc2ee10397e09654bc408787fb38332f6faa26335b427ced1d093cb8c59e"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/3.py.json",
+          "sha256": "84a7a3f02db5592b358bac0ed8a635aa68efef48e2e3320b22e65a555bf422e5"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/4.py.json",
+          "sha256": "53fbea7ae1fd94d5c2118f8ae4012a73cf284b5c52656993a8823d2ba1b3178b"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/5.py.json",
+          "sha256": "269656fef9b1093cc6824d2ab415496901215db26d9aeb16b961f7d109043e50"
+        }
+      ],
+      "rows_equal": 9000,
+      "differences": 0
+    },
+    {
+      "implementation": "node",
+      "old_sources": [
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/0.node.json",
+          "sha256": "05fc31070e0e87115fa3f06063781bd5c66d61ff27f0f02f30a3dac5fe52f30b"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/1.node.json",
+          "sha256": "68f057ecf3b7d32bd9f12f9802d6d2675ed5c1bd141f1500aae8ecfaa03e5674"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/2.node.json",
+          "sha256": "b94984555d06d1c63d86b195182c7c8dceb87bb2217091587207a3e8d9df78ba"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/3.node.json",
+          "sha256": "76485e38882d96eed56c32f0946618a4934a8a3f32a69da5325c60332c2f5be4"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/4.node.json",
+          "sha256": "b51a87d4e0b3223622c02a74d8c04a0f93eedd1131ce0e522a4bef2a0442e3fd"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0917a_cloud/exact/slices/5.node.json",
+          "sha256": "959692543a5b2c72753fedaef5e22f693eef8bc0075ee4fb77e2d7d9aab90a98"
+        }
+      ],
+      "new_sources": [
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/0.node.json",
+          "sha256": "e593c9000ab5a9126374b7acebe21f7a43ff245873c6963c078f7947f801badb"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/1b.node.json",
+          "sha256": "4106ef65db06c757bb0f153c9e5a759bc5cb48ef216c0fb94f00b50049910964"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/2.node.json",
+          "sha256": "4b7e377584e7b271e10df0a418a3dc5007c68bf12ac70da348bf970eac846890"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/3.node.json",
+          "sha256": "b9aedbd8e342c53883af0a20f9d8bfd01c40ee97fff754e59a6613acba06691d"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/4.node.json",
+          "sha256": "439b6001480f1a5c3328cb5a231d4b01472e01ba1334bd51f125ecc5c53ca6e3"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0917a_cloud/exact/slices/5.node.json",
+          "sha256": "4fc9367c81116d85a43c9ea332cc59892c22ed35e3e499ef1e572d5486ab2427"
+        }
+      ],
+      "rows_equal": 9000,
+      "differences": 0
+    }
+  ],
+  "scope": "Provenance audit and saved output comparison, no new arithmetic replay"
+}

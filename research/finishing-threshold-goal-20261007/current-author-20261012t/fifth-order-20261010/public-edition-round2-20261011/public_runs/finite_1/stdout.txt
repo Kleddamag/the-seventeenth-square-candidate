@@ -1,0 +1,4 @@
+{"round": 1, "CPU_seconds": 0.32316, "target_reached": false}
+{"round": 2, "CPU_seconds": 0.53813, "target_reached": false}
+{"round": 3, "CPU_seconds": 0.55981, "target_reached": false}
+{"status": "PASS_EXACT_FINITE_PARTIAL_CONTRACTION_TARGET_NOT_REACHED", "CPU_seconds": 1.4368239999999999}

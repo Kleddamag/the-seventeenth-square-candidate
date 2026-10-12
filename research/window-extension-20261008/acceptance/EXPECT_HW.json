@@ -1,0 +1,60 @@
+{
+ "name": "HW: sixteen labels; core position radius 3/20, angle radius 101/1000 for all 16, slider box widened to the cuts (xi_{2,1} in [-8/25, 0], xi_{11,2} in [-1/5, 2/25], xi_{13,2} in [-1/5, 1/10])",
+ "labels": 16,
+ "S_floor": "4",
+ "tube_name": "planned entry tube of the terminal instance on the wide slider box: core 1/250, angles 1/500",
+ "terminal_leaves": null,
+ "terminal_leaves_note": "not fixed by the statement (sign splits near the family give more than one terminal leaf)",
+ "window": {
+  "core": "3/20",
+  "alpha": {
+   "default": "101/1000"
+  },
+  "box": {
+   "2": {
+    "1": [
+     "-8/25",
+     "0"
+    ]
+   },
+   "11": {
+    "2": [
+     "-1/5",
+     "2/25"
+    ]
+   },
+   "13": {
+    "2": [
+     "-1/5",
+     "1/10"
+    ]
+   }
+  }
+ },
+ "tube": {
+  "core": "1/250",
+  "alpha": {
+   "default": "1/500"
+  },
+  "box": {
+   "2": {
+    "1": [
+     "-8/25",
+     "1/250"
+    ]
+   },
+   "11": {
+    "2": [
+     "-1/5",
+     "1/20"
+    ]
+   },
+   "13": {
+    "2": [
+     "-1/5",
+     "3/40"
+    ]
+   }
+  }
+ }
+}

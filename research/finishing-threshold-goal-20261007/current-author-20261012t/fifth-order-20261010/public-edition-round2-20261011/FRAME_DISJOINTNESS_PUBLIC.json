@@ -1,0 +1,38 @@
+[
+  {
+    "id": "FRAME_0506",
+    "literal": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0506/classes.json",
+      "sha256": "fe34f35030d736a4d165a4f5a92cdd154acc9583ede2e2aa8a5aba9da1e9cc6d"
+    },
+    "strict_high_low_polygon_separations": 4,
+    "all_passed": true,
+    "identity": "sum tau = 17 + N(high union)/4 - N(low union)/8",
+    "high_threshold": "5/4",
+    "low_threshold": "7/8"
+  },
+  {
+    "id": "FRAME_1114",
+    "literal": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_1114/classes.json",
+      "sha256": "b1d6815c9f28bc0df7bdabad8c774e8e76de94fca8cddb6d4ede2a5ddcf6d9cd"
+    },
+    "strict_high_low_polygon_separations": 4,
+    "all_passed": true,
+    "identity": "sum tau = 17 + N(high union)/4 - N(low union)/8",
+    "high_threshold": "5/4",
+    "low_threshold": "7/8"
+  },
+  {
+    "id": "FRAME_0917",
+    "literal": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0917/classes.json",
+      "sha256": "20fe5ad1403ae2b9bac9dc64b8421da81e0cd5f46a16b6e1a9659782ebbc2c71"
+    },
+    "strict_high_low_polygon_separations": 12,
+    "all_passed": true,
+    "identity": "sum tau = 17 + N(high union)/4 - N(low union)/8",
+    "high_threshold": "5/4",
+    "low_threshold": "7/8"
+  }
+]

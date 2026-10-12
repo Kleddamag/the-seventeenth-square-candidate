@@ -1,0 +1,48 @@
+{
+ "status": "PASS_CLASSES_EXACT_COVER",
+ "statement": "For every family of closed unit squares with pairwise disjoint interiors inside a square of side 4675531/1000000, read in the frame with the container centre at (1169/500, 1169/500), the sum of tau(pose) over the squares is less than 17, where tau(pose) is the least threshold among the classes that contain the pose and 1 if no class contains it. A class is the listed slots united with their eight D4 images (angle gates with all quarter-turn lifts). Classes: marker_orbit_exempt threshold 0 (1 slots).",
+ "implementation": "python exact_classes.py",
+ "schema": "s17-classes-v1",
+ "symmetry": "orbit",
+ "bound": "17",
+ "classes": [
+  {
+   "name": "marker_orbit_exempt",
+   "threshold": "0",
+   "slots": 1
+  }
+ ],
+ "total_intervals": 9000,
+ "required_units": "998328901",
+ "budget_units": "16971591304",
+ "surplus": "13",
+ "certificate_sha256": "a0de9a67de3543ce0703a01293878d257fc3addef09a8d237ad9c48b534101e7",
+ "classes_sha256": "6691f91f9d5038e413c5b8f9bd7e7b48ce793d9374d6adce1ef94fe9f89ab50c",
+ "checker_sha256": {
+  "exact_classes.py": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+  "exact_restricted.py": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+  "exact_general.py": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+  "integer_sweep.py": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+  "boolean_rule.py": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275"
+ },
+ "start": 0,
+ "end_exclusive": 9000,
+ "merged_files": 6,
+ "problems": [],
+ "missing_intervals": 0,
+ "first_missing_intervals": [],
+ "failed_intervals": [],
+ "unrestricted_minimum_units": 789710848,
+ "deficit_minimum_units": null,
+ "cells_default": {
+  "cells": 15617698067076,
+  "minimum_units": 999999994
+ },
+ "cells_by_class": [
+  {
+   "name": "marker_orbit_exempt",
+   "cells": 1463732464052,
+   "minimum_units": 789710848
+  }
+ ]
+}

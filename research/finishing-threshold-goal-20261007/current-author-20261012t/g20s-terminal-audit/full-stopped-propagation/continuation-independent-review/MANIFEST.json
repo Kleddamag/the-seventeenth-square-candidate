@@ -1,0 +1,50 @@
+{
+  "status": "ACCEPTED_SMALL_EXACT_ROOT_RIGIDITY_AND_SIDE_EQUALITY",
+  "reviewer": "Codex contributor 07",
+  "producer": "Codex contributor 06",
+  "producer_manifest_sha256": "685d4d96672a5522cd44f85653907a441bf81b49ce43625f59cacc6d71870de1",
+  "producer_theorem_sha256": "ced6028d1a33178f6f63f31f44f520785f812668d6a474878ef6a4077d54e55c",
+  "additive_prefix_acceptance_binding_sha256": "a179e983f24c63cb4888a7f23564e06db6c9f0a7a45cf0ae6d2a93a704420746",
+  "accepted_first_three_review_sha256": "f9d879a28cf0ed98acb23672b4c2b4a923b09d48a2f6b74a52a1e500a9431941",
+  "dependencies": {
+    "accepted_B6_review": "b38fb735a1d3bdd84c662a68b37d7d10e806af71abf82b54c320424da79d1ad1",
+    "full_gate_review": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+    "physical_stop_review": "e8af5453f7e97d18ee2dab652644d797218ce2382fb928b53a8cb151cee7645d",
+    "physical_map": "5a47ab81102b644f67ed4bd51b23f9c026a32141c4c6f284b4c69200aa920f63"
+  },
+  "new_rounds": 2,
+  "new_exact_objectives": 184,
+  "total_stopped_rounds": 5,
+  "total_stopped_exact_objectives": 460,
+  "rows_each_round": 245,
+  "final_core_ratio": "159201934153319/200000000000000",
+  "core_coordinates": 45,
+  "physical_parents": 17,
+  "free_physical_label": 4,
+  "actual_side_hypothesis": "S <= S*",
+  "exact_root_core_radius": "1/5000",
+  "conclusion": [
+    "all 45 exact-root core coordinates zero",
+    "S = S*"
+  ],
+  "no_finite_entry_or_capture_claim": true,
+  "cost": {
+    "new_exact_replay_cpu_seconds": 1.8550989999999998,
+    "new_conservative_charge_seconds": 4,
+    "prior_review_charge_seconds": 5,
+    "total_charge_seconds": 9,
+    "shared_cap_seconds": 60,
+    "remaining_seconds": 51,
+    "one_native_thread": true,
+    "failed_review_runs": 0,
+    "solver_symbolic_or_old_checker_called": false
+  },
+  "files": {
+    "check.py": "19defded8adaa959890f6a06b3b71202ae12d3eb284a0a867651f0d2dfe17dd1",
+    "receipt.json": "652dbb344c07b1cf3bfc5c16adaf7c2f3e86e7c74864686e1e2d85b32374a568",
+    "REVIEW.md": "94d6ead633f8df96e02fb7aec1145a989507440df306dbb0a485b016135f5bc5",
+    "COSTS.json": "04307af7ee68964f200574aaed479ae2ec02306c6f0ec4481b65554bd693db77",
+    "finalize.py": "5d4abe9c52f1e94673cd47aa073f22c7a3e3c81aa4b338f44875e6590e5d7549"
+  },
+  "seal_cpu_seconds": 0.0011879999999999946
+}

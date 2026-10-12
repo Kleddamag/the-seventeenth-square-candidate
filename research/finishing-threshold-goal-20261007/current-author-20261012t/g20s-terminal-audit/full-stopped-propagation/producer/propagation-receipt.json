@@ -1,0 +1,51 @@
+{
+  "status": "THREE_ROUNDS_INCONCLUSIVE",
+  "LP_calls": 276,
+  "maximum_LP_calls": 276,
+  "rounds": [
+    {
+      "round": 1,
+      "core_ratio": "1",
+      "core_ratio_decimal": 1.0,
+      "LP_calls": 92,
+      "round_sha256": "7ff6686bae6752d23c0577e869c38341752c30bccc4b26e8433e482d6942063c"
+    },
+    {
+      "round": 2,
+      "core_ratio": "1",
+      "core_ratio_decimal": 1.0,
+      "LP_calls": 92,
+      "round_sha256": "955b052cfb5bd598f6afa497b898c705be3c2f75f3a6d59f80eb295b1498dbd6"
+    },
+    {
+      "round": 3,
+      "core_ratio": "1",
+      "core_ratio_decimal": 1.0,
+      "LP_calls": 92,
+      "round_sha256": "ca2e03187f4830475935b6daf46211283ee178aa609d8247717951b8d825204d"
+    }
+  ],
+  "no_subdivision": true,
+  "no_fixed_norm_face": true,
+  "old_rigidity_check_called": false,
+  "runtime": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "native_threads": 1,
+    "options": {
+      "threads": 1,
+      "time_limit": 1.0
+    }
+  },
+  "current_round": 3,
+  "current_round_objectives": 88,
+  "CPU_seconds": 2.527058,
+  "final_core_ratio": "1",
+  "final_core_ratio_decimal": 1.0,
+  "remaining_norm_faces": [
+    {
+      "coordinate": 44,
+      "sign": -1
+    }
+  ]
+}

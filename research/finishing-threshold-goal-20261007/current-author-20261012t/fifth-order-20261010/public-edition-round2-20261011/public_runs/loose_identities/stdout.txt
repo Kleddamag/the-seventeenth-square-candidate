@@ -1,0 +1,1 @@
+PASS: literal hashes, accepted-proof pins, AQ containment, three clipped diameters, all pair/marker/L9 separations, L17 identity, all-direction gates

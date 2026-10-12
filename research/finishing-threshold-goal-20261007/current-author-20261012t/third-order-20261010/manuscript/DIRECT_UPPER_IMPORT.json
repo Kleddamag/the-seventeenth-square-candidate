@@ -1,0 +1,62 @@
+{
+  "status": "ACCEPTED_EXISTING_INDEPENDENT_FULL17_UPPER_PROOF_IMPORT",
+  "scope": "Pin, complete geometry-roster, exact common-root definition and saved strict-bound metadata check; not a fresh arithmetic replay.",
+  "reviewed_construction": "bridge.layout(t,beta), followed by P13 += tau*v/3 and P4=(S*-3/2,1/2); reconstructed directly here.",
+  "same_endpoint_as_active_contract": true,
+  "root_identity_reason": "Identical integer polynomials, exact midpoint and outer box; uniqueness of the root in that box joins the two accepted theorems. No nesting of tighter enclosures is assumed.",
+  "imported_review": {
+    "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/REVIEW.md",
+    "sha256": "5e1625337eea549aafd6cbfb64414d60644ebdd72228e3194547a52e866a945a"
+  },
+  "imported_acceptance": {
+    "file": "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/audit-manifest.json",
+    "sha256": "9636f7d2b4a433f6048323ed511626f324e60e465e57e96b338ce06ced1b4a55"
+  },
+  "imported_receipt": {
+    "file": "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/endpoint-receipt.json",
+    "sha256": "f75bb799888eee7fbe68cd8ed2a2be4a93e5cff6b164ac61d698a8cc378636b5"
+  },
+  "imported_checker": {
+    "file": "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/check_endpoint.py",
+    "sha256": "3d49d934f7d66fd42b67feba38db86e1e1435a2620bc6f1b63c282a8236bf9b2"
+  },
+  "source_pins": [
+    {
+      "file": "research/global-compensation-20261007/checks/endpoint_saturation.py",
+      "sha256": "931943b31aec96325bed92d2d8a3ae99c7bf83889ea6c14ad02a847ebe30010a"
+    },
+    {
+      "file": "research/uniform-capture-20261007/bridge.py",
+      "sha256": "8d5c2a8253f1aae97a243e907d08b337f334a8f27c66e3235e66a30fd8ae9f10"
+    },
+    {
+      "file": "research/uniform-capture-20261007/upstream-root-certificate.json",
+      "sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+    },
+    {
+      "file": "upper-packing-certificate.json",
+      "sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+    }
+  ],
+  "definition_pin": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/EXACT_ENDPOINT_AND_CASES.json",
+    "sha256": "3417d4fa166c6755aa27ed74672e0de4c1f841cadb0042dbd56b74c27f082123"
+  },
+  "checked_counts": {
+    "squares": 17,
+    "walls": 68,
+    "pairs": 136,
+    "wall_cases": {
+      "rational_identity": 15,
+      "strict_positive": 53
+    },
+    "pair_cases": {
+      "strict_positive": 112,
+      "rational_identity": 22,
+      "root_polynomial_multiple": 2
+    }
+  },
+  "new_exact_geometry_replays": 0,
+  "global_lower_bound_claimed": false,
+  "CPU_seconds": 0.0036300000000000013
+}

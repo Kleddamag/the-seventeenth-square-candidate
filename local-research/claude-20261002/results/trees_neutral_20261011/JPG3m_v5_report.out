@@ -1,0 +1,63 @@
+ok    FROZEN.json has the entries C1, C2, SPEC, frozen_on (and at most a note)
+ok    frozen Python checker checker/wxcheck_v30.py has the SHA-256 cf8db52bfa1cc565... of FROZEN.json (found cf8db52bfa1cc565...)
+ok    frozen Node checker checker2/wxcheck2_v30.js has the SHA-256 97210adf74a3ebed... of FROZEN.json (found 97210adf74a3ebed...)
+ok    frozen specification text SPEC_v3.0.md has the SHA-256 0a6dfc2ae10ed6f3... of FROZEN.json (found 0a6dfc2ae10ed6f3...)
+certificate '/Volumes/s17/local-research/claude-20261002/results/assembly/JPG3m_v5/JPG3m_v5.cert.jsonl.gz'
+sha256      7535735021ff18c43e84956180d0389e423ff863e5dd2e2cf661e227f0a94fd4
+sha256 of the uncompressed stream 704cfc8cdb015c104599541fea55b214817b81b79c2ef357347eefd598319ab8
+ok    EXPECT.json has only known entries (unknown: [])
+statement: schema wx-cert-3, 17 labels, S_floor = 4675530093604551/1000000000000000
+ok    header schema 'wx-cert-3', expected 'wx-cert-3'
+ok    both reports: schema checked under = 'wx-cert-3' (C1 'wx-cert-3', C2 'wx-cert-3')
+ok    header label set: 17 (absent = 16), expected 17
+ok    header S_floor: '4675530093604551/1000000000000000' (absent = 4), expected 4675530093604551/1000000000000000
+ok    header has no field outside SPEC 3.0 section 10
+ok    both reports: label set used = 17 (C1 17, C2 17)
+ok    both reports: S_floor used = 4675530093604551/1000000000000000 (C1 '4675530093604551/1000000000000000', C2 '4675530093604551/1000000000000000')
+ok    C1 exit code 0
+ok    C2 exit code 0
+ok    C1 report: verdict 'PASS', mode 'full'
+ok    C2 report: result 'PASS', mode 'certificate'
+ok    C1 checked this file (hash of the file and of the uncompressed stream)
+ok    C2 checked this file (hash of the uncompressed stream)
+ok    reference file hash 24e296f5995a in the header and in both reports
+C1: wxcheck 3.0 / SPEC 3.0 / wx-cert-2, wx-cert-3; C2: wxcheck2.js SPEC_v3.0.md version 3.0
+ok    C1 report names the frozen text by its hash (spec_sha256 0a6dfc2ae10ed6f3...)
+ok    C2 report names version 3.0 (spec 'SPEC_v3.0.md version 3.0'; spec_sha256 0a6dfc2ae10ed6f3)
+ok    node ids unique in both reports
+ok    same node ids in both reports (36, 36)
+ok    every node accepted by both
+ok    every node entry of both reports has a closure kind (a rejected node has none)
+ok    same closure kind per node in both reports (differences: 0)
+nodes 36: infeasible 22, split 14
+C1 evidence of the infeasible leaves: 0-step 22
+C2 evidence of the infeasible leaves: 0-step 22
+ok    no leaf has zero_step_L in only one report (only C1: 0, only C2: 0)
+ok    zero_step_L is the same rational number in both reports for all 22 leaves that have it (different: [])
+ok    every leaf closed by a `0` step has zero_step_L in both reports (22 leaves by C1's evidence, 22 by C2's, 22 with both values)
+ok    every zero_step_L is positive
+      smallest zero_step_L: 2.922766e-03 at node 'pH11W37Gppmwuk5.n0.JPG3mv5.leaf'
+terminal leaves: []
+ok    number of terminal leaves is 0 (expected 0)
+ok    C1 counts agree with its node list
+ok    C2 counts agree with its node list
+ok    same number of steps and terms evaluated (22, 993869)
+ok    same number of rounds evaluated (C1 22, C2 22)
+ok    Sref = 4675530093604551/10^15
+ok    root id 'root' (header against the Python report; the Node report has no root key)
+ok    centre maps occur only under wx-cert-3 (header: window True, tube False)
+ok    both reports: centre maps present in the header: window True, tube False (C1 True False, C2 True False)
+ok    header window = expected window 'JPG3m root region (bigbox/join/JPG3m_exact_v5.json)' (boxes, angle radii and centres)
+ok    header tube = expected tube 'G20S window for the sixteen labels, label 4: its root box and radius 1' (boxes, angle radii and centres)
+labels with a centre other than the identity: window [3, 5, 6, 9, 10, 11, 12, 13, 14, 16], tube []
+ok    EXPECT root_region has exactly the keys file, sha256
+ok    root region file 'bigbox/join/JPG3m_exact_v5.json' has the stated SHA-256 1e2a3b429193a69f... (found 1e2a3b429193a69f...)
+ok    the certificate has exactly one node with the header's root id 'root' (found 1)
+ok    root node: parent is null
+ok    root node: empty assumption list
+ok    root node and region file have exactly the labels of the statement
+ok    root node: side interval ['4675530093604551/1000000000000000', '4675530093604551/1000000000000000'] = the region's ['4675530093604551/1000000000000000', '4675530093604551/1000000000000000']
+ok    root node: box = the region's box, all 68 interval ends (labels that differ: [])
+ok    root node: every arc (centre and both end rotations) = the region's root arc (labels that differ: [])
+      the statement of this record is made for the ROOT REGION of 'bigbox/join/JPG3m_exact_v5.json' (its entries S, window.box and root_arc)
+RESULT: ACCEPTED

@@ -1,0 +1,226 @@
+[
+  {
+    "region": "JPG15m_v5",
+    "status": "COUNTED",
+    "conclusion": "EMPTY",
+    "directly_closes_selected_root": true,
+    "root": {
+      "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+      "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+    },
+    "expect": {
+      "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPG15m_v5.json",
+      "sha256": "b6b3ba8dd075a735d15a3cf31a0aee7b58ff6988129e3bc89eb0bb8cd6798d13"
+    },
+    "certificate": {
+      "file": "local-research/claude-20261002/results/assembly/JPG15m_v5/JPG15m_v5.cert.jsonl.gz",
+      "sha256": "ed66c59b16b4b3549826311b8ba2b5be9c538e0235abab3cebb19789b9637c58",
+      "uncompressed_sha256": "d551253dcc44686ff826ac93841ae9a07ca614290c4e4d6a1a379621875648f9"
+    },
+    "receipts": [
+      {
+        "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG15m_v5_C1.json",
+        "sha256": "7e98abb53e8f1d9bab3e3a26f29b346ad9b4b816026e4b0a32c4e604f630e855"
+      },
+      {
+        "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG15m_v5_C2.json",
+        "sha256": "3df120e9282deb1dc85294570b877536bbe88ce8343c40ba30ef3092b3506502"
+      }
+    ],
+    "acceptance_log": {
+      "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPG15m_v5.log",
+      "sha256": "15422c15478e9c385158fffe9f41659cff4f1738f8b8ccc69396834712e93bc8"
+    },
+    "counts": {
+      "nodes": 61,
+      "split": 22,
+      "infeasible": 39,
+      "terminal": 0,
+      "declarations": 1443,
+      "steps": 39,
+      "terms": 1453516
+    },
+    "record": {
+      "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/local-region-audits/JPG15m_v5/LEAD_RECORD_SNAPSHOT.md",
+      "sha256": "473ec02ea7e28d54c03794027d9e9cb5a98fffeece122b7962ddf9d098876ace"
+    },
+    "independent_review": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPG15m_v5/REVIEW.md",
+      "sha256": "8a55fc2c9070105cc7f186320b706ac43899a3dfb70d530838bf9d1f6d0509d0"
+    },
+    "audit": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPG15m_v5/AUDIT.json",
+      "sha256": "6609a147e7dc18950a55f96bf973858f8e6faa6d8140e1238e66faa5bb76be18"
+    },
+    "coverage_limit": null,
+    "new_arithmetic_replays": 0
+  },
+  {
+    "region": "JPG3p_v5",
+    "status": "COUNTED",
+    "conclusion": "EMPTY",
+    "directly_closes_selected_root": true,
+    "root": {
+      "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+      "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+    },
+    "expect": {
+      "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPG3p_v5.json",
+      "sha256": "4450804df543078a20c83e71a82d505e756bfe4c1855416567cc82b8fafc6f41"
+    },
+    "certificate": {
+      "file": "local-research/claude-20261002/results/assembly/JPG3p_v5/JPG3p_v5.cert.jsonl.gz",
+      "sha256": "804ae79493f6733645b3d70c10edc05d5ab0c20fea416284af16c9e855c7c0ea",
+      "uncompressed_sha256": "1a97f63c2828bd75eb355c4abb8b030d30d5183ffca06850788c719425df7c58"
+    },
+    "receipts": [
+      {
+        "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG3p_v5_C1.json",
+        "sha256": "6a23182c78f450e26557f596c9e49496ad9b5a76b207f14f0028b19b593cfaf6"
+      },
+      {
+        "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG3p_v5_C2.json",
+        "sha256": "947a113926cb3ccb23c2f21656578703c7687d6720c95687a41a6873ffa922b4"
+      }
+    ],
+    "acceptance_log": {
+      "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPG3p_v5.log",
+      "sha256": "fa37a3c7378bdb57d51bae5c9cda6045e777ecf8f0e11c6c3b62582e63ba07a5"
+    },
+    "counts": {
+      "nodes": 36,
+      "split": 14,
+      "infeasible": 22,
+      "terminal": 0,
+      "declarations": 832,
+      "steps": 22,
+      "terms": 988844
+    },
+    "record": {
+      "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/local-region-audits/JPG3p_v5/LEAD_RECORD_SNAPSHOT.md",
+      "sha256": "5bf850e033fa6603e1884e2dcfe2299c0c205d6cd08e67de3ba1dd358d4fe4a1"
+    },
+    "independent_review": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPG3p_v5/REVIEW.md",
+      "sha256": "9d0b8fdbf08d334ddc1be2d435496e341f8c37f31469f1358d62611bc3606658"
+    },
+    "audit": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPG3p_v5/AUDIT.json",
+      "sha256": "08aa12c9a398bc71652b69a3d0bba4024cb68ede808042efe302a0d379189d8a"
+    },
+    "coverage_limit": null,
+    "new_arithmetic_replays": 0
+  },
+  {
+    "region": "JPW13_v2x",
+    "conclusion": "EMPTY",
+    "root": {
+      "file": "research/window-extension-20261008/bigbox/join/JPW13_exact_v2x.json",
+      "sha256": "e1a489e1f0d04ec0ee091ccbab9c4028a08c04ec15deeea26ff738e62b09505b"
+    },
+    "expect": {
+      "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPW13_v2x.json",
+      "sha256": "b6a33b674b48363420afb2b2c1e1cac4c3cba86300cf048a6074b5920bd9e891"
+    },
+    "certificate": {
+      "file": "local-research/claude-20261002/results/assembly/JPW13/JPW13.cert.jsonl.gz",
+      "sha256": "7147d7780da9006064160c6b49a4196678bcc20cd31234f1b3a0a4c54fcc050b",
+      "uncompressed_sha256": "134a56c888a6f39ea3c364be34e21c22000f0fa49763d020bbc1e7e7efc5b6d3"
+    },
+    "receipts": [
+      {
+        "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPW13_v2x_C1.json",
+        "sha256": "4b9f1f331742bc7d05445728fddb76815e0424d2336c70b454380e8967764429"
+      },
+      {
+        "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPW13_v2x_C2.json",
+        "sha256": "06de0cd6a3729f63ab5f9b522142770de3bf855623a547f426276a1337aae363"
+      }
+    ],
+    "acceptance_log": {
+      "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPW13_v2x.log",
+      "sha256": "c8e9468e43db166ccc9240058530f11ca10ef9ba67fcaeeeabaf695eacd90558"
+    },
+    "counts": {
+      "nodes": 255,
+      "split": 92,
+      "infeasible": 163,
+      "terminal": 0,
+      "declarations": 6150,
+      "steps": 163,
+      "terms": 7133642
+    },
+    "status": "COUNTED",
+    "directly_closes_selected_root": true,
+    "record": {
+      "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/local-region-audits/JPW13_v2x/LEAD_RECORD_SNAPSHOT.md",
+      "sha256": "7ff9ee9ceaae547406462b28f155b608777273f726a3947ea138ebf2e3b057d5"
+    },
+    "independent_review": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPW13_v2x/REVIEW.md",
+      "sha256": "dbf9451ee3eaf655a4258ac72fe5e5afa12b928c8216e4bd9bf96b2eb4488b07"
+    },
+    "audit": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPW13_v2x/AUDIT.json",
+      "sha256": "1eb6794ab64d54cc2634393d5d27e1dc8a479c263eac71a625d58757d00605dc"
+    },
+    "coverage_limit": null,
+    "new_arithmetic_replays": 0
+  },
+  {
+    "region": "JPWS_v4",
+    "root": {
+      "file": "research/window-extension-20261008/bigbox/join/JPWS_exact_v4.json",
+      "sha256": "7d32a55bc2b080056d267dd10d38abb003ff84a649cd22aabb05899ec2a8be1f"
+    },
+    "expect": {
+      "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPWS_v4.json",
+      "sha256": "a0ddbc0faaed59c2bb17a76fb3ec88d5968401828eced75f58e51b0f1733945d"
+    },
+    "certificate": {
+      "file": "local-research/claude-20261002/results/assembly/JPWS_v4/JPWS_v4.cert.jsonl.gz",
+      "sha256": "538a6a512a10b72dd59f7a4eeec710c6bddb12411c6728745c7bbcf9cb333cf4",
+      "uncompressed_sha256": "fa745f412c202f2957840444faefa2185ef98688d88080987049848239c7691c"
+    },
+    "receipts": [
+      {
+        "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPWS_v4_C1.json",
+        "sha256": "22a0f003f5e3e3b6a3665362c1630a81a998b636db43033ca40a81787b5d291b"
+      },
+      {
+        "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPWS_v4_C2.json",
+        "sha256": "fa713863b01ed9458abd033e94b312173fbea98ee2f6478045f4d9b24c546031"
+      }
+    ],
+    "acceptance_log": {
+      "file": "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPWS_v4.log",
+      "sha256": "47289ff0b4d698901782da0b26b4e332b55cdb9bf00b2d21b3ce4eff0f701ee5"
+    },
+    "counts": {
+      "nodes": 110,
+      "split": 40,
+      "infeasible": 70,
+      "terminal": 0,
+      "declarations": 2520,
+      "steps": 70,
+      "terms": 2982299
+    },
+    "conclusion": "EMPTY",
+    "status": "COUNTED",
+    "directly_closes_selected_root": true,
+    "record": {
+      "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/local-region-audits/JPWS_v4/LEAD_RECORD_SNAPSHOT.md",
+      "sha256": "38f1160bebfe98400af351484c6e3a7426fcef47d102112720ca86e197fefe3e"
+    },
+    "independent_review": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPWS_v4/REVIEW.md",
+      "sha256": "090ad2c2b8fe45fca0c3558a0820a3d8c7502cf71f8cc83c17a3790f08447494"
+    },
+    "audit": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPWS_v4/AUDIT.json",
+      "sha256": "66184badd3ef9660b45c8ed839159c2bfb6d6c26c145113658e155838cc32abd"
+    },
+    "coverage_limit": null,
+    "new_arithmetic_replays": 0
+  }
+]

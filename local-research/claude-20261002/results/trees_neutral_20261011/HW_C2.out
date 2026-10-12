@@ -1,0 +1,7 @@
+PASS
+labels=16 S_floor=4
+schema=wx-cert-2
+  certificate: /Volumes/s17/research/window-extension-20261008/bigbox/gen17/HW_tree.jsonl.gz  (SHA-256 of the checked bytes a8cc9689a3cd9cf15b5f198edb597b734039bf8eeededafb05366a85408e426a)
+  packing file: /Volumes/s17/upper-packing-certificate.json  (SHA-256 24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7; Sref = 4675530093604551/1000000000000000)
+  nodes 579 (infeasible 289, terminal 1, split 289), rounds evaluated 1776 (not evaluated 0), declarations 64701, steps 156260, terms 22540696, tree depth 11
+  time: 197.37 s

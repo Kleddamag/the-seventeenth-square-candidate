@@ -1,0 +1,82 @@
+{
+  "H256_feasibility_imported_not_replayed": true,
+  "all66_pairs_proved": true,
+  "both_profiles_and_reference_conventions": true,
+  "central_available_branches": {
+    "11": [
+      0
+    ],
+    "12": [
+      0
+    ],
+    "13": [
+      1
+    ],
+    "14": [
+      0
+    ]
+  },
+  "changed_candidate": false,
+  "charge_or_capture_acceptance": false,
+  "conservative_CPU_charge": 1,
+  "failed_review_assertions": 1,
+  "full17_extension": false,
+  "geometric_passes": 1,
+  "inherited_pairs": 55,
+  "marker12": true,
+  "measured_worker_CPU_seconds": 0.109761,
+  "new13_vertex_wall_inequalities": 16,
+  "new_pairs": 11,
+  "numerical_attempts": 2,
+  "peak_RSS_bytes": 34144256,
+  "physical_roles": [
+    1,
+    2,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16
+  ],
+  "physical_side": "exact algebraic S*",
+  "producer_interface": {
+    "bytes": 1564,
+    "sha256": "2873fae17bf4dbaf4007c353052a56767a3e7b683206d830eff9f3ee847d307a"
+  },
+  "producer_manifest": {
+    "bytes": 4281,
+    "sha256": "5968c714f6c9c6207ad02033a7c838dc91ff99cd420fc9e3ff883541351d2e35"
+  },
+  "reconstruction": {
+    "bytes": 137966,
+    "sha256": "5a0eb71cb4c297e628df400dfe43b0b468de6f0f717b502d9881eec82c7c8497"
+  },
+  "result": {
+    "bytes": 4930,
+    "sha256": "90a2f7d8cfca5a356d5be485d22d6a8de7b6a774de9c27d394f1d0fee27f42e7"
+  },
+  "retained_original_failure": {
+    "bytes": 1899,
+    "sha256": "567bc5b1bfe7e2181b69fdfeba39c7b020d164ceb3e5dd8599eed5860837f792"
+  },
+  "review": {
+    "bytes": 6323,
+    "sha256": "3b6bae636cd54a08b5278b7066d2a72e83a0f391c992334816e57858367a3d8b"
+  },
+  "root_join_correction": {
+    "bytes": 1928,
+    "sha256": "4eff94bddfe5772d90cf650de4cce9bdd645af97c1b700c5994ce4e93876a73d"
+  },
+  "schema": "independent-exact-root-subsystem-interface-v1",
+  "source_manifest_v2": {
+    "bytes": 893,
+    "sha256": "88cc6744ea832eb8be017611ec0036e605b24f0295de831585aed0f002e32fee"
+  },
+  "status": "ACCEPTED_PHYSICAL_TWELVE_NONCOHERENCE_AT_EXACT_SSTAR_USING_H256",
+  "walls_inherited": 44
+}

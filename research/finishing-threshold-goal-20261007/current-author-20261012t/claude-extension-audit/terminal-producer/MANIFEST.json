@@ -1,0 +1,86 @@
+{
+  "status": "ACCEPTED_EXACT_ROOT_TERMINAL_WITH_REQUIRED_TOP_LEVEL_WORDING_CORRECTION",
+  "reviewer": "Codex contributor 06",
+  "new_instance_producer": "Claude analysis",
+  "review_date": "2026-10-08",
+  "intended_conclusion": "Actual S<=S* plus the box-relaxed rational input hypotheses imply S=S* and zero exact-root core. Literal rational-core-zero conclusion not accepted.",
+  "finite_certificate_sha256": "6ec03fea30e82afe30e3c3160a6d76155023f3b85fabf7f04c122043d76b4819",
+  "rigidity_certificate_sha256": "73894585ed9ac8caa50ee1020c9589ea983b3b5413566385b7336eb179f6b7a0",
+  "ratio": "135416159726711/250000000000000",
+  "scope": "One fixed frame and labeling; independently oriented squares; sixteen constrained labels; no stop theorem or global lower bound used. WX proof acceptance and global capture are separate.",
+  "files_sha256": {
+    "ANALYTIC_AUDIT.md": "38906714154786f370fbdca4a53a154f986d58b1fbe796676991a314ab34fa8d",
+    "RESULT.md": "0b97488e46f7e79c2201e0eb51cb8f734c99f69ad4919ac6db2fcbfc9c87c781",
+    "check_gate.py": "d73cc08af1729cbf179912c6d204ff86bade8f5a450a7116840b64cbf01eb2fe",
+    "composition.stdout": "59c185b8b0ea563d5e2768b1b90474f8c391a905327e617eb08ff3d9f110d4a7",
+    "gate-receipt.json": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+    "replay-receipt.json": "281b7d84cb1a64df56771e4c4d35e2fdef384e4a77c8e66f9ec117a9c719da01",
+    "replay_snapshot.py": "f174a3261b0b13deee19066e2a3c124c05ead2e48c21e348cde569433e8b0a22",
+    "snapshot/BOX.json": "f0e6359814c25b00d7dace3e6fc066a8019368b860a1532542d6f805fa5d55e3",
+    "snapshot/CHANGES.diff": "5c54efce02516c3eab237ec6fa94d6dfe7dfc27326b996f7ffb6718ab489ee73",
+    "snapshot/INTERFACE-tube.json": "0ee14e37ebb2b0a629fa192335d60fe42bfda07760c947a06de67dd9dbcca56d",
+    "snapshot/README.md": "2da4ba29646b3f396744d61e982d3bb7b4010b59d082f2f075e6cf9b37300296",
+    "snapshot/REPLAY.sh": "612e85fb638c015a43af6e7d4ff9438edb736eae0bd69af20460a797d9a2c13e",
+    "snapshot/SHA256SUMS": "ef521216a2ca5b2b985ef3717c04bc81559ec0827fa0e67114210b5b7c7f0db7",
+    "snapshot/composition_check.py": "8c3361bfaaf48dcecb69073bca529ffb5c927e94d93a4a52642dc6365fca98ba",
+    "snapshot/research/joint-capture-20261007/pilot.py": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306",
+    "snapshot/research/uniform-capture-20261007/bridge.py": "ccc190e5f9c35a44a8ec309327815359f737093160d4bbaa9b147e388bc5bb09",
+    "snapshot/research/uniform-capture-20261007/check_rigidity_controls.py": "c763281818d5dc4f4c005a26d1cc12c6ff6d0c4c4219fc2c7ac77a58f2bb9ece",
+    "snapshot/research/uniform-capture-20261007/proof-receipt.json": "55cc6955e7c3b2289ab25978c66597758a005f104befdd64ea0b380d6bfcb853",
+    "snapshot/research/uniform-capture-20261007/relational.py": "e268531d2279c38a7f47f809911890d17d8620aa9c49f1a87d230db6f17db1f0",
+    "snapshot/research/uniform-capture-20261007/rigidity.py": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41",
+    "snapshot/research/uniform-capture-20261007/root_geometry.py": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a",
+    "snapshot/research/uniform-capture-20261007/uniform-relational-projection.json": "6ec03fea30e82afe30e3c3160a6d76155023f3b85fabf7f04c122043d76b4819",
+    "snapshot/research/uniform-capture-20261007/uniform-rigidity.json": "73894585ed9ac8caa50ee1020c9589ea983b3b5413566385b7336eb179f6b7a0",
+    "snapshot/research/uniform-capture-20261007/uniform.py": "2855813f04e0bc846ea88faaa6a3709033dcbf848747de968f68ff385bf04993",
+    "snapshot/research/uniform-capture-20261007/upstream-root-certificate.json": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9",
+    "snapshot/research/uniform-capture-20261007/verify.py": "1a6c91a8cc1e665e03e3a96815dab106c236ca4dd64de0132aafd933562423d0",
+    "snapshot/upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+    "snapshot-receipt.json": "5b13ccf9ba08be435e67cfb801aec26201bd8e2f3e0db7ba3c805d555a6b2073",
+    "verify.stdout": "19006e4249fb43508580d3e7fe6364a5e82097035ee07ceb889bfde6e0d023a7",
+    "reviewed-documents/SPEC.md": "4253fb259744f648dc07f63117650d65b34de7a27fbbb389931c025bc8797ee2",
+    "reviewed-documents/STATUS.md": "93c0b979f21c5d47b046940ba17f879ab0f94157d273c4077bdebedc340c224b",
+    "reviewed-documents/THEOREM.md": "974805e46321e6580d1486cdc0cbcebce736e033db059d1df1cf219d7e71e93a"
+  },
+  "original_analytic_dependencies_sha256": {
+    "research/uniform-capture-20261007/PROOF.md": "f1881e7cb7a98022c7d4f4191b6e17a5bc211bcf76e4130ff29f7bc3b35998a4",
+    "research/uniform-capture-20261007/README.md": "c2030455bde103f57b2d64e6f58b56ea93f719b5e3cf99354e195e31833fdf4e",
+    "research/joint-capture-20261007/README.md": "9c3a1bf0591528a900baaf92ac31458333ed1814f896fe569262bbed8c033aa1",
+    "research/uniform-capture-20261007/uniform.py": "f02470279d59f342244a2dfc2a0a65fbbf601e28c97a107a495782ee65b2282b",
+    "research/uniform-capture-20261007/bridge.py": "8d5c2a8253f1aae97a243e907d08b337f334a8f27c66e3235e66a30fd8ae9f10",
+    "research/uniform-capture-20261007/rigidity.py": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41",
+    "research/uniform-capture-20261007/root_geometry.py": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a",
+    "research/joint-capture-20261007/pilot.py": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306",
+    "upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+    "research/uniform-capture-20261007/upstream-root-certificate.json": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+  },
+  "wx_header_bound_certificates": [
+    {
+      "name": "A-pad",
+      "certificate_sha256": "55444960a0bbbcc2655b0af3fcd942dc984e66c1dfd4ae8ee2d1bba878939d2f",
+      "header_sha256": "6cfd81311bdc1f4de9e13c08777dd7329a63f7cc5b7adebc799e9a9179ba05eb"
+    },
+    {
+      "name": "B-pad",
+      "certificate_sha256": "2329aefb95bd73f1e889e22fe8d96bb164cb2f9c8617a023299058a5d9a7adc7",
+      "header_sha256": "2612723f7e9f2038af0dbde3288cfe160a0295e4c589ea2f9631b06d3631769c"
+    },
+    {
+      "name": "T-plus",
+      "certificate_sha256": "48b574dd6587165d1cfd227905da1cc80b162bd266b053f2ed74b6ca7f8cb790",
+      "header_sha256": "32555b3d428a87917198037378a349998dd304340db6a06705a918729920e31c"
+    },
+    {
+      "name": "T-plus-r012",
+      "certificate_sha256": "54c523bb1105f9c167a94b9b300d89af7754ca43134772b899fea3285927277b",
+      "header_sha256": "5053513a71eee704dc3b01b5c7c619672ebae5a966e6a92f5fa68fc54728041d"
+    },
+    {
+      "name": "T-plus-r015",
+      "certificate_sha256": "cbfda1db09af61d7a5a1548b779dc919368573e53a8ae7e1285787a54cbf696c",
+      "header_sha256": "634e053a17e94a38795520377c6c254b7aeee13cec8357e417b7f0f2ed149e41"
+    }
+  ],
+  "metered_cpu_seconds": 52.745391,
+  "replay_cpu_seconds": 46.680195000000005
+}

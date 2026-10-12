@@ -1,0 +1,74 @@
+{
+  "status": "PREPARED_GLOBAL_STOPPED_PROPAGATION",
+  "sources": [
+    {
+      "path": "instance/research/joint-capture-20261007/pilot.py",
+      "sha256": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/relational.py",
+      "sha256": "e268531d2279c38a7f47f809911890d17d8620aa9c49f1a87d230db6f17db1f0"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/rigidity.py",
+      "sha256": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/root_geometry.py",
+      "sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/uniform.py",
+      "sha256": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/upstream-root-certificate.json",
+      "sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/verify.py",
+      "sha256": "1a6c91a8cc1e665e03e3a96815dab106c236ca4dd64de0132aafd933562423d0"
+    },
+    {
+      "path": "instance/upper-packing-certificate.json",
+      "sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+    }
+  ],
+  "inputs": {
+    "accepted-six-step-prefix.json": "9c44e8153a132d74d28a5aca1168ee2b6389560c1406f4738e13bbcdcdbb41b3",
+    "accepted-direction-reduction.json": "05fbd47376d29a94da29545303432179fb8ce72ae0dd38035c780d089855f639",
+    "accepted-targeted-producer-manifest.json": "6b765320f8e42bca2d4b25b4fb47b97b4c9d727f7c7b12c744b8468280902386",
+    "accepted-targeted-review-manifest.json": "b38fb735a1d3bdd84c662a68b37d7d10e806af71abf82b54c320424da79d1ad1",
+    "accepted-root-gate.json": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+    "full-gate-receipt.json": "334bf800ec70961ff70cc29a431225160f6053132d938590d5cc989ff5510f51",
+    "full-gate-review-manifest.json": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+    "stop-producer-manifest.json": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d",
+    "stop-receipt.json": "e4e7a631108bdea1bcbd368c99af5e6d504dc3f3b20c6d566b54061b637c1f9b",
+    "stop-interface.json": "139cdf719d5e0bdbe0981304f754bfb8e6862d2a4e8a0c0fe67b26266871e378",
+    "stop-proof.md": "832718fc249675567ae575346bad5853a9386c05463ca7a691f6b11177786138"
+  },
+  "stop_review_binding_sha256": "f0718883f54fdd4badd35d4b396452c0e145f72bccf4e23e1a2a04f9ac35fe91",
+  "base": "Accepted global B6; all incoming core/side/a bounds retained",
+  "epsilon": "1/5000",
+  "physical_cuts": {
+    "b_lower": "-17/50000",
+    "z_upper": "1/40",
+    "b_plus_z_upper": "3/125"
+  },
+  "model": "52 geometric rows +192 product rows +1 physical stop row",
+  "maximum_rounds": 3,
+  "objectives_per_round": 92,
+  "maximum_LP_calls": 276,
+  "updates": "simultaneous intersection, exact outward rounding, refreshed product hulls",
+  "no_subdivision": true,
+  "no_fixed_norm_face": true,
+  "no_new_contact_rows": true,
+  "unchanged_rigidity_checker_not_applicable": true,
+  "producer_CPU_cap_seconds": 60,
+  "native_threads": 1,
+  "CPU_seconds": 0.006783999999999998
+}

@@ -1,0 +1,85 @@
+{
+  "status": "HEADER_VALIDATED_CLASS_CONVERSION_REQUIRES_SEPARATE_EXACT_ROWS_AND_INDEPENDENT_JOIN",
+  "original_marker": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-snapshot-20261009-1144/marker.json",
+    "sha256": "9e1ef6e5ac1e7e431ec19a2fb021cc8e16667ce096112e3b1fc382892917e5ed"
+  },
+  "class": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_MARKER/classes.json",
+    "sha256": "6691f91f9d5038e413c5b8f9bd7e7b48ce793d9374d6adce1ef94fe9f89ab50c"
+  },
+  "certificate": {
+    "file": "local-research/claude-20261002/results/screen_marker_hexagon_cap/certificate.json",
+    "sha256": "a0de9a67de3543ce0703a01293878d257fc3addef09a8d237ad9c48b534101e7"
+  },
+  "proof": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/marker-class-Q/CONVERSION.md",
+    "sha256": "9e0dda9abd5685a78169f37173b0aaabae10b2fdf948b8645d43e47426ecf938"
+  },
+  "python_whole_file_validation": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/marker-class-Q/PY_VALIDATION.json",
+    "sha256": "df8522736254a7938d2b7aba9c4814487d81e50c1ef4654d49201a616dce6f76"
+  },
+  "node_whole_file_validation": {
+    "result": "PASS_EXPORTED_loadAll_NO_ROWS",
+    "checker_sha256": "72b92624de356507c94fd913892a90dfaa70db1aa644d640728bcf68c44e7b1e",
+    "tool_observed_CPU_microseconds": {
+      "user": 1018016,
+      "system": 32867
+    },
+    "rows_executed": 0
+  },
+  "rows": 9000,
+  "suggested_slices": [
+    [
+      0,
+      750
+    ],
+    [
+      750,
+      1500
+    ],
+    [
+      1500,
+      2250
+    ],
+    [
+      2250,
+      3000
+    ],
+    [
+      3000,
+      3750
+    ],
+    [
+      3750,
+      4500
+    ],
+    [
+      4500,
+      5250
+    ],
+    [
+      5250,
+      6000
+    ],
+    [
+      6000,
+      6750
+    ],
+    [
+      6750,
+      7500
+    ],
+    [
+      7500,
+      8250
+    ],
+    [
+      8250,
+      9000
+    ]
+  ],
+  "required_global_score_bound": "17",
+  "no_budget_promoted": true
+}

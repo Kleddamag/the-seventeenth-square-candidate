@@ -1,0 +1,63 @@
+{
+  "schema": "s17-g20s-physical-stop-constraint-interface-v1",
+  "status": "PRODUCER_PASS_REQUIRES_SEPARATE_INDEPENDENT_REVIEW",
+  "physical_input": "actual nonoverlapping squares in the exact-root G20S padded domain",
+  "independent_angle_units": "radians",
+  "maximum_exact_root_core_radius": "1/5000",
+  "input_root_slider_intervals": {
+    "a": [
+      "0",
+      "320000000001/1000000000000"
+    ],
+    "b": [
+      "-50000000001/1000000000000",
+      "200000000001/1000000000000"
+    ],
+    "z": [
+      "-200000000001/1000000000000",
+      "75000000001/1000000000000"
+    ]
+  },
+  "unscaled_physical_slider_indices": {
+    "a": 2,
+    "b": 21,
+    "z": 25
+  },
+  "relevant_core_coordinate_indices": {
+    "h9x": 16,
+    "h9y": 17,
+    "h11_along_u": 20,
+    "h13_along_u": 24,
+    "theta9": 42,
+    "theta11": 44,
+    "theta13": 46
+  },
+  "closed_necessary_linear_constraints": [
+    {
+      "sense": ">=",
+      "coefficients": {
+        "21": "1"
+      },
+      "rhs": "-17/50000"
+    },
+    {
+      "sense": "<=",
+      "coefficients": {
+        "21": "1",
+        "25": "1"
+      },
+      "rhs": "3/125"
+    },
+    {
+      "sense": "<=",
+      "coefficients": {
+        "25": "1"
+      },
+      "rhs": "1/40"
+    }
+  ],
+  "stop_sum_stronger_exact_rational_rhs": "24215158159548999706798475186102073945274789973913498414686567072690096179035995583747122377444929093121669594250396773281149771198425762693141203369887730386022351260640274744598457708788799306390061206571816167989430590528858574638231318561792514824847659122616134388864089575347875500006160873778771773123927368754184804747056798182346610527381297830970228655627/1018995953643829702493008553449600553324782367947587241031331748606869055423336487614152574384363199042924193335221306955367847637919748831207886602664540433082408515634619685351574528240840118476154149493708792781161660773948463952562953042710771326207143960108527281249219863008572772918247565008177440840337921417202662464477019604327365900986044339321852139500000",
+  "normalized_sliders": "b and z retain these unscaled physical values; do not multiply by the core radius",
+  "guard_before_model_insertion": "bind the actual physical-to-normalized map and exact input ancestry; relaxed numerical points alone do not certify these premises",
+  "LP_exclusion_or_terminal_equality_proved": false
+}

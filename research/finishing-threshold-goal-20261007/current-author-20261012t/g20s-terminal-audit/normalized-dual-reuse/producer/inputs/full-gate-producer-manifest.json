@@ -1,0 +1,64 @@
+{
+  "status": "COMPLETE_ANALYTIC_GATE_PASS_REQUIRES_SEPARATE_INDEPENDENT_REVIEW",
+  "producer": "Codex contributor 06",
+  "input_rational_sliders": {
+    "a": [
+      "0",
+      "8/25"
+    ],
+    "b": [
+      "-1/20",
+      "1/5"
+    ],
+    "z": [
+      "-1/5",
+      "3/40"
+    ]
+  },
+  "epsilon": "1/5000",
+  "finite_entry_radius": "1/200",
+  "finite_entry_angle": "1/400",
+  "accepted52label_equality": true,
+  "complete152_root_options": true,
+  "fresh52symbolic_identities": true,
+  "normalized_model_rows": 244,
+  "finite_model_rows": 596,
+  "finite_pairs_retained": 19,
+  "no_solver_discovery_certificate_replay_or_tree": true,
+  "cpu_seconds_preparation": 0.010927999999999993,
+  "cpu_seconds_calculation": 8.291732999999999,
+  "producer_cpu_charged_seconds": 10,
+  "independent_review_reserved_seconds": 8,
+  "not_proved": [
+    "normalized strict contraction",
+    "finite contraction",
+    "actual tree joins",
+    "global capture",
+    "full optimality"
+  ],
+  "files_sha256": {
+    "RESULT.md": "068d914d988542e60abccfc918187c4ddf78c9833ae45c7559e55710259a072a",
+    "SOURCE.diff": "270f840b3dbb32d92e1b321a1f8700842267eea73cf1af1efbe8f51656b0f41c",
+    "check_gate.py": "dd43f5eac24b32f7245a0572869d822087759970a830d5af442c6f29552f97f1",
+    "gate-receipt.json": "334bf800ec70961ff70cc29a431225160f6053132d938590d5cc989ff5510f51",
+    "inputs/accepted-gate-receipt.json": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+    "inputs/accepted-terminal-manifest.json": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+    "inputs/assessment-producer-manifest.json": "d83b2a3290687ada0f1c36287e8fba371a7a1f3fc01ef7a1c77b906b381148e0",
+    "inputs/assessment-review-manifest.json": "ab96060dce2f0e5b17006b52a9a8c0d7b70f6a94897c9dd0f013d9911cfbdd12",
+    "instance/research/joint-capture-20261007/pilot.py": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306",
+    "instance/research/uniform-capture-20261007/bridge.py": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+    "instance/research/uniform-capture-20261007/relational.py": "e268531d2279c38a7f47f809911890d17d8620aa9c49f1a87d230db6f17db1f0",
+    "instance/research/uniform-capture-20261007/rigidity.py": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41",
+    "instance/research/uniform-capture-20261007/root_geometry.py": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a",
+    "instance/research/uniform-capture-20261007/uniform.py": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d",
+    "instance/research/uniform-capture-20261007/upstream-root-certificate.json": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9",
+    "instance/research/uniform-capture-20261007/verify.py": "1a6c91a8cc1e665e03e3a96815dab106c236ca4dd64de0132aafd933562423d0",
+    "instance/upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+    "normalized-model.json": "64a952259f57d24cf2b2cc3a6ad22d0a2ec87abd3306bfe48c00d9cca5c4a9da",
+    "preparation.json": "d22b0909ff92341ffc47472d3082d872cbf5e99be060b10a642ad84b96fbffce",
+    "prepare.py": "b7832569864e32e87f53e0049952aa1cac39ca37a3be8b446aee6421b840d668",
+    "seal.py": "02c79a18656c93ee339d4532deb29c0104ae77fb0ab9b5867b0d5c218472f0e4",
+    "symbolic-identities.json": "d3b5d47c765b94815364e0312eaf9990b946f18ee0df4e1600f50a92b8ceadba"
+  },
+  "seal_cpu_seconds": 0.0043289999999999995
+}

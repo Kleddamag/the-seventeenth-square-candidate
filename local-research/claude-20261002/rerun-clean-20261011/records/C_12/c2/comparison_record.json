@@ -1,0 +1,1060 @@
+{
+ "schema": "s17-neutral-comparison-record-v1",
+ "statement_id": "C_12",
+ "comparison_attempt_id": "c2",
+ "comparison_program": {
+  "file": "compare_rows.py",
+  "sha256": "e30eb66fbac6fd37d04c571b95013bc2061add6b46183e437b05c1cf3201b6fc"
+ },
+ "hash_map_sha256": "19785325a4d3b3a69046005c5498b13a6b8a9e41487d655c85a4763257e9c6b3",
+ "name_map_sha256": "2bb0825ff7490976cce15528ceeaad27ff600408b4a774c68b536ff069a9c263",
+ "name_map": {
+  "T_label1_contract_exempt": "T_label1_exempt",
+  "T_label2_contract_exempt": "T_label2_exempt",
+  "T_label5_contract_exempt": "T_label5_exempt",
+  "T_label6_contract_exempt": "T_label6_exempt",
+  "T_label10_contract_exempt": "T_label10_exempt",
+  "T_label11_contract_exempt": "T_label11_exempt",
+  "T_label12_contract_exempt": "T_label12_exempt",
+  "T_label13_contract_exempt": "T_label13_exempt",
+  "T_label14_contract_exempt": "T_label14_exempt",
+  "T_label16_contract_exempt": "T_label16_exempt"
+ },
+ "allowed_metadata_differences": {
+  "row_fields_not_compared": [
+   "cpu_seconds"
+  ],
+  "header_fields_expected_to_differ": {
+   "certificate_sha256": "must be the pair old -> new of the hash map",
+   "classes_sha256": "must be the pair old -> new of the hash map"
+  },
+  "header_fields_not_compared": [
+   "seconds",
+   "cpu_seconds_rows",
+   "verified_utc"
+  ],
+  "header_fields_reported_only": [
+   "workers"
+  ],
+  "receipt_fields_not_required_equal": {
+   "merged_files": "each side must equal the number of its own slice files, which must cover the rows exactly once"
+  },
+  "class_names": "replaced on the stored side by the name map"
+ },
+ "implementations": {
+  "node verify_classes.js": {
+   "rows_new": 18000,
+   "rows_stored": 18000,
+   "rows_compared": 18000,
+   "rows_identical": 18000,
+   "rows_mismatching": 0,
+   "rows_missing_in_stored": 0,
+   "row_fields_tested": [
+    "cells",
+    "classes",
+    "default",
+    "deficient_slabs",
+    "deficit_minimum_units",
+    "interval",
+    "minimum_units",
+    "passed",
+    "witness"
+   ],
+   "header_fields_tested": [
+    "bound",
+    "budget_units",
+    "cells_by_class",
+    "cells_by_class (recomputed from the rows of both sides)",
+    "cells_default",
+    "cells_default (recomputed from the rows of both sides)",
+    "checker_sha256",
+    "classes",
+    "deficit_minimum_units",
+    "deficit_minimum_units (recomputed from the rows of both sides)",
+    "end_exclusive",
+    "failed_intervals",
+    "failed_intervals (recomputed from the rows of both sides)",
+    "implementation",
+    "required_units",
+    "schema",
+    "start",
+    "statement",
+    "status",
+    "surplus",
+    "symmetry",
+    "total_intervals",
+    "unrestricted_minimum_units",
+    "unrestricted_minimum_units (recomputed from the rows of both sides)"
+   ],
+   "header_fields_mismatching": [],
+   "input_hashes": [
+    {
+     "field": "certificate_sha256",
+     "stored": "f3260fc7eeabd37856ad031ff22069469ad04a3b4f018a4d3ceb936342d729a3",
+     "new": "d57f708907fa88f161dafd94466e1c9851f23e858c76ffd15357ded4cf1c70cc",
+     "in_hash_map": true
+    },
+    {
+     "field": "classes_sha256",
+     "stored": "5fef6d7679d63c4766767bd36eb54932c4791830cc3f8c736eae435f092d229e",
+     "new": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc",
+     "in_hash_map": true
+    }
+   ],
+   "workers": [
+    [
+     4,
+     4
+    ]
+   ],
+   "stored_slice_files": [
+    {
+     "file": "0.node.json",
+     "sha256": "65c38138ac21a348c76b42b31dee0642a85a2957fd7a38f0db6ab4e45a82b9c5",
+     "bytes": 920125
+    },
+    {
+     "file": "1.node.json",
+     "sha256": "3dfbc2a14f16f1057faca1df2caee93f31af9263125702e686411470e0f85dfc",
+     "bytes": 923739
+    },
+    {
+     "file": "10.node.json",
+     "sha256": "470ea0331a713bd126c545804820d918c46d8ad94349e95d1d9fbdd36cb66a5a",
+     "bytes": 905806
+    },
+    {
+     "file": "11.node.json",
+     "sha256": "d74601f296f7cbeedb8a41ee2b3e0b45937fccc34fe89e621217e49b3fbc83a1",
+     "bytes": 905748
+    },
+    {
+     "file": "2.node.json",
+     "sha256": "b58a1ac2f1bfcdec226f368888e2d403e20434d1e67128f96c9f99f795b1b76b",
+     "bytes": 923861
+    },
+    {
+     "file": "3.node.json",
+     "sha256": "e3d16a30766e833acea333a27a233c4f748215d3cf7ee47ce3a0c677007486dd",
+     "bytes": 923816
+    },
+    {
+     "file": "4.node.json",
+     "sha256": "c8a13ad5bcc2d6e8d18e41180e500aaa61a6448ce48466cda3ecb4108b84631a",
+     "bytes": 940999
+    },
+    {
+     "file": "5.node.json",
+     "sha256": "987ad4789d027e134e40c93e66afe4d4aa73e52bb73b51bdfd023c5ee2fcb291",
+     "bytes": 941834
+    },
+    {
+     "file": "6.node.json",
+     "sha256": "2906f5298eb8bcfeb157f45cb12c4e8161a6cff7e8ff3a10f3a91c9909888e56",
+     "bytes": 915304
+    },
+    {
+     "file": "7.node.json",
+     "sha256": "7c39d3ce5714b2264afd85aa828da99cca7e261a6569b0ab4136784207efaad6",
+     "bytes": 907300
+    },
+    {
+     "file": "8.node.json",
+     "sha256": "3e720d708131e9e5c2f5766a96b1316573cce93d9ea6fb9599f17564a4f0f42e",
+     "bytes": 907317
+    },
+    {
+     "file": "9.node.json",
+     "sha256": "590d6af1e76460c9f862b6f3ffc33772d6f86e5d90ca2f02cff0c887994e9aeb",
+     "bytes": 906657
+    }
+   ],
+   "new_slice_files": [
+    {
+     "file": "00.node.json",
+     "sha256": "ea895aaddff3fa79934aab13e3af92aeb8e3790c382e01da3d93a084417b4106",
+     "bytes": 906589
+    },
+    {
+     "file": "01.node.json",
+     "sha256": "1521236fe776070e7cf897ee7a6fe9de29d1af893a1d098098dce3ff896068e7",
+     "bytes": 910242
+    },
+    {
+     "file": "02.node.json",
+     "sha256": "825c643558536877d14f749b11877790d0080b68d897149dbcb5d08e66066937",
+     "bytes": 910301
+    },
+    {
+     "file": "03.node.json",
+     "sha256": "117208839c00d44b31849f4a833991fbb91f05322b408f9b5de2f7090cc1a369",
+     "bytes": 910313
+    },
+    {
+     "file": "04.node.json",
+     "sha256": "9c8eae1c75404a9631a8ce825d4469b78853a45af9beb0eae195747d35be6369",
+     "bytes": 927509
+    },
+    {
+     "file": "05.node.json",
+     "sha256": "cd9c65d764e71ae0443c0459a8f12acdb3bd1eb435903c8114f7db36c3b96e5f",
+     "bytes": 928317
+    },
+    {
+     "file": "06.node.json",
+     "sha256": "503359ae925d196ad0137d3dc707b93274706a65e8112842397cab647752bcca",
+     "bytes": 901801
+    },
+    {
+     "file": "07.node.json",
+     "sha256": "a92d71a67d73c7c982679a8f4c073ebb0d86fd98c2cdbcaa9e01bd3b84dd2d10",
+     "bytes": 893769
+    },
+    {
+     "file": "08.node.json",
+     "sha256": "629c93ae41eb70904a013baa7c53ffbb5a80a27a88fcaf59711d1a62554ecf2f",
+     "bytes": 893782
+    },
+    {
+     "file": "09.node.json",
+     "sha256": "eaa88ae81cdf8c8ce11d06a737b40eb0e78e286e8cbd73ceb630424bc1f47ca6",
+     "bytes": 893167
+    },
+    {
+     "file": "10.node.json",
+     "sha256": "61214569173ea8a789029b454fb70857a0a98e56e472231708e646b2a063092f",
+     "bytes": 892308
+    },
+    {
+     "file": "11.node.json",
+     "sha256": "519118e64abad5a211bf5acf78f80c25d8a2aa638ce630e0d11da5d654428c51",
+     "bytes": 892240
+    }
+   ],
+   "first_differences": [],
+   "partition": {
+    "stored": {
+     "slice_files": 12,
+     "ranges": [
+      [
+       0,
+       1500
+      ],
+      [
+       1500,
+       3000
+      ],
+      [
+       3000,
+       4500
+      ],
+      [
+       4500,
+       6000
+      ],
+      [
+       6000,
+       7500
+      ],
+      [
+       7500,
+       9000
+      ],
+      [
+       9000,
+       10500
+      ],
+      [
+       10500,
+       12000
+      ],
+      [
+       12000,
+       13500
+      ],
+      [
+       13500,
+       15000
+      ],
+      [
+       15000,
+       16500
+      ],
+      [
+       16500,
+       18000
+      ]
+     ],
+     "covers_all_rows_exactly_once": true
+    },
+    "new": {
+     "slice_files": 12,
+     "ranges": [
+      [
+       0,
+       1500
+      ],
+      [
+       1500,
+       3000
+      ],
+      [
+       3000,
+       4500
+      ],
+      [
+       4500,
+       6000
+      ],
+      [
+       6000,
+       7500
+      ],
+      [
+       7500,
+       9000
+      ],
+      [
+       9000,
+       10500
+      ],
+      [
+       10500,
+       12000
+      ],
+      [
+       12000,
+       13500
+      ],
+      [
+       13500,
+       15000
+      ],
+      [
+       15000,
+       16500
+      ],
+      [
+       16500,
+       18000
+      ]
+     ],
+     "covers_all_rows_exactly_once": true
+    }
+   }
+  },
+  "python exact_classes.py": {
+   "rows_new": 18000,
+   "rows_stored": 18000,
+   "rows_compared": 18000,
+   "rows_identical": 18000,
+   "rows_mismatching": 0,
+   "rows_missing_in_stored": 0,
+   "row_fields_tested": [
+    "cells",
+    "classes",
+    "default",
+    "deficient_slabs",
+    "deficit_minimum_units",
+    "interval",
+    "minimum_units",
+    "passed",
+    "witness"
+   ],
+   "header_fields_tested": [
+    "bound",
+    "budget_units",
+    "cells_by_class",
+    "cells_by_class (recomputed from the rows of both sides)",
+    "cells_default",
+    "cells_default (recomputed from the rows of both sides)",
+    "checker_sha256",
+    "classes",
+    "deficit_minimum_units",
+    "deficit_minimum_units (recomputed from the rows of both sides)",
+    "end_exclusive",
+    "failed_intervals",
+    "failed_intervals (recomputed from the rows of both sides)",
+    "implementation",
+    "minimum_margin",
+    "required_units",
+    "schema",
+    "start",
+    "statement",
+    "status",
+    "surplus",
+    "symmetry",
+    "total_intervals",
+    "unrestricted_minimum_units",
+    "unrestricted_minimum_units (recomputed from the rows of both sides)"
+   ],
+   "header_fields_mismatching": [],
+   "input_hashes": [
+    {
+     "field": "certificate_sha256",
+     "stored": "f3260fc7eeabd37856ad031ff22069469ad04a3b4f018a4d3ceb936342d729a3",
+     "new": "d57f708907fa88f161dafd94466e1c9851f23e858c76ffd15357ded4cf1c70cc",
+     "in_hash_map": true
+    },
+    {
+     "field": "classes_sha256",
+     "stored": "5fef6d7679d63c4766767bd36eb54932c4791830cc3f8c736eae435f092d229e",
+     "new": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc",
+     "in_hash_map": true
+    }
+   ],
+   "workers": [
+    [
+     4,
+     4
+    ]
+   ],
+   "stored_slice_files": [
+    {
+     "file": "0.py.json",
+     "sha256": "3f57b6c08f6fe88048b5f5faf298c71a0ba9c5603f89372224d0d11687ea8193",
+     "bytes": 922098
+    },
+    {
+     "file": "1.py.json",
+     "sha256": "c50a70bda6e1c620ef1a3146adf54f0ccfdf30285fcedefb340a0aad776c3258",
+     "bytes": 925706
+    },
+    {
+     "file": "10.py.json",
+     "sha256": "7246fe28a9af16de6c44aa6c560867d3e06f5f100987b6c694655f28ded5803a",
+     "bytes": 907779
+    },
+    {
+     "file": "11.py.json",
+     "sha256": "1984b43688acc2eae1eade7469e8d02cc4a0fc36b39133e72b67c01f5b716a62",
+     "bytes": 907714
+    },
+    {
+     "file": "2.py.json",
+     "sha256": "68bd838f0805a099eecde93b098fdbf5ead06ba7aa2f73ba29ca3a8ec49a4ee4",
+     "bytes": 925797
+    },
+    {
+     "file": "3.py.json",
+     "sha256": "c09c7a12c14e42784bf0661e1c61403adec6ae6bde8c181f0b3357f0354bfaa8",
+     "bytes": 925781
+    },
+    {
+     "file": "4.py.json",
+     "sha256": "15e0d3ec3c3e647a1eefffa9916e4e7980d31c5cda23c6aa73cb36e8b9d5f943",
+     "bytes": 942956
+    },
+    {
+     "file": "5.py.json",
+     "sha256": "d347c09339eccd891535add8f8aa3b82a62f66de568bd27d2bcf8976094461c6",
+     "bytes": 943779
+    },
+    {
+     "file": "6.py.json",
+     "sha256": "992ae86711dba6cc499878e41f47067607cd6d90fd131ec583dde21a04459c1d",
+     "bytes": 917225
+    },
+    {
+     "file": "7.py.json",
+     "sha256": "f326786abec6709e2ab5d0b8c9d6bc820b96ca796cf5b7098ad91f19c70a24f4",
+     "bytes": 909267
+    },
+    {
+     "file": "8.py.json",
+     "sha256": "a18049b27f2685e28b49dc102fd7d09d11e5e945da917afcb540cc5312145ffc",
+     "bytes": 909280
+    },
+    {
+     "file": "9.py.json",
+     "sha256": "cd7ba41fdd691243118692105e8973b5dfaf9d7f6ad62b9f6dc33da285f13eba",
+     "bytes": 908602
+    }
+   ],
+   "new_slice_files": [
+    {
+     "file": "00.py.json",
+     "sha256": "1542b1a26d652cb74fc8a5be670fd49a5a90edae8dbedd47edd1ecf0a984dac5",
+     "bytes": 908581
+    },
+    {
+     "file": "01.py.json",
+     "sha256": "4dcbdc9b5b973577ac6721e3fb9082fd06e85cb8f03e03b9feaaa3a09e595764",
+     "bytes": 912172
+    },
+    {
+     "file": "02.py.json",
+     "sha256": "cce427e12eed254b0ffb13700d74991ceef5db2ec46406037a913fded72cf2fc",
+     "bytes": 912262
+    },
+    {
+     "file": "03.py.json",
+     "sha256": "a36fe365a60224a2c01fb2367d7d9e4d0bffdf14b57b747bcf887fa3d003b0bc",
+     "bytes": 912274
+    },
+    {
+     "file": "04.py.json",
+     "sha256": "00a003bc6d8384a83a26d3ffac2e4feea76c96138f4d9a9a08644d998037031c",
+     "bytes": 929446
+    },
+    {
+     "file": "05.py.json",
+     "sha256": "595cfbadaca191d43de58adaa9ee5002c20e63fec83928375dd2d82302c57e3f",
+     "bytes": 930283
+    },
+    {
+     "file": "06.py.json",
+     "sha256": "e37034ddfb821df0b8539119934f8ce5262d3e258308849ca22f672cfd1ed717",
+     "bytes": 903739
+    },
+    {
+     "file": "07.py.json",
+     "sha256": "2b17d35061703e29ccee6804a4137f55434134ca5aba777b6404af5e7b9e316b",
+     "bytes": 895728
+    },
+    {
+     "file": "08.py.json",
+     "sha256": "a6639f3cfc83ab00c5fe97e1f9bb154991639f46a72b245be65f5c1fe813dff3",
+     "bytes": 895731
+    },
+    {
+     "file": "09.py.json",
+     "sha256": "61cd8bcd9252365e96d02971e86e967fbe98a045283cec3aaea082b616f610b2",
+     "bytes": 895080
+    },
+    {
+     "file": "10.py.json",
+     "sha256": "ac3d282b30e9e5ecf8a4251dc8196e69602f472b7a5b4e207ebbc076e1cec8c1",
+     "bytes": 894266
+    },
+    {
+     "file": "11.py.json",
+     "sha256": "ebcbd98797f59c0d678ee1d6739312c83bc2a6a3dce0ed264f448a24a33aefb3",
+     "bytes": 894192
+    }
+   ],
+   "first_differences": [],
+   "partition": {
+    "stored": {
+     "slice_files": 12,
+     "ranges": [
+      [
+       0,
+       1500
+      ],
+      [
+       1500,
+       3000
+      ],
+      [
+       3000,
+       4500
+      ],
+      [
+       4500,
+       6000
+      ],
+      [
+       6000,
+       7500
+      ],
+      [
+       7500,
+       9000
+      ],
+      [
+       9000,
+       10500
+      ],
+      [
+       10500,
+       12000
+      ],
+      [
+       12000,
+       13500
+      ],
+      [
+       13500,
+       15000
+      ],
+      [
+       15000,
+       16500
+      ],
+      [
+       16500,
+       18000
+      ]
+     ],
+     "covers_all_rows_exactly_once": true
+    },
+    "new": {
+     "slice_files": 12,
+     "ranges": [
+      [
+       0,
+       1500
+      ],
+      [
+       1500,
+       3000
+      ],
+      [
+       3000,
+       4500
+      ],
+      [
+       4500,
+       6000
+      ],
+      [
+       6000,
+       7500
+      ],
+      [
+       7500,
+       9000
+      ],
+      [
+       9000,
+       10500
+      ],
+      [
+       10500,
+       12000
+      ],
+      [
+       12000,
+       13500
+      ],
+      [
+       13500,
+       15000
+      ],
+      [
+       15000,
+       16500
+      ],
+      [
+       16500,
+       18000
+      ]
+     ],
+     "covers_all_rows_exactly_once": true
+    }
+   }
+  }
+ },
+ "receipts": {
+  "receipt_python.json": {
+   "stored": {
+    "file": "receipt_python.json",
+    "sha256": "c13eb14b212d4c63849dd6ed48c55e8cdd632ddca268c24cd1e29677093326ad",
+    "bytes": 2407
+   },
+   "new": {
+    "file": "receipt_python.json",
+    "sha256": "435149cc26e8e9f6fcd6ae57777dcb73835d886f4c5fab20fe956d59200e5066",
+    "bytes": 2380
+   },
+   "fields_tested": [
+    "bound",
+    "budget_units",
+    "cells_by_class",
+    "cells_default",
+    "checker_sha256",
+    "classes",
+    "deficit_minimum_units",
+    "end_exclusive",
+    "failed_intervals",
+    "first_missing_intervals",
+    "implementation",
+    "missing_intervals",
+    "problems",
+    "required_units",
+    "schema",
+    "start",
+    "statement",
+    "status",
+    "surplus",
+    "symmetry",
+    "total_intervals",
+    "unrestricted_minimum_units"
+   ],
+   "fields_differing": [],
+   "partition_fields_not_required_equal": [
+    "merged_files"
+   ],
+   "merged_files_each_against_its_own_slice_files": {
+    "stored": {
+     "merged_files": 12,
+     "slice_files": 12,
+     "covers_all_rows_exactly_once": true,
+     "equal": true
+    },
+    "new": {
+     "merged_files": 12,
+     "slice_files": 12,
+     "covers_all_rows_exactly_once": true,
+     "equal": true
+    }
+   },
+   "input_hashes": [
+    {
+     "field": "certificate_sha256",
+     "stored": "f3260fc7eeabd37856ad031ff22069469ad04a3b4f018a4d3ceb936342d729a3",
+     "new": "d57f708907fa88f161dafd94466e1c9851f23e858c76ffd15357ded4cf1c70cc"
+    },
+    {
+     "field": "classes_sha256",
+     "stored": "5fef6d7679d63c4766767bd36eb54932c4791830cc3f8c736eae435f092d229e",
+     "new": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc"
+    }
+   ]
+  },
+  "receipt_node.json": {
+   "stored": {
+    "file": "receipt_node.json",
+    "sha256": "78f200d6168e14adfd87c430f28decc596b5c99721cdedd8ec7828ea15416b7d",
+    "bytes": 2089
+   },
+   "new": {
+    "file": "receipt_node.json",
+    "sha256": "a3de58a286c118b82f99ce37d608bdfff7818dc9e07097ae38a94a880fb52616",
+    "bytes": 2062
+   },
+   "fields_tested": [
+    "bound",
+    "budget_units",
+    "cells_by_class",
+    "cells_default",
+    "checker_sha256",
+    "classes",
+    "deficit_minimum_units",
+    "end_exclusive",
+    "failed_intervals",
+    "first_missing_intervals",
+    "implementation",
+    "missing_intervals",
+    "problems",
+    "required_units",
+    "schema",
+    "start",
+    "statement",
+    "status",
+    "surplus",
+    "symmetry",
+    "total_intervals",
+    "unrestricted_minimum_units"
+   ],
+   "fields_differing": [],
+   "partition_fields_not_required_equal": [
+    "merged_files"
+   ],
+   "merged_files_each_against_its_own_slice_files": {
+    "stored": {
+     "merged_files": 12,
+     "slice_files": 12,
+     "covers_all_rows_exactly_once": true,
+     "equal": true
+    },
+    "new": {
+     "merged_files": 12,
+     "slice_files": 12,
+     "covers_all_rows_exactly_once": true,
+     "equal": true
+    }
+   },
+   "input_hashes": [
+    {
+     "field": "certificate_sha256",
+     "stored": "f3260fc7eeabd37856ad031ff22069469ad04a3b4f018a4d3ceb936342d729a3",
+     "new": "d57f708907fa88f161dafd94466e1c9851f23e858c76ffd15357ded4cf1c70cc"
+    },
+    {
+     "field": "classes_sha256",
+     "stored": "5fef6d7679d63c4766767bd36eb54932c4791830cc3f8c736eae435f092d229e",
+     "new": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc"
+    }
+   ]
+  }
+ },
+ "problems": [],
+ "verdict_of_compare_rows": "IDENTICAL",
+ "bridge": {
+  "merge_attempt_id": "m1",
+  "merge_provenance_sha256": "0d1e96d2196a3ccc95a8c8e0330e21617613e40bdb7c2acbc199e1555e4f73ae",
+  "manifests": {
+   "source_manifest_sha256": "bdaaf36bf5b67f4ff3e81050cd1b95340be8dc2e992eb52e6160896339f57608",
+   "plan_manifest_sha256": "bc8324cfa721889725f63bd1e2a31cd522e35bee257187154758639e642bd7d6",
+   "merge_manifest_sha256": "7d26c9e73ab876ef07b62413bcec03c8555b7cccb49f4ce0fbf9ae06fada5075"
+  },
+  "selected_slices": [
+   {
+    "slice_id": "00",
+    "attempt_id": "a1",
+    "start": 0,
+    "end_exclusive": 1500,
+    "provenance_sha256": "20d050e06b0f84378cef2ae3c29b8c36cc830823254a7c9cfed0b4db6483fd5a",
+    "python": {
+     "sha256": "1542b1a26d652cb74fc8a5be670fd49a5a90edae8dbedd47edd1ecf0a984dac5",
+     "bytes": 908581
+    },
+    "node": {
+     "sha256": "ea895aaddff3fa79934aab13e3af92aeb8e3790c382e01da3d93a084417b4106",
+     "bytes": 906589
+    },
+    "compare": {
+     "sha256": "6fca465a6cbf33fc456f287c5551959187be067f60774cefc7b70ee408f6c1a7",
+     "bytes": 2786
+    }
+   },
+   {
+    "slice_id": "01",
+    "attempt_id": "a1",
+    "start": 1500,
+    "end_exclusive": 3000,
+    "provenance_sha256": "5cb47d70d10afb4b79958f3acc3f0e850ad2614834c3adf4ada60e9ccbf4578c",
+    "python": {
+     "sha256": "4dcbdc9b5b973577ac6721e3fb9082fd06e85cb8f03e03b9feaaa3a09e595764",
+     "bytes": 912172
+    },
+    "node": {
+     "sha256": "1521236fe776070e7cf897ee7a6fe9de29d1af893a1d098098dce3ff896068e7",
+     "bytes": 910242
+    },
+    "compare": {
+     "sha256": "bbfadd8b7c4f24cfbc17fa2d606f5c6ca50d03e4525f1ca7a9d1a0ca98a93cbe",
+     "bytes": 2789
+    }
+   },
+   {
+    "slice_id": "02",
+    "attempt_id": "a3",
+    "start": 3000,
+    "end_exclusive": 4500,
+    "provenance_sha256": "deda60c16da4497b9d5a0e85623fb53107841bb3185fd188ee8911d2898ad299",
+    "python": {
+     "sha256": "cce427e12eed254b0ffb13700d74991ceef5db2ec46406037a913fded72cf2fc",
+     "bytes": 912262
+    },
+    "node": {
+     "sha256": "825c643558536877d14f749b11877790d0080b68d897149dbcb5d08e66066937",
+     "bytes": 910301
+    },
+    "compare": {
+     "sha256": "f94484227c89af5d41fe1756b4255860132440f4de8eca664cbe01ece6b46838",
+     "bytes": 2789
+    }
+   },
+   {
+    "slice_id": "03",
+    "attempt_id": "a2",
+    "start": 4500,
+    "end_exclusive": 6000,
+    "provenance_sha256": "d521318a11af397a1e792b053873dbc6eb4e75256ac0e1c554e4c99319f624db",
+    "python": {
+     "sha256": "a36fe365a60224a2c01fb2367d7d9e4d0bffdf14b57b747bcf887fa3d003b0bc",
+     "bytes": 912274
+    },
+    "node": {
+     "sha256": "117208839c00d44b31849f4a833991fbb91f05322b408f9b5de2f7090cc1a369",
+     "bytes": 910313
+    },
+    "compare": {
+     "sha256": "30812668287ab03faa075ec3f9f4ea0c2683451941fb6ecebc70066f0f1f4e10",
+     "bytes": 2789
+    }
+   },
+   {
+    "slice_id": "04",
+    "attempt_id": "a1",
+    "start": 6000,
+    "end_exclusive": 7500,
+    "provenance_sha256": "5b9424c9ec6bff46efec6ed7995068ba1446959fbaedfc462838fb72e5ae49ba",
+    "python": {
+     "sha256": "00a003bc6d8384a83a26d3ffac2e4feea76c96138f4d9a9a08644d998037031c",
+     "bytes": 929446
+    },
+    "node": {
+     "sha256": "9c8eae1c75404a9631a8ce825d4469b78853a45af9beb0eae195747d35be6369",
+     "bytes": 927509
+    },
+    "compare": {
+     "sha256": "00f888ae50f20b0020d3737907e77d8a65e2c9717ef97a0447a2a63c92e047fd",
+     "bytes": 2819
+    }
+   },
+   {
+    "slice_id": "05",
+    "attempt_id": "a3",
+    "start": 7500,
+    "end_exclusive": 9000,
+    "provenance_sha256": "f8f2d00638aa219d5cfd1f86adf0eab2aa1fe48cfb49d4cdbd44886d8772d369",
+    "python": {
+     "sha256": "595cfbadaca191d43de58adaa9ee5002c20e63fec83928375dd2d82302c57e3f",
+     "bytes": 930283
+    },
+    "node": {
+     "sha256": "cd9c65d764e71ae0443c0459a8f12acdb3bd1eb435903c8114f7db36c3b96e5f",
+     "bytes": 928317
+    },
+    "compare": {
+     "sha256": "f8b9c4a708426f7b31dc0ece2c3db3d4474f9d07406e50a69831ca8fa20276dc",
+     "bytes": 2819
+    }
+   },
+   {
+    "slice_id": "06",
+    "attempt_id": "a1",
+    "start": 9000,
+    "end_exclusive": 10500,
+    "provenance_sha256": "3ecfb53c951b4a81efad59c255ad2f2e63363d93cd7980fa141862e72f7bb05a",
+    "python": {
+     "sha256": "e37034ddfb821df0b8539119934f8ce5262d3e258308849ca22f672cfd1ed717",
+     "bytes": 903739
+    },
+    "node": {
+     "sha256": "503359ae925d196ad0137d3dc707b93274706a65e8112842397cab647752bcca",
+     "bytes": 901801
+    },
+    "compare": {
+     "sha256": "b99a4ed03d614d633033ebd5fc1238383a2865aeabe9da07534667c6c0abb1f6",
+     "bytes": 2814
+    }
+   },
+   {
+    "slice_id": "07",
+    "attempt_id": "a2",
+    "start": 10500,
+    "end_exclusive": 12000,
+    "provenance_sha256": "7ef2c57cc7d83cf631fdf559f1347ae8089d0e0e98afbc784885d7d2d4273469",
+    "python": {
+     "sha256": "2b17d35061703e29ccee6804a4137f55434134ca5aba777b6404af5e7b9e316b",
+     "bytes": 895728
+    },
+    "node": {
+     "sha256": "a92d71a67d73c7c982679a8f4c073ebb0d86fd98c2cdbcaa9e01bd3b84dd2d10",
+     "bytes": 893769
+    },
+    "compare": {
+     "sha256": "0d076f0a0e463fc6f5b6fe3bb5ed31631774b0e8c668bbd0a063b78ba07df7ba",
+     "bytes": 2761
+    }
+   },
+   {
+    "slice_id": "08",
+    "attempt_id": "a1",
+    "start": 12000,
+    "end_exclusive": 13500,
+    "provenance_sha256": "8d285679c80e10ce051c4cbe5356b792f338726863f09dd1933f07ae43e4d5af",
+    "python": {
+     "sha256": "a6639f3cfc83ab00c5fe97e1f9bb154991639f46a72b245be65f5c1fe813dff3",
+     "bytes": 895731
+    },
+    "node": {
+     "sha256": "629c93ae41eb70904a013baa7c53ffbb5a80a27a88fcaf59711d1a62554ecf2f",
+     "bytes": 893782
+    },
+    "compare": {
+     "sha256": "cf0a8d4bcd889943aa540bc13d89382f1e07c24ca1b8a4d937d485a70faa6b7a",
+     "bytes": 2761
+    }
+   },
+   {
+    "slice_id": "09",
+    "attempt_id": "a1",
+    "start": 13500,
+    "end_exclusive": 15000,
+    "provenance_sha256": "6c3113a2ef2596a6edfc3c0c52916375fe35646e4d4bbe0cdb97f91711cfb3ee",
+    "python": {
+     "sha256": "61cd8bcd9252365e96d02971e86e967fbe98a045283cec3aaea082b616f610b2",
+     "bytes": 895080
+    },
+    "node": {
+     "sha256": "eaa88ae81cdf8c8ce11d06a737b40eb0e78e286e8cbd73ceb630424bc1f47ca6",
+     "bytes": 893167
+    },
+    "compare": {
+     "sha256": "14f492ac7c3d56e4584cdf04a3f4fb44ef2e76a84062355cd6a7336b76c4c43f",
+     "bytes": 2761
+    }
+   },
+   {
+    "slice_id": "10",
+    "attempt_id": "a1",
+    "start": 15000,
+    "end_exclusive": 16500,
+    "provenance_sha256": "e9661f1a8520ea698eead437adfbf920c6b20e1877a1fca2cd8d45fb4b6bc439",
+    "python": {
+     "sha256": "ac3d282b30e9e5ecf8a4251dc8196e69602f472b7a5b4e207ebbc076e1cec8c1",
+     "bytes": 894266
+    },
+    "node": {
+     "sha256": "61214569173ea8a789029b454fb70857a0a98e56e472231708e646b2a063092f",
+     "bytes": 892308
+    },
+    "compare": {
+     "sha256": "73632a2e044209de0d3e51f7b2e43d8179fcb6dab8d4f89ae4814678da3c7bae",
+     "bytes": 2761
+    }
+   },
+   {
+    "slice_id": "11",
+    "attempt_id": "a2",
+    "start": 16500,
+    "end_exclusive": 18000,
+    "provenance_sha256": "8227546ecc5d028e88233810c455a23190299fee8ed4752e7a0ad11950d480ed",
+    "python": {
+     "sha256": "ebcbd98797f59c0d678ee1d6739312c83bc2a6a3dce0ed264f448a24a33aefb3",
+     "bytes": 894192
+    },
+    "node": {
+     "sha256": "519118e64abad5a211bf5acf78f80c25d8a2aa638ce630e0d11da5d654428c51",
+     "bytes": 892240
+    },
+    "compare": {
+     "sha256": "149dd395d048f602d5ca0695452e7997a2af3dde2b60c960608ccbbf8ee69e9d",
+     "bytes": 2785
+    }
+   }
+  ],
+  "receipts": {
+   "python": {
+    "file": "receipt_python.json",
+    "sha256": "435149cc26e8e9f6fcd6ae57777dcb73835d886f4c5fab20fe956d59200e5066",
+    "bytes": 2380
+   },
+   "node": {
+    "file": "receipt_node.json",
+    "sha256": "a3de58a286c118b82f99ce37d608bdfff7818dc9e07097ae38a94a880fb52616",
+    "bytes": 2062
+   }
+  },
+  "source_sha256": {
+   "compare_statement": "3d763d9bfc93f22bc82d0853171203b740ada5108e9e36a8999bdde9bae80218",
+   "merge_select": "1b2694d3cf520207925059d191c082bbf44f8c0c88246c57920828ec9775436c",
+   "compare_rows": "e30eb66fbac6fd37d04c571b95013bc2061add6b46183e437b05c1cf3201b6fc",
+   "strip_inputs": "f7593558a9c723435fa55da885bc96a0db77be1be1dd734e2604b7c026b0d509",
+   "statements_table": "a75009a0fb93ce97f9f483e69e4b1dc5a0e0aef4b1c178a45aa85a9be63889bd",
+   "hash_map": "19785325a4d3b3a69046005c5498b13a6b8a9e41487d655c85a4763257e9c6b3",
+   "removed_keys_table": "5e06450e0e2409f6755d19a730e29c9b95bc7a8a26d7b4718fb4846c8e223611",
+   "name_map": "2bb0825ff7490976cce15528ceeaad27ff600408b4a774c68b536ff069a9c263"
+  },
+  "binding_tests": {
+   "statement": true,
+   "hash map, name map and compare_rows.py by sha256": true,
+   "exactly the two implementations": true,
+   "new slice files = the selected files (sha256 and size of the parsed bytes)": true,
+   "new partition = the planned slices": true,
+   "stored partition covers the rows exactly once": true,
+   "every planned row compared for each implementation": true,
+   "new receipts = the receipts of the merge record": true
+  },
+  "compare_rows_return_code": 0,
+  "compare_rows_verdict": "IDENTICAL"
+ },
+ "verdict": "IDENTICAL",
+ "reason": ""
+}

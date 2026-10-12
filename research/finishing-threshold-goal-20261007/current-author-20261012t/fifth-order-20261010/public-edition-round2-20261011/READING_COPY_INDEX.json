@@ -1,0 +1,15 @@
+{
+  "tables": [
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/reseal-resume-1120/graphs/objects/4da8d938feaf76d8e85ad018ef1ed3512d95f77550401797c279226fcab9ecd6/REVIEW_HASHES.json",
+      "sha256": "902d1e217c42161ebd338ade6b6f22df82b94e5b5634ac550e32d0a6aafff311",
+      "bytes": 12084
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/reseal-resume-1120/graphs/objects/cce600b80d0d7df92da5fa5642dfce1e6576de15c2093adcbf0ecf8584092afa/RECORD_HASHES.json",
+      "sha256": "029aed5495812e2be0f565cd45f5d38b899a7c2662db3ee676e3e84c5acc243c",
+      "bytes": 7717
+    }
+  ],
+  "scope": "Current reading-copy identities; historical identities identify reviewed sources and do not assert new reviews of edited objects."
+}

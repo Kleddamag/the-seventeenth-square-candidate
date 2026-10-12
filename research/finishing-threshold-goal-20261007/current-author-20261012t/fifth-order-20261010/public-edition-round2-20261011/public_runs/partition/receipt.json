@@ -1,0 +1,25 @@
+{
+  "id": "partition",
+  "status": "PASS",
+  "error": null,
+  "missing_required_output": [],
+  "wall_seconds": 0.10366591601632535,
+  "cpu_seconds": 0.10343200000000001,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "executable": "python3.12",
+  "script_sha256": "97ef83686bdd79a3e0d74de3a1c5dd41c9624a3d1cdf3eaa611b708798737d87",
+  "original_last_line": "{\"status\": \"PASS_EXACT_GUARD_PARTITION_ON_ALL_SIGN_ATOMS\", \"total_atoms\": 41160, \"atom_counts_by_case\": {\"JQ\": 10976, \"JPWS\": 10976, \"JPW13\": 5488, \"JPB\": 5145, \"JPG3m\": 735, \"JPG17m\": 105, \"JPG15m\": 15, \"JG\": 5, \"JPG15p\": 15, \"JPG17p\": 105, \"JPG3p\": 735, \"JPA\": 5145, \"REMOVED_HIGH9\": 1715}, \"CPU_seconds\": 0.07847799999999999}",
+  "inputs_read": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/EXACT_ENDPOINT_AND_CASES.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/manuscript/check_case_partition.py"
+  ],
+  "redirected_outputs": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/manuscript/CASE_PARTITION.json": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/partition/outputs/research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/manuscript/CASE_PARTITION.json"
+  },
+  "path_adaptations": [
+    "author repository prefix",
+    "BI manifest.json case alias",
+    "round2: revision-v4/PROOF.md reads revision-v7/PROOF.md"
+  ],
+  "scope": "New execution of the named check only, not a new independent mathematical review."
+}

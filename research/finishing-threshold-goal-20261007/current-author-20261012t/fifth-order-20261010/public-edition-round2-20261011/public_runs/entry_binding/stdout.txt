@@ -1,0 +1,1 @@
+{"status": "ACCEPTED_GUARDED_RAW_ENTRY_STOP_PRUNING", "CPU_seconds": 0.010536000000000004, "controls": 8}

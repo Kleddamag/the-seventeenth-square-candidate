@@ -1,0 +1,177 @@
+{
+  "schema": "s17-independent-four-literal-capture-budgets-v1",
+  "status": "ACCEPTED_FOUR_PINNED_CAPTURE_STRICT_BUDGETS",
+  "reviewer": "Codex contributor 01",
+  "producer": "automated producer",
+  "producer_source": {
+    "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/bind_capture_receipts.py",
+    "sha256": "a1c8e10e8fc591d68fd9ee98d69575e7baae0aaceb78e6484739670785e7dfd5",
+    "bytes": 4469
+  },
+  "producer_output": {
+    "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/FOUR_CAPTURE_BINDINGS.json",
+    "sha256": "65a0f499633391d18a8092a7a6a117e97861f88fbb2b0e6555dab92ad4740c57",
+    "bytes": 7790
+  },
+  "review_artifacts": {
+    "REVIEW.md": {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/REVIEW.md",
+      "sha256": "0320c85940049c768df4f1d6a2408c4cb75c0091e8182ea94bff78ecb18e3f2f",
+      "bytes": 6310
+    },
+    "review.py": {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/review.py",
+      "sha256": "4483f2c6b0de00cd00ff73076987fdf1216410239446e702005a6662e1808882",
+      "bytes": 7977
+    },
+    "RESULT.json": {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/RESULT.json",
+      "sha256": "71439c19eb897f36b2e9ab305e4750fa2dc1f793456c2bf1ed3cf09473162ef4",
+      "bytes": 2945
+    },
+    "INPUTS.json": {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/INPUTS.json",
+      "sha256": "030ecf33f84cf696222d62eb1c82024f9a4b5ea332d7208a8afef79b054e9b28",
+      "bytes": 7321
+    }
+  },
+  "dependencies": [
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/CLASS_ALIASES.json",
+      "sha256": "0c0394df9dc93e42c989d81be0222e5004cd58825b7b6894d2e9742c21ee36f8",
+      "bytes": 4555
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/SAVED_PROVENANCE.json",
+      "sha256": "f64348f6cd3d7086c3f64597906dec0d645d2d42c492b75d0e711576fcda5fdf",
+      "bytes": 338118
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/REVIEW.md",
+      "sha256": "4b17c6b717963675742d6c96707ac2e6683f2ced591ef996a78158463befb07c",
+      "bytes": 11322
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "sha256": "ba53b261c4cdf35c06067d02b014aec168c6be4a86de4943d4501368c3ba8c13",
+      "bytes": 12081
+    },
+    {
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "efd913623a2f9821a5b96a1a79ae12be40e4b14030d558ffc8b12ef5178cbf4e",
+      "bytes": 3734
+    }
+  ],
+  "selected_capture_rows": {
+    "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/CAPTURE_ROWS.json",
+    "sha256": "6224e865c3ab1e4d2cff5a4ca870bda42c8568606ef350b1a3d6330bff51bd7f",
+    "bytes": 25250
+  },
+  "accepted_statements": [
+    {
+      "name": "C_1",
+      "cap": "4675531/1000000",
+      "bound": "20",
+      "gamma": "999558149",
+      "budget": "19991162970",
+      "surplus": "10",
+      "normalized_strict_gap": "10/999558149",
+      "contract_class_sha256": "e208025e9e5905f3d1ad524a692facfe28b3e7092fcdbfef2fd74d26cb5de1a6",
+      "receipts": [
+        {
+          "implementation": "python",
+          "sha256": "46573d80d40987d5ad51a71b9cbee6c195bb6dcdcf1f68d8e2a1cff4c08bd77b"
+        },
+        {
+          "implementation": "node",
+          "sha256": "f1e1ba7b89724b668c13aa9b05c5cbbd61f4ddbeaa8154bc93e5813343994a4f"
+        }
+      ]
+    },
+    {
+      "name": "C_11",
+      "cap": "4675531/1000000",
+      "bound": "20",
+      "gamma": "998906036",
+      "budget": "19978120715",
+      "surplus": "5",
+      "normalized_strict_gap": "5/998906036",
+      "contract_class_sha256": "9b036d26a87e4f89f356303004f817a9a8b2d1afff120ee6ff69cb4be69122b6",
+      "receipts": [
+        {
+          "implementation": "python",
+          "sha256": "c998c3342e11e7dff548a08b9bc5ba0e39f824ab36e47eeb07def44b711a43ca"
+        },
+        {
+          "implementation": "node",
+          "sha256": "97a42b4d3331a0b3e9f2b5b33300c5d85b2d13c4190d9bf71577cb30570cf2ea"
+        }
+      ]
+    },
+    {
+      "name": "C_12",
+      "cap": "4675531/1000000",
+      "bound": "20",
+      "gamma": "994144457",
+      "budget": "19882889130",
+      "surplus": "10",
+      "normalized_strict_gap": "10/994144457",
+      "contract_class_sha256": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc",
+      "receipts": [
+        {
+          "implementation": "python",
+          "sha256": "435149cc26e8e9f6fcd6ae57777dcb73835d886f4c5fab20fe956d59200e5066"
+        },
+        {
+          "implementation": "node",
+          "sha256": "bc3a280185c860ba9b28bd3a427d5d209afbd8f081c819ef8226a90734c07cd8"
+        }
+      ]
+    },
+    {
+      "name": "PW_11",
+      "cap": "4675531/1000000",
+      "bound": "23",
+      "gamma": "997874785",
+      "budget": "22951120047",
+      "surplus": "8",
+      "normalized_strict_gap": "8/997874785",
+      "contract_class_sha256": "0fc8882907e5f43317019cf58da37b20a1bb3f09b6345e699abbb6db99cf105e",
+      "receipts": [
+        {
+          "implementation": "python",
+          "sha256": "cf77e15b8f410219b4fface1503b678919c9155fa0881d08858dd03b737d93e3"
+        },
+        {
+          "implementation": "node",
+          "sha256": "c7e47fd246ba19c8b1889b957c6ae987d76f7f2979dd996eb49e39ffe04af281"
+        }
+      ]
+    }
+  ],
+  "conclusion": "For each named literal pinned class file, every family of closed interior-disjoint unit squares at cap 4675531/1000000 satisfies sum high-first psi <= budget/Gamma < bound. The same holds at S <= cap under translation by frame.center-(S/2,S/2).",
+  "cap": "4675531/1000000",
+  "frame_center": [
+    "1169/500",
+    "1169/500"
+  ],
+  "score": "maximum containing high threshold if any; otherwise minimum containing low threshold if any; otherwise 1",
+  "actual_side_guard": "S <= cap; accepted centred transport; no scaling",
+  "all_arithmetic_and_execution_guards_discharged_for_named_objects": true,
+  "authentic_saved_row_coverage_per_implementation": 72000,
+  "new_charge_row_replays": 0,
+  "distinct_from_binding_producer": true,
+  "provenance_review_same_reviewer_explicitly_imported": true,
+  "new_execution_claimed": false,
+  "lowered_L09q_used_for_FRAME": false,
+  "full_optimality_claimed": false,
+  "limits": [
+    "Four concrete class statements only",
+    "No generic acceptance of future receipts or changed bytes",
+    "Remaining capture obligations, local coverage and global optimality remain open"
+  ],
+  "cost": {
+    "metadata_CPU_seconds": 0.18223,
+    "conservative_CPU_charge": 1
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "statement": "CLASS_PSS_L14_T15",
+  "status": "PASS_NEUTRAL_RECEIPTS_AND_EXACT_ROW_DECISIONS",
+  "rows": 18000,
+  "header": {
+    "schema": "s17-classes-v1",
+    "symmetry": "fixed",
+    "bound": "23",
+    "classes": [
+      {
+        "name": "M",
+        "threshold": "4",
+        "slots": 1
+      },
+      {
+        "name": "T15S_loose_slot_of_label15_square_beyond_its_gate",
+        "threshold": "4",
+        "slots": 2
+      },
+      {
+        "name": "PB_label14_exempt",
+        "threshold": "0",
+        "slots": 1
+      },
+      {
+        "name": "WC_label9_wall_column_exempt",
+        "threshold": "0",
+        "slots": 1
+      }
+    ],
+    "total_intervals": 18000,
+    "required_units": "999502293",
+    "budget_units": "22988552729",
+    "surplus": "10",
+    "certificate_sha256": "aeb8ec5f42a256ea8ac35f02ed65cdf8606905a255eba5522b151b771a48dc6c",
+    "classes_sha256": "2981d82e61a486f553de90a396a7a20807206d892a8aa3cb86d4b867cd9a5aa0"
+  },
+  "classes": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/classes.json",
+    "sha256": "2981d82e61a486f553de90a396a7a20807206d892a8aa3cb86d4b867cd9a5aa0",
+    "bytes": 2072
+  },
+  "certificate": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/certificate.json",
+    "sha256": "aeb8ec5f42a256ea8ac35f02ed65cdf8606905a255eba5522b151b771a48dc6c",
+    "bytes": 4739060
+  },
+  "merge": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/merge_provenance.json",
+    "sha256": "4460beba258e5cab669f93612b77f268481261bdccad86395fcabeed2e607497",
+    "bytes": 14580
+  },
+  "receipts": {
+    "python": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/receipt_python.json",
+      "sha256": "6e536e54f7e8c05747c81fb49a1f11fddb61e24b0311058e2aa8e632c7c6c9e8",
+      "bytes": 2671
+    },
+    "node": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/receipt_node.json",
+      "sha256": "e0558690e5b39d86aba52c1730deefb810af9b5c9bf32bd5caa7c6e33545798b",
+      "bytes": 2353
+    }
+  },
+  "selected": [
+    {
+      "slice_id": "00",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/00-a1/provenance.json",
+        "sha256": "d96ada9cd11e22e321929c6095c4718ee441af22f372bbca480292f5dd716a5a",
+        "bytes": 6192
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/00-a1/py.json",
+          "sha256": "813e5f309f37641146a2179f76e0bf966da7fcaf7fd47f4a8f44a1039a89bbeb",
+          "bytes": 1082878
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/00-a1/node.json",
+          "sha256": "1fa12704ce6fc86e36904ac7e1be2414ad78b9d0fcfd2d27faa55e5bd2a56bda",
+          "bytes": 1080962
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/00-a1/compare.json",
+          "sha256": "0df556c9ea5534c04c9349b9c6dca7ca2fa592f4ad410557f0c89be5e10a75c7",
+          "bytes": 3078
+        }
+      }
+    },
+    {
+      "slice_id": "01",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/01-a1/provenance.json",
+        "sha256": "adff18a0b32420203bdf5c34b38f2270567206c035fed5849ffca96a91c85063",
+        "bytes": 6204
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/01-a1/py.json",
+          "sha256": "f692e33a88e807255bdb91b3db770a331e7a838480a7a7e7957ec90b3f62ea4b",
+          "bytes": 1087813
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/01-a1/node.json",
+          "sha256": "9fcc079b307447c72df78962f928192c59dc85119e1a74984f710be737afedb8",
+          "bytes": 1085839
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/01-a1/compare.json",
+          "sha256": "0b33c5eb6c0e9c71667b03627c294e2ce7cb8cb88e16a0a86fba756010b0bd0f",
+          "bytes": 3055
+        }
+      }
+    },
+    {
+      "slice_id": "02",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/02-a1/provenance.json",
+        "sha256": "d992256808846200b8306b84ae62f9391efe9c249845e70693443f73211e5ac6",
+        "bytes": 6204
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/02-a1/py.json",
+          "sha256": "87dcf6ff72a2e26f21add73673d6979cb22342588eca2cbb0b1281c9f5c13059",
+          "bytes": 1087819
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/02-a1/node.json",
+          "sha256": "5b3a834402849add0ef299475baedf930d5a6ffdaf19ebbc96f562baae9e5602",
+          "bytes": 1085874
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/02-a1/compare.json",
+          "sha256": "40b3673848d4ee9291701b67134064524afce37a6360432fa12a24ae632091be",
+          "bytes": 3053
+        }
+      }
+    },
+    {
+      "slice_id": "03",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/03-a1/provenance.json",
+        "sha256": "aa6dc6400aa56942a81c8223502eee3be51122bded34bc0224cada4cdcb02830",
+        "bytes": 6204
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/03-a1/py.json",
+          "sha256": "df7a73e8c923fd0bb8e2c13ca2525da3c3021a301045dc3282307b34a1820867",
+          "bytes": 1090533
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/03-a1/node.json",
+          "sha256": "5955027ef18a5c5334ee962439536f0a5e752af3998c4a6d11b251a64b37c921",
+          "bytes": 1088568
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/03-a1/compare.json",
+          "sha256": "6805e1e3fe5aebfc25c998619fcfbcaaa60e0487386a1cd65264038e8656cf77",
+          "bytes": 3053
+        }
+      }
+    },
+    {
+      "slice_id": "04",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/04-a1/provenance.json",
+        "sha256": "f6a3be296e7c7cf531b7915b0ab441e316f7a414f17bf88e38ae468feef48364",
+        "bytes": 6204
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/04-a1/py.json",
+          "sha256": "2499a416e382d90253198978d9ca281207f01705ff6dc3b9d401d0270c6c1c5a",
+          "bytes": 1098457
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/04-a1/node.json",
+          "sha256": "f9f3bfeca3eefa66861bf72d101f5c9f4db2c36c001f9b5e3b643d268d083079",
+          "bytes": 1096480
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/04-a1/compare.json",
+          "sha256": "4a38a12fd79df7702693ef18d9d269671f9c60b3a65fa4bbd12aff2cdcfd6751",
+          "bytes": 3081
+        }
+      }
+    },
+    {
+      "slice_id": "05",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/05-a1/provenance.json",
+        "sha256": "c740463261b1eb898eb0c87e61e5166575b8f35c9c87fbe340d70cb26a4dba8d",
+        "bytes": 6204
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/05-a1/py.json",
+          "sha256": "0adb9151ad33a334b9ad5f9dfd2c7aee06074c87c89ca130c459f55290ec1b8e",
+          "bytes": 1093040
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/05-a1/node.json",
+          "sha256": "e83d545f16c4e1a27d33964e17317abf4a41c702f872145788a49a81aba6e678",
+          "bytes": 1091089
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/05-a1/compare.json",
+          "sha256": "eb00d449c388d5cb1955a0d29bf97b139d3eb01d713ff6cd1c047136738b3976",
+          "bytes": 3053
+        }
+      }
+    },
+    {
+      "slice_id": "06",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/06-a1/provenance.json",
+        "sha256": "ed5c14f86c27afbd4928229e5680d922f2f8851111288b51bb26701546216969",
+        "bytes": 6206
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/06-a1/py.json",
+          "sha256": "71702559aadf03ac181f8bd6dab6d47ea055fb3c787777a4b8ca755da1c26483",
+          "bytes": 1071995
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/06-a1/node.json",
+          "sha256": "f68e4742a5ccc8e29f46a683119601c03de62cc4537563b4a957a670c44cb48e",
+          "bytes": 1070042
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/06-a1/compare.json",
+          "sha256": "e95021ca07647b4b9becce1a1ad4070e431933d6eb0c9d7cb64bb91e118d7fb4",
+          "bytes": 3048
+        }
+      }
+    },
+    {
+      "slice_id": "07",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/07-a1/provenance.json",
+        "sha256": "a0d260ed0d62396a7166e02658c01c332881c95cbe31a683f7ef8f4b4406e84f",
+        "bytes": 6210
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/07-a1/py.json",
+          "sha256": "57159b5eb7bf28410ef15796afb908ddbd97c066fe4c542de7f0ca048e424c4e",
+          "bytes": 1082334
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/07-a1/node.json",
+          "sha256": "71984abac3ab1e3efd6113f437adfa25c206553a9ccb09bc076c4fe9b93c2243",
+          "bytes": 1080390
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/07-a1/compare.json",
+          "sha256": "927311954a6ea481a070624774e85a0135918e97167ec0e76fd0864da719997f",
+          "bytes": 3049
+        }
+      }
+    },
+    {
+      "slice_id": "08",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/08-a1/provenance.json",
+        "sha256": "a102f6c733ab972c03bb2b46b89db3a3e4ba69d9952a4030fbc4388402aba417",
+        "bytes": 6210
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/08-a1/py.json",
+          "sha256": "4ddd9821330e9a3c897053f10dc93a9f169a61281d08d9082dc873d41619b51f",
+          "bytes": 1071423
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/08-a1/node.json",
+          "sha256": "faf1cef5920a044c47c7ff08c100c6e2ee04f2a8e191a245f8f98385858c897d",
+          "bytes": 1069462
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/08-a1/compare.json",
+          "sha256": "eda500fb6518bb2a2d4ff973792f1e7c7080eb43e6ad44e581d912db74ae022b",
+          "bytes": 3021
+        }
+      }
+    },
+    {
+      "slice_id": "09",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/09-a1/provenance.json",
+        "sha256": "69ea27a6fcaa174c4a31d311f4da3986f1ef6d1cedf84e0ff1af43b7ca800d31",
+        "bytes": 6210
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/09-a1/py.json",
+          "sha256": "c60a1b4e34fadc1f55fbe0766a1107deb96afec509ba1aa7b361237e2feb415d",
+          "bytes": 1071327
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/09-a1/node.json",
+          "sha256": "83da4569f3a17cd4bd75eeb710c7a29f6d47ce56e70336f3fa81c2d536b038ff",
+          "bytes": 1069413
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/09-a1/compare.json",
+          "sha256": "c0ddd1c9a6eb01474a19470eba8da4bfa60a8e548d7c11e45c120786a9b10def",
+          "bytes": 3021
+        }
+      }
+    },
+    {
+      "slice_id": "10",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/10-a1/provenance.json",
+        "sha256": "abe016b4f86b83444a518e76c0ebf4f7aebce913f5dd01066e65a51e2cdac0ae",
+        "bytes": 6210
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/10-a1/py.json",
+          "sha256": "6ea54cdac6539978603b0f7802ccada7bfb0898c797beb6ea813ddcda9165c30",
+          "bytes": 1071189
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/10-a1/node.json",
+          "sha256": "b28f4f621fd2ae8e6b90932f318acafe62921a86ba6d70b850d755662050ee06",
+          "bytes": 1069235
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/10-a1/compare.json",
+          "sha256": "fc03475f53f0262c2ef74b3125e67c4fcf9ec1fbe6a081b82bd3a0973e0b3683",
+          "bytes": 3023
+        }
+      }
+    },
+    {
+      "slice_id": "11",
+      "attempt_id": "a1",
+      "provenance": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/11-a1/provenance.json",
+        "sha256": "6652ea33d351edf55335536265d83320e73869e71801552c5399aff154f508ef",
+        "bytes": 6250
+      },
+      "outputs": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/11-a1/py.json",
+          "sha256": "82b46a5c95a6bcb658895ad763b40b3142a68225eb4b8f43035648daf5346b04",
+          "bytes": 1066281
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/11-a1/node.json",
+          "sha256": "1f5961bec5fa42bcf25de160550359512de2f0e9aba843f51d42465b4352c765",
+          "bytes": 1064333
+        },
+        "compare": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/slices/11-a1/compare.json",
+          "sha256": "077c14731e484702dba360063b16d9ddeee269fdb244f3fb8e802674a57e9a1c",
+          "bytes": 3075
+        }
+      }
+    }
+  ],
+  "old_new_comparison": "ALL_ROW_FIELDS_EQUAL_EXCEPT_CPU_SECONDS_AND_DECLARED_INJECTIVE_CLASS_NAME_REPLACEMENTS",
+  "compatibility_check": {
+    "author_audit_sha256": "58f820341f0e9953186c4a814960920bb21c31961e31ac50135bf7f9d2a2f929",
+    "stored_slice_bytes": [
+      {
+        "sha256": "4a40946d6b257a190fa9d5d2a1970cc9354c99ec2c6e04522167ee752bd464ff",
+        "bytes": 1080957
+      },
+      {
+        "sha256": "381fccacd12d9ef819d7984c1d2ba9a29bafe34baf7213ca1394b69f40a0883d",
+        "bytes": 1082927
+      },
+      {
+        "sha256": "b9b336d590f045024ba2eae23cea8a02e5f51c861848abd6b60b3048d36a9dbc",
+        "bytes": 1085842
+      },
+      {
+        "sha256": "400f34f694ef128021075eafddf337050eece5a7833919c0f9ae6cff1de9689e",
+        "bytes": 1087825
+      },
+      {
+        "sha256": "13a0b697d4280ab51be2dd7da6faa79664e0103589edf431cb7e8885dbc49ec7",
+        "bytes": 1069238
+      },
+      {
+        "sha256": "7bab5cfb15f4400c678ea42183804f3b8ffc7a5dbd2dc64e731d66531c3119c5",
+        "bytes": 1071186
+      },
+      {
+        "sha256": "eca22310808fa595cf5a7078439aca7367c2cd5ccb6db5b68403a0264714281a",
+        "bytes": 1064390
+      },
+      {
+        "sha256": "d0e80c0c1a0f7b0697fee1f69865e6a4a36f21d550ad7217ce41df53cbe97d0e",
+        "bytes": 1066333
+      },
+      {
+        "sha256": "f9c5cfd378caece34cc9fdf517d0a183adcbbc634abf37dcaff3f23c5ae6c306",
+        "bytes": 1085870
+      },
+      {
+        "sha256": "2e11705185f57605abd8081de6626722b9c4ea2cd34b4d4c07bec5681e6d6941",
+        "bytes": 1087815
+      },
+      {
+        "sha256": "9e3aad781e65a818a775faa0249f5e68686c60540d610eb921aee07ae3b6a902",
+        "bytes": 1088551
+      },
+      {
+        "sha256": "360d50792ec3475a19ac5db01ee23174c0065d522c47fb21daa0f21d46c53ecd",
+        "bytes": 1090524
+      },
+      {
+        "sha256": "e6dfa7d3f5689a2030035008fb7647483fba5622b4a3450c4fbac45adf7b70b8",
+        "bytes": 1096509
+      },
+      {
+        "sha256": "a058d4d923692049be005dcf00aa9d4124a4ea854b5a9fa0e60e014d430d7d30",
+        "bytes": 1098445
+      },
+      {
+        "sha256": "404e89f46252ba7991dd065764b0177b5e6ead4b360f5dfd3fbbdddc0d98ff84",
+        "bytes": 1091108
+      },
+      {
+        "sha256": "4ffacb4ca9b5d44423855df847687668001e67cb3f1e328e12fcc31e1fdebd65",
+        "bytes": 1093075
+      },
+      {
+        "sha256": "0d2cbe8d4344db032acd997a2062d4c9e9adea3b37e3e286df14330c50a2a48a",
+        "bytes": 1070072
+      },
+      {
+        "sha256": "0061a07d68090815a6768c8f6710b5b6ab9212623b1e7bf1ce071269c7fa4463",
+        "bytes": 1072020
+      },
+      {
+        "sha256": "f6a6e0987319d71125139bdf6069a0d04ad68129e327629f7d31ecee46787951",
+        "bytes": 1080373
+      },
+      {
+        "sha256": "d61619f9128dc5c8d7656b4e1a2f83b97fd6330316584bd0c2ffb70635bf9623",
+        "bytes": 1082339
+      },
+      {
+        "sha256": "195755825f4f86b41ea17d48f1cce5392e1e0ec1e43d3a2d197529f4935bf93d",
+        "bytes": 1069461
+      },
+      {
+        "sha256": "a0cf172e50b9284b11f65342f312dd884de179b36106352cc51b1872e9bbc03b",
+        "bytes": 1071430
+      },
+      {
+        "sha256": "381643482e24f3a3ca7ec2a522f66e56f3e97112d8940f920c87f0215921ad83",
+        "bytes": 1069393
+      },
+      {
+        "sha256": "2128d7c664f9eb8314c1cc5682b6260007ec98dce5bfd64530e63271a317f9f6",
+        "bytes": 1071350
+      }
+    ],
+    "scope": "Pre-release typed old/new row comparison. Prior executions are not premises of the public new-run replay."
+  }
+}

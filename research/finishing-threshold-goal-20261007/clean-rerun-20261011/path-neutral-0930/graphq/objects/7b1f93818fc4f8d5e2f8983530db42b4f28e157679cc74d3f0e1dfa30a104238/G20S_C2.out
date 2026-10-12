@@ -1,0 +1,25 @@
+PASS
+labels=16 S_floor=4
+schema=wx-cert-2
+  certificate: research/window-extension-20261008/bigbox/gen17/G20S_tree.jsonl.gz  (SHA-256 of the checked bytes f17da3bdb241141cfb592110a8e56d9f13eff0cf3f2d5bc26ccf4f134e509e22)
+  packing file: upper-packing-certificate.json  (SHA-256 24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7; Sref = 4675530093604551/1000000000000000)
+  nodes 679 (infeasible 302, terminal 38, split 339), rounds evaluated 3006 (not evaluated 0), declarations 105297, steps 218259, terms 30019872, tree depth 11
+  time: 298.73 s
+      298.82 real       318.70 user         1.71 sys
+          2691530752  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+              165220  page reclaims
+                  84  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   5  voluntary context switches
+              411043  involuntary context switches
+       6620511894102  instructions retired
+       1227102350765  cycles elapsed
+          2708733920  peak memory footprint

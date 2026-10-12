@@ -1,0 +1,82 @@
+{
+  "accepted_controls": {
+    "producer_actual_child_receipts": 36,
+    "producer_cases": 21,
+    "producer_files_bound": 206,
+    "producer_tampered_receipts": 12,
+    "separate_actual_child_cases": 6
+  },
+  "actual_capture_certificates_verified": 0,
+  "conservative_reviewer_charge_CPU_seconds": 2,
+  "dependencies": {
+    "independent_controls": {
+      "bytes": 5171,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/independent-review/run-01/cases/RESULT.json",
+      "sha256": "7b910449c02a06839cfce2f89f7cb76ab153ba0cf0a0906f2c14520b0ecbff37"
+    },
+    "independent_result": {
+      "bytes": 512,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/independent-review/run-01/RESULT.json",
+      "sha256": "fae61e2f90a65a26601181b7ba1b52be939f0f8746395c9e926df6858c5b6297"
+    },
+    "independent_run": {
+      "bytes": 1911,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/independent-review/run-01/RUN.json",
+      "sha256": "d01bbcf18265b6e09c9be38e2adb80717216ab221ad85a5822f9ed7d9262d63d"
+    },
+    "independent_source": {
+      "bytes": 508,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/independent-review/INDEPENDENT_SOURCE.json",
+      "sha256": "8b51b2e93ed55782c4901d59e06e2f107524f0e56f62734ebe1c392fd460d15e"
+    },
+    "original_checker": {
+      "bytes": 58399,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/producer/original.js",
+      "sha256": "72b92624de356507c94fd913892a90dfaa70db1aa644d640728bcf68c44e7b1e"
+    },
+    "previous_math_review": {
+      "bytes": 7896,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/MANIFEST.json",
+      "sha256": "1ad3fe761535f665a3f695fe5546ffcaa3785f795244c2849cc417f227500a4d"
+    },
+    "previous_semantic_interface": {
+      "bytes": 3734,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "efd913623a2f9821a5b96a1a79ae12be40e4b14030d558ffc8b12ef5178cbf4e"
+    },
+    "producer_manifest": {
+      "bytes": 32765,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/producer/MANIFEST.json",
+      "sha256": "e89a3810258864161b8a4d1b8a615e827585a435abf753f53ed9868ce1ad763b"
+    },
+    "producer_receipt_review": {
+      "bytes": 2902,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/independent-review/run-01/metadata.json",
+      "sha256": "fb54de101abd1e171afc0b9bb165aec315cf6309c83b3486d924934f7189e7dd"
+    },
+    "research_checker": {
+      "bytes": 60162,
+      "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/producer/verify_classes.js",
+      "sha256": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40"
+    }
+  },
+  "execution_guards": [
+    "trusted Node and filesystem execution",
+    "authentic actual child receipts from the bound checker",
+    "unchanged per-process loaded certificate/class context",
+    "all allocated rows covered with consistent headers/status/exit/totals",
+    "complete PASS required for theorem",
+    "manual merge receipt provenance remains external"
+  ],
+  "failure_count": 0,
+  "independent_accounted_CPU_seconds": 1.1030309999999999,
+  "mathematical_prefix_sha256": "d40a1aa69065d886622969b9d3fae81307720bbc05130f87990f08d0cb99de8a",
+  "new_mathematical_coverage": false,
+  "paths_relative_to": "repository root",
+  "producer_accounted_CPU_seconds": 3.154945,
+  "production_source_sha256_at_acceptance": "72b92624de356507c94fd913892a90dfaa70db1aa644d640728bcf68c44e7b1e",
+  "research_checker_sha256": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40",
+  "retry_count": 0,
+  "scope": "actual-worker orchestration and receipt/source binding repair; mathematical row algorithm unchanged",
+  "status": "ACCEPTED_RESEARCH_WORKER_BINDING_REPAIR"
+}

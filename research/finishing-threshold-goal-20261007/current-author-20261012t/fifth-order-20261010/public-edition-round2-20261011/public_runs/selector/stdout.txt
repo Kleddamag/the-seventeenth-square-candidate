@@ -1,0 +1,1 @@
+PASS 84 selected triggers; 11 injective 17-slot assignments; marker union capacity

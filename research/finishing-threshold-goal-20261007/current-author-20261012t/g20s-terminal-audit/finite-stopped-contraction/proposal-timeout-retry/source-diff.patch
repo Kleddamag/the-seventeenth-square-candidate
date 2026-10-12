@@ -1,0 +1,109 @@
+--- preserved-finishing-continuation/run.py
++++ proposal-timeout-retry/run.py
+@@ -1,5 +1,5 @@
+ #!/usr/bin/env python3
+-"""At most ten final continuation rounds from the accepted nine-round finite prefix."""
++"""Narrow numerical retry: at most rounds16-18 from accepted complete round15."""
+ import os
+ THREAD_KEYS=('OMP_NUM_THREADS','OMP_THREAD_LIMIT','OPENBLAS_NUM_THREADS',
+  'MKL_NUM_THREADS','BLIS_NUM_THREADS','VECLIB_MAXIMUM_THREADS','NUMEXPR_NUM_THREADS','RAYON_NUM_THREADS')
+@@ -13,9 +13,9 @@
+ G=HERE.parents[1]
+ RADIUS=F(1,200)
+ TARGET=F(1,10000)
+-STATE={'schema':'s17-guarded-finite-stopped-finishing-continuation-v1',
+- 'status':'PREPARING','steps':[],'maximum_rounds':10,'accepted_prefix_rounds':9,'producer_total_CPU_cap_seconds':30,
+- 'run_hard_CPU_seconds':29,'run_soft_CPU_seconds':27,
++STATE={'schema':'s17-guarded-finite-stopped-proposal-retry-v1',
++ 'status':'PREPARING','steps':[],'maximum_rounds':3,'accepted_prefix_rounds':15,'producer_total_CPU_cap_seconds':12,
++ 'run_hard_CPU_seconds':11,'run_soft_CPU_seconds':9,
+  'preparation_CPU_reserve_seconds':1,'target_raw_core_radius':str(TARGET),
+  'physical_scope':'17 actual squares; free4; common frame/injective labels; actual S<=S*',
+  'radius':str(RADIUS),'angle_factor':'1/2','curvature':True,'shared_products':True}
+@@ -27,7 +27,7 @@
+ def packed(bounds): return [[str(lo),str(hi)] for lo,hi in bounds]
+ def within(inner,outer):
+     return len(inner)==len(outer) and all(a<=x<=y<=b for (x,y),(a,b) in zip(inner,outer))
+-def remaining(): return 27-time.process_time()
++def remaining(): return 11-time.process_time()
+ def budget_check():
+     if remaining()<2: raise TimeoutError('CPU reserve reached; no further proposal')
+ def limited(sig,frame): raise TimeoutError('CPU soft limit reached')
+@@ -82,9 +82,10 @@
+     prefix=json.loads(prefix_path.read_text())
+     review=json.loads((ROOT/pins['prefix_review']).read_text())
+     assert review['status']==pins['prefix_review_status'] and review['status'].startswith('ACCEPTED')
+-    assert prefix['schema']=='s17-guarded-finite-stopped-continuation-v1'
+-    assert prefix['status']=='SIX_FURTHER_ROUNDS_COMPLETED_TARGET_NOT_REACHED'
+-    assert len(prefix['steps'])==6 and prefix['steps'][-1]['round']==9 and prefix['steps'][-1]['outgoing_bounds']==prefix['final_bounds']
++    assert prefix['schema']=='s17-guarded-finite-stopped-finishing-continuation-v1'
++    assert prefix['status']=='FAILED'
++    assert prefix['partial_round']['round']==16  # entire partial round is ignored
++    assert len(prefix['steps'])==6 and prefix['steps'][-1]['round']==15 and prefix['steps'][-1]['outgoing_bounds']==prefix['final_bounds']
+     expected_registry=json.loads(json.dumps(STATE['registry']))
+     assert prefix['registry']==expected_registry
+     restored=[tuple(map(F,interval)) for interval in prefix['final_bounds']]
+@@ -96,10 +97,11 @@
+     STATE['prefix_independent_review_sha256']=sha(ROOT/pins['prefix_review'])
+     bounds=restored;STATE['initial_bounds']=packed(bounds)
+     STATE['status']='RUNNING';save(output,STATE)
+-    np,h,solver,readback=native();STATE['runtime']=readback
+     from scipy.sparse import csc_matrix
+-    for number in range(10,20):
++    for number in range(16,19):
+         budget_check(); started=time.process_time()
++        np,h,solver,readback=native();STATE['runtime']=readback
++        clock_at_fresh_solver=solver.getRunTime()
+         rows,stats=u.model(bounds,True,True)
+         extra=u.zero();extra[21]=extra[25]=F(-1)
+         rows.append({'a':list(map(str,extra)),'b':'-49/2000','label':'accepted-physical-stop:minus-b-z'})
+@@ -109,7 +111,8 @@
+           'row_count':len(rows),'round':number}
+         save(model_path,model)
+         active={'round':number,'model_file':model_path.name,'model_sha256':sha(model_path),
+-          'incoming_bounds':packed(bounds),'rows':len(rows),'stats':stats,'results':[]}
++          'incoming_bounds':packed(bounds),'rows':len(rows),'stats':stats,'results':[],
++          'native_fresh_solver_elapsed':clock_at_fresh_solver}
+         STATE['partial_round']=active;save(output,STATE)
+         rr=[];cc=[];dd=[]
+         for k,(entries,rhs) in enumerate(parsed):
+@@ -130,7 +133,10 @@
+         for coordinate in u.CORE+(51,):
+             for sign in (1,-1):
+                 budget_check()
+-                solver.setOptionValue('time_limit',min(1.0,max(.01,remaining()-2)))
++                native_limit=min(3.0,max(.01,remaining()-2))
++                solver.setOptionValue('time_limit',native_limit)
++                active['pending_objective']={'coordinate':coordinate,'sign':sign,
++                  'native_time_limit':native_limit,'native_elapsed_before':solver.getRunTime()}
+                 cost=np.zeros(100);cost[coordinate]=sign
+                 if solver.changeColsCost(100,indices,cost)!=h.HighsStatus.kOk: raise ValueError('cost rejected')
+                 if solver.run()!=h.HighsStatus.kOk or solver.getModelStatus()!=h.HighsModelStatus.kOptimal:
+@@ -140,7 +146,10 @@
+                   for k,v in enumerate(solution.row_dual) if v>1e-12}
+                 bound=u.exact_dual(rows,bounds,coordinate,sign,weights,parsed)
+                 active['results'].append({'coordinate':coordinate,'sign':sign,
+-                  'weights':weights,'bound':str(bound)})
++                  'weights':weights,'bound':str(bound),
++                  'native_elapsed_before':active['pending_objective']['native_elapsed_before'],
++                  'native_elapsed_after':solver.getRunTime()})
++                del active['pending_objective']
+                 lo,hi=updated[coordinate]
+                 updated[coordinate]=(max(lo,bound),hi) if sign==1 else (lo,min(hi,-bound))
+         new=u.refresh_products(u.p.outward(updated[:52]))
+@@ -158,13 +167,13 @@
+         if active['target_reached']: break
+     for rel,digest in pins['files'].items():
+         if sha(ROOT/rel)!=digest: raise ValueError('input changed during run '+rel)
+-    STATE['status']='PRODUCER_TARGET_REACHED_PENDING_REVIEW' if STATE['steps'][-1]['target_reached'] else 'TEN_FURTHER_ROUNDS_COMPLETED_TARGET_NOT_REACHED'
++    STATE['status']='PRODUCER_TARGET_REACHED_PENDING_REVIEW' if STATE['steps'][-1]['target_reached'] else 'THREE_RETRY_ROUNDS_COMPLETED_TARGET_NOT_REACHED'
+     save(output,STATE)
+ 
+ if __name__=='__main__':
+     if (HERE/'certificate.json').exists():
+         raise SystemExit('refusing to replace an existing run, including failure telemetry')
+-    wall=time.time();resource.setrlimit(resource.RLIMIT_CPU,(27,29));signal.signal(signal.SIGXCPU,limited)
++    wall=time.time();resource.setrlimit(resource.RLIMIT_CPU,(9,11));signal.signal(signal.SIGXCPU,limited)
+     error=None
+     try: main()
+     except BaseException as exc:

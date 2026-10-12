@@ -1,0 +1,53 @@
+{
+  "status": "ACCEPTED_GEOMETRIC_LEMMA_BY_RECORDED_INDEPENDENT_DERIVATIONS",
+  "lemma_id": "COARSE_LOOSE_CAPACITY",
+  "statement": "For any family of closed unit squares with pairwise disjoint interiors, contained in a square container of side s<=C=4675531/1000000 concentric with F_U=[0,1169/250]^2, each whole coarse centre region3,15,17 specified exactly in PROOF_BRIDGE_V2.md has capacity at most one, with arbitrary independent orientations.",
+  "proof": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/PROOF.md",
+    "sha256": "bae9384411086b31ea5a547e40409409e3fd50b514da13078e0c189c3c227a28"
+  },
+  "exact_replay": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/RESULT.json",
+    "sha256": "5a466b6e51c3d1b55d66713af225873d15214d842cea9a02b99c647dc73fb41e"
+  },
+  "inputs": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/INPUTS.json",
+    "sha256": "3342730e43e9a514928183fa80d943f0b41c4cc7bc82ead85cf9b511ddcf0aab"
+  },
+  "independent_evidence": {
+    "first_review": {
+      "file": "local-research/claude-20261002/review/final-review-20261010/REPORT.md",
+      "sha256": "cd4fcea6405084ae09dade8cbaf8439315c544bab76b195d1d6476c075aad68f"
+    },
+    "frame_review_C": {
+      "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_C_frame.md",
+      "sha256": "113f6fa4df01a0f8a39408b7cd11d34bbf98e67e295e3c1b72dcac5cc1c7278a"
+    },
+    "join_review_D": {
+      "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_D_join.md",
+      "sha256": "8e7631592ea2a3ef74c27010ce10fd6ce3bdd52f9d93dd24e946c0f7aacc4ce1"
+    },
+    "fresh_capacity_review": {
+      "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_CAPACITY_LEMMA.md",
+      "sha256": "d9b883c5c42dc024c371eca5a97263fc0012df7ca6644d5541c7a79fa54c208c"
+    }
+  },
+  "scope": "The fresh independent review establishes the pure geometric statement and recomputes all1280 Bernstein coefficients by de Casteljau. It does NOT review the imported frame, charge and gate premises. The updated application prose is by the contract author and remains part of the final whole-proof review. Historical acceptance records remain unchanged.",
+  "not_counted": [
+    "Any new charge budget",
+    "Final independent acceptance of the revised complete assembly"
+  ],
+  "conditional_composition": "For the off-wall JG application: FRAME_ASSIGNMENT, occupied marker, L3/L4/L15/L17 budgets and CHARGE_SEMANTICS precede capacity-based parent identification and gate-based X emptiness. JQ/JPWS use their Q/PW/SL11 profiles; upper-wall JPW13 has AQ empty because y9>13/5. These are external dependencies, not assumptions of the pure lemma.",
+  "updated_bridge": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-AP/PROOF_BRIDGE_V2.md",
+    "sha256": "3f8ccadf85729f7a14df6c6bda7d99612146e5abd6e89b47a4553521e378d236"
+  },
+  "read_only_replay": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-AP/REPLAY.json",
+    "sha256": "82e6d0d17d71597b59451f9ad9c643b65c7f0a0cd0c4eb39655d25907c42f356"
+  },
+  "read_only_verifier": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-AP/verify_readonly.py",
+    "sha256": "7f45730568b02c6b5550670c61080d9a6bb3019717a82f58a1c76fa758ecdae0"
+  }
+}

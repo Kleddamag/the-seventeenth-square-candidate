@@ -1,0 +1,13 @@
+{
+  "conservative_total_charge_CPU_seconds": 11,
+  "failed_executions": 0,
+  "full_new_replay_CPU_seconds": 8.602638,
+  "input_binding_CPU_seconds": 0.005114999999999998,
+  "new_model_reconstructions": 6,
+  "optimizer_runs": 0,
+  "prefix_rounds_replayed": 0,
+  "saved_bound_check_CPU_seconds": 0.005353999999999998,
+  "seal_CPU_seconds_before_write": 0.0051170000000000035,
+  "source_preparation_CPU_seconds": 0.0005039999999999975,
+  "telemetry_process_CPU_seconds": 8.604756
+}

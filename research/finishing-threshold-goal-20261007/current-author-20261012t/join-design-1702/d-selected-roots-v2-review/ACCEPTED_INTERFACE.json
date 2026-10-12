@@ -1,0 +1,156 @@
+{
+  "schema": "s17-independent-selected-twelve-root-and-finishing-review-v1",
+  "status": "ACCEPTED_CURRENT_SELECTED_12_ROOT_STATIC_INCLUSION_AND_CONDITIONAL_FINISH",
+  "reviewer": "Codex contributor 08",
+  "producer": "Codex contributor 02",
+  "producer_manifest_sha256": "4d8772852242127ebbbd35cc42971555071a2388ff658adc030404fa11ee187f",
+  "producer_result_sha256": "92d4949a5efc59bf7d806d204c796731a22edc75baaa68e76223923ce1b08291",
+  "producer_inputs_sha256": "17d7f0659bf60e9601c22aa95d8d06043985f4ca89d4cec41cc00754425d9433",
+  "finishing_contract_sha256": "258fba208f17fa7760bf2a0d97664f89de3f29624a38555d4598da804100d708",
+  "accepted_loose_only_interface_sha256": "9a7f2d5f6d272e48f69eecb59b099b17a9470439824be77ec3d0d5730614b912",
+  "prior_root_interface_sha256": "6c4b0ec6becac11dea2d1259f1978855ae187d3cc0ee7faec5689c60c1d62cb3",
+  "artifacts": {
+    "REVIEW.md": {
+      "sha256": "fbbca7415479fac639ffa6e77161cfc99310eb795df53f10ef9dc684d4f2374c",
+      "bytes": 11586
+    },
+    "check_review.py": {
+      "sha256": "cfd49942bcba624d5b08d53ec14c98f563537056e0ad31e7802c1d329f9c11aa",
+      "bytes": 15085
+    },
+    "run-03.json": {
+      "sha256": "8f7b3fc1e5abe2d72ed8f3e802c725eb6ea899e03664afdc4a91f416b1487930",
+      "bytes": 2369
+    },
+    "INPUTS.json": {
+      "sha256": "0d262888289afad594b540c755566db90947058df8e47f3449a15517309c7e10",
+      "bytes": 48784
+    }
+  },
+  "selected_roots": {
+    "JQ": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JQ_exact_v1.json",
+      "sha256": "f4d1607eb4378487fcf6d8a8011125855bfb5912a6fa833ad3dcfcd6be14d93e",
+      "required_statement": "EMPTY"
+    },
+    "JG": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JG_exact_v2.json",
+      "sha256": "f635af684d0f81d318ad2f46f2721082e595d47ea294164062c10b6f2b941f32",
+      "required_statement": "COMPLETE_CONTRACTION_TO_ACCEPTED_G20S"
+    },
+    "JPA": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPA_exact_v1.json",
+      "sha256": "fa8e764bf1b52026341eb3582276fb891555b7082255d37df31b14565dc67142",
+      "required_statement": "EMPTY"
+    },
+    "JPB": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPB_exact_v1.json",
+      "sha256": "c5a73903a77b4bf078ebfc02e9fb555385d6895a021076a4c7baf79de35fc053",
+      "required_statement": "EMPTY"
+    },
+    "JPWS": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPWS_exact_v2x.json",
+      "sha256": "08dc1c7f3634ecd2bc0efed160981b12c32ece81a2079cb6db0ec86b28394e18",
+      "required_statement": "EMPTY"
+    },
+    "JPW13": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPW13_exact_v2x.json",
+      "sha256": "e1a489e1f0d04ec0ee091ccbab9c4028a08c04ec15deeea26ff738e62b09505b",
+      "required_statement": "EMPTY"
+    },
+    "JPG3m": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v2.json",
+      "sha256": "2eb206e89b27241d2eefe219445ff53b40194e3e4caf9bae1e984a1b8a547004",
+      "required_statement": "EMPTY"
+    },
+    "JPG3p": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v2.json",
+      "sha256": "230da863b3f62e51dbd8dbd9b1e1cded3f2e34f50146888fc434b4f56b531d60",
+      "required_statement": "EMPTY"
+    },
+    "JPG17m": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v2.json",
+      "sha256": "984e734e6b47d4f8a59381013c0d519b87e64af19b6e3a91458f311ae65fc0c3",
+      "required_statement": "EMPTY"
+    },
+    "JPG17p": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v2.json",
+      "sha256": "6dfba8a0339739aca2900f2d1e3074df726b8b6531f20d21ccb09b3b7b8a7fd0",
+      "required_statement": "EMPTY"
+    },
+    "JPG15m": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v2.json",
+      "sha256": "f1d215af1f31f6257f61d5e37a4001a0746ac46e9785d983241bb3ed6ddf99dd",
+      "required_statement": "EMPTY"
+    },
+    "JPG15p": {
+      "root_file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v2.json",
+      "sha256": "7d4837920728a2785f25b2a52728dd9c33d1e3e3ca073d0a9ae1cd5208a3fca8",
+      "required_statement": "EMPTY"
+    }
+  },
+  "all17_distinct_physical_parents_required": true,
+  "one_common_half_frame_required": true,
+  "independent_orientations_and_all_quarter_turn_lifts": true,
+  "all51_factor_admissions_per_root": true,
+  "scalar_admissions": 612,
+  "literal_class_sources_pinned": 141,
+  "actual_endpoint_frame": "K=P+(L-S0)/2*(1,1), L=exact Sstar, S0<=L",
+  "selected_JQ_v1_contains_current_Q_branch": true,
+  "closed_seams": {
+    "129/50": "Q",
+    "13/5": "JPWS; L not asserted",
+    "53/100": "wall side"
+  },
+  "correlated_wall_profiles": {
+    "JPWS": "all four loose QB targets",
+    "JPW13": "all four loose L targets"
+  },
+  "support_cut": {
+    "xi9_1_lower": "-9897/1000000",
+    "exact_margin": "7435827755439360636474085022623395165580650628553776471563336093268420081431543934025210215296626452739205174573640596863502951226936827390433977352418654193536285668506668949171573713730503723860606775987/17301979482296693623241676714481883881692543752227344808058922936328565430964593651324601305066966360167336940177390378003361540752285937312789627385680250000000000000000000000000000000000000000000000000000000000",
+    "root_names": [
+      "JG",
+      "JPG3m",
+      "JPG3p",
+      "JPG17m",
+      "JPG17p",
+      "JPG15m",
+      "JPG15p"
+    ],
+    "premises": [
+      "actual unit square to right of x=0",
+      "full pinned rounded root9 arc containing literal capture gate",
+      "pinned rational reference"
+    ],
+    "other_square_gates_or_lower_bound_required": false
+  },
+  "JG_raw_face_roster": {
+    "angular": 20,
+    "position": 7
+  },
+  "matching_names_does_not_establish_prefix_containment": true,
+  "actual_endpoint_slider_shift_retained": true,
+  "negative_flush_wall_ends_retained": true,
+  "conditional_finishing_theorem_accepted": true,
+  "finishing_obligations": {
+    "capture": "matching selected implications and global frame/L9 premises",
+    "EMPTY_roots": 11,
+    "whole_JG_continuation_to_accepted_G20S": 1,
+    "terminal": "accepted actual-side rigidity and wall-contact conclusion",
+    "upper": "exact feasible construction at L"
+  },
+  "conditional_conclusion": "s(17)=exact algebraic Sstar L",
+  "new_capture_certificates_accepted": false,
+  "new_local_certificates_accepted": false,
+  "reported_JQ_certificate_replayed_here": false,
+  "global_optimality_proved": false,
+  "cost": {
+    "final_CPU_seconds": 0.17688900000000002,
+    "conservative_total_CPU_seconds": 2,
+    "arithmetic_failures": 0,
+    "metadata_failures": 0,
+    "negative_controls": 5,
+    "solver_runs": 0
+  }
+}

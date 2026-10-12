@@ -1,0 +1,36 @@
+{
+  "status": "ACCEPTED_GEOMETRIC_LEMMA_BY_RECORDED_INDEPENDENT_DERIVATIONS",
+  "lemma_id": "COARSE_LOOSE_CAPACITY",
+  "statement": "For any seventeen-square packing of side<=C in F_U, each whole coarse centre region3,15,17 in PROOF.md has capacity at most one for arbitrary independent orientations. In off-wall cases L3,L15,L17 identify its sole parent with its small-slot occupant; in JG this makes the entire C-family X empty.",
+  "proof": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/PROOF.md",
+    "sha256": "bae9384411086b31ea5a547e40409409e3fd50b514da13078e0c189c3c227a28"
+  },
+  "exact_replay": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/RESULT.json",
+    "sha256": "5a466b6e51c3d1b55d66713af225873d15214d842cea9a02b99c647dc73fb41e"
+  },
+  "inputs": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/INPUTS.json",
+    "sha256": "3342730e43e9a514928183fa80d943f0b41c4cc7bc82ead85cf9b511ddcf0aab"
+  },
+  "independent_evidence": {
+    "first_review": {
+      "file": "local-research/claude-20261002/review/final-review-20261010/REPORT.md",
+      "sha256": "cd4fcea6405084ae09dade8cbaf8439315c544bab76b195d1d6476c075aad68f"
+    },
+    "frame_review_C": {
+      "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_C_frame.md",
+      "sha256": "113f6fa4df01a0f8a39408b7cd11d34bbf98e67e295e3c1b72dcac5cc1c7278a"
+    },
+    "join_review_D": {
+      "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_D_join.md",
+      "sha256": "8e7631592ea2a3ef74c27010ce10fd6ce3bdd52f9d93dd24e946c0f7aacc4ce1"
+    }
+  },
+  "scope": "Reports first/C independently derive both wall-strip inequalities and the exact128-subdivision positivity at the same parameters; C also verifies coarse17 and small-slot inclusions, and explicitly states the missing X-emptiness implication this record now adopts. D independently checks the analytic capacity derivation and requests the same implication. This record is by the contract author, not a claim those reviewers executed this new script or read the subsequently edited whole manuscript.",
+  "not_counted": [
+    "Any new charge budget",
+    "Final independent acceptance of the revised complete assembly"
+  ]
+}

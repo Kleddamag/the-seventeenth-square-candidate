@@ -1,0 +1,15 @@
+# The missing C7/C8 repair files are unnecessary for their capture implications
+
+Producer: Codex. This producer record is separate from independent acceptance. This does not assert that either replacement file exists.
+
+The already accepted e07a interface (SHA3eca7bba368deb680ae5a3b599716c88816230dd3a6937ea4c748ee6dc1efe6d) applies to exactly17 physical contained unit squares with disjoint interiors, actual side at most4675531/1000000, in the common centred U=1169/250 frame, when the literal all-direction hexagon marker is occupied. It forces its northwest target. Its accepted saved execution/source qualification is imported unchanged; no new charge rows are checked.
+
+The current family-C half-marker has exactly the same centre polygon and angle interval[0,r], where r=207107/500000, while the accepted all-direction marker has[-r,r]. Thus any occupied half-marker supplies the old premise. The pinned old direction interval covers all square directions modulo a quarter turn since r²+2r−1>0. The hexagon is exactly invariant under x→U−x.
+
+The literal C7 target equals the old e07a target, including its closed angular gate±751411/10000000. Therefore the same actual packing has a C7 target occupant. Reflect the ENTIRE packing about x=U/2 in fixed-U coordinates, equivalently x→S−x in actual coordinates. Containment, pair nonoverlap, actual side and the occupied all-direction marker are preserved. Apply e07a again, then reflect its target occupant back. This is a common physical reflection used in a proof, not independent reflections chosen for different pose factors.
+
+The reflected target's x interval is[19879/5000,647/125], whereas the literal C8 target extends to26/5. The upper inclusion slack is3/125. Their y intervals agree, and the symmetric gate is unchanged by theta→−theta modulo quarter turns. Hence the reflected target lies inside literal C8. The C7 and C8 centre projections are strictly separated by8189/2500, so these occupants are distinct.
+
+Consequently the half-marker forces BOTH literal C7 and C8 targets. This is stronger than either family-C implication “target or X,” and needs no AQ/TT-empty premise. Therefore the ten supplied repaired C files are the only potentially new C charge statements among the twelve for this architecture: roles7/8 can use existing accepted e07a. Missing repaired L07/L08 bytes need not be generated just to supply their target occupancy. Their nonexistent files are still not audited or certified, and the other ten capture budgets remain separate.
+
+The exact dependency/geometry checker check.py binds the accepted interface, matching old class bytes and both current C files; it checks marker containment and reflection, target equality and closed inclusion with Fraction arithmetic. Its frozen inputs and RESULT.json contain hashes. No solver, training, new exact row sweep or existing acceptance change is involved. The stricter theorem still needs actual seventeen-square physical premises and a common occupied marker; it supplies neither marker existence by itself nor complete capture/local optimality.

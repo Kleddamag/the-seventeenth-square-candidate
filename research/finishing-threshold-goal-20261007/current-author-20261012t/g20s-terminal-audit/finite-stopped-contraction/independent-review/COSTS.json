@@ -1,0 +1,13 @@
+{
+  "additional_rounds_in_this_scope": 0,
+  "conservative_total_charge_CPU_seconds": 6,
+  "failed_executions": 0,
+  "full_reconstruction_replay_CPU_seconds": 3.5691300000000004,
+  "independent_model_runs": 3,
+  "input_binding_CPU_seconds": 0.0029110000000000004,
+  "optimizer_runs": 0,
+  "saved_bound_check_CPU_seconds": 0.0029700000000000004,
+  "seal_CPU_seconds_before_write": 0.002791000000000002,
+  "source_preparation_CPU_seconds": 0.0004200000000000037,
+  "telemetry_process_CPU_seconds": 3.5707750000000003
+}

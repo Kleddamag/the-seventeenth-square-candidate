@@ -1,0 +1,41 @@
+{
+  "status": "ACCEPTED_RATIONAL_SMALL_ENTRY_COROLLARY_AND_MATHEMATICAL_INTERFACE",
+  "reviewer": "Codex contributor 07",
+  "dependencies": {
+    "accepted_transfer_review": "ab96060dce2f0e5b17006b52a9a8c0d7b70f6a94897c9dd0f013d9911cfbdd12",
+    "accepted_exact_root_rigidity_review": "e5b0819966146f51aef3fae61feaaed0985e70379ed6eb180e6931c8e1f41570"
+  },
+  "raw_core_radius": "1/10000",
+  "root_core_radius": "1/5000",
+  "independent_radian_angle_count": 16,
+  "position_core_count": 29,
+  "physical_parent_count": 17,
+  "free_physical_label": 4,
+  "actual_side_premise": "S <= algebraic S*",
+  "conclusion": [
+    "All45 exact-root core coordinates zero",
+    "S=S*"
+  ],
+  "larger_entry_1_200_position_1_400_angle_accepted": false,
+  "interface_kind": "Mathematical interface only; no new WX certificate-type claim",
+  "cost": {
+    "measured_check_cpu_seconds": 0.003237999999999998,
+    "additional_conservative_charge_seconds": 1,
+    "prior_shared_charge_seconds": 9,
+    "total_shared_charge_seconds": 10,
+    "original_cap_seconds": 60,
+    "remaining_seconds": 50,
+    "single_native_thread": true,
+    "failed_runs": 0,
+    "new_optimizer_or_model_or_certificate_replay": false
+  },
+  "files": {
+    "check_corollary.py": "ac1eb19c3037b7865efeedf2c5db82cff7f25ecb654566df3a31a6316587757f",
+    "receipt.json": "33ce46fb9cb118372441d7ea8fa814c1a8685801ba171ba6b97de38bd6c8a74d",
+    "MATHEMATICAL_INTERFACE.json": "d1aead18ef637439b696c303e050c63afeb9782e326703e7e9c7bd9b70939ff4",
+    "REVIEW.md": "a65594ffb6cfca79fc2b532bc4ae21a59e670b851db234468973a7f71af22faf",
+    "COSTS.json": "d3aa4685c8ce1a5ab9bd81131d281faa9956e80bbd2d1e19c533c083a1ba2a5c",
+    "seal.py": "1829e6c0f7c758169566fa08a5b65fcc1ac8243ce84e37c3624065a9b5236cf8"
+  },
+  "seal_cpu_seconds": 0.0007840000000000069
+}

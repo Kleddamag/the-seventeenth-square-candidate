@@ -1,0 +1,83 @@
+{
+  "status": "ACCEPTED_G20S_COMPLETE_TREE_IMPORT_AND_SIXTEEN_PHYSICAL_LOCAL_RIGIDITY",
+  "independent_reviewer": "Codex contributor 05",
+  "producer": "Codex contributor 09",
+  "accepted_producer_manifest_sha256": "07647ae7feb5ccb905948812d1c4a432540eacc4b51a25acfcac715c1b735d4c",
+  "accepted_HW_manifest_sha256": "d503ce1977385f9f2eb591f23ca0f919da3f602d2ab6706573a779ea47352fd5",
+  "actual_side_hypothesis": "S<=algebraic S*",
+  "actual_unit_squares_required": 16,
+  "physical_square4_or_extendability_required": false,
+  "common_frame_distinct_labels_required": true,
+  "all45_exact_root_core_zero": true,
+  "S_equals_Sstar": true,
+  "global_capture_claimed": false,
+  "files": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/independent-review/binding-receipt.json": {
+      "sha256": "dd6cc586f1ac90de76db12068bc2b4a61be81dd5141f045aee54f3a80169f07a",
+      "bytes": 1807
+    },
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/independent-review/scan-receipt.json": {
+      "sha256": "b995dca80085fac5fedb66fb3b8daefdf43514f7b7f2fd02f4d547bbb153452c",
+      "bytes": 8392644
+    },
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/independent-review/HW-window-domain.json": {
+      "sha256": "a76ed65809442a1d8b344019ddc7c0b56df109eb8383f13390bf6d3ae6070b0b",
+      "bytes": 2222
+    },
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/independent-review/bind_review.py": {
+      "sha256": "67bea73252e0c0177267dd1a622607214ab2de27277db9ec74c0cab5e8d4f55f",
+      "bytes": 6314
+    },
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/independent-review/scan-config.json": {
+      "sha256": "a7376c097799d027391db4dbba503dc40373cf458a95337ec7da572b623eff5d",
+      "bytes": 6396
+    },
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/independent-review/REVIEW.md": {
+      "sha256": "6639052ccd942e465ecd4d4d00545c147aab82ed289702b336dea2cff703025c",
+      "bytes": 6331
+    },
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/independent-review/COSTS.json": {
+      "sha256": "a9024b8f5c1f98e67a499442d31f5aeec5b8bf9ec424d3b3980fe9c15ffd62e6",
+      "bytes": 226
+    },
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/independent-tools/scan_review_v3.py": {
+      "sha256": "99b084162761ca73c5b73e44114da52524d41f3cda13c517185c2ab31fa14020",
+      "bytes": 15780
+    }
+  },
+  "dependency_pins": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/RESULT.md": "3a607e42494ad425f2a80385af97194c80c30171c3cf1aa12abe6a9edca9ec60",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/check_structure.py": "2065af72f250135dce4c1c3597bfe9c6be89abee67072257bd9e329e777e938c",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/dependency-manifest.json": "0bf7fe44a521d824acda6295783b5a3ad14675ba859d0eca7ed85497b72360d5",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/extract_structure.py": "2c02660accf4bdb51e2ebfabac1685e46f5bbbf42ea912edf494934e58c85b44",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/input-manifest.json": "ad7451dfd206b5dc69a2cb2b68ea2331f3b24c88aee9b9f8591bb20d03435dbc",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/inputs/ACCEPT_G20S.log": "751215e6e597cc18edc8fd8dd2e219878a835a67d5ac271f2e07d430de556645",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/inputs/ACCEPT_G20S_C1-snapshot.log": "2220bb4f3dd384b0ae51ac679c21afbe6aa8c000b52bbe87f7c8821a15d41c45",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/inputs/EXPECT_G20S.json": "1447c955c52f5a52146ef0dc1b812ed6a151464caecbba5e2820b04ba33e2454",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/inputs/G20S_C1.json": "74bb9aa9a19450664a21f56c04aeb65b1e8061928f886e3061a9bd9a63887eb6",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/inputs/G20S_C2.json": "a43cde52c0f2234d23a873cb4a8b0c8b2ad7811436a445f88a5ff4d7dcdcd774",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/inputs/SPEC.md": "fa14fe405635d28bb16a66febe1370db766df2b90317d437472af6eb389d8aa3",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/inputs/upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/inputs/wxcheck2_v26.js": "a725c230b4454462ccaad0ef7c92271cc1c3ac3a2ef19e0b5054db332a723968",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/inputs/wxcheck_v26.py": "725508302b6711247867cb8feb155f0acdd9c3b4aefc0d23059f1c78b03faaef",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/receipt-manifest.json": "de107963aad9ecc3f9bfdc06589fd3e088b138289a3829bcaf8d4156a47f8d61",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/structure-check-receipt.json": "c2d5e6b0cbd677c3ec8a5c88b868dea43fe11c13fafb86ca5566e20eeaff5fdf",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/structure.json": "2ac77a3c4b20cad9b23b30cf5452d9d8d931a52274a14f6938e94f8fc8755705",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/terminals.json": "834422047162bdcdaa2cafb7a11045294b67953b18976c3f1aaa6ed0c55e3b04",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/producer/PRODUCER_MANIFEST.json": "07647ae7feb5ccb905948812d1c4a432540eacc4b51a25acfcac715c1b735d4c",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/checker26-sixteen-compatibility/independent-review/MANIFEST.json": "38035bef048cfa2adb1223c9d8366ff2b96575be099b7e13ad66b5f6568250da",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/sixteen-square-corollary/independent-review/MANIFEST.json": "eb793556d044f9de7b81e39ff93789ad4aab3825453533a7c258d2adf66ad855",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/hw/independent-review/MANIFEST.json": "d503ce1977385f9f2eb591f23ca0f919da3f602d2ab6706573a779ea47352fd5",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/checker26-sixteen-compatibility/producer/inputs/G20S-merged-header.json": "8e00a16c5ec05112edf0b98435f18c2829d992de22d8867e011af30406cf26a4",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/g20s/independent-review/HW-window-domain.json": "a76ed65809442a1d8b344019ddc7c0b56df109eb8383f13390bf6d3ae6070b0b",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/broad-tree-import/hw/independent-review/scan-v3-receipt.json": "e5e5bae1d78192516e6698e73b81721a1d6277481d80636946c8638aebecb178"
+  },
+  "cost": {
+    "scan_cpu_seconds": 29.539801,
+    "binding_cpu_seconds": 0.212697,
+    "conservative_review_charge": 33,
+    "failed_review_runs": 0,
+    "producer_charge_separate": 40,
+    "arithmetic_replays": 0
+  }
+}

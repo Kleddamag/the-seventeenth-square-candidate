@@ -1,0 +1,16 @@
+{
+  "original_edit": {
+    "before": "02d5c41e8e3ba837f086448176e5912e47bc1ad729c955195a93bde8b7c348a4",
+    "after": "dc8362056afd4f2bd278c55688ad82c021c8e368aba71dc2b92cf8340c4df8a9",
+    "occurrences": 4,
+    "scope": "Only the two dynamically named acceptance logs and the two occurrences of the JG log locator now select declared neutral copies. All assertions, log tokens, arithmetic and control flow unchanged.",
+    "count_basis": "Two acceptance-log locator substitutions plus two JG-log locator occurrences.",
+    "description": "earlier form of scripts/composition.py (not carried)"
+  },
+  "current_composition_source": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/composition.py",
+    "sha256": "2c2146b538673e6bbdaea3318e3162c9ec0432cffd3df85af1941ddb9e1f39d5",
+    "bytes": 7970
+  },
+  "scope": "The locator edit is historical. The current source is separately bound and was replayed in the roster-only tree."
+}

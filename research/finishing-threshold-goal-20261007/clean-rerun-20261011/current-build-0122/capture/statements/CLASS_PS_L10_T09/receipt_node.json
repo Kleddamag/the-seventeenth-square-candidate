@@ -1,0 +1,75 @@
+{
+ "status": "PASS_CLASSES_EXACT_COVER",
+ "statement": "For every family of closed unit squares with pairwise disjoint interiors inside a square of side 4675531/1000000, read in the frame with the container centre at (1169/500, 1169/500), the sum of tau(pose) over the squares is less than 23, where tau(pose) is the least threshold among the classes that contain the pose and 1 if no class contains it. A class is the listed slots exactly as written (angle gates with all quarter-turn lifts). Classes: M threshold 4 (1 slots); T9_region9_square_beyond_its_gate_off_the_wall_column threshold 4 (1 slots); PB_label10_exempt threshold 0 (1 slots); WC_label9_wall_column_exempt threshold 0 (1 slots).",
+ "implementation": "node verify_classes.js",
+ "schema": "s17-classes-v1",
+ "symmetry": "fixed",
+ "bound": "23",
+ "classes": [
+  {
+   "name": "M",
+   "threshold": "4",
+   "slots": 1
+  },
+  {
+   "name": "T9_region9_square_beyond_its_gate_off_the_wall_column",
+   "threshold": "4",
+   "slots": 1
+  },
+  {
+   "name": "PB_label10_exempt",
+   "threshold": "0",
+   "slots": 1
+  },
+  {
+   "name": "WC_label9_wall_column_exempt",
+   "threshold": "0",
+   "slots": 1
+  }
+ ],
+ "total_intervals": 18000,
+ "required_units": "999961942",
+ "budget_units": "22999124662",
+ "surplus": "4",
+ "certificate_sha256": "9d6e6617ee12ece2bb81f2f3a9893d9788b6a8c6799b1c9f79ab27f2deba4b4d",
+ "classes_sha256": "b0a6d13da7851e18cc12c159dd7d32a22f190b8f827395629d9eb1f74b9e2b04",
+ "checker_sha256": {
+  "verify_classes.js": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40"
+ },
+ "start": 0,
+ "end_exclusive": 18000,
+ "merged_files": 12,
+ "problems": [],
+ "missing_intervals": 0,
+ "first_missing_intervals": [],
+ "failed_intervals": [],
+ "unrestricted_minimum_units": 890912499,
+ "deficit_minimum_units": null,
+ "cells_default": {
+  "cells": 96058659444163,
+  "minimum_units": 999999907
+ },
+ "cells_by_class": [
+  {
+   "name": "M",
+   "cells": 1060231161464,
+   "minimum_units": 4003894878
+  },
+  {
+   "name": "T9_region9_square_beyond_its_gate_off_the_wall_column",
+   "cells": 714221461542,
+   "minimum_units": 4003926581
+  },
+  {
+   "name": "PB_label10_exempt",
+   "cells": 47145812258,
+   "minimum_units": 890912499
+  },
+  {
+   "name": "WC_label9_wall_column_exempt",
+   "cells": 6654083679,
+   "minimum_units": 3362504637
+  }
+ ],
+ "verified_utc": "2026-10-11T22:41:18.105Z"
+}

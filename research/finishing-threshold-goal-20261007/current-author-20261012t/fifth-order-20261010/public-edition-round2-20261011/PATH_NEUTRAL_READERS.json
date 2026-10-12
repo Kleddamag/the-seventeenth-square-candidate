@@ -1,0 +1,101 @@
+{
+  "capacity": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/THEOREM_MANIFEST.json"
+  ],
+  "frame": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/THEOREM_MANIFEST.json"
+  ],
+  "wall_triggers": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/THEOREM_MANIFEST.json"
+  ],
+  "bc_composition": [
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_G20S_v30.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_HW_v30.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JG_v2.log",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/certificate.json"
+  ],
+  "bfbe_pins": [
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_G20S_v30.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_HW_v30.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JG_v2.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPA_v5.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPG15m_v5.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPG15p_v5.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPG17m_v5.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPG17p_v5.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPG3m_v5.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPG3p_v5.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPW13_v2x.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JPWS_v4.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/ACCEPT_JQ_v1_jQTwn0.log",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JG_v2_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JG_v2_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPA_v5_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPA_v5_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG15m_v5_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG15m_v5_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG15p_v5_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG15p_v5_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG17m_v5_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG17m_v5_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG17p_v5_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG17p_v5_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG3m_v5_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG3m_v5_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG3p_v5_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPG3p_v5_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPW13_v2x_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPW13_v2x_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPWS_v4_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JPWS_v4_C2.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JQ_v1_jQTwn0_C1.json",
+    "local-research/claude-20261002/review/public-edition/path-neutral-20261012/files/research/window-extension-20261008/acceptance/JQ_v1_jQTwn0_C2.json",
+    "local-research/claude-20261002/review/public-edition/round5/extra/research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/REVIEW.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/INPUTS.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/endp-import-AR/S6_ACTIVATION_AR.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/final-records-AV/FINAL_RECORDS.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/jpa-import-AG/AUDIT.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/jpa-import-AG/IMPORT.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/marker-import-AD/COMPUTED_IDENTITY.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/s6-import-X/S6_ACTIVATION.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/wb-evidence-1719/PW11_Q11.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/wb-evidence-1808/C01_C05_C06.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/wb-evidence-1808/C10_C11_C12.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/wb-evidence-1808/C13_C14_E07A.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/ACCEPTED_UPDATES_20261010_1712.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/manuscript/SIDE_CAP_TRANSFER.json"
+  ],
+  "finite_1": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/certificate.json"
+  ],
+  "finite_2": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/certificate.json"
+  ],
+  "finite_3": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/telemetry.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/certificate.json"
+  ],
+  "finite_4": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/telemetry.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/certificate.json"
+  ],
+  "finite_join": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/certificate.json"
+  ],
+  "normalized_five_rounds": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/preparation.json"
+  ]
+}

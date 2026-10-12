@@ -1,0 +1,14 @@
+{
+  "preparation_process_CPU_seconds": 0.035495,
+  "guard_calculation_process_CPU_seconds": 0.063442,
+  "interface_process_CPU_seconds": 0.02758,
+  "read_only_replay_process_CPU_seconds": 0.074541,
+  "additional_interface_metadata_process_CPU_seconds": 0.038026,
+  "conservative_producer_CPU_charge_seconds": 2,
+  "producer_CPU_cap_seconds": 10,
+  "one_core": true,
+  "new_model_LP_SymPy_calls": 0,
+  "failed_numerical_runs": 0,
+  "unmeasured_shell_source_read_and_seal_overhead": "Included in conservative two-second charge",
+  "measured_process_CPU_seconds": 0.239084
+}

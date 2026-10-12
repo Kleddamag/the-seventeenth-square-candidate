@@ -1,0 +1,128 @@
+{"completed_square": 1, "pair_rows": 16, "seconds": 2.57919416599907}
+{"completed_square": 2, "pair_rows": 31, "seconds": 8.377996915951371}
+{"completed_square": 3, "pair_rows": 45, "seconds": 9.849492333014496}
+{"completed_square": 4, "pair_rows": 58, "seconds": 15.51282491593156}
+{"completed_square": 5, "pair_rows": 70, "seconds": 16.956520166015252}
+{"completed_square": 6, "pair_rows": 81, "seconds": 22.433814249932766}
+{"completed_square": 7, "pair_rows": 91, "seconds": 27.699492665939033}
+{"completed_square": 8, "pair_rows": 100, "seconds": 29.22807437495794}
+{"completed_square": 9, "pair_rows": 108, "seconds": 32.00068708299659}
+{"completed_square": 10, "pair_rows": 115, "seconds": 38.35980491596274}
+{"completed_square": 11, "pair_rows": 121, "seconds": 43.42364158295095}
+{"completed_square": 12, "pair_rows": 126, "seconds": 48.51549666596111}
+{"completed_square": 13, "pair_rows": 130, "seconds": 53.38073166599497}
+{"completed_square": 14, "pair_rows": 133, "seconds": 58.30717670801096}
+{"completed_square": 15, "pair_rows": 135, "seconds": 64.46649866597727}
+{"completed_square": 16, "pair_rows": 136, "seconds": 70.45531270792708}
+{"completed_square": 17, "pair_rows": 136, "seconds": 70.4553253329359}
+{
+  "status": "PASS_INDEPENDENT_EXACT_S_STAR_17_SQUARE_FEASIBILITY",
+  "wall_certificate_counts": {
+    "rational_identity": 15,
+    "strict_positive": 53
+  },
+  "pair_certificate_counts": {
+    "strict_positive": 112,
+    "rational_identity": 22,
+    "root_polynomial_multiple": 2
+  },
+  "touching_pairs": [
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      3,
+      13
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      5,
+      11
+    ],
+    [
+      6,
+      14
+    ],
+    [
+      7,
+      10
+    ],
+    [
+      8,
+      16
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      9,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      11,
+      12
+    ],
+    [
+      11,
+      13
+    ],
+    [
+      12,
+      14
+    ],
+    [
+      12,
+      16
+    ],
+    [
+      13,
+      14
+    ],
+    [
+      14,
+      17
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      16,
+      17
+    ]
+  ],
+  "seconds": 70.7008783329511
+}

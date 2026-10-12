@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "This edition is a candidate proof. It has not been peer reviewed. If you use it or check it, please cite it as below."
+title: "Seventeen unit squares: verification edition of a candidate proof"
+type: dataset
+authors:
+  - family-names: "Overbeck"
+    given-names: "Marc Leonard"
+    email: "moverbeck@ethz.ch"
+    orcid: "https://orcid.org/0009-0008-8607-8197"
+version: "1.0-candidate"
+date-released: "2026-10-12"
+url: "https://github.com/Kleddamag/the-seventeenth-square-candidate"
+repository-code: "https://github.com/Kleddamag/the-seventeenth-square-candidate"

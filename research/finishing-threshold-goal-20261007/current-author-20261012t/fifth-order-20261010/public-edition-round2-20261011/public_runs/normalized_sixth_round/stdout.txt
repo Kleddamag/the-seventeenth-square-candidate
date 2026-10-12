@@ -1,0 +1,1 @@
+{"status": "ACCEPTED_SIX_NORM_FACES_ELIMINATED_ONE_REMAINS", "max_other_44_core_radius": "378457789018409/500000000000000", "cpu_seconds": 0.393579}

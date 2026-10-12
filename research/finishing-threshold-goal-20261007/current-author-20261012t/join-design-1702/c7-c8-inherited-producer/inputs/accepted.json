@@ -1,0 +1,164 @@
+{
+  "additional_indexed_candidate": {
+    "accepted": false,
+    "local_result_refs_seen": 6,
+    "merge_destination_absent_at_inspection": true,
+    "name": "c0708m1",
+    "receipt_authentication_performed": false
+  },
+  "artifacts": {
+    "INPUT_MANIFEST.json": {
+      "bytes": 54655,
+      "sha256": "f9be13b7fb94e1e23c857f8e78c58c52217487c08f4ad55f35c3b283641bd60f"
+    },
+    "JOIN.json": {
+      "bytes": 5609,
+      "sha256": "90078f09499a4ba116d557cba495101e4f2ac74ff80e8a32ffa7ce4f085192f0"
+    },
+    "REPLAY.md": {
+      "bytes": 1895,
+      "sha256": "0db240d37b5e7fbffb8c2bc43f7c46b8b828de534c32a705578a90b71c645af6"
+    },
+    "REVIEW.md": {
+      "bytes": 11213,
+      "sha256": "5001ec6aa49a938ad32a6d3cad3233bea554adacf6ac2493d5e2159477c5e097"
+    },
+    "SOURCE_MANIFEST.json": {
+      "bytes": 598,
+      "sha256": "604bd117841c17106c3f83abb27578e37efdc0e4fd86248876931a36b5c25fbf"
+    },
+    "run-01/RESULT.json": {
+      "bytes": 11206,
+      "sha256": "62cc54829144b507ba6cb642fb4d3467dd143703d08b63a38a028ab88e2eaccf"
+    }
+  },
+  "capture": {
+    "F7_equals_E7_and_F8_equals_E8_as_physical_pose_sets": true,
+    "capacity_one_each_and_distinct": true,
+    "closed_boundaries_preserved": true,
+    "forced_nominal_factors": [
+      "E7",
+      "E8"
+    ],
+    "forced_reflection_closed_factors": [
+      "F7",
+      "F8"
+    ],
+    "full_packing_reflection_preserves_occupied_marker": true,
+    "gate_half_tangent": [
+      "-751411/10000000",
+      "751411/10000000"
+    ],
+    "hypotheses": [
+      "Exactly17 contained interior-disjoint physical unit squares with actual S<=4675531/1000000",
+      "One common centred frame U=1169/250 after shift (U-S)/2 in each coordinate",
+      "Literal all-direction hexagon marker occupied"
+    ],
+    "raw_and_local_corrected13_conventions_checked_separately": true,
+    "wall_extended_target_physically_clipped_before_nominal_join": true
+  },
+  "certificate_sha256": "bd544a7fb5781eb507cc36a0fb04ac959f8a0bb7677f489378cbc76cfa3378af",
+  "classes_sha256": "fe4e7bdb8df862240a0c521eedbfc1958375a907ce30895300544d578999f164",
+  "cost": {
+    "conservative_total_CPU_seconds": 5,
+    "failed_audit_or_retry": false,
+    "freeze_child_CPU_seconds": 0.10200699999999999,
+    "freeze_self_CPU_seconds": 0.072766,
+    "geometry_join_CPU_seconds": 0.0007400000000000045,
+    "safe_future_metadata_import_ceiling_CPU_seconds": 10,
+    "saved_evidence_audit_CPU_seconds": 0.35331399999999996
+  },
+  "dependencies": {
+    "CHECKER_INTERFACE": {
+      "bytes": 3734,
+      "sha256": "efd913623a2f9821a5b96a1a79ae12be40e4b14030d558ffc8b12ef5178cbf4e"
+    },
+    "CHECKER_MANIFEST": {
+      "bytes": 7896,
+      "sha256": "1ad3fe761535f665a3f695fe5546ffcaa3785f795244c2849cc417f227500a4d"
+    },
+    "FACTOR_DATA": {
+      "bytes": 106747,
+      "sha256": "ee1c23da801668932b67c4675fe0a0639ed79b9ab1b9f9e266d748a958c5efec"
+    },
+    "FACTOR_INTERFACE": {
+      "bytes": 2745,
+      "sha256": "0e37a932888b7413b4ce6cac5175c57a8e15254fe176baf1578a589fadb69c10"
+    },
+    "FACTOR_MANIFEST": {
+      "bytes": 2643,
+      "sha256": "882bc3c1b32ec43b9b4d549b48362923e51ba1a8b6defdd8642970be85dbe908"
+    },
+    "GEOMETRY_INTERFACE": {
+      "bytes": 3591,
+      "sha256": "d443e3c1d6560b275fb7ff64aa3f9d8025b96dfa6bee9870d641f98b6517b4a1"
+    },
+    "GEOMETRY_MANIFEST": {
+      "bytes": 2218,
+      "sha256": "5dab15ad0f7680dc8a71024863bf9dea869d2f3ce8d8a63b5e07b33b3f9c1ea2"
+    },
+    "RECEIPT_INTERFACE": {
+      "bytes": 12323,
+      "sha256": "7e17dae995c422ed9db9cfc7d35595968c7c7c4b2eebe414d067ebde12386c29"
+    },
+    "RECEIPT_MANIFEST": {
+      "bytes": 3219,
+      "sha256": "556d2332f296c3cdb75174e6f37af015c1fc208f358662b2115c5ddbcab3a72b"
+    },
+    "SOURCE_FLOW": {
+      "bytes": 5625,
+      "sha256": "f94a0241a3550e431a990649799427ae30ea8dbb1b38b35da8469fb0b60d97f6"
+    }
+  },
+  "evidence": {
+    "all_execution_source_commits_and_receipt_pins": "run-01/RESULT.json",
+    "budget_units": 19956432614,
+    "certificate_interval_domain": [
+      "0",
+      "1"
+    ],
+    "exact_once_row_count_per_implementation": 18000,
+    "failed_rows": 0,
+    "missing_rows": 0,
+    "new_charge_arithmetic": false,
+    "original_Git_slices": 12,
+    "required_units": 997821631,
+    "shared_row_disagreements": 0,
+    "strict_surplus": 6
+  },
+  "execution_qualification": {
+    "Node_workers_per_slice": 4,
+    "Python_workers_per_slice": 4,
+    "actual_six_checker_blobs_equal_accepted_algorithm_pins": true,
+    "future_runs_or_repaired_checker_not_implicitly_accepted": true,
+    "old_Node_general_worker_binding_defect_retained": true,
+    "only_these_twelve_stable_executions_accepted": true,
+    "ordinary_authentic_saved_execution_evidence_not_runtime_attestation": true,
+    "stable_tracked_inputs_staged_before_both_checkers": true,
+    "worker_run_cvjob_blobs_equal_previously_accepted_stable_flow": true
+  },
+  "literal_statement": {
+    "actual_side_cap": "4675531/1000000",
+    "default_threshold": "1",
+    "frame_center": [
+      "1169/500",
+      "1169/500"
+    ],
+    "marker_threshold": "4",
+    "physical_squares": "closed unit squares with pairwise disjoint interiors in the actual container",
+    "strict_bound": "20",
+    "sum_high_first_psi_strictly_below_bound": true,
+    "sum_tau_strictly_below_bound": true,
+    "symmetry": "fixed",
+    "target_threshold": "0"
+  },
+  "not_established": [
+    "Other ten rigid capture statements",
+    "Narrower G20 or other local direction gate",
+    "Common tilted chirality or basis/reference/side transport",
+    "Complete local theorem admission, terminal equality or optimum",
+    "c0708m1 charge acceptance"
+  ],
+  "schema": "e07a-authentic-saved-execution-acceptance-v1",
+  "status": "ACCEPTED_E07A_CHARGE_STATEMENT_AND_MARKER_CONDITIONAL_E7_E8_F7_F8_CAPTURE"
+}

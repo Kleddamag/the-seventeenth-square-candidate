@@ -1,0 +1,7 @@
+{
+  "status": "PASS_PUBLIC_BINDINGS",
+  "distinct_files": 639,
+  "open_review_labels": {},
+  "obligations": 210
+}
+PASS_PUBLIC_BINDINGS

@@ -1,0 +1,6 @@
+{
+  "statements": 98,
+  "rows_per_engine": 1728000,
+  "slices": 1152,
+  "scope": "All recorded engines, inputs, selected slices and exact saved minima are checked by the provenance replay. Genuine execution is an assumption, not cryptographically authenticated by JSON records. Runtime libraries are recorded, not recursively authenticated. A recorded successful wrapper does not make a fabricated record genuine."
+}

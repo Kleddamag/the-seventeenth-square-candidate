@@ -1,0 +1,30 @@
+{
+  "id": "root_stops",
+  "status": "PASS",
+  "error": null,
+  "missing_required_output": [],
+  "wall_seconds": 0.03283558401744813,
+  "cpu_seconds": 0.031571,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "executable": "python3.12",
+  "script_sha256": "430183ab96322d12c8cb01228f18e51f901e8a51302873816128d418abfe7c91",
+  "original_last_line": "{\"status\": \"INDEPENDENT_BROAD_ROOT_STOP_ARITHMETIC_PASS_PRODUCER_BINDING_SEPARATE_OBLIGATION\", \"b_coefficient_upper\": \"16990741/10000000\", \"tangential_coefficient_upper\": \"6951/50000\", \"decimal_display\": {\"sum_upper\": 0.02443914319540521, \"z_upper\": 0.032956143195405206, \"sum_slack\": 6.0856804594791165e-05, \"z_slack\": 4.3856804594791165e-05}, \"CPU_seconds\": 0.012589000000000003}",
+  "inputs_read": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/arithmetic-receipt.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/check_root_stops.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-producer/receipt.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/check.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/manifest.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/producer-replay.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/receipt.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/resources.json"
+  ],
+  "redirected_outputs": {},
+  "path_adaptations": [
+    "author repository prefix",
+    "BI manifest.json case alias",
+    "round2: revision-v4/PROOF.md reads revision-v7/PROOF.md"
+  ],
+  "scope": "New execution of the named check only, not a new independent mathematical review."
+}

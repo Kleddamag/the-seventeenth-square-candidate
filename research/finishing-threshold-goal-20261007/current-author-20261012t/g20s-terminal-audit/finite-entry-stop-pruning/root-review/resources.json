@@ -1,0 +1,12 @@
+{
+  "independent_fresh_arithmetic_CPU_seconds": 0.009151,
+  "independent_readonly_arithmetic_replay_CPU_seconds": 0.009066,
+  "producer_readonly_snapshot_replay_calculation_CPU_seconds": 0.016406,
+  "independent_final_binding_CPU_seconds": 0.015838,
+  "known_measured_CPU_total_seconds": 0.050461,
+  "unmeasured_failed_prefreeze_binding": "Startup plus first hash assertion; included conservatively",
+  "conservative_total_CPU_charge_seconds": 2,
+  "CPU_cap_seconds": 10,
+  "threads": 1,
+  "new_solver_or_model_calls": 0
+}

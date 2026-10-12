@@ -1,0 +1,1815 @@
+{
+ "what": "EXACT root region JPA of the join design as decided on 9 Oct 2026, 17:47, with label 11's region enlarged on 9 Oct 2026 (case T, kind A: label 9 right of x = 53/100 with its direction above its gate; rigid labels in PB_j; label 11 in the hull of the old root (PB_11) and HULLW_11 (HULL_11's positions, PB_11's arc with its lower end moved out); 3, 15, 17 any direction); made by bigbox/join/mk_join_roots_v5.py",
+ "design": "decided design of 9 Oct 2026, 17:47 (loose only; wall case in two roots): family Q from the folder of record cloud/analysis/join_design/classes_v2_Q16/ (twelve rigid files with the cut 129/50, four loose files with the cut 13/5), PW_j and PT_j of classes_v2/ (PM_j has the same PB slots), families C and L as in version 1. CHANGE OF TAG v5 (label 11 only): case T: label 11 in the hull of the root region of PB_11 (classes_v2/PT_L11.json, the files of tags v1 / v2) and of the class HULLW_label11 of classes_v2_PTw/PTW37_L11.json; the region contains both",
+ "status": "definition of a statement (exact rationals). The class files it is made from are the capture side's definitions; nothing here is a proof. The region contains the target of label 11 of BOTH statement families named under CHANGE OF TAG v5 in `design`; it counts for its case together with a certificate of one of them",
+ "statement_if_a_complete_tree_is_accepted": "EMPTY: no feasible configuration (seventeen squares, side Sref) lies in the root region",
+ "frame": "ENDPOINT FRAME: a packing of side S0 <= S* is placed concentrically in [0, S*]^2 (translated by (S* - S0)/2 in both coordinates); container corner at the origin as in SPEC 3.0 section 0 and THEOREM G20S. A class-frame point c corresponds to c - (U - S*)/2, U = 1169/250. Walls: centre >= 1/2 gives xi >= 1/2 - p, which is -eps (eps = 5.17e-18) for a flush reference square at a left or bottom wall, and the three-slider family has xi = -eps there; the box end is the 1e-6 grid point below, -1/1000000 (an end 0 would be wrong in this frame). Box ends at right and top walls are 0 for a flush reference square (centre <= S* - 1/2 < p). Label 9 with its direction inside its gate (JG and the six JPG regions): the left end of xi_1 is the SUPPORT BOUND, centre x >= minimum of (g + s)/2 over the root arc, about -0.009897.",
+ "schema": "wx-cert-3",
+ "labels": 17,
+ "Sref": "4675530093604551/1000000000000000",
+ "S_floor": "4675530093604551/1000000000000000",
+ "S": [
+  "4675530093604551/1000000000000000",
+  "4675530093604551/1000000000000000"
+ ],
+ "window": {
+  "box": {
+   "1": [
+    [
+     "-1/1000000",
+     "105583/500000"
+    ],
+    [
+     "-1/1000000",
+     "49983/500000"
+    ]
+   ],
+   "2": [
+    [
+     "-105583/500000",
+     "0"
+    ],
+    [
+     "-1/1000000",
+     "49983/500000"
+    ]
+   ],
+   "3": [
+    [
+     "-42047/200000",
+     "124983/500000"
+    ],
+    [
+     "-1/1000000",
+     "124983/500000"
+    ]
+   ],
+   "4": [
+    [
+     "-124983/500000",
+     "49987/200000"
+    ],
+    [
+     "-1/1000000",
+     "124983/500000"
+    ]
+   ],
+   "5": [
+    [
+     "-1/1000000",
+     "49983/500000"
+    ],
+    [
+     "-19987/200000",
+     "49983/500000"
+    ]
+   ],
+   "6": [
+    [
+     "-49983/500000",
+     "0"
+    ],
+    [
+     "-19987/200000",
+     "49983/500000"
+    ]
+   ],
+   "7": [
+    [
+     "-1/1000000",
+     "49983/500000"
+    ],
+    [
+     "-49983/500000",
+     "0"
+    ]
+   ],
+   "8": [
+    [
+     "-49983/500000",
+     "0"
+    ],
+    [
+     "-49983/500000",
+     "0"
+    ]
+   ],
+   "9": [
+    [
+     "-87219/500000",
+     "195763/1000000"
+    ],
+    [
+     "-145369/500000",
+     "259263/1000000"
+    ]
+   ],
+   "10": [
+    [
+     "-99979/1000000",
+     "49961/500000"
+    ],
+    [
+     "-99979/1000000",
+     "49961/500000"
+    ]
+   ],
+   "11": [
+    [
+     "-140801/1000000",
+     "12647/62500"
+    ],
+    [
+     "-19197/125000",
+     "140769/1000000"
+    ]
+   ],
+   "12": [
+    [
+     "-49957/500000",
+     "119987/1000000"
+    ],
+    [
+     "-99913/1000000",
+     "24997/250000"
+    ]
+   ],
+   "13": [
+    [
+     "-140767/1000000",
+     "70387/500000"
+    ],
+    [
+     "-8801/62500",
+     "5629/40000"
+    ]
+   ],
+   "14": [
+    [
+     "-99963/1000000",
+     "59969/500000"
+    ],
+    [
+     "-2499/25000",
+     "99941/1000000"
+    ]
+   ],
+   "15": [
+    [
+     "-4999/25000",
+     "199941/1000000"
+    ],
+    [
+     "-99983/500000",
+     "0"
+    ]
+   ],
+   "16": [
+    [
+     "-99909/1000000",
+     "12499/125000"
+    ],
+    [
+     "-99929/1000000",
+     "24993/250000"
+    ]
+   ],
+   "17": [
+    [
+     "-124983/500000",
+     "0"
+    ],
+    [
+     "-49999/250000",
+     "49981/200000"
+    ]
+   ]
+  },
+  "alpha": {
+   "1": "9983/100000",
+   "2": "9983/100000",
+   "3": "7/10",
+   "4": "7/10",
+   "5": "316/3125",
+   "6": "316/3125",
+   "7": "9983/100000",
+   "8": "9983/100000",
+   "9": "16823/50000",
+   "10": "1519/10000",
+   "11": "17041/100000",
+   "12": "9519/100000",
+   "13": "2207/12500",
+   "14": "9933/50000",
+   "15": "7/10",
+   "16": "8951/50000",
+   "17": "7/10"
+  },
+  "centre": {
+   "1": [
+    "1",
+    "0"
+   ],
+   "2": [
+    "1",
+    "0"
+   ],
+   "3": [
+    "1",
+    "0"
+   ],
+   "4": [
+    "1",
+    "0"
+   ],
+   "5": [
+    "2499998943814999/2500001056185001",
+    "3249900000000/2500001056185001"
+   ],
+   "6": [
+    "2499998943814999/2500001056185001",
+    "-3249900000000/2500001056185001"
+   ],
+   "7": [
+    "1",
+    "0"
+   ],
+   "8": [
+    "1",
+    "0"
+   ],
+   "9": [
+    "949271961974473551/1050728038025526449",
+    "450457714000000000/1050728038025526449"
+   ],
+   "10": [
+    "249827655852303919/250172344147696081",
+    "13127991000000000/250172344147696081"
+   ],
+   "11": [
+    "249928795330074143450319/250071204669925856549681",
+    "8438285959000000000000/250071204669925856549681"
+   ],
+   "12": [
+    "249998640273758671/250001359726241329",
+    "-1166073000000000/250001359726241329"
+   ],
+   "13": [
+    "62406058370862199/62593941629137801",
+    "4846174500000000/62593941629137801"
+   ],
+   "14": [
+    "997495825959191271/1002504174040808729",
+    "100083446000000000/1002504174040808729"
+   ],
+   "15": [
+    "1",
+    "0"
+   ],
+   "16": [
+    "998398294825926519/1001601705174073481",
+    "-80042618000000000/1001601705174073481"
+   ],
+   "17": [
+    "1",
+    "0"
+   ]
+  }
+ },
+ "terminal": {
+  "box": {
+   "1": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "2": [
+    [
+     "-39/125",
+     "0"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "3": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "4": [
+    [
+     "-124983/500000",
+     "49987/200000"
+    ],
+    [
+     "-1/1000000",
+     "124983/500000"
+    ]
+   ],
+   "5": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "6": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "7": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "8": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "9": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "10": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "11": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "12": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "13": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "28/125"
+    ]
+   ],
+   "14": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "15": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "16": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "17": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ]
+  },
+  "alpha": {
+   "1": "1/10",
+   "2": "1/10",
+   "3": "1/10",
+   "4": "1",
+   "5": "1/10",
+   "6": "1/10",
+   "7": "1/10",
+   "8": "1/10",
+   "9": "1/10",
+   "10": "1/10",
+   "11": "1/10",
+   "12": "1/10",
+   "13": "1/10",
+   "14": "1/10",
+   "15": "1/10",
+   "16": "1/10",
+   "17": "1/10"
+  }
+ },
+ "root_arc": {
+  "1": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "99749582826111/100250417173889",
+    "-10008340000000/100250417173889"
+   ],
+   "hi": [
+    "99749582826111/100250417173889",
+    "10008340000000/100250417173889"
+   ]
+  },
+  "2": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "99749582826111/100250417173889",
+    "-10008340000000/100250417173889"
+   ],
+   "hi": [
+    "99749582826111/100250417173889",
+    "10008340000000/100250417173889"
+   ]
+  },
+  "3": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "82802391/117197609",
+    "-82940000/117197609"
+   ],
+   "hi": [
+    "82802391/117197609",
+    "82940000/117197609"
+   ]
+  },
+  "4": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "82802391/117197609",
+    "-82940000/117197609"
+   ],
+   "hi": [
+    "82802391/117197609",
+    "82940000/117197609"
+   ]
+  },
+  "5": {
+   "c": [
+    "2499998943814999/2500001056185001",
+    "3249900000000/2500001056185001"
+   ],
+   "lo": [
+    "997430186394897759/1002569813605102241",
+    "-101386658000000000/1002569813605102241"
+   ],
+   "hi": [
+    "997430186394897759/1002569813605102241",
+    "101386658000000000/1002569813605102241"
+   ]
+  },
+  "6": {
+   "c": [
+    "2499998943814999/2500001056185001",
+    "-3249900000000/2500001056185001"
+   ],
+   "lo": [
+    "997430186394897759/1002569813605102241",
+    "-101386658000000000/1002569813605102241"
+   ],
+   "hi": [
+    "997430186394897759/1002569813605102241",
+    "101386658000000000/1002569813605102241"
+   ]
+  },
+  "7": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "99749582826111/100250417173889",
+    "-10008340000000/100250417173889"
+   ],
+   "hi": [
+    "99749582826111/100250417173889",
+    "10008340000000/100250417173889"
+   ]
+  },
+  "8": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "99749582826111/100250417173889",
+    "-10008340000000/100250417173889"
+   ],
+   "hi": [
+    "99749582826111/100250417173889",
+    "10008340000000/100250417173889"
+   ]
+  },
+  "9": {
+   "c": [
+    "949271961974473551/1050728038025526449",
+    "450457714000000000/1050728038025526449"
+   ],
+   "lo": [
+    "115962950959907490989060441/123142813765852780789060441",
+    "-41433640762568662319940000/123142813765852780789060441"
+   ],
+   "hi": [
+    "115962950959907490989060441/123142813765852780789060441",
+    "41433640762568662319940000/123142813765852780789060441"
+   ]
+  },
+  "10": {
+   "c": [
+    "249827655852303919/250172344147696081",
+    "13127991000000000/250172344147696081"
+   ],
+   "lo": [
+    "62135208985152991/62864791014847009",
+    "-9549751500000000/62864791014847009"
+   ],
+   "hi": [
+    "62135208985152991/62864791014847009",
+    "9549751500000000/62864791014847009"
+   ]
+  },
+  "11": {
+   "c": [
+    "249928795330074143450319/250071204669925856549681",
+    "8438285959000000000000/250071204669925856549681"
+   ],
+   "lo": [
+    "3875349942388809245098858604947816900149998799187520131551/3932877871266735377746521024548366238491126200812479868449",
+    "-670217259048601966945168441969266070867308373830500000000/3932877871266735377746521024548366238491126200812479868449"
+   ],
+   "hi": [
+    "3875349942388809245098858604947816900149998799187520131551/3932877871266735377746521024548366238491126200812479868449",
+    "670217259048601966945168441969266070867308373830500000000/3932877871266735377746521024548366238491126200812479868449"
+   ]
+  },
+  "12": {
+   "c": [
+    "249998640273758671/250001359726241329",
+    "-1166073000000000/250001359726241329"
+   ],
+   "lo": [
+    "249431083574823039/250568916425176961",
+    "-23851969000000000/250568916425176961"
+   ],
+   "hi": [
+    "249431083574823039/250568916425176961",
+    "23851969000000000/250568916425176961"
+   ]
+  },
+  "13": {
+   "c": [
+    "62406058370862199/62593941629137801",
+    "4846174500000000/62593941629137801"
+   ],
+   "lo": [
+    "62005118998861759/62994881001138241",
+    "-11122960500000000/62994881001138241"
+   ],
+   "hi": [
+    "62005118998861759/62994881001138241",
+    "11122960500000000/62994881001138241"
+   ]
+  },
+  "14": {
+   "c": [
+    "997495825959191271/1002504174040808729",
+    "100083446000000000/1002504174040808729"
+   ],
+   "lo": [
+    "9899329620227631/10100670379772369",
+    "-2006692600000000/10100670379772369"
+   ],
+   "hi": [
+    "9899329620227631/10100670379772369",
+    "2006692600000000/10100670379772369"
+   ]
+  },
+  "15": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "82802391/117197609",
+    "-82940000/117197609"
+   ],
+   "hi": [
+    "82802391/117197609",
+    "82940000/117197609"
+   ]
+  },
+  "16": {
+   "c": [
+    "998398294825926519/1001601705174073481",
+    "-80042618000000000/1001601705174073481"
+   ],
+   "lo": [
+    "991856070459099271/1008143929540900729",
+    "-180487446000000000/1008143929540900729"
+   ],
+   "hi": [
+    "991856070459099271/1008143929540900729",
+    "180487446000000000/1008143929540900729"
+   ]
+  },
+  "17": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "82802391/117197609",
+    "-82940000/117197609"
+   ],
+   "hi": [
+    "82802391/117197609",
+    "82940000/117197609"
+   ]
+  }
+ },
+ "root_region_note": "STATE EVERYTHING FOR THE ROOT REGION (box = window.box, arcs = root_arc): the header window has the same box and, for every label, a radius alpha <= the sine of both root arc ends, so it is smaller than the root arc",
+ "direction_cut_for_the_terminal_test": {
+  "rotation_relative_to_the_reference_direction": [
+   "399/401",
+   "40/401"
+  ],
+  "tau": "1/20",
+  "note": "sine 40/401 <= 1/10 - 1/6000 (terminal test of the tube radius 1/10)"
+ },
+ "root_arc_tau_ends_relative_to_the_reference": {
+  "1": [
+   "-500417/10000000",
+   "500417/10000000"
+  ],
+  "2": [
+   "-500417/10000000",
+   "500417/10000000"
+  ],
+  "3": [
+   "-4147/10000",
+   "4147/10000"
+  ],
+  "4": [
+   "-4147/10000",
+   "4147/10000"
+  ],
+  "5": [
+   "-2502167450000000/50001647482499171",
+   "2567165450000000/49998352517500829"
+  ],
+  "6": [
+   "-2567165450000000/49998352517500829",
+   "2502167450000000/50001647482499171"
+  ],
+  "7": [
+   "-500417/10000000",
+   "500417/10000000"
+  ],
+  "8": [
+   "-500417/10000000",
+   "500417/10000000"
+  ],
+  "9": [
+   "567946313691858184003/11360767759702735510000",
+   "4147/10000"
+  ],
+  "10": [
+   "-6267753750000000/125250738103488473",
+   "12831749250000000/124749261896511527"
+  ],
+  "11": [
+   "-2154353686973135463297273847510750000000/31286710713636730194020524832121535327113",
+   "12831749250000000/124749261896511527"
+  ],
+  "12": [
+   "-12509021000000000/249972186862952263",
+   "11342948000000000/250027813137047737"
+  ],
+  "13": [
+   "-3138393000000000/62715615230158429",
+   "7984567500000000/62284384769841571"
+  ],
+  "14": [
+   "-5029290700000000/100502091776176749",
+   "15037635300000000/99497908223823251"
+  ],
+  "15": [
+   "-4147/10000",
+   "4147/10000"
+  ],
+  "16": [
+   "-130265032000000000/996388328076506593",
+   "50222414000000000/1003611671923493407"
+  ],
+  "17": [
+   "-4147/10000",
+   "4147/10000"
+  ]
+ },
+ "root_arc_tau_ends_note": "for tools: the direction of label i runs from reference*rot(tau_lo) to reference*rot(tau_hi) (angle 2 atan tau); derived from root_arc, which is normative; every root arc is symmetric about its centre (lo = conj(hi))",
+ "wall_ends": [
+  {
+   "label": 1,
+   "k": 1,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 1,
+   "k": 2,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 2,
+   "k": 1,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 2,
+   "k": 2,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 3,
+   "k": 2,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 4,
+   "k": 2,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 5,
+   "k": 1,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 6,
+   "k": 1,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 7,
+   "k": 1,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 7,
+   "k": 2,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 8,
+   "k": 1,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 8,
+   "k": 2,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 15,
+   "k": 2,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 17,
+   "k": 1,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  }
+ ],
+ "wall_ends_note": "at these ends a cell of the tree must take the root's end: never cut there (a cut at 0 next to a lower wall end leaves the piece between the root's end and 0 as an open node of its own; it holds the wall position xi = -eps)",
+ "exits_from_the_tube": {
+  "position": [
+   "xi_{1,1} above 1/5 (root to 105583/500000)",
+   "xi_{3,1} below -1/5 (root to -42047/200000 = -0.210235)",
+   "xi_{3,1} above 1/5 (root to 124983/500000)",
+   "xi_{3,2} above 1/5 (root to 124983/500000)",
+   "xi_{9,2} below -1/5 (root to -145369/500000 = -0.290738)",
+   "xi_{9,2} above 1/5 (root to 259263/1000000)",
+   "xi_{11,1} above 1/5 (root to 12647/62500)",
+   "xi_{17,1} below -1/5 (root to -124983/500000 = -0.249966)",
+   "xi_{17,2} above 1/5 (root to 49981/200000)"
+  ],
+  "direction": [
+   "label 1: below (root arc from -0.100000)",
+   "label 1: above (root arc to +0.100000)",
+   "label 2: below (root arc from -0.100000)",
+   "label 2: above (root arc to +0.100000)",
+   "label 3: below (root arc from -0.786228)",
+   "label 3: above (root arc to +0.786228)",
+   "label 5: below (root arc from -0.100000)",
+   "label 5: above (root arc to +0.102600)",
+   "label 6: below (root arc from -0.102600)",
+   "label 6: above (root arc to +0.100000)",
+   "label 7: below (root arc from -0.100000)",
+   "label 7: above (root arc to +0.100000)",
+   "label 8: below (root arc from -0.100000)",
+   "label 8: above (root arc to +0.100000)",
+   "label 9: above (root arc to +0.786228)",
+   "label 10: above (root arc to +0.205000)",
+   "label 11: below (root arc from -0.137500)",
+   "label 11: above (root arc to +0.205000)",
+   "label 13: above (root arc to +0.255000)",
+   "label 14: above (root arc to +0.300000)",
+   "label 15: below (root arc from -0.786228)",
+   "label 15: above (root arc to +0.786228)",
+   "label 16: below (root arc from -0.260000)",
+   "label 16: above (root arc to +0.100000)",
+   "label 17: below (root arc from -0.786228)",
+   "label 17: above (root arc to +0.786228)"
+  ]
+ },
+ "constants": {
+  "U": "1169/250",
+  "delta = (U - Sref)/2": "469906395449/2000000000000000",
+  "eps": "323264740583067756265381186720884493986257/62500000000000000000000000000000000000000000000000000000000",
+  "side_star_enclosure": [
+   "46755300936045509516341112704831466487671438550158796943662667240051399850981213/10000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "18702120374418203806536445081932586595068575420063518785870052852972573895623523/4000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  ],
+  "eta = (Sref - S*)/2 in": [
+   "193463554918067413404931424579936481214129947147027426104376477/8000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "483658887295168533512328561449841203056337332759948600149018787/20000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  ],
+  "eta_float": [
+   2.4182944364758428e-17,
+   2.4182944364758428e-17
+  ],
+  "eps_float": 5.172235849329084e-18,
+  "delta_float": 0.0002349531977245
+ },
+ "inputs_sha256": {
+  "classes_JD/L01.json": "e7291cc33c302b8884833914c51d64abad517b7909e6f24ea01fc81bf2159a92",
+  "classes_v2/PT_L01.json": "38b3a15750e4469154465f817b49469b36cfb0e451ba3ef9ef6ee7f1735454c1",
+  "classes_v2/PW_L01.json": "5c01f7a2604b8b29ee24c451b7a0dd2b8fc11e81462454ae4899c80eb3a72fe8",
+  "classes_JD/L02.json": "492e553c499ea6f459d6fab6b579a6931eee2cfbd7124bb7d462658a65ac26f9",
+  "classes_v2/PT_L02.json": "46bf0906d470c4f11cf936931ae815c5a37e1a75446385f4f2cf204145b47019",
+  "classes_v2/PW_L02.json": "93eb228717b7f2bb111f24b853c0ffed5c8aec4a80cad3fb2bc84eb31aa0e66f",
+  "classes_JD/L05.json": "815b43670f11bc4b9c6c0400d2d85d854d00a93fa356367a41c449bc14f7960e",
+  "classes_v2/PT_L05.json": "8c32625d0d5522d898edf5b0906e4bda4d1f379a39a6f3f0438f88bd31a493e3",
+  "classes_v2/PW_L05.json": "ac8625cce99768f0f02168f339e3ffff5ecd49d55427e6fee3ca800b79e8d224",
+  "classes_JD/L06.json": "45f029fde906902111ecf21cbda17101786c4216c14f164f66dbe1b84880b7cc",
+  "classes_v2/PT_L06.json": "623139c1ac7bc606ae67dad027a8f6fbc27eba081a51ba9f200ad2bbfb6f7ca9",
+  "classes_v2/PW_L06.json": "2fdb87b496cde6d9a23faa1cffb48ce0314883b715283808dea1ce499c415898",
+  "classes/C_L07.json": "60341809dba3593a8912e947457a962e964bf5efa5b35f5be79d3a32dcfb024d",
+  "classes_v2/PT_L07.json": "fa6b29dcb085d6ab1834e975385b05cf867dec85fdffc4256394c31003c35971",
+  "classes_v2/PW_L07.json": "34e54e28838f5b74924c43f30a2fac69afb9be91a11d23cf5eb90e43a64cf3c8",
+  "classes/C_L08.json": "bb345831da9433574ece44674935366f09656a4c3a9ec53d659f83be282fed6b",
+  "classes_v2/PT_L08.json": "d0ed5d8092698fc9b83cd20e336558ce85fa375615189f768a9dc4a142e798d5",
+  "classes_v2/PW_L08.json": "474ba695cee090c2101d51a85d7adab212f34ce9017fa93917cb84e19b944f43",
+  "classes_JD/L10.json": "4d40cfef77ce2c2fd1fd6c53b64be283db31ad200be4a4cd0d882be2eb997a61",
+  "classes_v2/PT_L10.json": "4a4c1ba0c09f6d02739bbc4decd6d6f151a77162001f327192af1c094f6ca540",
+  "classes_v2/PW_L10.json": "25e0759ccf09460c5ad0f6a2b2606978920174f8eeb32dadfd6187dd3de2a4db",
+  "classes_JD/L11.json": "3e73123004d95e35c6d81a38c74a82dbd176f6fc7d25e9cdaf0624a6aa35da35",
+  "classes_v2/PT_L11.json": "ba4006c41856c824cfb8186912b22a0285dd43de9e4b87309853cb241df71f20",
+  "classes_v2/PW_L11.json": "8a4b05525575d22d184900624c6c206322f092f507e8002ad994c81a5418ba5f",
+  "classes_JD/L12.json": "133ddb28b6227353fdd7786667ea4e10880d8b75a72df26244daf242fd025b3a",
+  "classes_v2/PT_L12.json": "94de46bc3d5a965c246d076b46dcf549978608c2eeee9969cf664c18e60057db",
+  "classes_v2/PW_L12.json": "c31b385aeb76c7d81ce3365d379a3bb4635b0c2eddbb45c1cbfd07743ec0cde0",
+  "classes_JD/L13.json": "26193ca8ba97a21df21e3c87374dadede645b0501bababf829d9d6179fbec40f",
+  "classes_v2/PT_L13.json": "f225fdc0a5c7059812f13c1c914d0f3339bc8bf125c76bd6c6a51fdfcf87b04d",
+  "classes_v2/PW_L13.json": "22b22a0755fb6fc55cbab57b12726b6bf16ed401115fb3f1dd1b62277bef7226",
+  "classes_JD/L14.json": "c9d349363302b8deeaacbf4a5db3f07096c493700f659c92ca0446eb397e58d2",
+  "classes_v2/PT_L14.json": "a5987a1f68b1881daaaf60875bdbbb2d8e7fe05123b14b88919866aa0647522c",
+  "classes_v2/PW_L14.json": "9a42293ec3b028a1db40bddb3ea070b51a8ae61ebe82134174f2d040371aa65e",
+  "classes_JD/L16.json": "ccf832baee001f6156f3631d0d0b4a5129be9a8cbd039c4d81c3fe2986b3b966",
+  "classes_v2/PT_L16.json": "029593f30dda31a25c82ddea967f67bd1a8200c17853d7d36b0166322440761f",
+  "classes_v2/PW_L16.json": "f05ecde590cf5f3a2c0fb20e367af8011e677772cf4d45d9b04059c29a07fb3e",
+  "classes/L_L03.json": "654dcdb2bd7dc627e128ef6fb9cd50ae7e10c3fb507c7b15fea4093458722a49",
+  "classes/L_L04.json": "036302c5ecfec8c4e2da77d9ffe32cef72c57304a790330c645918722c42d415",
+  "classes/L_L15.json": "cfc5a6498b9d76be55fb1d9ec36d360ee7401c882f94e09781b1bc5c2f786b08",
+  "classes/L_L17.json": "f23a24dafacf1f3adccfb0bcd782d1019c162fdbb97b0eb9353663ab4e995761",
+  "classes_v2_Q16/Q_L01.json": "2631b5aeba0c3e230107897944f94c9afc342099cfeffca73c2a8dd504e0541e",
+  "classes_v2_Q16/Q_L02.json": "7b3b6bda6522518a0c76d616326f35e2d81c1da16c685a6b3d1450121b34f7a8",
+  "classes_v2_Q16/Q_L05.json": "0762a715a0137eac0699faf9c3248ea20d3f849a20e31120e27517f09b821718",
+  "classes_v2_Q16/Q_L06.json": "be8994b3bc8fce216870548439a10891294482e3b69708e2d3d7327ac82ad851",
+  "classes_v2_Q16/Q_L07.json": "cf4b2f1782d6ec501b8299a9c21357be851a112c6b4634a79ca559168b420d8f",
+  "classes_v2_Q16/Q_L08.json": "c38b56984275da2fe858c9d345ce4cd6166c37b253540e5520315f9bd5bea7d8",
+  "classes_v2_Q16/Q_L10.json": "c361f411d32a9a0c769e95dc0c104e81b2b184a64bf582ae8f500b621b63da2c",
+  "classes_v2_Q16/Q_L11.json": "6464ad76989b6f83524ddf0b639dec2237602170148d09d075ae2239e1a1bb15",
+  "classes_v2_Q16/Q_L12.json": "70e4bf77a42bc7d97695a4fcbc48bb0a1d95a867ee2beef6fe25f5a0af23d985",
+  "classes_v2_Q16/Q_L13.json": "bfd2d56423db828415608fad000f98d2529561dbb388a71a3da33f300b88d5c1",
+  "classes_v2_Q16/Q_L14.json": "65055650fefafae4d19013496ac7747eca76819295756cb35e338bc51d807c2b",
+  "classes_v2_Q16/Q_L16.json": "d32d794f3c9f61a39540ee5cd9decfd1a24004b01be4215293b67ac2a91fadff",
+  "classes_v2_Q16/Q_L03.json": "e9fa24cda1b3d32f32a89cb8116b159acae4d59603c354bcf1c5d926bbfe9aa1",
+  "classes_v2_Q16/Q_L04.json": "0fe5256b52b2ba9e0bb2386e5f494c6649429fecb4752e23722595a588748cf1",
+  "classes_v2_Q16/Q_L15.json": "110f833ef733c829e2a416a90d68bfbd557b7ebe5bfac8e9e0ad58009defaa1b",
+  "classes_v2_Q16/Q_L17.json": "f184da53ecdbd5000b91f67fea14a0eca957996fd65bacf8db63c4df0b89a81a",
+  "classes_v2_PTw/PTW37_L11.json": "becbebf72246333a90593a5d7e060e893e00c44bd81aaba7d929fee8c8cac9fa",
+  "classes_v2_SLAB11/SL_L11_T020_DH.json": "afde932909082930e73e5403188c1a4146b1c0e29cee3fd7032ceee1d7cd7e91",
+  "classes/P_L01.json": "5d3954c3d603665a74fec3fccb3679737c88ce07aadcfdf2cf6427a87ae2e70e",
+  "classes_v2/PM_L01.json": "d9d25be963a6419b3e3c67159a38982868b583bcb3bf3d039f11cc87ad037060",
+  "classes/P_L02.json": "1e4b60eacfe8890d2d6e66929e0619b82bd030e8b2a7dd41a209f2f9d08969dc",
+  "classes_v2/PM_L02.json": "a9b69ba414a5a00defe2878f58e79cb7e44fefc722ad044c77e7375f5d52bf84",
+  "classes/P_L05.json": "d8006e80b2390ea5f419c0fa9ab189d2d2e0bcf1dc727853d23202c5e8ca608a",
+  "classes_v2/PM_L05.json": "11eba4f227495bb8871039af58fc780b7538f8832f170491d12c9167e14e8ac2",
+  "classes/P_L06.json": "19a9c39c2d6a294ae27b7eb8293ae75f5bbede8b7a999030a5463186f1592ea0",
+  "classes_v2/PM_L06.json": "b060f66c15d933d3c96502c9a8b999962416ee9c68ab3a39732b5f8933493bef",
+  "classes/P_L07.json": "dd5c6abd1fa6844b1de7024c86a82f717b3d67f07fc00eb32ff4479c1de879f4",
+  "classes_v2/PM_L07.json": "fa72d24a470d27fbee7dfe27c3a979f37d9e1c926e78cac698609b13d2fb6ba9",
+  "classes/P_L08.json": "d0e4e8b7e28ee931f8e12267483ebcc0f85d19be89cb754f0e7b2da24524ddf8",
+  "classes_v2/PM_L08.json": "15c68d33f76a1aab3ecb541b8a0c0d62afa405bf3b5cdb4fc320b5240f404860",
+  "classes/P_L10.json": "7bc11c815eca28550238d79fb2b792d4bf715b7b16a7b8ee301e7d071593e045",
+  "classes_v2/PM_L10.json": "af3f6752fc3301afcda7839a091828fce155708cc0fd7cb3ad696fef496c20b1",
+  "classes/P_L11.json": "1b6c6da4964e58867a6b34ff4886583f35ec934c3a6cc683b51a9cbd7959af68",
+  "classes_v2/PM_L11.json": "498053c0ab19a0198a228cd251bf03c32d67b14427a5759f60830611b5dd111c",
+  "classes/P_L12.json": "1b4970b0726c68e06caff88bbd813b00a61a3da7bcb95b1c96686b123af3574e",
+  "classes_v2/PM_L12.json": "3cc5c8a143f4af88a8ff42be1f5e3ddacb8cd4e2633f2cc367ef966626e11822",
+  "classes/P_L13.json": "b7a8b6b356505766681becf16c3a44dab780d2462869815512de136c81bd3d97",
+  "classes_v2/PM_L13.json": "552eb293bd59b4ee133e5eb7a1179c340653b67ed063254594823e5a147f3e5b",
+  "classes_JD/P_L14_wide.json": "8f1ff0ad2b2eee0e2f935a2568c51a038066c38d586240b11db800149af37897",
+  "classes_v2/PM_L14.json": "fa7ecb83913c98b41c326c3d0f7768eaecf671994972292f2a6c2231653951dc",
+  "classes/P_L16.json": "dd6f48d190efc12df4d1aa670ee092cd823decea379a9c7cea2357899de6844b",
+  "classes_v2/PM_L16.json": "243282194cd8dd7b1c5bb891833867b4ef2d70200b1284de33d126b52d331e18",
+  "classes/Q_L01.json": "6c80ca44ed0faf21b7126169710bd7da1aab296d95647736e4c70a32cff6524e",
+  "classes/Q_L02.json": "6c81e87feec90df8848fc5bf990796e7fb53393e9b3b78ee73b32ad33dc4685a",
+  "classes/Q_L05.json": "93d31ede08b037ebeb35804b0d7640d154a1536eb2636ac0cb51edb43b11f29d",
+  "classes/Q_L06.json": "d15bde5b70ddc6877d3112431538962693d5b703231de9018ebf941ed945b140",
+  "classes/Q_L07.json": "8c2bdf71b1e2834a221f7fe683422c499e1a6865dc762a395bc185384121967e",
+  "classes/Q_L08.json": "6cbf9152a1f848bc029c673e37a562e3b940ff1dee8113b6a07eb3b75acc00f3",
+  "classes_JD/Q_L10_arc035.json": "3576d73048b373ae2d7eb61d117a88d05dbca0a91b6f756972da0335c45acea5",
+  "classes/Q_L11.json": "c3574942f7088d0470092097d915be77a411fea0e8c1947ef3d246cc04f4e45a",
+  "classes/Q_L12.json": "b87b0018eab4126e524388f96884bd59091398f1b7c7ac13356972535fb4fcb0",
+  "classes/Q_L13.json": "1edbfdf787aefaddceb4218880d88334041ddfe72849f9f3615fbc5025fb4d4f",
+  "classes/Q_L14.json": "fa961b2145237f789fe35e644daa4288ddaafd4b9dc8e533f5c86ed8acb2939e",
+  "classes/Q_L16.json": "65e9e1fb2178b46d4b45f9fda0caf9a0f2fa28e67898cb128225cf4721e900f2",
+  "classes/Q_L03.json": "e9fa24cda1b3d32f32a89cb8116b159acae4d59603c354bcf1c5d926bbfe9aa1",
+  "classes/Q_L04.json": "0fe5256b52b2ba9e0bb2386e5f494c6649429fecb4752e23722595a588748cf1",
+  "classes/Q_L15.json": "110f833ef733c829e2a416a90d68bfbd557b7ebe5bfac8e9e0ad58009defaa1b",
+  "classes/Q_L17.json": "f184da53ecdbd5000b91f67fea14a0eca957996fd65bacf8db63c4df0b89a81a",
+  "classes/C_L01.json": "7a2405c6e33542ba6000e43f475a727c14268a06ab4ec25fb6cca7d007c35cb7",
+  "classes/C_L02.json": "df8e8b10fe3944fb3f7268529c3a42119292cb6bcee26269421acb2123555f8a",
+  "classes/C_L05.json": "850ec820c66a4ec186e1af3370184a1b6f3c71c70f9d91db73c0fadf2e387cf1",
+  "classes/C_L06.json": "485a7c093e0f36c3b21c45aef8feeb5b4ce820ff03b2f6f2898b49dc481b19ca",
+  "classes/C_L10.json": "d60f5e7263ba1143d82981e880f1130842070363371fd195bac47d911125d0ff",
+  "classes/C_L11.json": "7f5f766ad5b6e57891d1be176a80b12e2e2ecb967be5490746513c9867fef46d",
+  "classes/C_L12.json": "b77dc740c4abdc7778bb8fba48b8c6d6c8564a5c428d8d1f3734e9edaa16cf7c",
+  "classes/C_L13.json": "04dc5a7a69a5118929764685a869bc8520766624400197e1c60eb49e144a576d",
+  "classes/C_L14.json": "5369fa2fd14a509b344dcfc2ece828b0b336902a4a9fad79810515a350e9f795",
+  "classes/C_L16.json": "77f2be236e0e1a10b27bfa9207100a38fb414dcce82b87c87f5b85ce1c8e2b9a",
+  "upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+  "terminal/instances/box-wide/logs/composition.out": "53ea429530b116f5841429702026adb5cb11a071a19b77cb483ae9298d57d0ed"
+ },
+ "info_floats": {
+  "1": {
+   "slot_hull_R_float": [
+    [
+     -1.0002349531977246,
+     0.2111650468022755
+    ],
+    [
+     -1.0002349531977246,
+     0.0999650468022755
+    ]
+   ],
+   "box_float": [
+    [
+     -1e-06,
+     0.211166
+    ],
+    [
+     -1e-06,
+     0.099966
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.09999998329076523,
+     0.09999998329076523
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "500417/10000000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-500417/10000000",
+     "500417/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L01.json class PB_label1_*",
+   "direction": "slot"
+  },
+  "2": {
+   "slot_hull_R_float": [
+    [
+     -0.2111650468022755,
+     1.0242349531977244
+    ],
+    [
+     -1.0002349531977246,
+     0.0999650468022755
+    ]
+   ],
+   "box_float": [
+    [
+     -0.211166,
+     0.0
+    ],
+    [
+     -1e-06,
+     0.099966
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.09999998329076523,
+     0.09999998329076523
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "500417/10000000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-500417/10000000",
+     "500417/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L02.json class PB_label2_*",
+   "direction": "slot"
+  },
+  "3": {
+   "slot_hull_R_float": [
+    [
+     -0.2102349531977245,
+     0.2499650468022755
+    ],
+    [
+     -1.0002349531977246,
+     0.2499650468022755
+    ]
+   ],
+   "box_float": [
+    [
+     -0.210235,
+     0.249966
+    ],
+    [
+     -1e-06,
+     0.249966
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.7862284215320781,
+     0.7862284215320781
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "4147/10000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "any direction"
+   },
+   "position_source": "classes/L_L03.json class S_label3_*",
+   "direction": "free"
+  },
+  "4": {
+   "slot_hull_R_float": [
+    [
+     -0.2499650468022755,
+     0.24993495319772452
+    ],
+    [
+     -1.0002349531977246,
+     0.2499650468022755
+    ]
+   ],
+   "box_float": [
+    [
+     -0.249966,
+     0.249935
+    ],
+    [
+     -1e-06,
+     0.249966
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.7862284215320781,
+     0.7862284215320781
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "4147/10000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "any direction"
+   },
+   "position_source": "classes/L_L04.json class S_label4_*",
+   "direction": "free"
+  },
+  "5": {
+   "slot_hull_R_float": [
+    [
+     -1.0002349531977246,
+     0.0999650468022755
+    ],
+    [
+     -0.09993495319772451,
+     0.09996504680227548
+    ]
+   ],
+   "box_float": [
+    [
+     -1e-06,
+     0.099966
+    ],
+    [
+     -0.099935,
+     0.099966
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.09999998357703975,
+     0.10259990321090696
+    ],
+    "centre_offset_rad": 0.0012999598169336126,
+    "tau_centre": "32499/50000000",
+    "tau_half": "50693329/1000000000",
+    "excess_beyond_the_required_arc_rad": [
+     2.862745318576998e-10,
+     1.5954035315068893e-09
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-500417/10000000",
+     "10269/200000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L05.json class PB_label5_*",
+   "direction": "slot"
+  },
+  "6": {
+   "slot_hull_R_float": [
+    [
+     -0.0999650468022755,
+     1.0242349531977244
+    ],
+    [
+     -0.09993495319772451,
+     0.09996504680227548
+    ]
+   ],
+   "box_float": [
+    [
+     -0.099966,
+     0.0
+    ],
+    [
+     -0.099935,
+     0.099966
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.10259990321090696,
+     0.09999998357703975
+    ],
+    "centre_offset_rad": -0.0012999598169336126,
+    "tau_centre": "-32499/50000000",
+    "tau_half": "50693329/1000000000",
+    "excess_beyond_the_required_arc_rad": [
+     1.5954035315068893e-09,
+     2.862745318576998e-10
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-10269/200000",
+     "500417/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L06.json class PB_label6_*",
+   "direction": "slot"
+  },
+  "7": {
+   "slot_hull_R_float": [
+    [
+     -1.0002349531977246,
+     0.0999650468022755
+    ],
+    [
+     -0.0999650468022755,
+     1.0242349531977244
+    ]
+   ],
+   "box_float": [
+    [
+     -1e-06,
+     0.099966
+    ],
+    [
+     -0.099966,
+     0.0
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.09999998329076523,
+     0.09999998329076523
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "500417/10000000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-500417/10000000",
+     "500417/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L07.json class PB_label7_*",
+   "direction": "slot"
+  },
+  "8": {
+   "slot_hull_R_float": [
+    [
+     -0.0999650468022755,
+     1.0242349531977244
+    ],
+    [
+     -0.0999650468022755,
+     1.0242349531977244
+    ]
+   ],
+   "box_float": [
+    [
+     -0.099966,
+     0.0
+    ],
+    [
+     -0.099966,
+     0.0
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.09999998329076523,
+     0.09999998329076523
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "500417/10000000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-500417/10000000",
+     "500417/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L08.json class PB_label8_*",
+   "direction": "slot"
+  },
+  "9": {
+   "slot_hull_R_float": [
+    [
+     -0.17443710885524208,
+     0.19576289114475792
+    ],
+    [
+     -0.29073710885524207,
+     0.2592628911447579
+    ]
+   ],
+   "box_float": [
+    [
+     -0.174438,
+     0.195763
+    ],
+    [
+     -0.290738,
+     0.259263
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     0.09990062269180106,
+     0.7862284215320781
+    ],
+    "centre_offset_rad": 0.44306452211193953,
+    "tau_centre": "225228857/1000000000",
+    "tau_half": "1894711430000/10934024069979",
+    "excess_beyond_the_required_arc_rad": [
+     1.3976038104601685e-09,
+     0.0
+    ],
+    "kind": "above the gate"
+   },
+   "position_source": "T9 off the wall column = [53/100, 4501/5000] x [24137/10000, 29637/10000] (class frame)",
+   "direction": "above"
+  },
+  "10": {
+   "slot_hull_R_float": [
+    [
+     -0.09997844719594932,
+     0.09992155280405067
+    ],
+    [
+     -0.09997838646108746,
+     0.09992161353891255
+    ]
+   ],
+   "box_float": [
+    [
+     -0.099979,
+     0.099922
+    ],
+    [
+     -0.099979,
+     0.099922
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.09999988595499226,
+     0.20499969025325043
+    ],
+    "centre_offset_rad": 0.05249990214912908,
+    "tau_centre": "13127991/500000000",
+    "tau_half": "19099503/250000000",
+    "excess_beyond_the_required_arc_rad": [
+     3.7312242184839306e-10,
+     7.227665688169793e-11
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "1532251/5000000",
+     "4828869/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L10.json class PB_label10_*",
+   "direction": "slot"
+  },
+  "11": {
+   "slot_hull_R_float": [
+    [
+     -0.14079995580427185,
+     0.20235101265687777
+    ],
+    [
+     -0.15357501572346344,
+     0.140768049862436
+    ]
+   ],
+   "old_root_box_float": [
+    [
+     -0.140801,
+     0.156105
+    ],
+    [
+     -0.153576,
+     0.140769
+    ]
+   ],
+   "new_slot_box_float": [
+    [
+     -0.1408,
+     0.202352
+    ],
+    [
+     -0.153576,
+     0.140769
+    ]
+   ],
+   "box_float": [
+    [
+     -0.140801,
+     0.202352
+    ],
+    [
+     -0.153576,
+     0.140769
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.13749981050347065,
+     0.20499969025325043
+    ],
+    "centre_offset_rad": 0.03374993987488989,
+    "tau_centre": "8438285959/500000000000",
+    "tau_half": "5363204679943053070634250607/62482908917781447280750000000",
+    "excess_beyond_the_required_arc_rad": [
+     5.123401702888941e-13,
+     0.0
+    ],
+    "old_root_arc_offsets_from_reference_rad": [
+     -0.09999988595499226,
+     0.20499969025325043
+    ],
+    "kind": "slot interval (new slot's lower end, old root arc's upper end)",
+    "slot_tan_half_absolute": [
+     "1430271/5000000",
+     "4828869/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2_PTw/PTW37_L11.json class HULLW_label11_* UNITED WITH classes_v2/PT_L11.json class PB_label11_*",
+   "direction": "slot_union"
+  },
+  "12": {
+   "slot_hull_R_float": [
+    [
+     -0.09991345470931096,
+     0.11998654529068904
+    ],
+    [
+     -0.09991210264392178,
+     0.09998789735607823
+    ]
+   ],
+   "box_float": [
+    [
+     -0.099914,
+     0.119987
+    ],
+    [
+     -0.099913,
+     0.099988
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.0999998860566928,
+     0.09067131896906488
+    ],
+    "centre_offset_rad": -0.004664283543813956,
+    "tau_centre": "-1166073/500000000",
+    "tau_half": "23851969/500000000",
+    "excess_beyond_the_required_arc_rad": [
+     4.748229170958851e-10,
+     1.3141060739574328e-09
+    ],
+    "kind": "slot interval (cut at the half-marker's end)",
+    "slot_tan_half_absolute": [
+     "1532251/5000000",
+     "207107/500000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L12.json class PB_label12_*",
+   "direction": "slot"
+  },
+  "13": {
+   "slot_hull_R_float": [
+    [
+     -0.1407660310325979,
+     0.1407739907992776
+    ],
+    [
+     -0.1408156313359217,
+     0.1407243904959538
+    ]
+   ],
+   "box_float": [
+    [
+     -0.140767,
+     0.140774
+    ],
+    [
+     -0.140816,
+     0.140725
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.09999988777507542,
+     0.2549998444857124
+    ],
+    "centre_offset_rad": 0.07749997835531848,
+    "tau_centre": "9692349/250000000",
+    "tau_half": "22245921/250000000",
+    "excess_beyond_the_required_arc_rad": [
+     2.1932055338513834e-09,
+     1.2364463619629618e-09
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "1532251/5000000",
+     "2570499/5000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L13.json class PB_label13_*",
+   "direction": "slot"
+  },
+  "14": {
+   "slot_hull_R_float": [
+    [
+     -0.09996273771995515,
+     0.11993726228004485
+    ],
+    [
+     -0.0999597784703092,
+     0.0999402215296908
+    ]
+   ],
+   "box_float": [
+    [
+     -0.099963,
+     0.119938
+    ],
+    [
+     -0.09996,
+     0.099941
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.09999988749214458,
+     0.2999999458438666
+    ],
+    "centre_offset_rad": 0.10000002917586101,
+    "tau_centre": "50041723/1000000000",
+    "tau_half": "10033463/100000000",
+    "excess_beyond_the_required_arc_rad": [
+     1.9102747161880984e-09,
+     5.228115718125537e-10
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "1532251/5000000",
+     "1357211/2500000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_v2/PT_L14.json class PB_label14_*",
+   "direction": "slot"
+  },
+  "15": {
+   "slot_hull_R_float": [
+    [
+     -0.19995977970800963,
+     0.19994022029199038
+    ],
+    [
+     -0.1999650468022755,
+     1.0242349531977244
+    ]
+   ],
+   "box_float": [
+    [
+     -0.19996,
+     0.199941
+    ],
+    [
+     -0.199966,
+     0.0
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.7862284215320781,
+     0.7862284215320781
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "4147/10000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "any direction"
+   },
+   "position_source": "classes/L_L15.json class S_label15_*",
+   "direction": "free"
+  },
+  "16": {
+   "slot_hull_R_float": [
+    [
+     -0.0999086658546906,
+     0.09999133414530939
+    ],
+    [
+     -0.09992881469157806,
+     0.09997118530842193
+    ]
+   ],
+   "box_float": [
+    [
+     -0.099909,
+     0.099992
+    ],
+    [
+     -0.099929,
+     0.099972
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.2599997913919349,
+     0.09999994313095177
+    ],
+    "centre_offset_rad": -0.07999992413049158,
+    "tau_centre": "-40021309/1000000000",
+    "tau_half": "90243723/1000000000",
+    "excess_beyond_the_required_arc_rad": [
+     1.3497395978667726e-09,
+     7.347079611363938e-10
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "872533/2500000",
+     "5669921/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 1
+   },
+   "position_source": "classes_v2/PT_L16.json class PB_label16_*",
+   "direction": "slot"
+  },
+  "17": {
+   "slot_hull_R_float": [
+    [
+     -0.2499650468022755,
+     1.0242349531977244
+    ],
+    [
+     -0.19999508571028857,
+     0.24990491428971143
+    ]
+   ],
+   "box_float": [
+    [
+     -0.249966,
+     0.0
+    ],
+    [
+     -0.199996,
+     0.249905
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.7862284215320781,
+     0.7862284215320781
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "4147/10000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "any direction"
+   },
+   "position_source": "classes/L_L17.json class S_label17_*",
+   "direction": "free"
+  }
+ },
+ "self_check": {
+  "all_ok": true,
+  "count": 2552,
+  "failed": []
+ }
+}

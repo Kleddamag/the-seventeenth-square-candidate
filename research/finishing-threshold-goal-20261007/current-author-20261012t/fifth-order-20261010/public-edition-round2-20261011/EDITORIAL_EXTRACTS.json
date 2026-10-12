@@ -1,0 +1,1235 @@
+[
+  {
+    "original_sha256": "8c65576d42652ec9410f1250ef0c8f1156682972de0f6ed276b0cb41520f148d",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/continuation-0340/graph/rebound/objects/a63f7f6591ee20178546d2157d704fcf3fb00076d6f6561d1300e26b937e0091/EDITED_LINES.tsv",
+      "sha256": "8c65576d42652ec9410f1250ef0c8f1156682972de0f6ed276b0cb41520f148d",
+      "bytes": 41861
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "e9d2d5bbef73590bd23c9fa1a3dcc54ee2693e8baa8a75405ea4b84e98a3cd27",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "sha256": "ba53b261c4cdf35c06067d02b014aec168c6be4a86de4943d4501368c3ba8c13",
+      "bytes": 11957
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "e48d3fc2909ef70e4dc6ff7abbbe94ac2a0a28f6f0eca71a7d494d13ca128b0f",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "303749a22f3e46923a269bcc2d243d2132b0cb0db2c49327059449119fd789f3",
+      "bytes": 7434
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "f52ecf4613c54d9462be9235f6afff40de390c164c86257e3b196ba7b6e06a85",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/marker-class-Q/CONVERSION.md",
+      "sha256": "9e0dda9abd5685a78169f37173b0aaabae10b2fdf948b8645d43e47426ecf938",
+      "bytes": 1859
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "cb9121e4160fb75fccf241749c5abb03d7d0f5cc1624da398da0878cae05e7cb",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/DEPENDENCY_GRAPH.json",
+      "sha256": "7d9103cb3664aa98e146ec62cbfe32ce45a03de22eceb1103d0a6a9fffbbdf4d",
+      "bytes": 565708
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "b2eef4d3be202a0c808a9bef69799cc70440f7fa5b065a4ad1914b25cbc26aa4",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/EQUIVALENCE.md",
+      "sha256": "5396cf84fd379cf6c4da115a667692ef260ac2f35a7b682c8487c88092651e38",
+      "bytes": 2221
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "03ae9f6e20909a4331d698fbcd7d2960052f1151dd6b20394313dc925b066f84",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/KNOWN_LIMITS.md",
+      "sha256": "caa79a6662be09b8d5a58587b9021169e945d9d8e6a55486810958ae96d9741a",
+      "bytes": 12574
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "2df958a3ce3bc57a1b88b3288fad3219c2f1392e17fd2bf83d17d9f4fa8ab5f7",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/OBLIGATIONS.json",
+      "sha256": "1f05982ff81edd331c601fc4cd8db3fc2c499501ef10a21b53b61b748f2d9453",
+      "bytes": 451880
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "02d27dec24933ba5744bb975d304240514b7853c55975c6a5d1d880877e7fe1f",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/join-design-files-20261009-1525/frame-premise-producer/THEOREM.md",
+      "sha256": "fc4f35a15e6c2caa54f6e15430057ef044ab1897a8fe2a0e2e133418eaf7bc68",
+      "bytes": 10898
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "0a996da0ab60e6b766403c6364b25b2c3e6bcd9b6b846b18eb17bedbc557ba22",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v7/CLASS_ROW_LEMMA.md",
+      "sha256": "43bce2307f2f1c9b8f075c06b9f7d4daef6dd0ea6e11e4b6c0df81f256b8ee26",
+      "bytes": 6151
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "28e96fcef6d54d9c1d38944c512f0c6199af1c39080e75fee43e5e22f49cacc5",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v7/NOTATION.md",
+      "sha256": "5ce8cdb2d0b3c305f869ab18b569081953a68b5dcc6a060d4794e047f2d63f57",
+      "bytes": 12357
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "f69d761422d57c65984ed6cd518c69022481d84b4167e5d6c517d6265d29ebb1",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v7/PROOF.md",
+      "sha256": "0d4c408d1e38a8d858281443b27ac4e0cf3591ba9045be8e8ec176a318916ee6",
+      "bytes": 59659
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "7a87339ff7253c56a3df28f53445cdf3d1facff813d5b92723c7f7a10acaf69d",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/inputs/accepted-transfer-review.json",
+      "sha256": "ab96060dce2f0e5b17006b52a9a8c0d7b70f6a94897c9dd0f013d9911cfbdd12",
+      "bytes": 1788
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "82565689033e52eafd39176362cd4c4415433b8836fc84f4c06fdc0c1f348ed9",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/g20s-terminal-audit/full-gate/independent-review/MANIFEST.json",
+      "sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+      "bytes": 4119
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "51f99ef78cee38a20b4386000fc8dc31ba184728532d67ded674b5c067af12d3",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/g20s-terminal-audit/stop-coupled-finish/stop-producer/manifest.json",
+      "sha256": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d",
+      "bytes": 4458
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "82565689033e52eafd39176362cd4c4415433b8836fc84f4c06fdc0c1f348ed9",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/independent-review/MANIFEST.json",
+      "sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+      "bytes": 4119
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "51f99ef78cee38a20b4386000fc8dc31ba184728532d67ded674b5c067af12d3",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/stop-coupled-finish/stop-producer/manifest.json",
+      "sha256": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d",
+      "bytes": 4458
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "82565689033e52eafd39176362cd4c4415433b8836fc84f4c06fdc0c1f348ed9",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/independent-review/MANIFEST.json",
+      "sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+      "bytes": 4119
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "7a87339ff7253c56a3df28f53445cdf3d1facff813d5b92723c7f7a10acaf69d",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/assessment-review-manifest.json",
+      "sha256": "ab96060dce2f0e5b17006b52a9a8c0d7b70f6a94897c9dd0f013d9911cfbdd12",
+      "bytes": 1788
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "82565689033e52eafd39176362cd4c4415433b8836fc84f4c06fdc0c1f348ed9",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/full-gate-review-manifest.json",
+      "sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+      "bytes": 4119
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "51f99ef78cee38a20b4386000fc8dc31ba184728532d67ded674b5c067af12d3",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/stop-producer-manifest.json",
+      "sha256": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d",
+      "bytes": 4458
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "eb1aad29d5c7d7697f9a9ba8c591b05a6791705b24cfc14874394aa2e95eed72",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/stop-proof.md",
+      "sha256": "832718fc249675567ae575346bad5853a9386c05463ca7a691f6b11177786138",
+      "bytes": 7754
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "82565689033e52eafd39176362cd4c4415433b8836fc84f4c06fdc0c1f348ed9",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/full-gate-review-manifest.json",
+      "sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+      "bytes": 4119
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "51f99ef78cee38a20b4386000fc8dc31ba184728532d67ded674b5c067af12d3",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/stop-producer-manifest.json",
+      "sha256": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d",
+      "bytes": 4458
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "eb1aad29d5c7d7697f9a9ba8c591b05a6791705b24cfc14874394aa2e95eed72",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/stop-proof.md",
+      "sha256": "832718fc249675567ae575346bad5853a9386c05463ca7a691f6b11177786138",
+      "bytes": 7754
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "7a87339ff7253c56a3df28f53445cdf3d1facff813d5b92723c7f7a10acaf69d",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/MANIFEST.json",
+      "sha256": "ab96060dce2f0e5b17006b52a9a8c0d7b70f6a94897c9dd0f013d9911cfbdd12",
+      "bytes": 1788
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "82565689033e52eafd39176362cd4c4415433b8836fc84f4c06fdc0c1f348ed9",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/full-gate-review-manifest.json",
+      "sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+      "bytes": 4119
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "8296d90c03f36ae2d5bc3f131059edfc5ae0aac675d13ddbd65cde558938ce8c",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/G20S_PLAN.md",
+      "sha256": "732a20e8f2e41af0568d870f8a3cd08732d6ffb7e574e314842f9a7fc1532de8",
+      "bytes": 4290
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "7825d4f9ff65dca57751e3bbd8fffc6f7ef8197e8ba765503ffe47c5e94d8b6c",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "sha256": "d7c95901b4e42f85b6ee9f33b636bd1bba12dc06c625381cc8076953d4bed448",
+      "bytes": 37953
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6c955338416ff9f92f1f67351f0b1297ba28537685f84c1a0588cd430110b320",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/sixteen-square-corollary/independent-review/REVIEW.md",
+      "sha256": "7618dbceac97d38da8e67f5bc6704e6668415edd471073e67637b80757198c1d",
+      "bytes": 9025
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "51f99ef78cee38a20b4386000fc8dc31ba184728532d67ded674b5c067af12d3",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-producer/manifest.json",
+      "sha256": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d",
+      "bytes": 4458
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "216f6e06a0f8b680ae2644993a2cf4bd8176e6d9ff974e790a9176f2c771bfb5",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/accepted-prefix-review-manifest.json",
+      "sha256": "7d9db75869c3bc781ca3a08e892dd12d4c3e5f5140fae3f0577ff32ddee2a901",
+      "bytes": 3558
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "82565689033e52eafd39176362cd4c4415433b8836fc84f4c06fdc0c1f348ed9",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/full-gate-review-manifest.json",
+      "sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+      "bytes": 4119
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "15fec54452ebff5935d87a188c0bbacc4af01da0bf8f61cd7b84430249e16ae5",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review-manifest.json",
+      "sha256": "d98a4956589f65ff6fab859e12d9aeda6db27d04b1037625423f82863f633a60",
+      "bytes": 1881
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6754bec5ca805296146617461cbf9a0e8ddf8f1cf5aeb301cdd1dc815d389a04",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/join-design-1702/c7-c8-inherited-producer/inputs/accepted.json",
+      "sha256": "3eca7bba368deb680ae5a3b599716c88816230dd3a6937ea4c748ee6dc1efe6d",
+      "bytes": 5784
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "88cd6ab5cd18001d70e863d21099063cdae349c4197e8b5fd0a3f9e00aec76e3",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/join-design-files-20261009-1525/independent-endpoint-normalization-review/REVIEW.md",
+      "sha256": "ae9e89202c6949a197279bdee90555f3699259929e2fa2723fde5c9eb8b4b1d6",
+      "bytes": 5689
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "382fe8d6f7e4e03579260cc65897c8ff185cfb4b228ac49e467e1187fdf91553",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/psv-audit/RESULT.json",
+      "sha256": "b426c9bbf00b5548d356fd4bbbd530a6d4152b502cea132ee123d4ccb40c6bce",
+      "bytes": 123783
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "02f65cdc3687327d560497f3ca745ff68899b932c1408e763a6ca363a4462452",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/selector/ACCEPTED_INTERFACE.json",
+      "sha256": "6494e06ea42dbbf83e4b6608eab7869830051d687023ccd489b6a2be5ba953d5",
+      "bytes": 1813
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "fda65974eeff08308ebd8109225e45b3ac72c207abbe968b0e15ff778665c5d6",
+    "current": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/REVIEW.md",
+      "sha256": "5e1625337eea549aafd6cbfb64414d60644ebdd72228e3194547a52e866a945a",
+      "bytes": 6911
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "9448d6fa31ec38edc08d19accfa6cd687df59c0f62863ba2e8589613070e2a14",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/REVIEW.md",
+      "sha256": "f76b5f8da527bed03ecd62e1595758ebf31974cbd0c47462b8159dfe7d81e92a",
+      "bytes": 9338
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "31ce8b7943a69ed177a44c1c1023742df1405fae6ed315f77a801563d54368f1",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "sha256": "1b083a119b5f4b8c858dc052ee7dcb3551084f9a6e080f9b38ef5d99b093800f",
+      "bytes": 34463
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "7bd705e163b33fd301622a0c7c5fc43660d2101b52b1ef2d1e5934f0c3acff23",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "bb620e04fe2d270372d1147957e3eb540edcd48c46d5b9b06ed9ccfc6b089e05",
+      "bytes": 4396
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "a5e12c31c27c15ab456f89ad245329a3d3d39bbc035c2072221943dfc4bafbfe",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md",
+      "sha256": "38906714154786f370fbdca4a53a154f986d58b1fbe796676991a314ab34fa8d",
+      "bytes": 12362
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "61cfc9760b5fe2ba12d43015f4eb00fdaf3c8d6066a48ae18c5cccee5d1b9921",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/MANIFEST.json",
+      "sha256": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+      "bytes": 6915
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "4bce0242b433baff7aef940a22e202c8651c715ac9b4222a00b88646144aa49f",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/RESULT.md",
+      "sha256": "0b97488e46f7e79c2201e0eb51cb8f734c99f69ad4919ac6db2fcbfc9c87c781",
+      "bytes": 4003
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "4fe2e63c2c5225e94cd85a1fb52660f7da5abe04592bf29c8fc830c8a0b7ada7",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/FRAME_L9.json",
+      "sha256": "603673f2213d128aad4cebc6cbf4a9dde348e0c05e9bbff0168434d326052424",
+      "bytes": 9546
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "f5e3393ba9658b4b35798bda11e73ceb7d6884fab42aee9cb1c170ef40909f43",
+    "current": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "sha256": "24a7a4d625b6b2e17407d771a4ce300211cc3eaea6bccdef638d944b28e3a439",
+      "bytes": 56160
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "4c87d169473e75a1715a51c155c62b26bc1cc73caf609e4c3a6d8d04dc652905",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/premise-review-P/inputs/full_gate_analytic_review.md",
+      "sha256": "8d036de57d583155208ae6b1014f11041f952e22724922183373d0978863bf02",
+      "bytes": 7744
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "653e513ce2c725c65af8adc03fb25dcbbc255bb491ccbbbbfbe3aaf0ff197b66",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/premise-review-P/inputs/local_spec_notes.md",
+      "sha256": "c685f6e1625b09ef237ee78671f2a8540bb0e4274853ec7be73472aefe1f255f",
+      "bytes": 8683
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "1ffaebae70f5ebc6d76f5d921854565d4b6a8d4fbfa55405babeef714451fedc",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/ACCEPTED_INTERFACE.json.txt",
+      "sha256": "2a791cb40f7eb1d4bdd3953a952cd99fa10a50cda789cb4fd5557647f860a730",
+      "bytes": 28874
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "99865cac82cab27a7bdde00044f26b35363de755e6a5a64dcc07f026236a4a52",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/JPG15m_LEAD_RECORD.md",
+      "sha256": "0f198938eaf23ea6e1ab9e354ebbb372705f039751814b27f5f738faff819785",
+      "bytes": 13144
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "d72ce6622674f6bbc56087600e9f1d7a70b6d8ca2004a538e288c5b6cc8c28f1",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/JPG3p_LEAD_RECORD.md",
+      "sha256": "b638e33957eb0e8b8a714960a3916917d854f78e05dc3288fc174b2fcd426584",
+      "bytes": 10903
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "f752d9fa08d0f5f40115f41aa07601d6a178dd4688df66be346b259ca0a39f36",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/THEOREM_G20S.md",
+      "sha256": "c311e482c50e66df5d1730a9b10e82bc54deb943ae23ee6fdffc90a261851a4c",
+      "bytes": 10263
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "2c9bc12715735c6931fe3f66c76ef54972e91301d349e4758741dd6ed34b0be2",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md",
+      "sha256": "87ead22a238ccc15c466a822d1c252822abe927456a300128b6585ae95f6c821",
+      "bytes": 12464
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "eb3ee561c4d00b67437ea524db6216afd3b6e4706bf4943051f7b6fe5ce914d8",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/fifth-order-20261010/jpa-import-AG/INDEPENDENT_REVIEW.md",
+      "sha256": "00bd092bfffd4131c874e2858cf16b46f0a6c64227053a410e722be766a1e40f",
+      "bytes": 14364
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "264fe5fdc96123b38f18eb3bacacc3a4d1bc785ecbcd8b4a460ea9b2b120e268",
+    "current": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "sha256": "24a7a4d625b6b2e17407d771a4ce300211cc3eaea6bccdef638d944b28e3a439",
+      "bytes": 56160
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6d955886ea0bbfa6da7f9771992cc818a542088bb37486df907005ed64201196",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/finite-stopped-contraction/continuation/README.md",
+      "sha256": "3c49f9efadda5a074b2b17c82715bec1df7ff218f3b31ec39b566158ddb4b7d1",
+      "bytes": 1698
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "c3c437f3f42c192858194c4b7dcb778570f00e4c606cbd5751d684c2dd127b0a",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/finite-stopped-contraction/producer/README.md",
+      "sha256": "39b31f77933852e3edcb84df42596fb3264792508a65718b9f97601817ef3cfe",
+      "bytes": 2817
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "39b4d717319715dadf023ebae590ef70f9deca1adaa0d66eb8f53aca21f994b8",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "sha256": "94f82607df426bf45b273ee0b01e360ff5f796f925bfdcfa87591928b3b8f463",
+      "bytes": 9903
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "4c1becc4991303e767966e4381927e446d19b28f26bba05ae19c3b5a3381aa25",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/third-order-20261010/local-region-audits/JPW13_v2x/LEAD_RECORD_SNAPSHOT.md",
+      "sha256": "27f96de158143a8eb56c9cd2e5aff9c5e505374f9e7b4c8920d9bacecb952c64",
+      "bytes": 28295
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "0a1d91afb56ed71ab86d883c54f44b737269322d5cb8e040b13306a170520a64",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/third-order-20261010/local-region-audits/JPWS_v4/LEAD_RECORD_SNAPSHOT.md",
+      "sha256": "e7df6f029b6a340f00685e6b034729081bc289296157547f327835141010d5fd",
+      "bytes": 19286
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "cb856fb216e6db9fde805e9865f201fd3fb330d1e7e82420dc1a3affd2c22390",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/inputs/root-proof/PROOF.md",
+      "sha256": "62a0c88675cb34b427087793cac3af27d4f2ac62b6ba720bd09ac2debab719a4",
+      "bytes": 6878
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "acae8ff0066717f5973c8363c13920925b7c38249485e481760d37a3c1593fb1",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/REVIEW.md",
+      "sha256": "a697e6ac1cd1b698f273061eaec437b5531a459a9c7b3fe9d0a3d68069e4b9b2",
+      "bytes": 6154
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "cb856fb216e6db9fde805e9865f201fd3fb330d1e7e82420dc1a3affd2c22390",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/PROOF.md",
+      "sha256": "62a0c88675cb34b427087793cac3af27d4f2ac62b6ba720bd09ac2debab719a4",
+      "bytes": 6878
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "f17810f19396e6f9be1b9dc636ed4a2b4c53a4b8ff179a45d6537947a2b7b275",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/PREFREEZE_BINDING_FAILURE.md",
+      "sha256": "7078f19e68272af7d4a8849cba94710aa7e06e85ca961c559fd97e4f56069f48",
+      "bytes": 813
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "0b68a1c3793b0ded64da7f001b1b740a8e14647d637f7f3100409638101f0d48",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/REVIEW.md",
+      "sha256": "4ed653f1365a24522cabf8ad06ad1c2ca89b1e85bab86106a7d3a1126907b253",
+      "bytes": 6722
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6f86e50690ccfaa1cd16a3bed524ed62549f3c07551fecc20942147a24b17d48",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/producer-replay.json",
+      "sha256": "ca656b21b400c02bbf16cf6f64cff4e67427456e34fa06c374e2b92457c878e5",
+      "bytes": 466
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "deef6730f5af625bd79fc1f229133db603a6533ebc8cb85f59b0f713d29d15eb",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/REVIEW.md",
+      "sha256": "7d01422f04715bfd0ab832a213bfa8a81d714fca0c8b56343e186057c19980b7",
+      "bytes": 4529
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "c18c9a03bcaea802385367e99a6508bf5ba5ee1d143a67d5e173f0eea2cf45bc",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation/README.md",
+      "sha256": "0071e92d9a65d0ca774562dfa4a9e19bf5a1fa8382794030c7b61153a2146546",
+      "bytes": 1588
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "ed38301abe5e087ed734ec31191b83013b3e73288435235d0b6b96ca6dc2b02c",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/RESULT.md",
+      "sha256": "94ce8a00f4185c7863c43b2a20442b814122193d332fbee4a6ddf9c16e369202",
+      "bytes": 1745
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "72f2e811eb2a93bb9c802d09aceecaf7a4ac917f0dba49628057aca017ae7d90",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-independent-review/REVIEW.md",
+      "sha256": "f9f0b6e0353e33e5b149c7f56ae391a5f3c78931db4cf6bab3812a99bf2924d7",
+      "bytes": 4254
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "b93730a16c72522ea9bbe97da4954ee49c78be81eef03978a3b28258fd998de0",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/independent-review/REVIEW.md",
+      "sha256": "047832de9ad20b5d72e64b7517d71fac03f1ca3bad34322ab70dd31a9f3f621c",
+      "bytes": 6718
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bb790b3534eac7c4d0f890f5cb3405ace03068f0409392f8704b60ed8a769bab",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/README.md",
+      "sha256": "25aed994bd441d45f7722c56dd2d908750740c1417138f4622dc383760ecb12a",
+      "bytes": 2707
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6208f5c433d0cfaaae6d7a3a40b96c35939931fe8dd2452fb7b9f64bf6214045",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/RESULT.md",
+      "sha256": "80d6c9c631a819e9e171d853c88578525ba7bd8728ef127d9a61e81376af2822",
+      "bytes": 2002
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "d5d85be35dcf9a52aa40f2a9759b5ac953623bf034fa4d2ce14287a782d4105d",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/REVIEW.md",
+      "sha256": "298bd9b7d32614921db5667573c93911bb6f3123e132ac1e5c2c58023e19a00e",
+      "bytes": 4917
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "031ab9abf976112336825c28206048ab0d4fd49e4edb98e60fee9488f161ea11",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/RESULT.md",
+      "sha256": "c00e94712cba07155c47b14852b89e5ce7e35994fe8d80eba093eabe5534ec7e",
+      "bytes": 2082
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "61cfc9760b5fe2ba12d43015f4eb00fdaf3c8d6066a48ae18c5cccee5d1b9921",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-terminal-manifest.json",
+      "sha256": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+      "bytes": 6915
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "31aa055acb645cd48a45b914fa7609c2803ab372f97033d149b17a52ab49a0a2",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/RESULT.md",
+      "sha256": "c55cccf8261fae6d997e6d239dc28af819a5b56dbff3f6a7c071666173d0039c",
+      "bytes": 2385
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "90f75190f422ce2dac9cb14655cd0e3524906632522f6d7623bb29f573ca4657",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/THEOREM.md",
+      "sha256": "ced6028d1a33178f6f63f31f44f520785f812668d6a474878ef6a4077d54e55c",
+      "bytes": 6139
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "402c4a9f7ab550ca7dd5f6bb98734351f31948e59fb1a356cd8a90a8ae323bfa",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/stop-review/producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1",
+      "bytes": 466
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "402c4a9f7ab550ca7dd5f6bb98734351f31948e59fb1a356cd8a90a8ae323bfa",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/stop-review/producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1",
+      "bytes": 466
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "b6a12f03b02da48e5add982d5e77763fb7727a11458254a3cb010d925c14209e",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/REVIEW.md",
+      "sha256": "a65594ffb6cfca79fc2b532bc4ae21a59e670b851db234468973a7f71af22faf",
+      "bytes": 4747
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "1356728bef0c0e2f878e449d9795bb56b87c47693d2bbcb63f47204095c4b028",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/REVIEW.md",
+      "sha256": "ac96d816b9bf4265c739d85b2194aae83389f229cff8ddc669ee78b364f2db1f",
+      "bytes": 7799
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "ed5459f5622618ca0be005f548649a861a04a3b4ee4c2035382010d3f454b0d1",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "sha256": "ca6beff1d65ff5d1ea2c171a7944e75b0f9e73c5b08eaa04f85dc1511c93f334",
+      "bytes": 4544
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "61cfc9760b5fe2ba12d43015f4eb00fdaf3c8d6066a48ae18c5cccee5d1b9921",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/accepted-old-terminal-manifest.json",
+      "sha256": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+      "bytes": 6915
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "7f9c99266205ee8c138c1b0657beead4cd9aca7a5c579f42ec694db64e2f4aa7",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/full-gate-result.md",
+      "sha256": "068d914d988542e60abccfc918187c4ddf78c9833ae45c7559e55710259a072a",
+      "bytes": 7334
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bf275e102f0689bc45cc19ae015842e2907213c02161292148b02171e2432a4f",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "sha256": "cdb0dd61c25ec91f31bbfcfffae67acef76d4a099c863c0b718a2d71954b67fc",
+      "bytes": 9795
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "4d8644810b19ba6317747bfc2ddbcc977bc242406305cff4a47d64b232ebf943",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/lp-review/PHYSICAL_SCOPE_MANIFEST.json",
+      "sha256": "5a47ab81102b644f67ed4bd51b23f9c026a32141c4c6f284b4c69200aa920f63",
+      "bytes": 975
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "402c4a9f7ab550ca7dd5f6bb98734351f31948e59fb1a356cd8a90a8ae323bfa",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1",
+      "bytes": 466
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "aec3776235cebd254123ea3953c08157b01725312839eeb2c5c6db65fb1370f0",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/RESULT.md",
+      "sha256": "792877a9339c18c578b3d4e120a5f401f3413e6d1a0a2d09e2bb8d88d71e37ca",
+      "bytes": 6746
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "2ed1ac0b6de4c811a7f7570262186ec41d18efeaffd6b1e41bfa3ed634d1f32d",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review.md",
+      "sha256": "4ac66c485f6b07bc5f1c368c084a815d15bdbcf97e40854fe549eb09af3eae4c",
+      "bytes": 4242
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "f4d4258bffd527c68d6f3a16f833779ff1542c074a87986dabdcc188f617d210",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/pss-ruling/ACCEPTED_INTERFACE.json",
+      "sha256": "1ee2462df7193c26650d4d41903cf54a002efdaf1e02e760107be3135fe01dc9",
+      "bytes": 782
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "3d3c8f6938d1ff2173e1671ee8568c073691cc20ed93c05540d03fa6311480ad",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/pse-review/ACCEPTED_INTERFACE.json",
+      "sha256": "04a0d4a86b8204f78a7a3f996ce2e60f1edd4fc29940eb161b575d3494b9c7be",
+      "bytes": 3696
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "08151f238b8b48f3432c231b6e8c34819ea26a67df0cd4b953da09d4c1d60eb9",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/THEOREM_MANIFEST.json",
+      "sha256": "3ac30598f4e78789f43080e2925fc1f4bce2e67312936bc0a1ff951b5de12147",
+      "bytes": 383515
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "15410b9fe0cb6d088bb8342dc8353f3e9052621b83b0ee51fefc37c75c91a871",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPG3p_v5/REVIEW.md",
+      "sha256": "9d0b8fdbf08d334ddc1be2d435496e341f8c37f31469f1358d62611bc3606658",
+      "bytes": 4828
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "1f01de27dd66c2f31113aad5fc07495f16b1cb629ea884022bb1244819ff6df2",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPWS_v4/REVIEW.md",
+      "sha256": "090ad2c2b8fe45fca0c3558a0820a3d8c7502cf71f8cc83c17a3790f08447494",
+      "bytes": 3688
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "60de4eda039a4beeb0c1ba23d382837c072a7ac679fcee0ecc44ca7f0fe4466e",
+    "current": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/window-extension-20261008/reviews/REVIEW_30_JS.md",
+      "sha256": "8d7e66111b59d7d0eae969f3ebb6317391826beb0e9e3befa1721ad068c5feeb",
+      "bytes": 61338
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "5b0c6e5072db7c68203715666036ff76cf4860e6c4b98f5e4d3d549fd028cc29",
+    "current": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/window-extension-20261008/reviews/REVIEW_30_PY.md",
+      "sha256": "09dc20259215a88d141cd4352c0c9d4be0dd9fd0c6b5d0f2687d2d5c0d4e865f",
+      "bytes": 90190
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "bdc82d6e9485f28a9b966d6c63f44b225d8c5ff5c9c3102a504db3424ecf74d3",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/KNOWN_LIMITS.md",
+      "sha256": "caa79a6662be09b8d5a58587b9021169e945d9d8e6a55486810958ae96d9741a",
+      "bytes": 12574
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "ed70991099ee2d603e7ffa74691cd43f0c842df96adea3224d040d0d8c28dea4",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/REVISION_SCOPE.json",
+      "sha256": "6808db182d20c6f266a35163aadcce8e6ea3be6599a996e650f57acd27b073b9",
+      "bytes": 3196
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "2f8d5782001b0b35bb2b21a258373d3c1f9e7b91204dea7c9c8ab75a7e9c833a",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/EDITORIAL_LINE_EDITS.json",
+      "sha256": "534afaa4eb368c44ef6efc844ab33a26778399b30e78af4795161563a5ab33dd",
+      "bytes": 147568
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "fed68f4a762efdd79dfbe6bf36bb7b1455b7b9d11496b348c7f621f643b32949",
+    "current": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "sha256": "24a7a4d625b6b2e17407d771a4ce300211cc3eaea6bccdef638d944b28e3a439",
+      "bytes": 56160
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "fed68f4a762efdd79dfbe6bf36bb7b1455b7b9d11496b348c7f621f643b32949",
+    "current": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "sha256": "24a7a4d625b6b2e17407d771a4ce300211cc3eaea6bccdef638d944b28e3a439",
+      "bytes": 56160
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "b75c61c12a08345cab3332d553ac1eb0982a96287cd183cedfafd2b128d6c1dd",
+    "current": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "sha256": "24a7a4d625b6b2e17407d771a4ce300211cc3eaea6bccdef638d944b28e3a439",
+      "bytes": 56160
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  },
+  {
+    "original_sha256": "56ec5ae289fc4dbf4f648b4aef4e6d5721a91412438f20c998a31b59875ea497",
+    "current": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v7/PROOF.md",
+      "sha256": "0d4c408d1e38a8d858281443b27ac4e0cf3591ba9045be8e8ec176a318916ee6",
+      "bytes": 59659
+    },
+    "classification": "DECLARED_EDITORIAL_EXTRACT"
+  }
+]

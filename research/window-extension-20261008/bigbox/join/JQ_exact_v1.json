@@ -1,0 +1,1737 @@
+{
+ "what": "EXACT root region JQ of the join design (case Q of the join design: label 9 in A_Q (wall pose), every other label j in QB_j); made by bigbox/join/mk_join_roots.py",
+ "status": "definition of a statement (exact rationals). The class files it is made from are the capture side's definitions; nothing here is a proof",
+ "statement_if_a_complete_tree_is_accepted": "EMPTY: no feasible configuration (seventeen squares, side Sref) lies in the root region",
+ "frame": "ENDPOINT FRAME: a packing of side S0 <= S* is placed concentrically in [0, S*]^2 (translated by (S* - S0)/2 in both coordinates); container corner at the origin as in SPEC 3.0 section 0 and THEOREM G20S. A class-frame point c corresponds to c - (U - S*)/2, U = 1169/250. Walls: centre >= 1/2 gives xi >= 1/2 - p, which is -eps (eps = 5.17e-18) for a flush reference square at a left or bottom wall, and the three-slider family has xi = -eps there; the box end is the 1e-6 grid point below, -1/1000000 (an end 0 would be wrong in this frame). Box ends at right and top walls are 0 for a flush reference square (centre <= S* - 1/2 < p).",
+ "schema": "wx-cert-3",
+ "labels": 17,
+ "Sref": "4675530093604551/1000000000000000",
+ "S_floor": "4675530093604551/1000000000000000",
+ "S": [
+  "4675530093604551/1000000000000000",
+  "4675530093604551/1000000000000000"
+ ],
+ "window": {
+  "box": {
+   "1": [
+    [
+     "-1/1000000",
+     "185733/500000"
+    ],
+    [
+     "-1/1000000",
+     "72783/500000"
+    ]
+   ],
+   "2": [
+    [
+     "-36433/500000",
+     "0"
+    ],
+    [
+     "-1/1000000",
+     "38583/500000"
+    ]
+   ],
+   "3": [
+    [
+     "-9987/200000",
+     "495099/1000000"
+    ],
+    [
+     "-1/1000000",
+     "203983/500000"
+    ]
+   ],
+   "4": [
+    [
+     "-23933/500000",
+     "10667/200000"
+    ],
+    [
+     "-1/1000000",
+     "24983/500000"
+    ]
+   ],
+   "5": [
+    [
+     "-1/1000000",
+     "110883/500000"
+    ],
+    [
+     "-9987/200000",
+     "61433/500000"
+    ]
+   ],
+   "6": [
+    [
+     "-37583/500000",
+     "0"
+    ],
+    [
+     "-14987/200000",
+     "38583/500000"
+    ]
+   ],
+   "7": [
+    [
+     "-1/1000000",
+     "38483/500000"
+    ],
+    [
+     "-37083/500000",
+     "0"
+    ]
+   ],
+   "8": [
+    [
+     "-36433/500000",
+     "0"
+    ],
+    [
+     "-36433/500000",
+     "0"
+    ]
+   ],
+   "9": [
+    [
+     "-204203/1000000",
+     "-174437/1000000"
+    ],
+    [
+     "-145369/500000",
+     "-104437/1000000"
+    ]
+   ],
+   "10": [
+    [
+     "-117779/1000000",
+     "10411/500000"
+    ],
+    [
+     "-102279/1000000",
+     "15311/500000"
+    ]
+   ],
+   "11": [
+    [
+     "1893/31250",
+     "12647/62500"
+    ],
+    [
+     "-14387/100000",
+     "-533/250000"
+    ]
+   ],
+   "12": [
+    [
+     "21793/500000",
+     "151187/1000000"
+    ],
+    [
+     "34287/1000000",
+     "35197/250000"
+    ]
+   ],
+   "13": [
+    [
+     "-3557/50000",
+     "149431/500000"
+    ],
+    [
+     "-14553/62500",
+     "66733/500000"
+    ]
+   ],
+   "14": [
+    [
+     "-50663/1000000",
+     "113169/500000"
+    ],
+    [
+     "-2533/50000",
+     "195941/1000000"
+    ]
+   ],
+   "15": [
+    [
+     "-6399/25000",
+     "241/1000000"
+    ],
+    [
+     "-125933/500000",
+     "0"
+    ]
+   ],
+   "16": [
+    [
+     "-135109/1000000",
+     "14573/250000"
+    ],
+    [
+     "-16529/1000000",
+     "49093/250000"
+    ]
+   ],
+   "17": [
+    [
+     "-213833/500000",
+     "0"
+    ],
+    [
+     "-6687/125000",
+     "66161/200000"
+    ]
+   ]
+  },
+  "alpha": {
+   "1": "1873/25000",
+   "2": "1873/25000",
+   "3": "7/10",
+   "4": "7/10",
+   "5": "6519/50000",
+   "6": "1891/25000",
+   "7": "3841/50000",
+   "8": "1873/25000",
+   "9": "3097/50000",
+   "10": "10007/50000",
+   "11": "1151/20000",
+   "12": "1151/20000",
+   "13": "1151/20000",
+   "14": "1701/12500",
+   "15": "7/10",
+   "16": "1151/20000",
+   "17": "7/10"
+  },
+  "centre": {
+   "1": [
+    "1",
+    "0"
+   ],
+   "2": [
+    "1",
+    "0"
+   ],
+   "3": [
+    "1",
+    "0"
+   ],
+   "4": [
+    "1",
+    "0"
+   ],
+   "5": [
+    "249998516405355159/250001483594644841",
+    "1218029000000000/250001483594644841"
+   ],
+   "6": [
+    "62499991914213759/62500008085786241",
+    "44960500000000/62500008085786241"
+   ],
+   "7": [
+    "15624997902268399/15625002097731601",
+    "-11450250000000/15625002097731601"
+   ],
+   "8": [
+    "1",
+    "0"
+   ],
+   "9": [
+    "868924219313806828088238638347522081240396071498420595079947891592435437135274399111469908672531696314985570000312252359/1131075780686193171911761361652477918759603928501579404920052108407564562864725600888530091327468303685014429999687747641",
+    "-724087786628646766907243957479888328436586486073483041276758000000000000000000000000000000000000000000000000000000000000/1131075780686193171911761361652477918759603928501579404920052108407564562864725600888530091327468303685014429999687747641"
+   ],
+   "10": [
+    "994467387548569911/1005532612451430089",
+    "148763066000000000/1005532612451430089"
+   ],
+   "11": [
+    "999994797727839199/1000005202272160801",
+    "4561698000000000/1000005202272160801"
+   ],
+   "12": [
+    "999994797727839199/1000005202272160801",
+    "4561698000000000/1000005202272160801"
+   ],
+   "13": [
+    "999994797727839199/1000005202272160801",
+    "4561698000000000/1000005202272160801"
+   ],
+   "14": [
+    "249563835529528399/250436164470471601",
+    "20884551000000000/250436164470471601"
+   ],
+   "15": [
+    "1",
+    "0"
+   ],
+   "16": [
+    "98638673435919/101361326564081",
+    "-23335180000000/101361326564081"
+   ],
+   "17": [
+    "1",
+    "0"
+   ]
+  }
+ },
+ "terminal": {
+  "box": {
+   "1": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "2": [
+    [
+     "-39/125",
+     "0"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "3": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "4": [
+    [
+     "-23933/500000",
+     "10667/200000"
+    ],
+    [
+     "-1/1000000",
+     "24983/500000"
+    ]
+   ],
+   "5": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "6": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "7": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "8": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "9": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "10": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "11": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "12": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "13": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "28/125"
+    ]
+   ],
+   "14": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "15": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "16": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ],
+   "17": [
+    [
+     "-1/5",
+     "1/5"
+    ],
+    [
+     "-1/5",
+     "1/5"
+    ]
+   ]
+  },
+  "alpha": {
+   "1": "1/10",
+   "2": "1/10",
+   "3": "1/10",
+   "4": "1",
+   "5": "1/10",
+   "6": "1/10",
+   "7": "1/10",
+   "8": "1/10",
+   "9": "1/10",
+   "10": "1/10",
+   "11": "1/10",
+   "12": "1/10",
+   "13": "1/10",
+   "14": "1/10",
+   "15": "1/10",
+   "16": "1/10",
+   "17": "1/10"
+  }
+ },
+ "root_arc": {
+  "1": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "159774789951/160225210049",
+    "-12005600000/160225210049"
+   ],
+   "hi": [
+    "159774789951/160225210049",
+    "12005600000/160225210049"
+   ]
+  },
+  "2": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "159774789951/160225210049",
+    "-12005600000/160225210049"
+   ],
+   "hi": [
+    "159774789951/160225210049",
+    "12005600000/160225210049"
+   ]
+  },
+  "3": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "82802391/117197609",
+    "-82940000/117197609"
+   ],
+   "hi": [
+    "82802391/117197609",
+    "82940000/117197609"
+   ]
+  },
+  "4": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "82802391/117197609",
+    "-82940000/117197609"
+   ],
+   "hi": [
+    "82802391/117197609",
+    "82940000/117197609"
+   ]
+  },
+  "5": {
+   "c": [
+    "249998516405355159/250001483594644841",
+    "1218029000000000/250001483594644841"
+   ],
+   "lo": [
+    "9957136385085039/10042863614914961",
+    "-1309406200000000/10042863614914961"
+   ],
+   "hi": [
+    "9957136385085039/10042863614914961",
+    "1309406200000000/10042863614914961"
+   ]
+  },
+  "6": {
+   "c": [
+    "62499991914213759/62500008085786241",
+    "44960500000000/62500008085786241"
+   ],
+   "lo": [
+    "243790351598079/244490898401921",
+    "-18494968750000/244490898401921"
+   ],
+   "hi": [
+    "243790351598079/244490898401921",
+    "18494968750000/244490898401921"
+   ]
+  },
+  "7": {
+   "c": [
+    "15624997902268399/15625002097731601",
+    "-11450250000000/15625002097731601"
+   ],
+   "lo": [
+    "249630029278047871/250369970721952129",
+    "-19234623000000000/250369970721952129"
+   ],
+   "hi": [
+    "249630029278047871/250369970721952129",
+    "19234623000000000/250369970721952129"
+   ]
+  },
+  "8": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "159774789951/160225210049",
+    "-12005600000/160225210049"
+   ],
+   "hi": [
+    "159774789951/160225210049",
+    "12005600000/160225210049"
+   ]
+  },
+  "9": {
+   "c": [
+    "868924219313806828088238638347522081240396071498420595079947891592435437135274399111469908672531696314985570000312252359/1131075780686193171911761361652477918759603928501579404920052108407564562864725600888530091327468303685014429999687747641",
+    "-724087786628646766907243957479888328436586486073483041276758000000000000000000000000000000000000000000000000000000000000/1131075780686193171911761361652477918759603928501579404920052108407564562864725600888530091327468303685014429999687747641"
+   ],
+   "lo": [
+    "999039/1000961",
+    "-62000/1000961"
+   ],
+   "hi": [
+    "999039/1000961",
+    "62000/1000961"
+   ]
+  },
+  "10": {
+   "c": [
+    "994467387548569911/1005532612451430089",
+    "148763066000000000/1005532612451430089"
+   ],
+   "lo": [
+    "61861206676041679/63138793323958321",
+    "-12637180500000000/63138793323958321"
+   ],
+   "hi": [
+    "61861206676041679/63138793323958321",
+    "12637180500000000/63138793323958321"
+   ]
+  },
+  "11": {
+   "c": [
+    "999994797727839199/1000005202272160801",
+    "4561698000000000/1000005202272160801"
+   ],
+   "lo": [
+    "60984534399951/61085778100049",
+    "-3515515625000/61085778100049"
+   ],
+   "hi": [
+    "60984534399951/61085778100049",
+    "3515515625000/61085778100049"
+   ]
+  },
+  "12": {
+   "c": [
+    "999994797727839199/1000005202272160801",
+    "4561698000000000/1000005202272160801"
+   ],
+   "lo": [
+    "60984534399951/61085778100049",
+    "-3515515625000/61085778100049"
+   ],
+   "hi": [
+    "60984534399951/61085778100049",
+    "3515515625000/61085778100049"
+   ]
+  },
+  "13": {
+   "c": [
+    "999994797727839199/1000005202272160801",
+    "4561698000000000/1000005202272160801"
+   ],
+   "lo": [
+    "60984534399951/61085778100049",
+    "-3515515625000/61085778100049"
+   ],
+   "hi": [
+    "60984534399951/61085778100049",
+    "3515515625000/61085778100049"
+   ]
+  },
+  "14": {
+   "c": [
+    "249563835529528399/250436164470471601",
+    "20884551000000000/250436164470471601"
+   ],
+   "lo": [
+    "9953267285606311/10046732714393689",
+    "-1367226600000000/10046732714393689"
+   ],
+   "hi": [
+    "9953267285606311/10046732714393689",
+    "1367226600000000/10046732714393689"
+   ]
+  },
+  "15": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "82802391/117197609",
+    "-82940000/117197609"
+   ],
+   "hi": [
+    "82802391/117197609",
+    "82940000/117197609"
+   ]
+  },
+  "16": {
+   "c": [
+    "98638673435919/101361326564081",
+    "-23335180000000/101361326564081"
+   ],
+   "lo": [
+    "999170614085518279/1000829385914481721",
+    "-57598122000000000/1000829385914481721"
+   ],
+   "hi": [
+    "999170614085518279/1000829385914481721",
+    "57598122000000000/1000829385914481721"
+   ]
+  },
+  "17": {
+   "c": [
+    "1",
+    "0"
+   ],
+   "lo": [
+    "82802391/117197609",
+    "-82940000/117197609"
+   ],
+   "hi": [
+    "82802391/117197609",
+    "82940000/117197609"
+   ]
+  }
+ },
+ "root_region_note": "STATE EVERYTHING FOR THE ROOT REGION (box = window.box, arcs = root_arc): the header window has the same box and, for every label, a radius alpha <= the sine of both root arc ends, so it is smaller than the root arc",
+ "direction_cut_for_the_terminal_test": {
+  "rotation_relative_to_the_reference_direction": [
+   "399/401",
+   "40/401"
+  ],
+  "tau": "1/20",
+  "note": "sine 40/401 <= 1/10 - 1/6000 (terminal test of the tube radius 1/10)"
+ },
+ "root_arc_tau_ends_relative_to_the_reference": {
+  "1": [
+   "-15007/400000",
+   "15007/400000"
+  ],
+  "2": [
+   "-15007/400000",
+   "15007/400000"
+  ],
+  "3": [
+   "-4147/10000",
+   "4147/10000"
+  ],
+  "4": [
+   "-4147/10000",
+   "4147/10000"
+  ],
+  "5": [
+   "-3151712600000000/50007974473621899",
+   "3395318400000000/49992025526378101"
+  ],
+  "6": [
+   "-146554734375000/3906303218754719",
+   "149364765625000/3906196781245281"
+  ],
+  "7": [
+   "-2427228375000000/62499119035031977",
+   "2381427375000000/62500880964968023"
+  ],
+  "8": [
+   "-15007/400000",
+   "15007/400000"
+  ],
+  "9": [
+   "-393043893314323383453621978739944164218293243036741520638379000/988776639307255975112937718659061730909232909465861012860210251",
+   "-331043893314323383453621978739944164218293243036741520638379000/1011223360692744024887062281340938269090767090534138987139789749"
+  ],
+  "10": [
+   "-6678977750000000/251879945716775413",
+   "43869744250000000/248120054283224587"
+  ],
+  "11": [
+   "-207173867187500/7813013175059057",
+   "242812132812500/7811986824940943"
+  ],
+  "12": [
+   "-207173867187500/7813013175059057",
+   "242812132812500/7811986824940943"
+  ],
+  "13": [
+   "-207173867187500/7813013175059057",
+   "242812132812500/7811986824940943"
+  ],
+  "14": [
+   "-1329611400000000/50142769568281283",
+   "5506521600000000/49857230431718717"
+  ],
+  "15": [
+   "-4147/10000",
+   "4147/10000"
+  ],
+  "16": [
+   "-1454749610000000/9966398436386701",
+   "-878768390000000/10033601563613299"
+  ],
+  "17": [
+   "-4147/10000",
+   "4147/10000"
+  ]
+ },
+ "root_arc_tau_ends_note": "for tools: the direction of label i runs from reference*rot(tau_lo) to reference*rot(tau_hi) (angle 2 atan tau); derived from root_arc, which is normative; every root arc is symmetric about its centre (lo = conj(hi))",
+ "wall_ends": [
+  {
+   "label": 1,
+   "k": 1,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 1,
+   "k": 2,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 2,
+   "k": 1,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 2,
+   "k": 2,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 3,
+   "k": 2,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 4,
+   "k": 2,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 5,
+   "k": 1,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 6,
+   "k": 1,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 7,
+   "k": 1,
+   "end": "lo",
+   "value": "-1/1000000",
+   "flush": true,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid (flush reference square: 1/2 - p = -eps, and the three-slider family has xi = -eps here; an end 0 would cut it off)"
+  },
+  {
+   "label": 7,
+   "k": 2,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 8,
+   "k": 1,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 8,
+   "k": 2,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 9,
+   "k": 1,
+   "end": "lo",
+   "value": "-204203/1000000",
+   "flush": false,
+   "why": "centre >= 1/2 for every unit square in [0, S*]^2, i.e. xi >= 1/2 - p, rounded down to the 1e-6 grid"
+  },
+  {
+   "label": 15,
+   "k": 2,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  },
+  {
+   "label": 17,
+   "k": 1,
+   "end": "hi",
+   "value": "0",
+   "flush": true,
+   "why": "centre <= S* - 1/2 <= s_hi - 1/2 for every unit square in [0, S*]^2, rounded up to the 1e-6 grid (flush reference square: 0)"
+  }
+ ],
+ "wall_ends_note": "at these ends a cell of the tree must take the root's end: never cut there (a cut at 0 next to a lower wall end leaves the piece between the root's end and 0 as an open node of its own; it holds the wall position xi = -eps)",
+ "exits_from_the_tube": {
+  "position": [
+   "xi_{1,1} above 1/5 (root to 185733/500000)",
+   "xi_{3,1} above 1/5 (root to 495099/1000000)",
+   "xi_{3,2} above 1/5 (root to 203983/500000)",
+   "xi_{5,1} above 1/5 (root to 110883/500000)",
+   "xi_{9,1} below -1/5 (root to -204203/1000000 = -0.204203)",
+   "xi_{9,2} below -1/5 (root to -145369/500000 = -0.290738)",
+   "xi_{11,1} above 1/5 (root to 12647/62500)",
+   "xi_{13,1} above 1/5 (root to 149431/500000)",
+   "xi_{13,2} below -1/5 (root to -14553/62500 = -0.232848)",
+   "xi_{14,1} above 1/5 (root to 113169/500000)",
+   "xi_{15,1} below -1/5 (root to -6399/25000 = -0.255960)",
+   "xi_{15,2} below -1/5 (root to -125933/500000 = -0.251866)",
+   "xi_{17,1} below -1/5 (root to -213833/500000 = -0.427666)",
+   "xi_{17,2} above 1/5 (root to 66161/200000)"
+  ],
+  "direction": [
+   "label 3: below (root arc from -0.786228)",
+   "label 3: above (root arc to +0.786228)",
+   "label 5: below (root arc from -0.125882)",
+   "label 5: above (root arc to +0.135626)",
+   "label 9: below (root arc from -0.756708)",
+   "label 9: above (root arc to -0.632747)",
+   "label 10: above (root arc to +0.350000)",
+   "label 14: above (root arc to +0.220000)",
+   "label 15: below (root arc from -0.786228)",
+   "label 15: above (root arc to +0.786228)",
+   "label 16: below (root arc from -0.289884)",
+   "label 16: above (root arc to -0.174719)",
+   "label 17: below (root arc from -0.786228)",
+   "label 17: above (root arc to +0.786228)"
+  ]
+ },
+ "constants": {
+  "U": "1169/250",
+  "delta = (U - Sref)/2": "469906395449/2000000000000000",
+  "eps": "323264740583067756265381186720884493986257/62500000000000000000000000000000000000000000000000000000000",
+  "side_star_enclosure": [
+   "46755300936045509516341112704831466487671438550158796943662667240051399850981213/10000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "18702120374418203806536445081932586595068575420063518785870052852972573895623523/4000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  ],
+  "eta = (Sref - S*)/2 in": [
+   "193463554918067413404931424579936481214129947147027426104376477/8000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "483658887295168533512328561449841203056337332759948600149018787/20000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  ],
+  "eta_float": [
+   2.4182944364758428e-17,
+   2.4182944364758428e-17
+  ],
+  "eps_float": 5.172235849329084e-18,
+  "delta_float": 0.0002349531977245
+ },
+ "inputs_sha256": {
+  "classes_JD/L01.json": "e7291cc33c302b8884833914c51d64abad517b7909e6f24ea01fc81bf2159a92",
+  "classes/P_L01.json": "5d3954c3d603665a74fec3fccb3679737c88ce07aadcfdf2cf6427a87ae2e70e",
+  "classes_JD/L02.json": "492e553c499ea6f459d6fab6b579a6931eee2cfbd7124bb7d462658a65ac26f9",
+  "classes/P_L02.json": "1e4b60eacfe8890d2d6e66929e0619b82bd030e8b2a7dd41a209f2f9d08969dc",
+  "classes_JD/L05.json": "815b43670f11bc4b9c6c0400d2d85d854d00a93fa356367a41c449bc14f7960e",
+  "classes/P_L05.json": "d8006e80b2390ea5f419c0fa9ab189d2d2e0bcf1dc727853d23202c5e8ca608a",
+  "classes_JD/L06.json": "45f029fde906902111ecf21cbda17101786c4216c14f164f66dbe1b84880b7cc",
+  "classes/P_L06.json": "19a9c39c2d6a294ae27b7eb8293ae75f5bbede8b7a999030a5463186f1592ea0",
+  "classes/C_L07.json": "60341809dba3593a8912e947457a962e964bf5efa5b35f5be79d3a32dcfb024d",
+  "classes/P_L07.json": "dd5c6abd1fa6844b1de7024c86a82f717b3d67f07fc00eb32ff4479c1de879f4",
+  "classes/C_L08.json": "bb345831da9433574ece44674935366f09656a4c3a9ec53d659f83be282fed6b",
+  "classes/P_L08.json": "d0e4e8b7e28ee931f8e12267483ebcc0f85d19be89cb754f0e7b2da24524ddf8",
+  "classes_JD/L10.json": "4d40cfef77ce2c2fd1fd6c53b64be283db31ad200be4a4cd0d882be2eb997a61",
+  "classes/P_L10.json": "7bc11c815eca28550238d79fb2b792d4bf715b7b16a7b8ee301e7d071593e045",
+  "classes_JD/L11.json": "3e73123004d95e35c6d81a38c74a82dbd176f6fc7d25e9cdaf0624a6aa35da35",
+  "classes/P_L11.json": "1b6c6da4964e58867a6b34ff4886583f35ec934c3a6cc683b51a9cbd7959af68",
+  "classes_JD/L12.json": "133ddb28b6227353fdd7786667ea4e10880d8b75a72df26244daf242fd025b3a",
+  "classes/P_L12.json": "1b4970b0726c68e06caff88bbd813b00a61a3da7bcb95b1c96686b123af3574e",
+  "classes_JD/L13.json": "26193ca8ba97a21df21e3c87374dadede645b0501bababf829d9d6179fbec40f",
+  "classes/P_L13.json": "b7a8b6b356505766681becf16c3a44dab780d2462869815512de136c81bd3d97",
+  "classes_JD/L14.json": "c9d349363302b8deeaacbf4a5db3f07096c493700f659c92ca0446eb397e58d2",
+  "classes_JD/P_L14_wide.json": "8f1ff0ad2b2eee0e2f935a2568c51a038066c38d586240b11db800149af37897",
+  "classes_JD/L16.json": "ccf832baee001f6156f3631d0d0b4a5129be9a8cbd039c4d81c3fe2986b3b966",
+  "classes/P_L16.json": "dd6f48d190efc12df4d1aa670ee092cd823decea379a9c7cea2357899de6844b",
+  "classes/L_L03.json": "654dcdb2bd7dc627e128ef6fb9cd50ae7e10c3fb507c7b15fea4093458722a49",
+  "classes/L_L04.json": "036302c5ecfec8c4e2da77d9ffe32cef72c57304a790330c645918722c42d415",
+  "classes/L_L15.json": "cfc5a6498b9d76be55fb1d9ec36d360ee7401c882f94e09781b1bc5c2f786b08",
+  "classes/L_L17.json": "f23a24dafacf1f3adccfb0bcd782d1019c162fdbb97b0eb9353663ab4e995761",
+  "classes/Q_L01.json": "6c80ca44ed0faf21b7126169710bd7da1aab296d95647736e4c70a32cff6524e",
+  "classes/Q_L02.json": "6c81e87feec90df8848fc5bf990796e7fb53393e9b3b78ee73b32ad33dc4685a",
+  "classes/Q_L05.json": "93d31ede08b037ebeb35804b0d7640d154a1536eb2636ac0cb51edb43b11f29d",
+  "classes/Q_L06.json": "d15bde5b70ddc6877d3112431538962693d5b703231de9018ebf941ed945b140",
+  "classes/Q_L07.json": "8c2bdf71b1e2834a221f7fe683422c499e1a6865dc762a395bc185384121967e",
+  "classes/Q_L08.json": "6cbf9152a1f848bc029c673e37a562e3b940ff1dee8113b6a07eb3b75acc00f3",
+  "classes_JD/Q_L10_arc035.json": "3576d73048b373ae2d7eb61d117a88d05dbca0a91b6f756972da0335c45acea5",
+  "classes/Q_L11.json": "c3574942f7088d0470092097d915be77a411fea0e8c1947ef3d246cc04f4e45a",
+  "classes/Q_L12.json": "b87b0018eab4126e524388f96884bd59091398f1b7c7ac13356972535fb4fcb0",
+  "classes/Q_L13.json": "1edbfdf787aefaddceb4218880d88334041ddfe72849f9f3615fbc5025fb4d4f",
+  "classes/Q_L14.json": "fa961b2145237f789fe35e644daa4288ddaafd4b9dc8e533f5c86ed8acb2939e",
+  "classes/Q_L16.json": "65e9e1fb2178b46d4b45f9fda0caf9a0f2fa28e67898cb128225cf4721e900f2",
+  "classes/Q_L03.json": "e9fa24cda1b3d32f32a89cb8116b159acae4d59603c354bcf1c5d926bbfe9aa1",
+  "classes/Q_L04.json": "0fe5256b52b2ba9e0bb2386e5f494c6649429fecb4752e23722595a588748cf1",
+  "classes/Q_L15.json": "110f833ef733c829e2a416a90d68bfbd557b7ebe5bfac8e9e0ad58009defaa1b",
+  "classes/Q_L17.json": "f184da53ecdbd5000b91f67fea14a0eca957996fd65bacf8db63c4df0b89a81a",
+  "classes/C_L01.json": "7a2405c6e33542ba6000e43f475a727c14268a06ab4ec25fb6cca7d007c35cb7",
+  "classes/C_L02.json": "df8e8b10fe3944fb3f7268529c3a42119292cb6bcee26269421acb2123555f8a",
+  "classes/C_L05.json": "850ec820c66a4ec186e1af3370184a1b6f3c71c70f9d91db73c0fadf2e387cf1",
+  "classes/C_L06.json": "485a7c093e0f36c3b21c45aef8feeb5b4ce820ff03b2f6f2898b49dc481b19ca",
+  "classes/C_L10.json": "d60f5e7263ba1143d82981e880f1130842070363371fd195bac47d911125d0ff",
+  "classes/C_L11.json": "7f5f766ad5b6e57891d1be176a80b12e2e2ecb967be5490746513c9867fef46d",
+  "classes/C_L12.json": "b77dc740c4abdc7778bb8fba48b8c6d6c8564a5c428d8d1f3734e9edaa16cf7c",
+  "classes/C_L13.json": "04dc5a7a69a5118929764685a869bc8520766624400197e1c60eb49e144a576d",
+  "classes/C_L14.json": "5369fa2fd14a509b344dcfc2ece828b0b336902a4a9fad79810515a350e9f795",
+  "classes/C_L16.json": "77f2be236e0e1a10b27bfa9207100a38fb414dcce82b87c87f5b85ce1c8e2b9a",
+  "upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+  "terminal/instances/box-wide/logs/composition.out": "53ea429530b116f5841429702026adb5cb11a071a19b77cb483ae9298d57d0ed"
+ },
+ "info_floats": {
+  "1": {
+   "slot_hull_R_float": [
+    [
+     -1.0002349531977246,
+     0.3714650468022755
+    ],
+    [
+     -1.0002349531977246,
+     0.1455650468022755
+    ]
+   ],
+   "box_float": [
+    [
+     -1e-06,
+     0.371466
+    ],
+    [
+     -1e-06,
+     0.145566
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.07499982421078183,
+     0.07499982421078183
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "15007/400000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-15007/400000",
+     "15007/400000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L01.json class QB_label1_*",
+   "direction": "slot"
+  },
+  "2": {
+   "slot_hull_R_float": [
+    [
+     -0.0728650468022755,
+     1.0242349531977244
+    ],
+    [
+     -1.0002349531977246,
+     0.0771650468022755
+    ]
+   ],
+   "box_float": [
+    [
+     -0.072866,
+     0.0
+    ],
+    [
+     -1e-06,
+     0.077166
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.07499982421078183,
+     0.07499982421078183
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "15007/400000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-15007/400000",
+     "15007/400000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L02.json class QB_label2_*",
+   "direction": "slot"
+  },
+  "3": {
+   "slot_hull_R_float": [
+    [
+     -0.049934953197724515,
+     0.4950983801356088
+    ],
+    [
+     -1.0002349531977246,
+     0.4079650468022755
+    ]
+   ],
+   "box_float": [
+    [
+     -0.049935,
+     0.495099
+    ],
+    [
+     -1e-06,
+     0.407966
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.7862284215320781,
+     0.7862284215320781
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "4147/10000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "any direction"
+   },
+   "position_source": "classes/Q_L03.json class QB_label3_*",
+   "direction": "slot"
+  },
+  "4": {
+   "slot_hull_R_float": [
+    [
+     -0.047865046802275484,
+     0.053334953197724515
+    ],
+    [
+     -1.0002349531977246,
+     0.049965046802275495
+    ]
+   ],
+   "box_float": [
+    [
+     -0.047866,
+     0.053335
+    ],
+    [
+     -1e-06,
+     0.049966
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.7862284215320781,
+     0.7862284215320781
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "4147/10000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "any direction"
+   },
+   "position_source": "classes/Q_L04.json class QB_label4_*",
+   "direction": "slot"
+  },
+  "5": {
+   "slot_hull_R_float": [
+    [
+     -1.0002349531977246,
+     0.2217650468022755
+    ],
+    [
+     -0.049934953197724515,
+     0.12286504680227549
+    ]
+   ],
+   "box_float": [
+    [
+     -1e-06,
+     0.221766
+    ],
+    [
+     -0.049935,
+     0.122866
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.12588190704395236,
+     0.13562611976870043
+    ],
+    "centre_offset_rad": 0.004872106362374041,
+    "tau_centre": "1218029/500000000",
+    "tau_half": "6547031/100000000",
+    "excess_beyond_the_required_arc_rad": [
+     6.046836920070575e-10,
+     1.5609988301967803e-10
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-315121/5000000",
+     "169793/2500000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L05.json class QB_label5_*",
+   "direction": "slot"
+  },
+  "6": {
+   "slot_hull_R_float": [
+    [
+     -0.0751650468022755,
+     1.0242349531977244
+    ],
+    [
+     -0.07493495319772452,
+     0.07716504680227548
+    ]
+   ],
+   "box_float": [
+    [
+     -0.075166,
+     0.0
+    ],
+    [
+     -0.074935,
+     0.077166
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.07499982593140582,
+     0.0764385618693615
+    ],
+    "centre_offset_rad": 0.0007193679689778377,
+    "tau_centre": "89921/250000000",
+    "tau_half": "591839/15625000",
+    "excess_beyond_the_required_arc_rad": [
+     1.7206240043865506e-09,
+     1.903634194722059e-09
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-15007/400000",
+     "382379/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L06.json class QB_label6_*",
+   "direction": "slot"
+  },
+  "7": {
+   "slot_hull_R_float": [
+    [
+     -1.0002349531977246,
+     0.07696504680227549
+    ],
+    [
+     -0.0741650468022755,
+     1.0242349531977244
+    ]
+   ],
+   "box_float": [
+    [
+     -1e-06,
+     0.076966
+    ],
+    [
+     -0.074166,
+     0.0
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.07763338831226257,
+     0.07616775637785195
+    ],
+    "centre_offset_rad": -0.0007328159672053086,
+    "tau_centre": "-45801/125000000",
+    "tau_half": "19234623/500000000",
+    "excess_beyond_the_required_arc_rad": [
+     2.8223970799379217e-09,
+     1.8599454615353395e-09
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-194181/5000000",
+     "381023/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L07.json class QB_label7_*",
+   "direction": "slot"
+  },
+  "8": {
+   "slot_hull_R_float": [
+    [
+     -0.0728650468022755,
+     1.0242349531977244
+    ],
+    [
+     -0.0728650468022755,
+     1.0242349531977244
+    ]
+   ],
+   "box_float": [
+    [
+     -0.072866,
+     0.0
+    ],
+    [
+     -0.072866,
+     0.0
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.07499982421078183,
+     0.07499982421078183
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "15007/400000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "-15007/400000",
+     "15007/400000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L08.json class QB_label8_*",
+   "direction": "slot"
+  },
+  "9": {
+   "slot_hull_R_float": [
+    [
+     -1.2284371088552422,
+     -0.17443710885524208
+    ],
+    [
+     -0.29073710885524207,
+     -0.10443710885524209
+    ]
+   ],
+   "box_float": [
+    [
+     -0.204203,
+     -0.174437
+    ],
+    [
+     -0.290738,
+     -0.104437
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.7567077435953699,
+     -0.6327474420410922
+    ],
+    "centre_offset_rad": -0.694727592818231,
+    "tau_centre": "conj(u_9): the x axis exactly",
+    "tau_half": "31/1000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "wall pose: the x axis +- rot(31/1000)"
+   },
+   "position_source": "A_Q = [-131/250, 53/100] x [24137/10000, 13/5] (class frame)",
+   "direction": "wall"
+  },
+  "10": {
+   "slot_hull_R_float": [
+    [
+     -0.11777844719594933,
+     0.020821552804050673
+    ],
+    [
+     -0.10227838646108746,
+     0.030621613538912545
+    ]
+   ],
+   "box_float": [
+    [
+     -0.117779,
+     0.020822
+    ],
+    [
+     -0.102279,
+     0.030622
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.05302060078404103,
+     0.3499998481323781
+    ],
+    "centre_offset_rad": 0.14848962367416854,
+    "tau_centre": "74381533/1000000000",
+    "tau_half": "25274361/250000000",
+    "excess_beyond_the_required_arc_rad": [
+     9.251538701793294e-10,
+     2.3679787020114418e-09
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "3323369/10000000",
+     "5757047/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes_JD/Q_L10_arc035.json class QB_label10_*",
+   "direction": "slot"
+  },
+  "11": {
+   "slot_hull_R_float": [
+    [
+     0.06057678260138943,
+     0.2023518843242162
+    ],
+    [
+     -0.14386900537036296,
+     -0.0021323192254731407
+    ]
+   ],
+   "box_float": [
+    [
+     0.060576,
+     0.202352
+    ],
+    [
+     -0.14387,
+     -0.002132
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.05302060206818215,
+     0.06214398224743519
+    ],
+    "centre_offset_rad": 0.004561690089626521,
+    "tau_centre": "2280849/1000000000",
+    "tau_half": "224993/7812500",
+    "excess_beyond_the_required_arc_rad": [
+     2.2092949969465536e-09,
+     5.887352549915903e-10
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "3323369/10000000",
+     "3976001/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L11.json class QB_label11_*",
+   "direction": "slot"
+  },
+  "12": {
+   "slot_hull_R_float": [
+    [
+     0.04358654529068905,
+     0.15118654529068906
+    ],
+    [
+     0.03428789735607823,
+     0.14078789735607822
+    ]
+   ],
+   "box_float": [
+    [
+     0.043586,
+     0.151187
+    ],
+    [
+     0.034287,
+     0.140788
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.05302060206818215,
+     0.06214398224743519
+    ],
+    "centre_offset_rad": 0.004561690089626521,
+    "tau_centre": "2280849/1000000000",
+    "tau_half": "224993/7812500",
+    "excess_beyond_the_required_arc_rad": [
+     2.2092949969465536e-09,
+     5.887352549915903e-10
+    ],
+    "kind": "slot interval (cut at the half-marker's end)",
+    "slot_tan_half_absolute": [
+     "3323369/10000000",
+     "3976001/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L12.json class QB_label12_*",
+   "direction": "slot"
+  },
+  "13": {
+   "slot_hull_R_float": [
+    [
+     -0.07113911161197711,
+     0.2988617231067467
+    ],
+    [
+     -0.23284717385428172,
+     0.13346576538249483
+    ]
+   ],
+   "box_float": [
+    [
+     -0.07114,
+     0.298862
+    ],
+    [
+     -0.232848,
+     0.133466
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.05302060206818215,
+     0.06214398224743519
+    ],
+    "centre_offset_rad": 0.004561690089626521,
+    "tau_centre": "2280849/1000000000",
+    "tau_half": "224993/7812500",
+    "excess_beyond_the_required_arc_rad": [
+     2.2092949969465536e-09,
+     5.887352549915903e-10
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "3323369/10000000",
+     "3976001/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L13.json class QB_label13_*",
+   "direction": "slot"
+  },
+  "14": {
+   "slot_hull_R_float": [
+    [
+     -0.05066273771995514,
+     0.22633726228004486
+    ],
+    [
+     -0.0506597784703092,
+     0.19594022152969082
+    ]
+   ],
+   "box_float": [
+    [
+     -0.050663,
+     0.226338
+    ],
+    [
+     -0.05066,
+     0.195941
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.053020601573113196,
+     0.21999994743297765
+    ],
+    "centre_offset_rad": 0.08348967292993223,
+    "tau_centre": "20884551/500000000",
+    "tau_half": "6836133/100000000",
+    "excess_beyond_the_required_arc_rad": [
+     1.714226066651392e-09,
+     8.240683968541163e-10
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "3323369/10000000",
+     "4921697/10000000"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 0
+   },
+   "position_source": "classes/Q_L14.json class QB_label14_*",
+   "direction": "slot"
+  },
+  "15": {
+   "slot_hull_R_float": [
+    [
+     -0.2559597797080096,
+     0.00024022029199037855
+    ],
+    [
+     -0.2518650468022755,
+     1.0242349531977244
+    ]
+   ],
+   "box_float": [
+    [
+     -0.25596,
+     0.000241
+    ],
+    [
+     -0.251866,
+     0.0
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.7862284215320781,
+     0.7862284215320781
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "4147/10000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "any direction"
+   },
+   "position_source": "classes/Q_L15.json class QB_label15_*",
+   "direction": "slot"
+  },
+  "16": {
+   "slot_hull_R_float": [
+    [
+     -0.1351086658546906,
+     0.0582913341453094
+    ],
+    [
+     -0.01652881469157806,
+     0.19637118530842193
+    ]
+   ],
+   "box_float": [
+    [
+     -0.135109,
+     0.058292
+    ],
+    [
+     -0.016529,
+     0.196372
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.28988367865974685,
+     -0.17471926620159314
+    ],
+    "centre_offset_rad": -0.23230147243067,
+    "tau_centre": "-1166759/10000000",
+    "tau_half": "28799061/1000000000",
+    "excess_beyond_the_required_arc_rad": [
+     1.7624035564267615e-09,
+     1.876938972300568e-09
+    ],
+    "kind": "slot interval",
+    "slot_tan_half_absolute": [
+     "3323369/10000000",
+     "497/1250"
+    ],
+    "quarter_turns_taken_off_the_slot_direction": 1
+   },
+   "position_source": "classes/Q_L16.json class QB_label16_*",
+   "direction": "slot"
+  },
+  "17": {
+   "slot_hull_R_float": [
+    [
+     -0.4276650468022755,
+     1.0242349531977244
+    ],
+    [
+     -0.053495085710288576,
+     0.3308049142897114
+    ]
+   ],
+   "box_float": [
+    [
+     -0.427666,
+     0.0
+    ],
+    [
+     -0.053496,
+     0.330805
+    ]
+   ],
+   "arc": {
+    "offsets_from_reference_rad": [
+     -0.7862284215320781,
+     0.7862284215320781
+    ],
+    "centre_offset_rad": 0.0,
+    "tau_centre": "0",
+    "tau_half": "4147/10000",
+    "excess_beyond_the_required_arc_rad": [
+     0.0,
+     0.0
+    ],
+    "kind": "any direction"
+   },
+   "position_source": "classes/Q_L17.json class QB_label17_*",
+   "direction": "slot"
+  }
+ },
+ "self_check": {
+  "all_ok": true,
+  "count": 1884,
+  "failed": []
+ }
+}

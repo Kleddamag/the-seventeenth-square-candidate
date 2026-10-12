@@ -1,0 +1,16 @@
+{
+  "status": "COUNTED_CONDITIONAL_OCCUPANCY_ALTERNATIVES_NOT_CAPTURE_RECEIPTS",
+  "producer": "Claude Mac PSS class generator",
+  "reviewer": "Codex proof author",
+  "result": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/pss-ruling/RESULT.json",
+  "result_sha256": "6cc3071413e88fee97f60fb673d9b525ae0134d064cde5f6986e8d5d43b81155",
+  "input_hashes": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/pss-ruling/INPUTS.json",
+  "input_hashes_sha256": "5e401924b459d33670e9b379cf906405ca960cd7e486acd26ac06e6d43671057",
+  "requires_L_k": true,
+  "not_admitted_to_current_roots": [
+    "PSSW25_L13_T03",
+    "PSSW25_L13_T15",
+    "PSSW25_L13_T17"
+  ],
+  "new_charge_or_local_proofs": 0
+}

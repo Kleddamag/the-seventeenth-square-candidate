@@ -1,0 +1,28 @@
+{
+  "status": "FROZEN_DEPENDENCIES_FOR_RADIUS_501_OVER_100000_STOP_GUARDS",
+  "inherited_small_gate_radius": "1/5000",
+  "inherited_scope": "Exact reference identities, root enclosure, slider conventions, previous proof structure only; all new-radius guards recomputed.",
+  "files": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/independent-review/MANIFEST.json": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/gate-receipt.json": "334bf800ec70961ff70cc29a431225160f6053132d938590d5cc989ff5510f51",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/review-manifest.json": "a41efd5c42b5989e885f6228b6b25ab97dc759acaf85d099dea4d612a2ab13b1",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/check_mathematics.py": "57e0fb5a266e035c9dd693e618038fc0418e24ed4987fe5863fe4719b965d90b",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/PROPOSAL.md": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/check_stops.py": "4dd254c3ebdef41990e91ed6345fa63c8ebb17217fb692d2f49a31188a3fee59",
+    "research/uniform-capture-20261007/bridge.py": "8d5c2a8253f1aae97a243e907d08b337f334a8f27c66e3235e66a30fd8ae9f10",
+    "research/uniform-capture-20261007/root_geometry.py": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a",
+    "research/uniform-capture-20261007/uniform.py": "f02470279d59f342244a2dfc2a0a65fbbf601e28c97a107a495782ee65b2282b",
+    "research/uniform-capture-20261007/upstream-root-certificate.json": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/bridge.py": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/root_geometry.py": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/uniform.py": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/manifest.json": "e8af5453f7e97d18ee2dab652644d797218ce2382fb928b53a8cb151cee7645d",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-producer/manifest.json": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-producer/check_stops.py": "ee0320cc1eb673a9cd1dc5ec9c1dab9ff75b15d3b4da247b49cf3ed2de0a4194"
+  },
+  "process_CPU_seconds": 0.035495,
+  "preparation_CPU_seconds": 0.006886
+}

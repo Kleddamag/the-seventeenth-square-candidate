@@ -1,0 +1,577 @@
+{
+  "status": "PASS_FRESH_ADMISSION_READ_BINDINGS",
+  "execution": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/admission/receipt.json",
+    "sha256": "90ac2c62d74f6a2b05798c867b027442cd05f93d858c229616ab22edab979941",
+    "bytes": 15006
+  },
+  "script": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/entry_checks.py",
+    "sha256": "85a941f882f5852f1885837180f6a13e3448c53d422e5084791bc220d6d56a11",
+    "bytes": 2921
+  },
+  "reads": [
+    {
+      "file": "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes/C_L07.json",
+      "sha256": "456a1da31fdd594edad7d5a3e4ca66e51eca58e30154724c1d1b16b02e21d60d",
+      "bytes": 3100
+    },
+    {
+      "file": "local-research/claude-20261002/rerun-clean-20261011/design_classes/classes/C_L08.json",
+      "sha256": "88b7d7340b6f4d98ac25bd23752cb61d877beb524a824013e18ef0f0da9b32ca",
+      "bytes": 3102
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T03/classes.json",
+      "sha256": "62884f4713ede60ac2a9e94bb9c9f9ca457eb53ba0af74a610e72e617d9a32ac",
+      "bytes": 2108
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T15/classes.json",
+      "sha256": "dbb66ab1b94e553edd86968f0580430318bfb44805252c90fe469792fb90a4f1",
+      "bytes": 2118
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T03/classes.json",
+      "sha256": "8ae6c76791b55d51e8260e70dc79150466ac59f63aa64a7fae52d43eccef8004",
+      "bytes": 2032
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T15/classes.json",
+      "sha256": "f86fd85a135968cefe289e156c0682a97d6bbfbb69f75f1b23f6321670bcbc2d",
+      "bytes": 2042
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T03/classes.json",
+      "sha256": "d088c2915c27c540d11c357d413b1c24ebe30424d5e9e0b6f57da23a4fa81efa",
+      "bytes": 2034
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T15/classes.json",
+      "sha256": "b4da182de81bbfba970a818f90cd4d88d9ffe32c90cb269a1086a42e41811a48",
+      "bytes": 2044
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T03/classes.json",
+      "sha256": "f70a3923ed7948c3b61464156bbb4debdab3b612e443f9017bcb7cf09f961444",
+      "bytes": 2043
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T15/classes.json",
+      "sha256": "0efc813df60b0a8038d47e7136c8bfbc0dd9aa8517a87a8853afdcbd8d4df41f",
+      "bytes": 2053
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T03/classes.json",
+      "sha256": "24017292d83783d46f864ed4b62e387679d94a9b118d403dd5bc1559a4331c52",
+      "bytes": 2045
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T15/classes.json",
+      "sha256": "de85adf8c426e8b707c74fca6ba8280ad71e0728946c8733d3f3ba3d085eeacb",
+      "bytes": 2055
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T03/classes.json",
+      "sha256": "a40daf705130c2bb72607801009ef1bad21ff35c6f725b24fb222a5d71576fad",
+      "bytes": 2034
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T15/classes.json",
+      "sha256": "9be54730c0d6f3df38c08c4382e761990ba05c58a232a2c15385961e9c3f4ad4",
+      "bytes": 2044
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T03/classes.json",
+      "sha256": "2a63485ed9c40b6dc1cf4dc85b57e5dccc7fb4e8099479c641bdc9262416d42c",
+      "bytes": 2036
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T15/classes.json",
+      "sha256": "6cf2ec359c7c854c499a1f02afd9fd9eaac7801ecd3a3d8f6b6b87a16a3c581f",
+      "bytes": 2046
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T03/classes.json",
+      "sha256": "4abd345bf45ae7c33bf9ff807f3c6a7f2940d5112373825ddb8557e58715556c",
+      "bytes": 2063
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T15/classes.json",
+      "sha256": "409e2c0ed3c0cecd4ccf80d23455ea7236ed78b776070f1710b0cbb61b95b7dc",
+      "bytes": 2073
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T03/classes.json",
+      "sha256": "f482bf2f00cff2a68336582f6f59f8eee9e597a9bb2e262be53f220fc1ec4b25",
+      "bytes": 4366
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T15/classes.json",
+      "sha256": "f97677de9779e9e150a1aded11b776dea42879d58108c615419440406fe8d260",
+      "bytes": 4376
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T03/classes.json",
+      "sha256": "de107501a681e10c34dee1e1a4e5ca7be1a68fa8764ee7486603b398c322aef5",
+      "bytes": 2060
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T15/classes.json",
+      "sha256": "d4cf80e98fc30a7f055b873d42b7aeda7f1c8c5d22ed3567b19a5bee8543237a",
+      "bytes": 2070
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T03/classes.json",
+      "sha256": "79a1e0632b4e0387426630b04955b250fca1b018244d3d3e7bb9a49fa273b7a4",
+      "bytes": 2062
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/classes.json",
+      "sha256": "2981d82e61a486f553de90a396a7a20807206d892a8aa3cb86d4b867cd9a5aa0",
+      "bytes": 2072
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T03/classes.json",
+      "sha256": "e201fcfe967ae51b6afed3e023c2fe55974b91663b3da081cbae0c4330046b06",
+      "bytes": 2062
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T15/classes.json",
+      "sha256": "766f855f06919d30dc4fb3102f466814ab7a7b87f96ce892b51ea76c0df3be16",
+      "bytes": 2072
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T09/classes.json",
+      "sha256": "412cd87edd916b8adffa65e311c6c0d3a22151afbffadaaba6118c78f91d1bca",
+      "bytes": 1968
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T17/classes.json",
+      "sha256": "e8364ed2427eddc1b8c601b75a79b080ff821b19af44fd353f86edde7e0a4808",
+      "bytes": 2188
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T09/classes.json",
+      "sha256": "cf863943c8ad07d46ec51c7211e89c366108e935329a22615ce0c2a11c2ddb7a",
+      "bytes": 1892
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T17/classes.json",
+      "sha256": "908568bc86012c6c6e6059c89a8d18163ab8f44396c4f959e5a840e6ce0351b5",
+      "bytes": 2112
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T09/classes.json",
+      "sha256": "02a9e631e8aef429b0ae9e611dbcb710666e9d58e46534ffc32b818ac7c1a7e3",
+      "bytes": 1894
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T17/classes.json",
+      "sha256": "4977cb1cead16954109054d905ce709a04cf1d8a411c17f5cbf83c113b69c30c",
+      "bytes": 2114
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T09/classes.json",
+      "sha256": "52d382b99c4316a30679aac1acc9ae2f7fab767647311c8c3fcdae89a4f0167b",
+      "bytes": 1903
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T17/classes.json",
+      "sha256": "fd6975bab124ef46cb82c69c08de6698276cbdc21148a1cbf1e082bf74166b15",
+      "bytes": 2123
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T09/classes.json",
+      "sha256": "a60ff063c193a12c693a51d2210401435787bfc9fe47d0e513a5537e1969bae7",
+      "bytes": 1905
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/classes.json",
+      "sha256": "b9b44bd070c7a08faf890face91d3203c6e6bbf23c21e5c75f36a59d22d04cb2",
+      "bytes": 1909
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDp_H4T4/classes.json",
+      "sha256": "c4664fbfdf7caee23936b18f9f6d7844bd426abb9f188aa8128368ce35a57288",
+      "bytes": 1907
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T09/classes.json",
+      "sha256": "15008f41f0178377a1bfd7236a94cbb0983563d69672e1097ce78bdb7c0a13ff",
+      "bytes": 1894
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T17/classes.json",
+      "sha256": "005656a102ffa96d41fd8bc82f7f0e7c8af6788238aec87ebb4380b6a4bf043a",
+      "bytes": 2114
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T09/classes.json",
+      "sha256": "6033cb4d727787bb32cecbb639cd9774d64702870ddae39c3f6aedd13ed4ffd9",
+      "bytes": 1896
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T17/classes.json",
+      "sha256": "ec2ef3a80c75d895214105b5f225a76cf290ce760efb16dd022c6980654ffa59",
+      "bytes": 2116
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L10_T09/classes.json",
+      "sha256": "b0a6d13da7851e18cc12c159dd7d32a22f190b8f827395629d9eb1f74b9e2b04",
+      "bytes": 1923
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L10_T17/classes.json",
+      "sha256": "3b865a9969842eae2228a0e2f9927632ce83b28827819044db3089150b99730a",
+      "bytes": 2143
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T09/classes.json",
+      "sha256": "72a0c9e08a1cb86666eb7070dea5dc0da4c8a0e04420de01bcfe77a26e26f866",
+      "bytes": 4226
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T17/classes.json",
+      "sha256": "0d50c1245b0c491762133539e274e3b2f42c473e70c0c365a53e834a07656694",
+      "bytes": 4446
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L13_T09/classes.json",
+      "sha256": "991d8796d38b3a714d7459c70bb5cfb4cb791809b6743417a488e2800ca165dd",
+      "bytes": 1920
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L13_T17/classes.json",
+      "sha256": "5be93afc48f5a0c695fe8636de0cc3590d06132bba5b4d4673abfdc65b41e21b",
+      "bytes": 2140
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T09/classes.json",
+      "sha256": "6a0ae987bd8639ae4f20bf5945b04d53d30b65b76ec7a244bca6ffc2a9fe0645",
+      "bytes": 1922
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T17/classes.json",
+      "sha256": "0f4387d451bc63dc98a4cfe73d460aa27f47bc1a1fba1a46aa3be7ec1b505c9d",
+      "bytes": 2142
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L16_T09/classes.json",
+      "sha256": "9569dba71efd7fac6cb5b7c66ec0646b1030d3f7de000b33192e0c59594b7378",
+      "bytes": 1922
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L16_T17/classes.json",
+      "sha256": "c5121f5d7ca01b8708317050f19c2b0d529183112ab1bd133d8e3f5f17ecbd16",
+      "bytes": 2142
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_1/classes.json",
+      "sha256": "e208025e9e5905f3d1ad524a692facfe28b3e7092fcdbfef2fd74d26cb5de1a6",
+      "bytes": 3088
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_10/classes.json",
+      "sha256": "0bf38130aeeb319b5f03b781e3df934cb3d5634d963310c9ccc1eacf142e689e",
+      "bytes": 3118
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_11/classes.json",
+      "sha256": "9b036d26a87e4f89f356303004f817a9a8b2d1afff120ee6ff69cb4be69122b6",
+      "bytes": 3139
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_12/classes.json",
+      "sha256": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc",
+      "bytes": 4786
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_13/classes.json",
+      "sha256": "4b42b2e549c779e2d130fd9c27b129b04f843f3c089f1cfd0c908b996a63bd15",
+      "bytes": 3146
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_14/classes.json",
+      "sha256": "f26744f1409e9e928123c63d26ce4e0e59d1987b51a695cbfc92eb3f3001a412",
+      "bytes": 3120
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_16/classes.json",
+      "sha256": "01af04bb70955f839052b3c7abef582aad2578a29d60d6d8aecf3589109e6140",
+      "bytes": 3117
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_2/classes.json",
+      "sha256": "3e22dfbff872b1f02d7fb678e34ef2abfafeb950985970b492a3b49787f49823",
+      "bytes": 3090
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_5/classes.json",
+      "sha256": "8fe1d426f7f4e679cc3ad90ab3675f05efd131ac2fce1bff9f0e4ec87cc94d8b",
+      "bytes": 3102
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_6/classes.json",
+      "sha256": "33716398433a43b158c35552df8a88cc3cfa0253d26d27e1e6f59a0ae445f406",
+      "bytes": 3104
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+      "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+      "bytes": 1601
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_17/classes.json",
+      "sha256": "a3d752494123ba8d2d28548c48e03d25842d7e33a890b099da439c7e083a0056",
+      "bytes": 1607
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+      "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+      "bytes": 1596
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_4/classes.json",
+      "sha256": "1d82397ce1399d4c82099901b8c548b6c73847e0e3615a5cd1922abe81523aae",
+      "bytes": 1606
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_1/classes.json",
+      "sha256": "974ebb07bdcbb027dbabeb0d38ad600980a903783ec2b231002dbf4115792dae",
+      "bytes": 1600
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_10/classes.json",
+      "sha256": "770cf844df42e279f6851e33e4846904b093e5b25ee40116a4d708b4c4718f15",
+      "bytes": 1619
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/classes.json",
+      "sha256": "0fc8882907e5f43317019cf58da37b20a1bb3f09b6345e699abbb6db99cf105e",
+      "bytes": 1671
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_12/classes.json",
+      "sha256": "024c5dc5a82230fded20926ec3ab2a297e028efd9f89be2bda4826d5c7aa2b99",
+      "bytes": 3920
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_13/classes.json",
+      "sha256": "e06867f2c24fdb10d9410a374b23ba966b6e923931ecb731dbf288367e24e724",
+      "bytes": 1670
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_14/classes.json",
+      "sha256": "4e873486808763ad11336fb5387a89eea03ededca5f9b888cd53c7f8550cca65",
+      "bytes": 1628
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_16/classes.json",
+      "sha256": "1990f88ecdad2cbf321ba27896d349a16136df57894e07140f44f2e5cc1d5546",
+      "bytes": 1630
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_2/classes.json",
+      "sha256": "770eba40a4928d01a6722e72819330a8df1febba994c69b383637d0e188c44b1",
+      "bytes": 1600
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_5/classes.json",
+      "sha256": "9747b1045f00f4f44f93bfa8e38f4cfc928dff8f2b1290fb4e1fb7eb0f5a4228",
+      "bytes": 1610
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_6/classes.json",
+      "sha256": "4f4699f5e548d290ece62ccdd59d3539fac3cc57c76e1d5a30b8d45cdf4b0197",
+      "bytes": 1611
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_7/classes.json",
+      "sha256": "a8878a5a98bb238b383218d05cee2308ace18e46e45dd35582c1721092beccc4",
+      "bytes": 1600
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_8/classes.json",
+      "sha256": "f77336fb746031f0056215374106ac61b13b37411321b7c7903b0617d3d6b51d",
+      "bytes": 1602
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_1/classes.json",
+      "sha256": "40c38b3011d40ce4240a44fde78d832e55aa0a22fee633299d732157bedd7931",
+      "bytes": 1591
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_10/classes.json",
+      "sha256": "f0a70efeb3783db28a9529fcd1c4cb8a84c8bc1ac5fcaba963d6a1cd96077c55",
+      "bytes": 1623
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/classes.json",
+      "sha256": "9869a38bf87fc3384e342fcf8de914478c27d28ab9a0fa0f1e099418063b8d4b",
+      "bytes": 1625
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_12/classes.json",
+      "sha256": "c29d666395db09fc22baf396eb4fb19853e9c4dbd4f5fcd0aee11f95f3f86889",
+      "bytes": 4974
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_13/classes.json",
+      "sha256": "61ad2287267695b82a10b4f011b446a68f62ae0824721c323eafa42d324f7878",
+      "bytes": 1633
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_14/classes.json",
+      "sha256": "ca8ca9972536dfc4d4bfd857bf9176ae4b3b2a151080f207dc2cdb84ba6ce481",
+      "bytes": 1633
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_15/classes.json",
+      "sha256": "8c78dcca7213fc4d58b14045e4c65931fb897941608537d4065db3f2fdcf58f8",
+      "bytes": 1590
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_16/classes.json",
+      "sha256": "be16c4d71835d2d8c2d60a35c4339307d2791c3aff77bd329f2cd5f755ffae96",
+      "bytes": 1617
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_17/classes.json",
+      "sha256": "94277f4cf2bc9fd1a42896a2d46d9a47f95e301e28bf3eb16db82de23be92bca",
+      "bytes": 1590
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_2/classes.json",
+      "sha256": "ebab89a44794133cc656a67ae2e7ca42d04de0eef679478994dca30cd990cfbb",
+      "bytes": 1593
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_3/classes.json",
+      "sha256": "26dd485c091bb835d0a632637a7e4817276fba7a59a9595a2e9ef69d8714faf1",
+      "bytes": 1587
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_4/classes.json",
+      "sha256": "c0520b39b27d618e81ade2657be0d203f610a0a2e316a070edc8292147bc709f",
+      "bytes": 1591
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_5/classes.json",
+      "sha256": "c380520234cd962a468c66a3035127081c6a7d78c490f6ca4ed753874a8b0a59",
+      "bytes": 1607
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_6/classes.json",
+      "sha256": "337b5da1acc32aba2db8f4ec5fd57e73538f63b428ab48cc6f645993add74493",
+      "bytes": 1608
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_7/classes.json",
+      "sha256": "e4818172bd8c628bfeb7ab3edadc43ad7b8dffd3af46c21640a6ef8b2dd7f757",
+      "bytes": 1594
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_8/classes.json",
+      "sha256": "33829e421ec29e7c64e7f4586a336a6bf5a52944b4715b4b788de67056d84c62",
+      "bytes": 1597
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/SL11_T020/classes.json",
+      "sha256": "0571ecd0f5d4bef2b2c76476d282cdb8f974865da0794e4b28aed2152def8659",
+      "bytes": 1646
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/runtime/EXACT_ENDPOINT_AND_CASES.json",
+      "sha256": "3e154577ad5a84e8d60a1277a2993a61006cc686fc3fbf594601c42dc50604ce",
+      "bytes": 2986
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/runtime/SELECTED_ORIGINAL_MAP.json",
+      "sha256": "8b7048860475046a8f92d5f8993d6e7af773b879454c4a1857966e0f317852a3",
+      "bytes": 72743
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/runtime/THEOREM_MANIFEST.json",
+      "sha256": "7036076ae72b95f09495fce68c7438c15bbe201be8b70fc59ceddb9ea9786340",
+      "bytes": 92864
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/adm.py",
+      "sha256": "92804b7047a6b2e9758c57817e761fdb9f976247302f2fbc253dc616fe0674cb",
+      "bytes": 5052
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/entry_checks.py",
+      "sha256": "85a941f882f5852f1885837180f6a13e3448c53d422e5084791bc220d6d56a11",
+      "bytes": 2921
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/run_adm.py",
+      "sha256": "078408e21363fef163d5ebcbaf8aefff922bed17bbab640e473938d48202f912",
+      "bytes": 7194
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JG_exact_v2.json",
+      "sha256": "f635af684d0f81d318ad2f46f2721082e595d47ea294164062c10b6f2b941f32",
+      "bytes": 44502
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+      "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89",
+      "bytes": 46926
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+      "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06",
+      "bytes": 47364
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+      "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653",
+      "bytes": 47354
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+      "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272",
+      "bytes": 47504
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+      "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12",
+      "bytes": 47494
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+      "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e",
+      "bytes": 47652
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+      "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9",
+      "bytes": 47642
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPW13_exact_v2x.json",
+      "sha256": "e1a489e1f0d04ec0ee091ccbab9c4028a08c04ec15deeea26ff738e62b09505b",
+      "bytes": 47343
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JPWS_exact_v4.json",
+      "sha256": "7d32a55bc2b080056d267dd10d38abb003ff84a649cd22aabb05899ec2a8be1f",
+      "bytes": 47554
+    },
+    {
+      "file": "research/window-extension-20261008/bigbox/join/JQ_exact_v1.json",
+      "sha256": "f4d1607eb4378487fcf6d8a8011125855bfb5912a6fa833ad3dcfcd6be14d93e",
+      "bytes": 40314
+    },
+    {
+      "file": "upper-packing-certificate.json",
+      "sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+      "bytes": 6323
+    }
+  ],
+  "writes": [],
+  "scope": "Actual observed input and redirected output identities for this fresh replay."
+}

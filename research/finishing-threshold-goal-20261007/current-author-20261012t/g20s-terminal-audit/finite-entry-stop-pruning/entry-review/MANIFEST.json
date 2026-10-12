@@ -1,0 +1,90 @@
+{
+  "status": "ACCEPTED_GUARDED_FINITE_ENTRY_RAW_STOP_PRUNING",
+  "reviewer": "Codex contributor 07",
+  "producer": "Codex contributor 06",
+  "producer_manifest_sha256": "8bcad6ad407458f83bc412d20613d1c09c9e21a7791c7cd89fe4ec0814d37d1b",
+  "accepted_root_stop_review_sha256": "907071a795d42b92890da0a1894b3a9765635908caf2812044ade6d65d76056e",
+  "accepted_export": {
+    "path": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/PRUNING.json",
+    "sha256": "0a2655c65353b67cfd22ba05b9e84208e9c03c6664c3900ff3f771326ae9eb34"
+  },
+  "raw_entry": {
+    "position_radius": "1/200",
+    "independent_radian_angle_radius": "1/400",
+    "position_core_count": 29,
+    "angle_core_count": 16,
+    "raw_sliders": {
+      "a": [
+        "0",
+        "8/25"
+      ],
+      "b": [
+        "-1/20",
+        "1/5"
+      ],
+      "z": [
+        "-1/5",
+        "3/40"
+      ]
+    },
+    "physical_squares": 17,
+    "distinct_constrained_labels": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "free_physical_label": 4,
+    "actual_side": "S <= algebraic S*",
+    "common_frame_and_injective_assignment_required": true
+  },
+  "root_transfer_epsilon": "501/100000",
+  "necessary_raw_cuts": {
+    "b_lower": "-213/25000",
+    "b_plus_z_upper": "49/2000",
+    "z_upper": "33/1000"
+  },
+  "mathematical_WX_sign_map": {
+    "xi_11_2": "-b",
+    "xi_13_2": "z",
+    "xi_2_1": "-a"
+  },
+  "relative_half_angle_tangent_1_800_suffices_only_about_same_reference": true,
+  "complete_machine_guards_verified": true,
+  "physical_a_wall_repair_verified": true,
+  "strict_upper_transfer_slack_verified": true,
+  "no_finite_contraction_rigidity_or_engine_compatibility_claim": true,
+  "cost": {
+    "transfer_cpu_seconds": 0.007640999999999995,
+    "binding_cpu_seconds": 0.0054449999999999985,
+    "measured_check_sum": 0.013085999999999993,
+    "conservative_charge_seconds": 2,
+    "review_cap_seconds": 10,
+    "single_native_thread": true,
+    "failed_runs": 0,
+    "no_optimizer_model_SymPy_or_held_geometry": true
+  },
+  "files": {
+    "check_transfer.py": "3598ba9b3d067d624f5632a9a3d8cb406dfa0d71243cb770e7c79d0b35f05663",
+    "transfer-receipt.json": "88df6ca6a83df1cc611ba01b189501f24bfab98b29ab9e9c8cfa21cf1fbfca23",
+    "check_binding.py": "bc90201c786ac7039becc17d62ed9799b7ac411166c7a70c9602f942fd1196f4",
+    "binding-receipt.json": "dc348a56c9a31c1ff595cd7b99e3f86e3701c9e84f8c74cf308353cdfcc53123",
+    "REVIEW_DRAFT.md": "421084540b58ba808e17c4a4855d7951ceb4bd9eb9c5570555a5f896cba07411",
+    "REVIEW.md": "a697e6ac1cd1b698f273061eaec437b5531a459a9c7b3fe9d0a3d68069e4b9b2",
+    "COSTS.json": "961b81289e3802e82373903e5802279373bb15282635d47dba6291a972780fda",
+    "seal.py": "1dad50b49871a7357f61ad1f7a8ed1188659b4fc70161ab2802b9e4ddef57b0b"
+  },
+  "seal_cpu_seconds": 0.0006290000000000046
+}

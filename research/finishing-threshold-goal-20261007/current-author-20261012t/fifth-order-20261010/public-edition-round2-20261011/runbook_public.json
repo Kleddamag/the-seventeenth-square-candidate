@@ -1,0 +1,438 @@
+{
+  "schema": "s17-public-runbook-v1",
+  "status": "CHECKS_REQUIRE_SUCCESSFUL_CURRENT_EXECUTION_RECEIPTS",
+  "checks": [
+    {
+      "id": "endpoint_upper",
+      "script": "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/check_endpoint.py",
+      "args": [],
+      "required_output": [
+        "PASS_INDEPENDENT_EXACT_S_STAR_17_SQUARE_FEASIBILITY"
+      ],
+      "scope": "Independent exact root isolation and the 17-square endpoint construction; SymPy required.",
+      "dependencies": "Python standard library; SymPy 1.14.0; mpmath (SymPy dependency)",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py endpoint_upper",
+      "script_sha256": "3d49d934f7d66fd42b67feba38db86e1e1435a2620bc6f1b63c282a8236bf9b2"
+    },
+    {
+      "id": "partition",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/manuscript/check_case_partition.py",
+      "args": [],
+      "required_output": [
+        "PASS_EXACT_GUARD_PARTITION_ON_ALL_SIGN_ATOMS"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py partition",
+      "script_sha256": "97ef83686bdd79a3e0d74de3a1c5dd41c9624a3d1cdf3eaa611b708798737d87"
+    },
+    {
+      "id": "admission",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/entry_checks.py",
+      "args": [
+        "admission"
+      ],
+      "required_output": [
+        "PASS "
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py admission",
+      "script_sha256": "85a941f882f5852f1885837180f6a13e3448c53d422e5084791bc220d6d56a11"
+    },
+    {
+      "id": "selector",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/entry_checks.py",
+      "args": [
+        "selector"
+      ],
+      "required_output": [
+        "PASS "
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py selector",
+      "script_sha256": "85a941f882f5852f1885837180f6a13e3448c53d422e5084791bc220d6d56a11"
+    },
+    {
+      "id": "graph",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/entry_checks.py",
+      "args": [
+        "graph"
+      ],
+      "required_output": [
+        "PASS "
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py graph",
+      "script_sha256": "85a941f882f5852f1885837180f6a13e3448c53d422e5084791bc220d6d56a11"
+    },
+    {
+      "id": "capacity",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-AP/verify_readonly.py",
+      "args": [],
+      "required_output": [
+        "PASS_EXACT_CAPACITY_CURRENT_ESCAPES_FRAME_INCLUSION_AND_DERIVED_GATE"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py capacity",
+      "script_sha256": "7f45730568b02c6b5550670c61080d9a6bb3019717a82f58a1c76fa758ecdae0"
+    },
+    {
+      "id": "frame",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/reader-corrections-AQ/verify_frame.py",
+      "args": [],
+      "required_output": [
+        "PASS_FIXED_FRAME_WALL_ENDS_AND_T2_ENTRY"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py frame",
+      "script_sha256": "0dc1ca54835a29dfa4a82a183321ff5a472fb6d664fec695abd0dd59718dffcf"
+    },
+    {
+      "id": "wall_triggers",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/reader-corrections-AQ/verify_wall_triggers.py",
+      "args": [],
+      "required_output": [
+        "PASS_ALL_29_WALL_TRIGGER_LITERALS"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py wall_triggers",
+      "script_sha256": "8a3911c4145bb1206bf7b974bf9c3f3ef005d14c1bc8079f989b08d12511b0c3"
+    },
+    {
+      "id": "loose_identities",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/review-repair-O/check_f1.py",
+      "args": [],
+      "required_output": [
+        "PASS:"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py loose_identities",
+      "script_sha256": "4e6f0e5385b1073215e503ce1f3da4fc44f67e7a764823b79a792edd7e9eb75a"
+    },
+    {
+      "id": "provenance",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/provenance.py",
+      "args": [],
+      "required_output": [
+        "PASS_ALL_98_NEW_CAPTURE_RECORDS_AND_EXACT_MINIMUM_DECISIONS"
+      ],
+      "scope": "Validate the new-run provenance, complete coverage and exact saved class minima for both engines. No geometric sweep or historical job dependence.",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py provenance",
+      "script_sha256": "eb3d75ded7fbb0babd805882e41e55393ecf132f4a23747a61c29bc687501f7a"
+    },
+    {
+      "id": "bc_composition",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/composition.py",
+      "args": [],
+      "required_output": [
+        "PASS:"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py bc_composition",
+      "script_sha256": "2c2146b538673e6bbdaea3318e3162c9ec0432cffd3df85af1941ddb9e1f39d5"
+    },
+    {
+      "id": "bd_binding",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/finite_scope.py",
+      "args": [],
+      "required_output": [
+        "exact_core_comparison"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py bd_binding",
+      "script_sha256": "9286c30d282ffeb05a831a1ddb3fa0f403f7f7f6418988732fdb27c7848f4215"
+    },
+    {
+      "id": "bfbe_pins",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/public_bindings.py",
+      "args": [],
+      "required_output": [
+        "PASS_PUBLIC_BINDINGS"
+      ],
+      "scope": "Public evidence pins, forbidden-path exclusion and review-label disclosure; no history-only addendum hashes.",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py bfbe_pins",
+      "script_sha256": "6c3205646133c65036b79eaaa3e460f8f190ffa3efc607ae6b5b72390451490e"
+    },
+    {
+      "id": "finite_1",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/independent-review/check.py",
+      "args": [],
+      "required_output": [
+        "PASS_EXACT_FINITE_PARTIAL_CONTRACTION_TARGET_NOT_REACHED"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py finite_1",
+      "script_sha256": "2d99441c24f99af20741b2a177b2904e883539d05ecf26bb46533f3add3c0434",
+      "execution_cpu_limit_seconds": {
+        "soft": 150,
+        "hard": 160
+      },
+      "expected_stage_outcome": "Rounds 1\u20133 validate finite bounds without yet reaching the small-entry radius; finite_4 reaches it at round 17 and finite_join checks the transfer to small_entry.",
+      "later_closure_checks": [
+        "finite_4",
+        "finite_join",
+        "small_entry"
+      ]
+    },
+    {
+      "id": "finite_2",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/check.py",
+      "args": [],
+      "required_output": [
+        "PASS_EXACT_FINITE_PARTIAL_CONTRACTION_TARGET_NOT_REACHED"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py finite_2",
+      "script_sha256": "85d064c0d1a83f0ff3096ced34446426ffaa2194419e82dde5cede98705c6ff5",
+      "execution_cpu_limit_seconds": {
+        "soft": 150,
+        "hard": 160
+      },
+      "expected_stage_outcome": "Rounds 4\u20139 validate the continuation without yet reaching the small-entry radius; finite_4 reaches it at round 17 and finite_join checks the transfer to small_entry.",
+      "later_closure_checks": [
+        "finite_4",
+        "finite_join",
+        "small_entry"
+      ]
+    },
+    {
+      "id": "finite_3",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-independent-review/check.py",
+      "args": [],
+      "required_output": [
+        "PASS_EXACT_FINITE_COMPLETED_PREFIX_PARTIAL_ROUND_EXCLUDED_TARGET_NOT_REACHED"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py finite_3",
+      "script_sha256": "edf090f0813b2c06a2262bc872f24da19f9bd13bbb44da2063daa66b85226880",
+      "execution_cpu_limit_seconds": {
+        "soft": 150,
+        "hard": 160
+      },
+      "expected_stage_outcome": "Rounds 10\u201315 are complete and the old partial round 16 is deliberately excluded; finite_4 supplies complete rounds 16\u201317 and finite_join checks their small_entry transfer.",
+      "later_closure_checks": [
+        "finite_4",
+        "finite_join",
+        "small_entry"
+      ]
+    },
+    {
+      "id": "finite_4",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/check.py",
+      "args": [],
+      "required_output": [
+        "PASS_"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py finite_4",
+      "script_sha256": "36d3a6bfa167c4522a05b104d59380698985da73b6c5260c85a2f6ee36da147e",
+      "execution_cpu_limit_seconds": {
+        "soft": 150,
+        "hard": 160
+      }
+    },
+    {
+      "id": "finite_join",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/check_join.py",
+      "args": [],
+      "required_output": [
+        "PASS finite-entry theorem join"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py finite_join",
+      "script_sha256": "11d32322da89d4f427e569e9c54b4072a506cc648f32593d1d92080d774eae68"
+    },
+    {
+      "id": "normalized_prefix",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/independent-review/check.py",
+      "args": [
+        "a756cea10c4cbc60dd686bb7bc9c10ed83ae4853122f91e77803f3e0a7b58a2a"
+      ],
+      "required_output": [
+        "ACCEPTED_STOPPED_PROPAGATION_INCONCLUSIVE"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py normalized_prefix",
+      "script_sha256": "687117633213c48f4ca27b20861d4cb55842a1ad439bdc676f6edfd5552d5007",
+      "expected_stage_outcome": "The first three stopped normalized rounds leave one norm face at radius 1; normalized_finish verifies rounds 4\u20135 and the strict ratio 159201934153319/200000000000000 < 1.",
+      "later_closure_checks": [
+        "normalized_finish"
+      ]
+    },
+    {
+      "id": "normalized_finish",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation-independent-review/check.py",
+      "args": [
+        "685d4d96672a5522cd44f85653907a441bf81b49ce43625f59cacc6d71870de1"
+      ],
+      "required_output": [
+        "ACCEPTED_"
+      ],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py normalized_finish",
+      "script_sha256": "19defded8adaa959890f6a06b3b71202ae12d3eb284a0a867651f0d2dfe17dd1"
+    },
+    {
+      "id": "root_stops",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/check_root_stops.py",
+      "args": [
+        "--check"
+      ],
+      "required_output": [],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py root_stops",
+      "script_sha256": "430183ab96322d12c8cb01228f18e51f901e8a51302873816128d418abfe7c91"
+    },
+    {
+      "id": "root_stop_binding",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/check_binding.py",
+      "args": [
+        "--check"
+      ],
+      "required_output": [],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py root_stop_binding",
+      "script_sha256": "265a0d458066ebf933aba89dce79634dc30b50ab53a3c58038489ec628972fb5"
+    },
+    {
+      "id": "entry_transfer",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/check_transfer.py",
+      "args": [],
+      "required_output": [],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py entry_transfer",
+      "script_sha256": "3598ba9b3d067d624f5632a9a3d8cb406dfa0d71243cb770e7c79d0b35f05663"
+    },
+    {
+      "id": "entry_binding",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/check_binding.py",
+      "args": [
+        "8bcad6ad407458f83bc412d20613d1c09c9e21a7791c7cd89fe4ec0814d37d1b"
+      ],
+      "required_output": [],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py entry_binding",
+      "script_sha256": "bc90201c786ac7039becc17d62ed9799b7ac411166c7a70c9602f942fd1196f4"
+    },
+    {
+      "id": "small_entry",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/check_corollary.py",
+      "args": [],
+      "required_output": [],
+      "scope": "",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py small_entry",
+      "script_sha256": "ac1eb19c3037b7865efeedf2c5db82cff7f25ecb654566df3a31a6316587757f"
+    },
+    {
+      "id": "selection_binding",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/selection.py",
+      "args": [
+        "--scenario",
+        "original",
+        "--manifest",
+        "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-BK-20261011/runtime/THEOREM_MANIFEST.json"
+      ],
+      "required_output": [
+        "ready_for_final_assembly_reader"
+      ],
+      "scope": "Metadata and readiness only, not a substitute for geometric selector review.",
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py selection_binding",
+      "script_sha256": "201ac21f55ae48dd167fdfc77a573c921cff9b9f916ccb605ab19849027c2c22"
+    },
+    {
+      "id": "root_chart_transfer",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/root_chart_transfer.py",
+      "args": [],
+      "required_output": [
+        "PASS_INDEPENDENT_SOURCE_AND_CONDITIONAL_CONSTANT_ASSESSMENT"
+      ],
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py root_chart_transfer",
+      "script_sha256": "a130af5a3f8e021be4e1193a7a182f8430599ead13f9894a89f2bd943a284f95"
+    },
+    {
+      "id": "analytic_gate",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/analytic_gate.py",
+      "args": [],
+      "required_output": [
+        "PASS_INDEPENDENT_COMPLETE_ROOT_ANALYTIC_GATE"
+      ],
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py analytic_gate",
+      "script_sha256": "fb7b8ec2ffdf8119c39270e7b36444299cc5f1a01055c24997da118baa1a8e5c"
+    },
+    {
+      "id": "normalized_five_rounds",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/independent-review/check-v2.py",
+      "args": [],
+      "required_output": [
+        "ACCEPTED_FIVE_ROUND_OLD_WEIGHT_REUSE_INCONCLUSIVE"
+      ],
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py normalized_five_rounds",
+      "script_sha256": "3c20d1bcc8c7ab0357d66197b343087482e8cfa29c81c5e931a2bc8c2c547d8a",
+      "expected_stage_outcome": "The five rounds with reused weights correctly give no strict contraction; normalized_sixth_round removes six remaining norm faces, then the stopped chain normalized_prefix and normalized_finish closes the final face.",
+      "later_closure_checks": [
+        "normalized_sixth_round",
+        "normalized_prefix",
+        "normalized_finish"
+      ]
+    },
+    {
+      "id": "normalized_sixth_round",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/independent-review/check.py",
+      "args": [
+        "6b765320f8e42bca2d4b25b4fb47b97b4c9d727f7c7b12c744b8468280902386"
+      ],
+      "required_output": [
+        "ACCEPTED_SIX_NORM_FACES_ELIMINATED_ONE_REMAINS"
+      ],
+      "dependencies": "Python standard library",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py normalized_sixth_round",
+      "script_sha256": "5ede8a98a86e54defb14626dd552953d133bf779c353fa11c9e3709085132393",
+      "expected_stage_outcome": "The targeted round eliminates six norm faces but leaves one; the full-domain stopped chain normalized_prefix and normalized_finish supplies strict contraction for that remaining obstruction.",
+      "later_closure_checks": [
+        "normalized_prefix",
+        "normalized_finish"
+      ]
+    },
+    {
+      "id": "endpoint_enclosure",
+      "script": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/check_endpoint_enclosure.py",
+      "args": [],
+      "required_output": [
+        "PASS_TIGHT_ENDPOINT_ENCLOSURE"
+      ],
+      "scope": "Exact rational Banach refinement establishes both named tight root and side enclosures and matches the statement polynomials; adapted from the earlier endpoint checker, not an independent implementation. No packing feasibility or local tree replay.",
+      "dependencies": "Python standard library only",
+      "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/replay_round2.py endpoint_enclosure",
+      "script_sha256": "c5516de0a97c3d52e05c21b86dde7b58ca3114a5f2ec70d4fec4ac41e529eb51"
+    }
+  ],
+  "execution_policy": "Sequential; under 570 seconds; no solver/network/subprocess; writes redirected; excluded private inputs denied.",
+  "review_hashes": "All 29 clean report hashes bound; no null review bindings."
+}

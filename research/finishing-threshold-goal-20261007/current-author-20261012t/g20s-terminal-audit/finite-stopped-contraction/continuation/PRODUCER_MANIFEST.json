@@ -1,0 +1,37 @@
+{
+  "certificate_sha256": "07e88130ce59aea972226570441849cc04ad3ed435a6367e25c654bfe786ff10",
+  "completed_new_rounds": 6,
+  "cost": {
+    "conservative_preparation_diagnostic_sealing_charge_seconds": 1,
+    "producer_cap_seconds": 30,
+    "run_CPU_seconds": 12.993185,
+    "total_charge_CPU_seconds": 13.993185
+  },
+  "files": {
+    "INPUTS.json": "afcec4656a049fdd57e500006b2b643c97bd1c9cc90461a405213350102823cc",
+    "PREPARATION.json": "0ae4b9fda345a70c6f3e31d153c12a9f7c9665f32b9e78550b6e71349bb46372",
+    "README.md": "0071e92d9a65d0ca774562dfa4a9e19bf5a1fa8382794030c7b61153a2146546",
+    "RESULT.md": "43202b45a4d1ec99cc6b5a33fb8881b3fc5d99da23269faa373f0cc0a72e0057",
+    "bounds-diagnostic.json": "e602c733883fa9d1d8bfaadcede985a51b7cad0576d2e2aab019de50a52b7c64",
+    "certificate.json": "07e88130ce59aea972226570441849cc04ad3ed435a6367e25c654bfe786ff10",
+    "model-4.json": "d8f6b7d2a8aa3813c14d41a80c3c23acdd9a884ffb649d57305b246c3c11b9f9",
+    "model-5.json": "e52a4efc4d0e6116e6d2ee80813707757d512cb93eaadd3adc66802c99b8ea8f",
+    "model-6.json": "360cf5d51c0723498627c83f971348f01f36c45760117f9ee4d490ad1d220e6c",
+    "model-7.json": "1e21c617c7cdca6141cee0170dbf331ab5f9e510f5f355ffa1258a89b73ae541",
+    "model-8.json": "166e26749faca86a5e28ba5ab511f9f26356814a1a7fc0e8e5776a5ce6990ee2",
+    "model-9.json": "05821612401b4e079331329c0148ea93e2ad475ac6413f042e19069db18a1e01",
+    "run.py": "e34ef5f6d94613fa48a687a8d5eb249e88c9b5ff2dc34ec69b38be92fb9914ac",
+    "source-diff.patch": "84e8336af259f4ad3c353b36673c16505244fcc2373ed342685a130e55d4f645",
+    "telemetry.json": "186cc3cb6de5ae30988286a2e2041cabe23312f6eff9e6ad5fc62414af16bfcb"
+  },
+  "final_angle_radius": "1/400",
+  "final_position_radius": "7336628287/6250000000000",
+  "new_exact_bound_count": 552,
+  "new_rows_total": 4626,
+  "prefix_certificate_sha256": "530a6356ac517d6bbc0dbc8ffc37aaded5304175c0fbed6fa5418d3f42fd0ed2",
+  "prefix_independent_review_sha256": "65ba63fc416b50daf3c179901b059d9e2da6b340c3b70604983aa52931fa86ec",
+  "status": "PRODUCER_COMPLETED_SIX_CONTINUATION_ROUNDS_TARGET_NOT_REACHED_REQUIRES_SEPARATE_REVIEW",
+  "target_raw_core_radius": "1/10000",
+  "target_reached": false,
+  "total_rounds_including_accepted_prefix": 9
+}

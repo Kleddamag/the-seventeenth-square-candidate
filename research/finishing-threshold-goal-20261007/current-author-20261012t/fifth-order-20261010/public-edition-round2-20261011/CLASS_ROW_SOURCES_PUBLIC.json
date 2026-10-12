@@ -1,0 +1,39 @@
+{
+  "RC": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+    "sha256": "1b083a119b5f4b8c858dc052ee7dcb3551084f9a6e080f9b38ef5d99b093800f",
+    "bytes": 34463,
+    "lines": "244-288; 279-288 use nearby generic cores; for the limiting-core argument use CR 17"
+  },
+  "HF": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/HIGH_FIRST_REVIEW.md",
+    "sha256": "e5c2f897a91bd9935b630d2d33c20e681d17e91eb432f22d5c175b9d56afd7ba",
+    "bytes": 4058,
+    "lines": "5-19"
+  },
+  "CR": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/REVIEW.md",
+    "sha256": "f76b5f8da527bed03ecd62e1595758ebf31974cbd0c47462b8159dfe7d81e92a",
+    "bytes": 9338,
+    "lines": "5-35; line/paragraph 17 is the limiting-core derivation"
+  },
+  "PY": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/checker_sources/src/exact_classes.py",
+    "sha256": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+    "bytes": 38811,
+    "lines": "198-224 (fixed/mirror weights and budget); 228-251 (check_mirror); 288-289 (call); 293-313; 446-490"
+  },
+  "CC": {
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_CHARGE_CORE.md",
+    "sha256": "1f1c43851adbf68fabb28faaad3b1ca9fc3083e1370be4c189a73a389a696b6f",
+    "bytes": 16274,
+    "lines": "section (2), all four links and CODE READ",
+    "label": "review:REPORT_CHARGE_CORE"
+  },
+  "EG": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/checker_sources/src/exact_general.py",
+    "sha256": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+    "bytes": 7356,
+    "lines": "22-29,46-47 (orbit weights and budget); 24,32-44 (orbit invariance)"
+  }
+}

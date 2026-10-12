@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "process_CPU_seconds": 0.063442,
+  "calculation_CPU_seconds": 0.016429,
+  "wall_seconds": 0.016433541000000003,
+  "runtime": "3.9.6 (default, Aug 25 2026, 21:26:21) \n[Clang 21.0.0 (clang-2100.3.34.2)]",
+  "solver_calls": 0
+}

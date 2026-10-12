@@ -1,0 +1,7 @@
+PASS
+labels=17 S_floor=4675530093604551/1000000000000000
+schema=wx-cert-3
+  certificate: /Volumes/s17/local-research/claude-20261002/cloud/analysis/part3_exact/certs/JQ_v1/jQTw.n0.JQ.cert.jsonl.gz  (SHA-256 of the checked bytes 3d4606d12b2305b838adf3f3a91719dc85e4ff91e2e2bc0e38a80ae800069c7b)
+  packing file: /Volumes/s17/upper-packing-certificate.json  (SHA-256 24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7; Sref = 4675530093604551/1000000000000000)
+  nodes 1 (infeasible 1, terminal 0, split 0), rounds evaluated 1 (not evaluated 0), declarations 36, steps 1, terms 48209, tree depth 0
+  time: 5.65 s

@@ -1,0 +1,46 @@
+{
+ "schema": "s17-neutral-source-manifest-v1",
+ "note": "roles -> files relative to this directory; node_checker is the only Node variant used, selected for all statements",
+ "roles": {
+  "python_checker_main": {
+   "file": "src/exact_classes.py",
+   "sha256": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+   "bytes": 38811
+  },
+  "python_checker_restricted": {
+   "file": "src/exact_restricted.py",
+   "sha256": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+   "bytes": 48181
+  },
+  "python_checker_general": {
+   "file": "src/exact_general.py",
+   "sha256": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+   "bytes": 7356
+  },
+  "python_checker_sweep": {
+   "file": "src/integer_sweep.py",
+   "sha256": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+   "bytes": 1362
+  },
+  "python_checker_rule": {
+   "file": "src/boolean_rule.py",
+   "sha256": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275",
+   "bytes": 1118
+  },
+  "node_checker": {
+   "file": "src/node/verify_classes_wb.js",
+   "sha256": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40",
+   "bytes": 60162
+  },
+  "launch_wrapper": {
+   "file": "slice_run.sh",
+   "sha256": "ab404779e1affc7a3db65ef92bfcde97d583c57fc277d82e41b56c4a3159ff3c",
+   "bytes": 23145
+  },
+  "output_comparator": {
+   "file": "slice_compare.py",
+   "sha256": "77e43806b62fa7dd20a989e391770c1e6187e5ac236214ea0d2bbd138b38f18a",
+   "bytes": 10750
+  }
+ }
+}

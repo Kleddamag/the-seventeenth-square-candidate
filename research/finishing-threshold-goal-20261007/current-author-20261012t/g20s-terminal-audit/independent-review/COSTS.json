@@ -1,0 +1,9 @@
+{
+  "measured_check_cpu_seconds": 0.010303,
+  "conservative_total_cpu_seconds": 2,
+  "cap_cpu_seconds": 3,
+  "single_core": true,
+  "failed_runs": 0,
+  "solver_model_or_certificate_replay": false,
+  "producer_cost_separate": true
+}

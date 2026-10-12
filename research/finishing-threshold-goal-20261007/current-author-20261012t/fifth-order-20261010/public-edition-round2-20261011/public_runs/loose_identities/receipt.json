@@ -1,0 +1,30 @@
+{
+  "id": "loose_identities",
+  "status": "PASS",
+  "error": null,
+  "missing_required_output": [],
+  "wall_seconds": 0.01939162495546043,
+  "cpu_seconds": 0.018796,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "executable": "python3.12",
+  "script_sha256": "4e6f0e5385b1073215e503ce1f3da4fc44f67e7a764823b79a792edd7e9eb75a",
+  "original_last_line": "PASS: literal hashes, accepted-proof pins, AQ containment, three clipped diameters, all pair/marker/L9 separations, L17 identity, all-direction gates",
+  "inputs_read": [
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/audit.json",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_17/audit.json",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_17/classes.json",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/audit.json",
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/review-repair-O/F1_PROOF.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/review-repair-O/LOOSE_IDENTITIES.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/review-repair-O/check_f1.py"
+  ],
+  "redirected_outputs": {},
+  "path_adaptations": [
+    "author repository prefix",
+    "BI manifest.json case alias",
+    "round2: revision-v4/PROOF.md reads revision-v7/PROOF.md"
+  ],
+  "scope": "New execution of the named check only, not a new independent mathematical review."
+}

@@ -1,0 +1,195 @@
+{
+  "status": "VERIFIED_EXISTING_SIDE_TRANSFER_BINDINGS",
+  "scope": "Small source and EXPECT/root/record identity checks; existing independent corollary imported; no tree arithmetic rerun or new independent theorem seal.",
+  "regions": [
+    {
+      "region": "JQ_v1",
+      "root": {
+        "file": "research/window-extension-20261008/bigbox/join/JQ_exact_v1.json",
+        "sha256": "f4d1607eb4378487fcf6d8a8011125855bfb5912a6fa833ad3dcfcd6be14d93e"
+      },
+      "expect": {
+        "file": "research/window-extension-20261008/bigbox/join/EXPECT_JQ_v1.json",
+        "sha256": "cbd56dcb45a945f4c8c95f96b919f72a6af70d81df8548fd78b8c918173f0ceb"
+      },
+      "record": {
+        "file": "research/window-extension-20261008/bigbox/join/RECORD_EJQ_v1.md",
+        "sha256": "d27d6d9b24f52eedcf6ac7a6445bde8f9b80dbff84477ba93e095397a2d7ceae"
+      },
+      "independent_review": {
+        "file": "research/window-extension-20261008/reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md",
+        "sha256": "9ac387300a880a0f2b3ab7c5d27e0984cbefca90190ee501e1efd7c804fd1900"
+      },
+      "conclusion": "EMPTY",
+      "directly_closes_selected_root": true
+    },
+    {
+      "region": "JPG17m_v2",
+      "root": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v2.json",
+        "sha256": "984e734e6b47d4f8a59381013c0d519b87e64af19b6e3a91458f311ae65fc0c3"
+      },
+      "expect": {
+        "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPG17m_v2.json",
+        "sha256": "8acd5f058f9d624300df2e0ce99e4759324cf7e075d804edb5d001e899aecaae"
+      },
+      "record": {
+        "file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG17m_v2.md",
+        "sha256": "9fafb4b5bcdabe132164ac0b9412d38fbfd40de277e74c309c74aa5af4fe554b"
+      },
+      "independent_review": {
+        "file": "research/window-extension-20261008/reviews/join_roots/REVIEW_EJPG17m_v2.md",
+        "sha256": "b1d791b305965fb1732591bfb736ac33dacae8037f2025aeaa008081e9922f0f"
+      },
+      "conclusion": "EMPTY",
+      "directly_closes_selected_root": false
+    },
+    {
+      "region": "JPG3p_v2",
+      "root": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v2.json",
+        "sha256": "230da863b3f62e51dbd8dbd9b1e1cded3f2e34f50146888fc434b4f56b531d60"
+      },
+      "expect": {
+        "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPG3p_v2.json",
+        "sha256": "d8d68b16fa99a1544553273491329d2eb3dfbcd96622612abf37f425928f2c2d"
+      },
+      "record": {
+        "file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG3p_v2.md",
+        "sha256": "0bd5fa4ede61ed585121363c4f23990d75d8d627cecafc7272648044055db2ba"
+      },
+      "independent_review": {
+        "file": "research/window-extension-20261008/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+        "sha256": "25227b662a3e6211cc35fa09492e716c5e0e4001ca3d339b7623146a0f958905"
+      },
+      "conclusion": "EMPTY",
+      "directly_closes_selected_root": false
+    },
+    {
+      "region": "JG_v2",
+      "root": {
+        "file": "research/window-extension-20261008/bigbox/join/JG_exact_v2.json",
+        "sha256": "f635af684d0f81d318ad2f46f2721082e595d47ea294164062c10b6f2b941f32"
+      },
+      "expect": {
+        "file": "research/window-extension-20261008/bigbox/join/EXPECT_JG_v2.json",
+        "sha256": "363ff3a6f97f872cbd0afff90d110d33d41cb87553e6ab8978be995ece76616e"
+      },
+      "record": {
+        "file": "research/window-extension-20261008/bigbox/join/RECORD_EJG_v2.md",
+        "sha256": "947f9ffbb609e78cbb0663ed363dd092f8bfa82c3cf3a3402e61d7ef8f7af6ef"
+      },
+      "independent_review": {
+        "file": "research/window-extension-20261008/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+        "sha256": "25227b662a3e6211cc35fa09492e716c5e0e4001ca3d339b7623146a0f958905"
+      },
+      "conclusion": "G20S_CONTRACTION",
+      "directly_closes_selected_root": true
+    },
+    {
+      "region": "JPG17m_v5",
+      "root": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      },
+      "expect": {
+        "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPG17m_v5.json",
+        "sha256": "9c202c8eb04502072e327f0333054f56ca814f005d8812a2daccaf9aa20147be"
+      },
+      "record": {
+        "file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG17m_v5.md",
+        "sha256": "ae527a87116bd33811e21b5cf49547c0310769f8ef126ff49d6e52d78035d456"
+      },
+      "independent_review": {
+        "file": "research/window-extension-20261008/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+        "sha256": "25227b662a3e6211cc35fa09492e716c5e0e4001ca3d339b7623146a0f958905"
+      },
+      "conclusion": "EMPTY",
+      "directly_closes_selected_root": true
+    },
+    {
+      "region": "JPG17p_v5",
+      "root": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      },
+      "expect": {
+        "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPG17p_v5.json",
+        "sha256": "c8000b864d207c0c6f7823370818c82bffcec89bd4731422be5176621db2dac9"
+      },
+      "record": {
+        "file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG17p_v5.md",
+        "sha256": "0054d9b1f67d013bd2364e8974399e501a418ace6397244b679259d8c895ef8a"
+      },
+      "independent_review": {
+        "file": "research/window-extension-20261008/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+        "sha256": "25227b662a3e6211cc35fa09492e716c5e0e4001ca3d339b7623146a0f958905"
+      },
+      "conclusion": "EMPTY",
+      "directly_closes_selected_root": true
+    },
+    {
+      "region": "JPG3m_v5",
+      "root": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      },
+      "expect": {
+        "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPG3m_v5.json",
+        "sha256": "8d4ac066206f1538636e858fe828e066ac7a4f67df28cdf973f6b4bc858cf8b5"
+      },
+      "record": {
+        "file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG3m_v5.md",
+        "sha256": "493e912222a6a8e680d088e1ff399e4dfb1efe7507dc54f07d3d764cb34f426c"
+      },
+      "independent_review": {
+        "file": "research/window-extension-20261008/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+        "sha256": "25227b662a3e6211cc35fa09492e716c5e0e4001ca3d339b7623146a0f958905"
+      },
+      "conclusion": "EMPTY",
+      "directly_closes_selected_root": true
+    },
+    {
+      "region": "JPG15p_v5",
+      "root": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      },
+      "expect": {
+        "file": "research/window-extension-20261008/bigbox/join/EXPECT_JPG15p_v5.json",
+        "sha256": "cbf1d4e9d5dd06f5eb96dfb977d995ee07c4f238d2ea89a97a92b29f2f30f823"
+      },
+      "record": {
+        "file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG15p_v5.md",
+        "sha256": "8ce55c186f982223e030b48dd49b2a51fca436ce889eae3700353e72fbd2c506"
+      },
+      "independent_review": {
+        "file": "research/window-extension-20261008/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+        "sha256": "25227b662a3e6211cc35fa09492e716c5e0e4001ca3d339b7623146a0f958905"
+      },
+      "conclusion": "EMPTY",
+      "directly_closes_selected_root": true
+    }
+  ],
+  "spec": {
+    "file": "research/window-extension-20261008/SPEC_v3.0.md",
+    "sha256": "0a6dfc2ae10ed6f30a21ebe357a6e73dd7355223c521cc67a3f2bdab9549aba0",
+    "sections": [
+      "4.10",
+      "5",
+      "7",
+      "11"
+    ]
+  },
+  "accepted_regions": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/join/ACCEPTED_REGIONS.json",
+    "sha256": "360652d5f5819bac0e0843c8c7e19f1338d3b0bfe5bddfc4c2b415517ae8364e"
+  },
+  "audit_script": {
+    "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/audit_side_cap.py",
+    "sha256": "14abd0609ee9228b1f2bbfc4e56631cfcd171b48bbd1c356aedff210d5f3bcb2"
+  },
+  "all_eight_use_singleton_R": true,
+  "all_seventeen_labels": true,
+  "argument": "Containment monotonicity at fixed poses and fixed reference chart; carry coordinate-only tube conclusions back to actual L; physical G20S uses L, not R."
+}

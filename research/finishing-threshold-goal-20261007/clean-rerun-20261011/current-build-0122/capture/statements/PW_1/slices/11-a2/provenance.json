@@ -1,0 +1,218 @@
+{
+ "schema": "s17-neutral-slice-provenance-v1",
+ "run_id": "capture-run-3",
+ "statement_id": "PW_1",
+ "slice_id": "11",
+ "attempt_id": "a2",
+ "planned": true,
+ "rows": {
+  "start": 16500,
+  "end_exclusive": 18000,
+  "total_intervals": 18000
+ },
+ "source_manifest_sha256": "bdaaf36bf5b67f4ff3e81050cd1b95340be8dc2e992eb52e6160896339f57608",
+ "plan_manifest_sha256": "bc8324cfa721889725f63bd1e2a31cd522e35bee257187154758639e642bd7d6",
+ "input_sha256_before": {
+  "certificate": "0fa8f2384d23428c3c60a114ebe2da30f79953864535183b579ecc130d64f5b0",
+  "classes": "974ebb07bdcbb027dbabeb0d38ad600980a903783ec2b231002dbf4115792dae"
+ },
+ "input_sha256_after": {
+  "certificate": "0fa8f2384d23428c3c60a114ebe2da30f79953864535183b579ecc130d64f5b0",
+  "classes": "974ebb07bdcbb027dbabeb0d38ad600980a903783ec2b231002dbf4115792dae"
+ },
+ "source_sha256_before": {
+  "python_checker_main": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+  "python_checker_restricted": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+  "python_checker_general": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+  "python_checker_sweep": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+  "python_checker_rule": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275",
+  "node_checker": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40",
+  "launch_wrapper": "ab404779e1affc7a3db65ef92bfcde97d583c57fc277d82e41b56c4a3159ff3c",
+  "output_comparator": "77e43806b62fa7dd20a989e391770c1e6187e5ac236214ea0d2bbd138b38f18a"
+ },
+ "source_sha256_after": {
+  "python_checker_main": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+  "python_checker_restricted": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+  "python_checker_general": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+  "python_checker_sweep": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+  "python_checker_rule": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275",
+  "node_checker": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40",
+  "launch_wrapper": "ab404779e1affc7a3db65ef92bfcde97d583c57fc277d82e41b56c4a3159ff3c",
+  "output_comparator": "77e43806b62fa7dd20a989e391770c1e6187e5ac236214ea0d2bbd138b38f18a"
+ },
+ "invocation": {
+  "python": {
+   "argv": [
+    "python",
+    "-B",
+    "src/exact_classes.py",
+    "inputs/certificate.json",
+    "--classes",
+    "inputs/classes.json",
+    "--start",
+    "16500",
+    "--count",
+    "1500",
+    "--workers",
+    "4",
+    "--output",
+    "out/py.json"
+   ],
+   "workers": 4,
+   "timeout_seconds": 10800,
+   "note": "argv[0] names the program, its path is not recorded; working directory = run root; PYTHONOPTIMIZE unset"
+  },
+  "node": {
+   "argv": [
+    "node",
+    "src/node/verify_classes_wb.js",
+    "inputs/certificate.json",
+    "--classes",
+    "inputs/classes.json",
+    "--start",
+    "16500",
+    "--count",
+    "1500",
+    "--workers",
+    "4",
+    "--output",
+    "out/node.json"
+   ],
+   "workers": 4,
+   "timeout_seconds": 10800,
+   "note": "argv[0] names the program, its path is not recorded; working directory = run root; PYTHONOPTIMIZE unset"
+  },
+  "compare": {
+   "argv": [
+    "python",
+    "-B",
+    "src/slice_compare.py",
+    "out/py.json",
+    "out/node.json",
+    "16500",
+    "18000",
+    "0fa8f2384d23428c3c60a114ebe2da30f79953864535183b579ecc130d64f5b0",
+    "974ebb07bdcbb027dbabeb0d38ad600980a903783ec2b231002dbf4115792dae",
+    "0",
+    "no",
+    "0",
+    "RUN",
+    "out/compare.json"
+   ],
+   "timeout_seconds": 1800,
+   "note": "argv[0] names the program, its path is not recorded; working directory = run root; PYTHONOPTIMIZE unset"
+  }
+ },
+ "runtime": {
+  "python_implementation": "CPython",
+  "python_version": "3.12.14",
+  "python_optimization_level": 0,
+  "numpy_version": "2.0.2",
+  "numba_version": "0.60.0",
+  "node_version": "v24.19.0",
+  "platform_system": "Linux",
+  "platform_architecture": "x86_64"
+ },
+ "started_utc": "2026-10-11T21:08:25Z",
+ "finished_utc": "2026-10-11T21:38:14Z",
+ "exits": {
+  "python": {
+   "started": true,
+   "exit_code": 0,
+   "signal": null,
+   "timed_out": false
+  },
+  "node": {
+   "started": true,
+   "exit_code": 0,
+   "signal": null,
+   "timed_out": false
+  },
+  "compare": {
+   "started": true,
+   "exit_code": 0,
+   "signal": null,
+   "timed_out": false
+  },
+  "wrapper": {
+   "exit_code": 0
+  }
+ },
+ "outputs": {
+  "python": {
+   "file": "py.json",
+   "sha256": "5052c90235d8423bb5028d95d9546f7b3e233941da9409bfcdd1ad24c77408d3",
+   "bytes": 901956
+  },
+  "node": {
+   "file": "node.json",
+   "sha256": "5ba76a6b09ff8943c5a5eff830c757bbea9baf8adca9bd0456ccae2f2376b63a",
+   "bytes": 899978
+  },
+  "compare": {
+   "file": "compare.json",
+   "sha256": "1c0801fa69bbee9861dd4df028dc262ad66054bc3e31aba9324643ddf8fe2d14",
+   "bytes": 2827
+  }
+ },
+ "checks": [
+  {
+   "check": "inputs: before == after == plan",
+   "ok": true
+  },
+  {
+   "check": "sources: before == after == manifest",
+   "ok": true
+  },
+  {
+   "check": "python, node, compare started, exited, no signal, no time limit",
+   "ok": true
+  },
+  {
+   "check": "python, node, compare exit code 0",
+   "ok": true
+  },
+  {
+   "check": "py.json, node.json, compare.json present",
+   "ok": true
+  },
+  {
+   "check": "python output: range, total_intervals, input sha256, row sequence",
+   "ok": true
+  },
+  {
+   "check": "python output: checker_sha256 = staged sources",
+   "ok": true
+  },
+  {
+   "check": "python output: every row passed, no failed interval",
+   "ok": true
+  },
+  {
+   "check": "node output: range, total_intervals, input sha256, row sequence",
+   "ok": true
+  },
+  {
+   "check": "node output: checker_sha256 = staged sources",
+   "ok": true
+  },
+  {
+   "check": "node output: every row passed, no failed interval",
+   "ok": true
+  },
+  {
+   "check": "compare.json: python PASS, node PASS, agree yes, all rows compared, none differing",
+   "ok": true
+  },
+  {
+   "check": "compare.json names the two outputs it read",
+   "ok": true
+  }
+ ],
+ "verdict": "PASS",
+ "detail": [],
+ "environment_names_set": [
+  "NODE_EXTRA_CA_CERTS",
+  "NODE_PATH"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "endpoint_upper",
+  "status": "PASS",
+  "error": null,
+  "missing_required_output": [],
+  "wall_seconds": 72.1723030420253,
+  "cpu_seconds": 71.630703,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "executable": "python3.12",
+  "script_sha256": "3d49d934f7d66fd42b67feba38db86e1e1435a2620bc6f1b63c282a8236bf9b2",
+  "original_last_line": "}",
+  "inputs_read": [
+    "research/global-compensation-20261007/checks/endpoint_saturation.py",
+    "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/check_endpoint.py",
+    "research/uniform-capture-20261007/bridge.py",
+    "research/uniform-capture-20261007/upstream-root-certificate.json",
+    "upper-packing-certificate.json"
+  ],
+  "redirected_outputs": {
+    "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/endpoint-receipt.json": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/endpoint_upper/outputs/research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/endpoint-receipt.json"
+  },
+  "path_adaptations": [
+    "author repository prefix",
+    "BI manifest.json case alias",
+    "round2: revision-v4/PROOF.md reads revision-v7/PROOF.md"
+  ],
+  "scope": "New execution of the named check only, not a new independent mathematical review."
+}

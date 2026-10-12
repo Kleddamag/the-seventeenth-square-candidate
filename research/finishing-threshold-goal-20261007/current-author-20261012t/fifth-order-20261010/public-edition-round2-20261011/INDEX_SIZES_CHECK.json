@@ -1,0 +1,1 @@
+{"status": "PASS_INDEX_SIZES_98", "maxima": {"sites_exact": 83128, "rows_exact": 18000, "coordinate_array_length_bound": 166260, "bisect_index_sum_bound": 332520, "tree_leaf_capacity_bound": 262144, "tree_array_length_bound": 524288, "tree_midpoint_sum_bound": 524288, "cells_per_row_bound": 27642055081, "all_rows_cell_accumulator_bound": 497556991458000}, "cpu_seconds": 2.297727}

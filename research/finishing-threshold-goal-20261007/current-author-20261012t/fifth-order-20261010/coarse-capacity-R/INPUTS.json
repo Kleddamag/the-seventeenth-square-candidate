@@ -1,0 +1,88 @@
+{
+  "L3": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+    "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f"
+  },
+  "L4": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_4/classes.json",
+    "sha256": "1d82397ce1399d4c82099901b8c548b6c73847e0e3615a5cd1922abe81523aae"
+  },
+  "L15": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+    "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496"
+  },
+  "L17": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_17/classes.json",
+    "sha256": "a3d752494123ba8d2d28548c48e03d25842d7e33a890b099da439c7e083a0056"
+  },
+  "first_review": {
+    "file": "local-research/claude-20261002/review/final-review-20261010/REPORT.md",
+    "sha256": "cd4fcea6405084ae09dade8cbaf8439315c544bab76b195d1d6476c075aad68f"
+  },
+  "frame_review_C": {
+    "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_C_frame.md",
+    "sha256": "113f6fa4df01a0f8a39408b7cd11d34bbf98e67e295e3c1b72dcac5cc1c7278a"
+  },
+  "join_review_D": {
+    "file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_D_join.md",
+    "sha256": "8e7631592ea2a3ef74c27010ce10fd6ce3bdd52f9d93dd24e946c0f7aacc4ce1"
+  },
+  "legacy64": {
+    "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/standing-contract-20261009-2134/thin-splits/TRIGGER3_CAPACITY.md",
+    "sha256": "f324dcc35feefd8ab8395cae00d5831fc43be643ccea83727eee089bbc0d1a5c"
+  },
+  "small_slot_F1": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/review-repair-O/F1_PROOF.md",
+    "sha256": "8f6b6bc1ae3446d9b9d9970418a1243ed5eccf8a49c351545c81f18883d0d9a8"
+  },
+  "proof": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/PROOF.md",
+    "sha256": "bae9384411086b31ea5a547e40409409e3fd50b514da13078e0c189c3c227a28"
+  },
+  "reader": {
+    "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/coarse-capacity-R/check.py",
+    "sha256": "14fcd438bbfabd0f0cb4e4f7b034af481413c9baf952d35727576dbe41271845"
+  },
+  "C_literals": [
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/continuation-0340/graph/design/classes/C_L01.json",
+      "sha256": "60a2a82bf4be582f726873fb517acad2bcba8a3cc011d955a866bc69439811d1"
+    },
+    {
+      "file": "local-research/claude-20261002/cloud/analysis/join_design/classes/C_L02.json",
+      "sha256": "df8e8b10fe3944fb3f7268529c3a42119292cb6bcee26269421acb2123555f8a"
+    },
+    {
+      "file": "local-research/claude-20261002/cloud/analysis/join_design/classes/C_L05.json",
+      "sha256": "850ec820c66a4ec186e1af3370184a1b6f3c71c70f9d91db73c0fadf2e387cf1"
+    },
+    {
+      "file": "local-research/claude-20261002/cloud/analysis/join_design/classes/C_L06.json",
+      "sha256": "485a7c093e0f36c3b21c45aef8feeb5b4ce820ff03b2f6f2898b49dc481b19ca"
+    },
+    {
+      "file": "local-research/claude-20261002/cloud/analysis/join_design/classes/C_L10.json",
+      "sha256": "d60f5e7263ba1143d82981e880f1130842070363371fd195bac47d911125d0ff"
+    },
+    {
+      "file": "local-research/claude-20261002/cloud/analysis/join_design/classes/C_L11.json",
+      "sha256": "7f5f766ad5b6e57891d1be176a80b12e2e2ecb967be5490746513c9867fef46d"
+    },
+    {
+      "file": "local-research/claude-20261002/cloud/analysis/join_design/classes/C_L12.json",
+      "sha256": "b77dc740c4abdc7778bb8fba48b8c6d6c8564a5c428d8d1f3734e9edaa16cf7c"
+    },
+    {
+      "file": "local-research/claude-20261002/cloud/analysis/join_design/classes/C_L13.json",
+      "sha256": "04dc5a7a69a5118929764685a869bc8520766624400197e1c60eb49e144a576d"
+    },
+    {
+      "file": "local-research/claude-20261002/cloud/analysis/join_design/classes/C_L14.json",
+      "sha256": "5369fa2fd14a509b344dcfc2ece828b0b336902a4a9fad79810515a350e9f795"
+    },
+    {
+      "file": "local-research/claude-20261002/cloud/analysis/join_design/classes/C_L16.json",
+      "sha256": "77f2be236e0e1a10b27bfa9207100a38fb414dcce82b87c87f5b85ce1c8e2b9a"
+    }
+  ]
+}

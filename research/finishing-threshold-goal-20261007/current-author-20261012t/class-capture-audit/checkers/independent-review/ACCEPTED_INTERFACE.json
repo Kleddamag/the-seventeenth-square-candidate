@@ -1,0 +1,84 @@
+{
+  "actual_side_guard": "S <= L/A, transported by frame.center-(S/2,S/2)",
+  "cap": "L/A",
+  "checkers": {
+    "boolean_rule.py": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275",
+    "exact_classes.py": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+    "exact_general.py": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+    "exact_restricted.py": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+    "integer_sweep.py": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+    "node__verify_classes.js": "72b92624de356507c94fd913892a90dfaa70db1aa644d640728bcf68c44e7b1e"
+  },
+  "complete_run_conclusion": "sum psi <= budget_units/minimum_units < class-file bound; hence sum tau < bound",
+  "confirmed_implementation_defect": "Node runWorkers can combine changed-input child rows with the original parent statement/hash",
+  "container": "axis-parallel square of side L/A centred at the supplied frame.center",
+  "execution_guards": [
+    "all rows of the exact certificate must pass",
+    "frozen source and input identity throughout the run",
+    "single-process run, or independently authenticated worker receipts bound to the same inputs/sources",
+    "merge PASS alone is insufficient evidence of row arithmetic"
+  ],
+  "live_source_at_sealing": {
+    "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/checker_sources/src/exact_classes.py": {
+      "frozen_sha256": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+      "future_changes_accepted": false,
+      "matches_frozen": true,
+      "sha256_at_sealing": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b"
+    },
+    "local-research/claude-20261002/cert_restricted/node/verify_classes.js": {
+      "frozen_sha256": "72b92624de356507c94fd913892a90dfaa70db1aa644d640728bcf68c44e7b1e",
+      "future_changes_accepted": false,
+      "matches_frozen": true,
+      "sha256_at_sealing": "72b92624de356507c94fd913892a90dfaa70db1aa644d640728bcf68c44e7b1e"
+    }
+  },
+  "not_established": [
+    "a real certificate passes",
+    "target capacity",
+    "particular frame or local-window inclusion",
+    "injective labels or global common-frame capture",
+    "full packing optimality"
+  ],
+  "parallel_driver_unqualified_acceptance": false,
+  "physical_squares": "arbitrary family of closed unit squares with pairwise disjoint interiors",
+  "producer_manifest_sha256": "17e40f662631347b20ebb50cae793d73ee31d5e3e287feb2a98ae1a86d335096",
+  "published_tau": "minimum threshold among containing classes, or1 if no class contains the pose",
+  "singleton_corollary": {
+    "additional_guards": [
+      "N(M) >= 1",
+      "independently proved N(T) <= 1"
+    ],
+    "bound": "35/2",
+    "conclusion": {
+      "N(M intersect T)": 0,
+      "N(M)": 1,
+      "N(T)": 1
+    },
+    "family_size": 17,
+    "geometric_disjointness_of_M_and_T_required": false,
+    "high_M": "3/2",
+    "low_T": "1/2",
+    "necessary_count_inequality": "N(T) >= N(M) + N(M intersect T)",
+    "other_nontrivial_classes": false
+  },
+  "status": "INDEPENDENTLY_ACCEPTED_STABLE_COMPLETE_ROW_ALGORITHM_AND_HIGH_FIRST_STRENGTHENING",
+  "stronger_psi": "maximum containing high threshold if any; else minimum containing low threshold if any; else1",
+  "two_class_corollary": {
+    "additional_guards": [
+      "N(M) >= 1",
+      "independently proved N(T) <= 2"
+    ],
+    "bound": "137/8",
+    "conclusion": {
+      "N(M intersect T)": 0,
+      "N(M)": 1,
+      "N(T)": 2
+    },
+    "family_size": 17,
+    "geometric_disjointness_of_M_and_T_required": false,
+    "high_M": "5/4",
+    "low_T": "7/8",
+    "necessary_count_inequality": "N(T) >= 2*N(M) + N(M intersect T)",
+    "other_nontrivial_classes": false
+  }
+}

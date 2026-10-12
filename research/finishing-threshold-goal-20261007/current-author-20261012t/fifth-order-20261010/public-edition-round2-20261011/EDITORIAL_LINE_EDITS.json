@@ -1,0 +1,2446 @@
+{
+  "source_list_sha256": "4dacde016a376d6a1c1828efa0cae92d37cc27da52621141f80f435eef492718",
+  "entries": [
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/REVIEW.md",
+      "line": 33,
+      "line_sha256": "d3d7e56543a5460926cf376a5b7e401038ab870394f5151323ee2cc509a01555",
+      "action": "REPLACE_LINE",
+      "new": "Before accepting worker mode as self-contained verification, require immutable content-addressed certificate/class/source inputs for the entire process tree, or compare every child's certificate/class/checker hashes and all context metadata with the expected parent identity, with strict status, range, row coverage and flag validation. Using both protections is preferable. The current source does not enforce that obligation; no patch was accepted here."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/REVIEW.md",
+      "line": 39,
+      "line_sha256": "396c8e2d00e564e001610d1311d879c5607420c58956d2cfe90c49248090acb6",
+      "action": "REPLACE_LINE",
+      "new": "Independent source-derived tests exercised 2,048 polygon-cell cases, including 64 exact-boundary cases, 840 angular-gate cases and 8,000 abstract overlap cases; they passed in 0.307628 CPU seconds. They use a separate exact geometric oracle and isolated pure-function extraction, without importing NumPy/Numba or executing full row sweeps. The separate actual Node worker reproduction and exact witness check used 0.266416 CPU seconds including its two children. The high-first finite controls covered 352 abstract cell states and all 1,140 four-category occupancy counts for seventeen parents in 0.009645 CPU seconds. Snapshot creation used 0.002205 CPU seconds. No computational test failed; no real rows, full suite, optimizer or pricing was run."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/independent-review/ACCEPTED_INTERFACE.json",
+      "line": 77,
+      "line_sha256": "0c07280df27329c4a62a07365875aff25d4cfaa2ef9997514dfcfe84bce9a8f2",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md",
+      "line": 12,
+      "line_sha256": "375cb2bfc597f3434b2003b960c0b3c9ff6e7eca7c10eec515f9f6158b2f1d13",
+      "action": "REPLACE_LINE",
+      "new": "No source there was executed. The 19-file snapshot in this directory"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md",
+      "line": 112,
+      "line_sha256": "429257965d54a8ea36c9a06c0737c4879aaf93724f1c1953b9b7f7b9a574c890",
+      "action": "REPLACE_LINE",
+      "new": "`check_gate.py` uses the original audited"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/MANIFEST.json",
+      "line": 85,
+      "line_sha256": "7de95b194c2512f7c8c2f4e22f4ba253bb127cfbb7585276b303ce81b532be66",
+      "action": "REPLACE_LINE",
+      "new": "  \"replay_cpu_seconds\": 46.680195000000005"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/MANIFEST.json",
+      "line": 86,
+      "line_sha256": "ef504b16d7f3d9365d2b8c37075c28e67b3088bf6d46c2a73d13e78e50fb9e36",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/RESULT.md",
+      "line": 22,
+      "line_sha256": "581e68ffd26508902021e6dfb8af850d384b13b4b347057cec2b5c6a135c06a0",
+      "action": "REPLACE_LINE",
+      "new": "explicit reconstruction of the changed box."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/RESULT.md",
+      "line": 51,
+      "line_sha256": "b7e5943311559e53777377df774951376792bfafc0a878706978d8c4fbdd5efa",
+      "action": "REPLACE_LINE",
+      "new": "additional wall time. There were no failed numerical attempts or LP calls."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/RESULT.md",
+      "line": 52,
+      "line_sha256": "e6bd8781abb57a8f995277babff7754cec49e00d55227242e45978c78cbad39a",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "line": 3,
+      "line_sha256": "096f4bd5eb33929df34be2893617989a661302e38ac2dc65bf523ce5ce38de26",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/FRAME_L9.json",
+      "line": 35,
+      "line_sha256": "a0229e4e4a13f157a17bf4f8bf0c1d9fa946d6817566d52ce904891ed6ba2815",
+      "action": "REPLACE_LINE",
+      "new": "      \"binding_route\": \"stable committed inputs\","
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/FRAME_L9.json",
+      "line": 90,
+      "line_sha256": "a0229e4e4a13f157a17bf4f8bf0c1d9fa946d6817566d52ce904891ed6ba2815",
+      "action": "REPLACE_LINE",
+      "new": "      \"binding_route\": \"stable committed inputs\","
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/FRAME_L9.json",
+      "line": 122,
+      "line_sha256": "a0229e4e4a13f157a17bf4f8bf0c1d9fa946d6817566d52ce904891ed6ba2815",
+      "action": "REPLACE_LINE",
+      "new": "      \"binding_route\": \"stable committed inputs\","
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "line": 37,
+      "line_sha256": "58636dd91683339092f700bf39dd97cef08ab7e1a75e5ae24bdc7de2ecf16d40",
+      "action": "REPLACE_LINE",
+      "new": "    }"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "line": 38,
+      "line_sha256": "be9b87db3e44d06bc8d37d5aac5d5065ab8dc0a291d0a4f1f22273734dbc6f5e",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "line": 39,
+      "line_sha256": "52d1892cba72befc8fd972ce19064be6bd03f76299ccfa07fd21758493885f3f",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "line": 40,
+      "line_sha256": "d7cfaf7d9a281319fd2838f19a5c4be14d30c926f201311a3e2e1318953fdf58",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "line": 41,
+      "line_sha256": "62b6fadd423a49be8d083c4d7fa0d9a1129aa7f77c3ce5c6fdbee418baff8db1",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "line": 42,
+      "line_sha256": "28d86778615f6af47bb1bc4f40face756749768e5111f114cfa234a5060c25af",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "line": 98,
+      "line_sha256": "a0229e4e4a13f157a17bf4f8bf0c1d9fa946d6817566d52ce904891ed6ba2815",
+      "action": "REPLACE_LINE",
+      "new": "      \"binding_route\": \"stable committed inputs\","
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "line": 153,
+      "line_sha256": "a0229e4e4a13f157a17bf4f8bf0c1d9fa946d6817566d52ce904891ed6ba2815",
+      "action": "REPLACE_LINE",
+      "new": "      \"binding_route\": \"stable committed inputs\","
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "line": 185,
+      "line_sha256": "a0229e4e4a13f157a17bf4f8bf0c1d9fa946d6817566d52ce904891ed6ba2815",
+      "action": "REPLACE_LINE",
+      "new": "      \"binding_route\": \"stable committed inputs\","
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+      "line": 175,
+      "line_sha256": "d20ec685d2e961c5c73829f2ea8f618549fb1616d948d1fa915c7f5e1f27d8e6",
+      "action": "REPLACE_LINE",
+      "new": "    \"conservative_CPU_charge\": 1"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+      "line": 176,
+      "line_sha256": "a36bff3acdcdc373d9a1266b0c327e5018a043bd6cf733113d74dd80615e9f86",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+      "line": 177,
+      "line_sha256": "605275d60bfd645c4e507b724e25e8b7b7a9473b261aac759ab72263a670be9f",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 374,
+      "line_sha256": "42452302a0346070fdedca66673f343efd70a9371de1717552e2e4914a09d70e",
+      "action": "REPLACE_LINE",
+      "new": "  of 17:32 found the target inside this root with least margin 1.9e-7,"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 388,
+      "line_sha256": "a405aec54b51b0b41e44e355003ca3b9e1e2aafd5a131dde3298680fc70ee27b",
+      "action": "REPLACE_LINE",
+      "new": "  label 9's absolute direction). That interval is [+0.0999006241,"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 453,
+      "line_sha256": "ac760de5bc5c5e2539dfdf4e4ffe9cee1b9c6796439ba048f7f6d5bf08f92a4d",
+      "action": "REPLACE_LINE",
+      "new": "It did not rerun the two frozen checkers or the acceptance script (each of the two frozen checkers"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 457,
+      "line_sha256": "2ff0ac989967c20d21a18a25b5295b414b36753eacf8fddd4ed8704675db3d5c",
+      "action": "REPLACE_LINE",
+      "new": "What changed against the text the reviewer read, all in this version (19:00):"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/premise-review-P/inputs/full_gate_analytic_review.md",
+      "line": 5,
+      "line_sha256": "b1b87d55e4693d75046804dbdcbeff8825d799907dadc3379b9968e033f6a7d3",
+      "action": "REPLACE_LINE",
+      "new": "**Accepted:** the complete contact-option and analytic-domain gate for the proposed terminal slider box. This is not a contraction certificate, terminal theorem or optimality proof. No solver, discovery, broad-tree computation or R17/type case was performed by this reviewer."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/premise-review-P/inputs/full_gate_analytic_review.md",
+      "line": 45,
+      "line_sha256": "0051f5da0ab60df5da8b61febd5fd7597d012da57690cf7c99e393a28b836bcc",
+      "action": "REPLACE_LINE",
+      "new": "To replay the independent checks without overwriting accepted outputs, copy this review directory to a fresh sibling at the same depth and run `python3 check.py` followed by `python3 bind.py` in that copy. Both retain the frozen producer and prior independent geometry source as dependencies."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/premise-review-P/inputs/local_spec_notes.md",
+      "line": 78,
+      "line_sha256": "22c503327f83b355bdb70597bc548e614f6437dd3a6ef1a264f3d188787b8708",
+      "action": "REPLACE_LINE",
+      "new": "## 2026-10-09 18:38, a note on USE: the EMPTINESS statement for a root region (`reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md` finding S2; wording of the argument: the reviewer's)"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/ACCEPTED_INTERFACE.json.txt",
+      "line": 543,
+      "line_sha256": "422a55e0fd42a3a071ec788f84c76509e29a7ad899e4d5398b65368c4287ee3f",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/ACCEPTED_INTERFACE.json.txt",
+      "line": 544,
+      "line_sha256": "cfac21130612a2fa21d4c2ab36570ead47a002de32fa46cc25d84bc7cf2837d0",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/JPG15m_LEAD_RECORD.md",
+      "line": 11,
+      "line_sha256": "1f0a8fd80aff91dd9b346618254e2d3a296bdff2847bd2a6896f001c93b1efd2",
+      "action": "REPLACE_LINE",
+      "new": "this region needs its class statements, which are not certified."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/JPG3p_LEAD_RECORD.md",
+      "line": 11,
+      "line_sha256": "1f0a8fd80aff91dd9b346618254e2d3a296bdff2847bd2a6896f001c93b1efd2",
+      "action": "REPLACE_LINE",
+      "new": "this region needs its class statements, which are not certified."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/THEOREM_G20S.md",
+      "line": 22,
+      "line_sha256": "768ee85e86d16ed6d2c76a8d7e07118024358bae9cf9621e145740fd7675457c",
+      "action": "REPLACE_LINE",
+      "new": "searches).) Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/THEOREM_G20S.md",
+      "line": 72,
+      "line_sha256": "aba4a24f80f9552fc03be796683b5e119aa4f851b326355efcf2e62f4a89f15f",
+      "action": "REPLACE_LINE",
+      "new": "   Expected statement, written by the lead before the acceptance run (20:31):"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/THEOREM_G20S.md",
+      "line": 73,
+      "line_sha256": "a18034d34859157f5a302cee8917f2bedd66bd6a9f9fc9cb0a4600a599cc13c2",
+      "action": "REPLACE_LINE",
+      "new": "   `acceptance/EXPECT_G20S.json`."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md",
+      "line": 14,
+      "line_sha256": "375cb2bfc597f3434b2003b960c0b3c9ff6e7eca7c10eec515f9f6158b2f1d13",
+      "action": "REPLACE_LINE",
+      "new": "No source there was executed. The 19-file snapshot in this directory"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md",
+      "line": 114,
+      "line_sha256": "429257965d54a8ea36c9a06c0737c4879aaf93724f1c1953b9b7f7b9a574c890",
+      "action": "REPLACE_LINE",
+      "new": "`check_gate.py` uses the original audited"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/fifth-order-20261010/jpa-import-AG/INDEPENDENT_REVIEW.md",
+      "line": 38,
+      "line_sha256": "8333828b9c5d79737b9689ec58898ca6f0fb5abb0b805cb1520511c53cbba2df",
+      "action": "REPLACE_LINE",
+      "new": "- **c. Which arc of label 9 the root file itself covers.** With u_9 = rot(t_9), t_9 = squares[8].t = 0.3620438933... (reference direction at 0.6947275928 rad), the"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/fifth-order-20261010/jpa-import-AG/INDEPENDENT_REVIEW.md",
+      "line": 100,
+      "line_sha256": "fceafadeda1e416aae8074f0de1d243e47b0badac625fb9f225bacf61548287e",
+      "action": "REPLACE_LINE",
+      "new": "- I looked at no other record or tree."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/fifth-order-20261010/jpa-import-AG/INDEPENDENT_REVIEW.md",
+      "line": 104,
+      "line_sha256": "ceaac82bc758b20278ffbfe2022ff1fa90207f349030660b18597dc120089813",
+      "action": "REPLACE_LINE",
+      "new": "`t_JPA_v5_nodes.json`; `hand_checks.out`; `run_times.txt`. The runner wrote `proto30/out/contain/rev7_JPA_v5.stdout` and `.stderr`."
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 34,
+      "line_sha256": "32f746af627dc4733189e1743382c2ebc1e96784bdae7eb6a7c36c7ae0b8e6ba",
+      "action": "REPLACE_LINE",
+      "new": "use and not checked here)."
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 374,
+      "line_sha256": "8d025ab47b12de534ac657d23e67b56ba7ca782dd57f348c1c8269d9afd41953",
+      "action": "REPLACE_LINE",
+      "new": "  of 17:32 found the target inside this root with least margin 1.9e-7,"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 388,
+      "line_sha256": "9332c378b58ddb0424bb8802e56f23a5d1358074253315deb2a344fb57682db1",
+      "action": "REPLACE_LINE",
+      "new": "  label 9's absolute direction). That interval is [+0.0999006241,"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 453,
+      "line_sha256": "ac760de5bc5c5e2539dfdf4e4ffe9cee1b9c6796439ba048f7f6d5bf08f92a4d",
+      "action": "REPLACE_LINE",
+      "new": "It did not rerun the two frozen checkers or the acceptance script (each of the two frozen checkers"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 457,
+      "line_sha256": "2ff0ac989967c20d21a18a25b5295b414b36753eacf8fddd4ed8704675db3d5c",
+      "action": "REPLACE_LINE",
+      "new": "What changed against the text the reviewer read, all in this version (19:00):"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/finite-stopped-contraction/continuation/README.md",
+      "line": 9,
+      "line_sha256": "5115adc97a00e3ca879c0ab1e53d001e2eac02dad0cf4328250fc7eab6da8c07",
+      "action": "REPLACE_LINE",
+      "new": "48-product refresh before running. It does not repeat the prefix."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/finite-stopped-contraction/producer/README.md",
+      "line": 5,
+      "line_sha256": "b35789097c35149664bd2a0fd6f7fd1dada751b55f14850ef8fef5894c94f32b",
+      "action": "REPLACE_LINE",
+      "new": "This producer performs at most three rounds. It does not"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/finite-stopped-contraction/producer/README.md",
+      "line": 6,
+      "line_sha256": "1a59d63fb6502e14a02737221067269c89b40debc700b5cebcc80d937c684b55",
+      "action": "REPLACE_LINE",
+      "new": "call the old checker's terminal acceptance."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "line": 8,
+      "line_sha256": "464359eadeb7514dc4c74fbe19cb856d2151086419eb1c3de388486cf93e4413",
+      "action": "REPLACE_LINE",
+      "new": "## Verdict"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "line": 47,
+      "line_sha256": "a850971700c2367b0789a1afb34c3341e23262d23ba26d65a328d1120c30aef7",
+      "action": "REPLACE_LINE",
+      "new": "In `G20S_PLAN.md`, the broad G20S root uses `a<=39/125`;"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "line": 148,
+      "line_sha256": "72d5243225a0992e9ac8874955ab2858868cda6097381cb19d57f1c493770b2a",
+      "action": "REPLACE_LINE",
+      "new": "  core ratio **strictly below one**. Do this before finite capture;"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/join-design-files-20261009-1525/frame-premise-producer/THEOREM.md",
+      "line": 174,
+      "line_sha256": "171fbb3338bbceb17d7d27ae7c00b7878e0782443860ba7b3338fa9f95684b19",
+      "action": "REPLACE_LINE",
+      "new": "original input executions;1114 uses saved one-worker Node inputs."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/join-design-files-20261009-1525/frame-premise-producer/THEOREM.md",
+      "line": 195,
+      "line_sha256": "d36cef789a340d4e972304e897f7f67a10d799c097d0865fd503d86ed0093c56",
+      "action": "REPLACE_LINE",
+      "new": "a separate pose-set equivalence audit. No automatic future"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/join-design-files-20261009-1525/frame-premise-producer/THEOREM.md",
+      "line": 204,
+      "line_sha256": "441dd6e951a452fb446b39086765860a867ce17f3139632594be1f5dabefb07d",
+      "action": "REPLACE_LINE",
+      "new": "There was no arithmetic failure or retry."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/join-design-files-20261009-1525/frame-premise-producer/THEOREM.md",
+      "line": 205,
+      "line_sha256": "72567f3de230d4959efbc638665da2d544d2a59b4e6b99ccc796784c760b49d2",
+      "action": "REPLACE_LINE",
+      "new": "No native replay, solver or training computation occurred."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/third-order-20261010/local-region-audits/JPW13_v2x/LEAD_RECORD_SNAPSHOT.md",
+      "line": 14,
+      "line_sha256": "2a7fc007780e0b1bcd6ce382eeb54c7ee3dfd1c4209166c85437ba10c32e2bc7",
+      "action": "REPLACE_LINE",
+      "new": "side's bookkeeping, quoted in the last section and not checked here)."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/third-order-20261010/local-region-audits/JPWS_v4/LEAD_RECORD_SNAPSHOT.md",
+      "line": 14,
+      "line_sha256": "2a7fc007780e0b1bcd6ce382eeb54c7ee3dfd1c4209166c85437ba10c32e2bc7",
+      "action": "REPLACE_LINE",
+      "new": "side's bookkeeping, quoted in the last section and not checked here)."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/third-order-20261010/local-region-audits/JPWS_v4/LEAD_RECORD_SNAPSHOT.md",
+      "line": 164,
+      "line_sha256": "0ca45eae926fa06c924668d8df6d047ba81f42d5e393e5ac30c0080f1dc2d0b3",
+      "action": "REPLACE_LINE",
+      "new": "  (as of 2026-10-10 16:44:10, sha256 ac06106efd7823b7...):"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/third-order-20261010/local-region-audits/JPWS_v4/LEAD_RECORD_SNAPSHOT.md",
+      "line": 165,
+      "line_sha256": "e48a2036184acb1e27b5c7b6cfebc323858bbb665b808fa1f5856b801003af0e",
+      "action": "REPLACE_LINE",
+      "new": "  PW_1, PW_5, PW_7, PW_8, PW_10, PW_12, PW_13, PW_14, PW_16, the slab statement"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/REVIEW.md",
+      "line": 3,
+      "line_sha256": "102896dfb9a60b0e0e83937578563ea77571aeee1f3f1fdc4d5b69e8e55eea5d",
+      "action": "REPLACE_LINE",
+      "new": "**Accepted guarded raw-entry pruning.** Independent reviewer `Codex`; entry producer `Codex`. The enlarged physical stop theorem was independently accepted by `Codex`, seal `7b897fd35fd90e91b0d3db854c0229f69e5630c08533d80789df2783d5bb42b0`. The frozen entry package is bound by producer seal `332a2cc7d1bb20415e8d08e904259de81f0aafbc1f26cf34bb9cd69f60d1ad7d`, and its accepted guarded export is `PRUNING.json`, SHA `4c8353d06c7cc6628c3d81accc4aa1f9495d8bf6ba746d70966648cfc69effb8`. This separate record accepts exactly the reviewed claims."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/REVIEW.md",
+      "line": 51,
+      "line_sha256": "64c651a386ec264b52db0a7676e931e9881efe63bc10fd6c95af1d7e496f6d37",
+      "action": "REPLACE_LINE",
+      "new": "Measured checks: .007641 and .005445 CPU seconds. There were no failed executions, optimizer/model/SymPy calls, or source arithmetic replays of other packages. The existing root SAT proof is inherited through its independent seal, not rerun or claimed as new work here."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/PROOF.md",
+      "line": 153,
+      "line_sha256": "945cdb1f946ffadb452a98f449f402045d83211dd23bead3a1d367d0c3c5663d",
+      "action": "REPLACE_LINE",
+      "new": "source hashes are recorded in the manifest."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/PROOF.md",
+      "line": 154,
+      "line_sha256": "de841d5a2c9edde1e74c64199a509e862418447a9a0be27b4e4bb89f3ffd85cd",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/PREFREEZE_BINDING_FAILURE.md",
+      "line": 5,
+      "line_sha256": "95256889683fa276abb6d8c5b1cfd7072bb7a6096f999362209d5417a28473b5",
+      "action": "REPLACE_LINE",
+      "new": "The first"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/PREFREEZE_BINDING_FAILURE.md",
+      "line": 8,
+      "line_sha256": "e674943849dc97f266771293f027320ea491e2842edf6a9c328c55eeae956c0e",
+      "action": "REPLACE_LINE",
+      "new": "accepted under the stale pin."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/REVIEW.md",
+      "line": 160,
+      "line_sha256": "94747fdf1cd88c1a6668b98ec3fdc948fffe7845c7f57190dbee7884b7fee4a0",
+      "action": "REPLACE_LINE",
+      "new": "it did not change any mathematical input or accept a stale source."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/REVIEW.md",
+      "line": 161,
+      "line_sha256": "0319c4bbe5cfa3f3494d798197f3f849a9df384c320c8b1c2eac51ec9ba84cbd",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/REVIEW.md",
+      "line": 162,
+      "line_sha256": "509c6e68d267d7a566d109b2491cb19cfa99f24a38278a5c25f6bf302132e9b2",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/REVIEW.md",
+      "line": 163,
+      "line_sha256": "cd0fb96ed8ec6267caac5a23fe506fc52beb2d05a688e89ae16c2c17546dc94c",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/producer-replay.json",
+      "line": 7,
+      "line_sha256": "00bf1666bbecd1044da3df2613c55a70df8e70335fff9b0623d8c31449caa24d",
+      "action": "REPLACE_LINE",
+      "new": "  \"read_only\": true"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/producer-replay.json",
+      "line": 8,
+      "line_sha256": "c0161b4f292c05cebbcf057e5cabd11fad12007cdea71dc0a1a12b86ffaf23e6",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/REVIEW.md",
+      "line": 3,
+      "line_sha256": "d9b51f2c77ee387ee0a2c54d31d888031a6670137727ff23b05a079fddb5e944",
+      "action": "REPLACE_LINE",
+      "new": "**Accepted: six additional conditional partial-contraction rounds. The finite entry still does not reach the tiny local theorem.** This review by `Codex` is independent of producer `Codex`. It binds the prior three-round acceptance `1e642f902ffac65b720eec16fb53ad055ae306491912ffa2fdac4adcd900eaf7`, without redundant replay of that package."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/REVIEW.md",
+      "line": 29,
+      "line_sha256": "b0cda3ed4c0c883ebec1f9fa2fe5938adcdb415c2a13b2b057c231ea67d19198",
+      "action": "REPLACE_LINE",
+      "new": "## Replay and cost"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/REVIEW.md",
+      "line": 31,
+      "line_sha256": "cf5c38325cc18018606daa08069a649e5cbc3e3bf6009bd9710b8bb09a1b1271",
+      "action": "REPLACE_LINE",
+      "new": "Run `python3 research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/check.py`. It uses a26-second soft/28-second hard process CPU cap. The complete new exact replay used8.602638 CPU seconds; measured preparation and the saved-data check are recorded separately. No failed execution, optimizer call, extra model, tenth round or changed relaxation occurred."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation/README.md",
+      "line": 7,
+      "line_sha256": "5115adc97a00e3ca879c0ab1e53d001e2eac02dad0cf4328250fc7eab6da8c07",
+      "action": "REPLACE_LINE",
+      "new": "48-product refresh before running. It does not repeat the prefix."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/RESULT.md",
+      "line": 28,
+      "line_sha256": "dd268adfb9c75a13b4cd5fd16f209d6f7f2dc369101f1546544d974687727507",
+      "action": "REPLACE_LINE",
+      "new": "Total process cost14.945649CPU-s, wall14.945602s."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/RESULT.md",
+      "line": 29,
+      "line_sha256": "7e48d25750e5ac2deac68b705a66f84a086f9890bc7da16ae864a7a32b3c5b51",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-independent-review/REVIEW.md",
+      "line": 25,
+      "line_sha256": "f8f6a413587af0c1f29c7328912f9593bf4c7697c179bd6a5d319475e622d0b2",
+      "action": "REPLACE_LINE",
+      "new": "Replay with `python3 research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/finite-stopped-contraction/finishing-independent-review/check.py`. It independently checks the six completed models only, with a26-second soft/28-second hard process CPU limit. The exact replay used8.711676 CPU seconds. Including preparation and sealing, this review used at most11 CPU seconds. There was no failed review execution and no reviewer optimizer call. The producer's numerical timeout and partial files are preserved."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/independent-review/REVIEW.md",
+      "line": 47,
+      "line_sha256": "6d99f26be24f8b333caec400acbbf1e399757722988e8a1851b8be5aff3a8228",
+      "action": "REPLACE_LINE",
+      "new": "Run `python3 research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/finite-stopped-contraction/independent-review/check.py` to replay the frozen audit. The script imports only the independent polynomial module and standard-library arithmetic; its process has a26-second soft/28-second hard CPU cap."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/independent-review/REVIEW.md",
+      "line": 49,
+      "line_sha256": "519d7f7afe2f3e46a3684e98753a7ac9e25a641f79307aeb23a2c39d2c3dd596",
+      "action": "REPLACE_LINE",
+      "new": "The full exact replay used3.569130 CPU seconds; preparation, saved-bound checking and sealing are separately recorded in `COSTS.json`. No failed execution or mathematical repair occurred. The producer's frozen manifest records5.4331 seconds before the final write, while final telemetry records5.439289; this harmless timing difference is preserved."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/README.md",
+      "line": 3,
+      "line_sha256": "b35789097c35149664bd2a0fd6f7fd1dada751b55f14850ef8fef5894c94f32b",
+      "action": "REPLACE_LINE",
+      "new": "This producer performs at most three rounds. It does not"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/README.md",
+      "line": 4,
+      "line_sha256": "1a59d63fb6502e14a02737221067269c89b40debc700b5cebcc80d937c684b55",
+      "action": "REPLACE_LINE",
+      "new": "call the old checker's terminal acceptance."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/RESULT.md",
+      "line": 23,
+      "line_sha256": "3e83b3bd7fe76759924ebad68003c3c3492ef76811f1e874b4e68243a03c0638",
+      "action": "REPLACE_LINE",
+      "new": "solver calls followed. Producer process cost5.439289CPU-s, wall5.522245s."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/RESULT.md",
+      "line": 24,
+      "line_sha256": "8a3d5a7001c0cb95d6ed26764f9991d7b7aab1fa59ec757b0acc389b9f089fe4",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/REVIEW.md",
+      "line": 21,
+      "line_sha256": "05d2acba281348bd4fdb6a238240b77a1dd7a3d1a08438ba34e5794c93381c16",
+      "action": "REPLACE_LINE",
+      "new": "The numerical timeout belongs to the preserved producer stage and was already independently reviewed as an interrupted partial round. This retry restores its last complete box and stops at target on global17. No round18 or new relaxation was run."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/REVIEW.md",
+      "line": 25,
+      "line_sha256": "4185e6735d1d83f09fb741dfcbe3a0341719f8ad66b9037bcb73eeceb9d8b780",
+      "action": "REPLACE_LINE",
+      "new": "The final exact replay used2.941750 CPU seconds. No reviewer optimizer was invoked."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/REVIEW.md",
+      "line": 29,
+      "line_sha256": "116b23dd326b21b29d6e15cdcc1a6b5b61498e5b306935342de4a496f76545ba",
+      "action": "REPLACE_LINE",
+      "new": "Replay the new exact rounds with `python3 research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/check.py`, then run `check_join.py` in the same directory for the exact hypothesis composition and machine interface. The replay process has16-second soft/18-second hard CPU limits."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/REVIEW.md",
+      "line": 31,
+      "line_sha256": "8e8fe1907cb94ffd6ffc50adb1e127972eac2dc2d6ff69da2d3c0426aac9e967",
+      "action": "REPLACE_LINE",
+      "new": "Before final sealing, an ambiguity was caught in the draft machine interface: it inherited the old common guard object but did not explicitly copy the raw-pruning interface's full17 packing flag. The human theorem already required all17 squares to be contained in `[0,S]^2` and pairwise interior-disjoint. The final machine interface now declares both requirements explicitly, and the small join checker binds the original raw guard roster/endpoints and rejects omission of each of three full-packing flags. Earlier draft interfaces and receipts are preserved; `FULL_PACKING_GUARD_CLARIFICATION.md` records the correction. Only this inexpensive join check was repeated (0.007934 CPU seconds); the exact contraction replay was not repeated."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/RESULT.md",
+      "line": 32,
+      "line_sha256": "1506da52a1bd71b2401837c2c87b655586bbbbb0eafbc9f85eaf4d15b869d612",
+      "action": "REPLACE_LINE",
+      "new": "Run cost4.556524CPU-s, wall4.524506s."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/RESULT.md",
+      "line": 33,
+      "line_sha256": "ae2898ca5b800f59a930f3427423dbb60c04ac0e46c9ba060ff9698bd1c315ab",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/RESULT.md",
+      "line": 34,
+      "line_sha256": "096c544d89d1d82b0d8e3b2563afe1ee5bd1315ed7357b6b8638294d4cf6bb2c",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/RESULT.md",
+      "line": 35,
+      "line_sha256": "78858ece1dd3942b45932b0713cfc68ba52bab5a8d6f1fb81cec6b8c0ac6d9c6",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/RESULT.md",
+      "line": 36,
+      "line_sha256": "2fddd268d2611def1e3e909f12c4ba34def28d8138261af8a38853be7a4bb1c9",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/RESULT.md",
+      "line": 40,
+      "line_sha256": "b3012d86e66475bd5dd231846ee8627369cf4efaa5be06ca6c28d0b9a6121418",
+      "action": "REPLACE_LINE",
+      "new": "on each instance. This documents the timer behavior without re-running"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/RESULT.md",
+      "line": 41,
+      "line_sha256": "af0a4b4bdd6f12b212da3f0b1c2053ceaf42099a9e000154555e2248b8c8d29b",
+      "action": "REPLACE_LINE",
+      "new": "the previous timeout artifact. No further retry or solver run remains."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/RESULT.md",
+      "line": 39,
+      "line_sha256": "c511884b093eb2311412cbb5ff12b17e2c70bfe141e1c0d3c52f79334eac47e0",
+      "action": "REPLACE_LINE",
+      "new": "All proposals used one native thread."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/RESULT.md",
+      "line": 40,
+      "line_sha256": "ce22e25739181ad968dedf1e6c184b6c7ab84aa7437ca7e9a42f43cc0b49abcd",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/RESULT.md",
+      "line": 41,
+      "line_sha256": "ad7c4afd435facfd4cca996ee66185b46f7cda3bef6f89731dd27f9b5ba68940",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/RESULT.md",
+      "line": 42,
+      "line_sha256": "37b8e999aa75a00a49e7ca29dcc2fa96a0306fe6cb220aec4621378e7c562daf",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/RESULT.md",
+      "line": 43,
+      "line_sha256": "29d8d09353f364ffef0c6616103ace6391bde082b608b53b0a1ce336e88286a3",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/THEOREM.md",
+      "line": 138,
+      "line_sha256": "08096eb827d67922850debbaf1739d93b27a016eea025ebdfde6995480ec3e25",
+      "action": "REPLACE_LINE",
+      "new": "and global optimality remain separate. The R17/type/seam work is not"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/REVIEW.md",
+      "line": 51,
+      "line_sha256": "cd48a82dc95c196a574c559480ef417bd64cdf4fcfee2aeeb74a8b13f65516e3",
+      "action": "REPLACE_LINE",
+      "new": "Measured check: .003238 CPU seconds. No failed executions occurred."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/REVIEW.md",
+      "line": 5,
+      "line_sha256": "170d204dde3368add0a572d0289616778cd00c493805caae470e8b8aecbe2270",
+      "action": "REPLACE_LINE",
+      "new": "**Accepted as an analytic reuse assessment and a collection of conditional exact constant lemmas. No new terminal theorem is established.** The current target is the plan's terminal/HW upper bound `a<=8/25`; the final G20S root instead has `a<=39/125`. The producer retained its superseded 39/125 calculation separately. The independent review performed no solver, model assembly, symbolic identity audit, certificate replay, actual packing search or R17 work."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 12,
+      "line_sha256": "35756a346d7728c5bdb3157e886827f4e740aa6c562fba689787c3cacf21e0b8",
+      "action": "REPLACE_LINE",
+      "new": "continues to pass and is bound as a dependency."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 13,
+      "line_sha256": "6843313f1104d840e599e399deee1a0af61c65f1602e4a18f99b9fe68edf6370",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 48,
+      "line_sha256": "4f0da30f652c87ae9d74c6bbb2ba9c0dd74838e4251c866bac491f040f0ec063",
+      "action": "REPLACE_LINE",
+      "new": "an **unaccepted candidate**, since its final ratio is 1."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 49,
+      "line_sha256": "5bc85288259b0df71bb7e0f3f3d886f68eb498c2a87eaefbdbf53046f984f13f",
+      "action": "REPLACE_LINE",
+      "new": "The unchanged `rigidity.check` was not run:"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 74,
+      "line_sha256": "e147f931d0b1c822bc83b9b827dcdab34ed57ad7bab4a98707c42c6fb02ed97a",
+      "action": "REPLACE_LINE",
+      "new": "2.57 CPU-s; the exact total is in `reuse-receipt.json`."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 75,
+      "line_sha256": "211042eeebc4bcbe59ab142e5ee0d131ee0ffa8b8d177d78626ba5dfe77b7665",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 76,
+      "line_sha256": "3dcd769cf77213f738bbfe65e8258ee162b7ed87b9a0a446e8b6b794b64bbfdf",
+      "action": "REPLACE_LINE",
+      "new": "There were no failed processes or numerical retries."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 77,
+      "line_sha256": "58b0a68b36d136e72b3278529be06469f1cc7ad249a2dedd19405aaa6a662919",
+      "action": "REPLACE_LINE",
+      "new": "One process used soft/hard CPU limits 55/58 seconds and one native thread."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 78,
+      "line_sha256": "ecca40b97ba524ce710b3c02a5016dbc033c9872f54c1630a5f54171c365f518",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "line": 82,
+      "line_sha256": "61da2814692db49371f94355bd6a354cf48e65735e3ae33026219c524a42271c",
+      "action": "REPLACE_LINE",
+      "new": "`PRODUCER_MANIFEST.json`."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/full-gate-result.md",
+      "line": 95,
+      "line_sha256": "06e58611f9ce0fc8dfa1d7d288c686230a8325234ef7cee4f59c5b9b70a6694a",
+      "action": "REPLACE_LINE",
+      "new": "manifest."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/full-gate-result.md",
+      "line": 116,
+      "line_sha256": "441e3b65f46a64aeec83dca71740d3d4ca6ded461c5c8bf4db620f6ba6b5b597",
+      "action": "REPLACE_LINE",
+      "new": "8.289812 cumulative CPU-seconds. There were no failed attempts."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/full-gate-result.md",
+      "line": 117,
+      "line_sha256": "f837e19dc2b1680bab9a3f1b3815eea5fa189f43337da48eff8d77ad1e65e8ec",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/full-gate-result.md",
+      "line": 118,
+      "line_sha256": "908fa67e03343ad443c030a8eaa4a64b7e3e1122f3971a3a0487c5f723ae4c57",
+      "action": "REPLACE_LINE",
+      "new": "There was one calculation process with soft/hard CPU"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/full-gate-result.md",
+      "line": 119,
+      "line_sha256": "eff01604fc87b0975d8ad1403b8ed0cd267824c6eed71c83c166c6abdf69ec11",
+      "action": "REPLACE_LINE",
+      "new": "limits 11/12 seconds and one native thread."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "line": 5,
+      "line_sha256": "95e5637fac0e49557aace4d61716e0bfa6271e8a91c6c5976086bba7c79df240",
+      "action": "REPLACE_LINE",
+      "new": "replay was run."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "line": 6,
+      "line_sha256": "b70e4c9b5c3281a32225792b06f4b79146180d0bac05cacb945f0d0e25959884",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "line": 8,
+      "line_sha256": "464359eadeb7514dc4c74fbe19cb856d2151086419eb1c3de388486cf93e4413",
+      "action": "REPLACE_LINE",
+      "new": "## Verdict"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "line": 47,
+      "line_sha256": "a850971700c2367b0789a1afb34c3341e23262d23ba26d65a328d1120c30aef7",
+      "action": "REPLACE_LINE",
+      "new": "In `G20S_PLAN.md`, the broad G20S root uses `a<=39/125`;"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "line": 148,
+      "line_sha256": "72d5243225a0992e9ac8874955ab2858868cda6097381cb19d57f1c493770b2a",
+      "action": "REPLACE_LINE",
+      "new": "  core ratio **strictly below one**. Do this before finite capture;"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/lp-review/PHYSICAL_SCOPE_MANIFEST.json",
+      "line": 15,
+      "line_sha256": "9f06315433f515d4b184910903db5daf57efc6b1d037d580491f81c12c64731a",
+      "action": "REPLACE_LINE",
+      "new": "  \"optimizer_or_model_replay\": false"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/lp-review/PHYSICAL_SCOPE_MANIFEST.json",
+      "line": 16,
+      "line_sha256": "5afd5a43b9bff2ec75f4303b0fd45beaafbf2f7d6f1ad52fc624f34c93fe3e0f",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "line": 152,
+      "line_sha256": "f7d7722e5a39adb5d529f5d2de6287f116ab39e38e529182daeeca01521821d6",
+      "action": "REPLACE_LINE",
+      "new": "in read-only snapshot mode and passed. No solver, new model, LP, R17"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "line": 169,
+      "line_sha256": "4be38c4ace6ba4b704f0a436de4b82f20ce535aa79232cabc796edcc4eb6f15b",
+      "action": "REPLACE_LINE",
+      "new": "snapshot replay. Exact components are in"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "line": 170,
+      "line_sha256": "030d0d15e6af31e88fa8f8928dce599e0b757589ffdb5d116df6562d84d8c377",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/producer-replay.json",
+      "line": 7,
+      "line_sha256": "57e3fb2bcd9094e0ef5cc6822a1af5ed82bafc2061e23f7a960dc68a68a6a882",
+      "action": "REPLACE_LINE",
+      "new": "  \"cpu_seconds\": 0.014673"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/producer-replay.json",
+      "line": 8,
+      "line_sha256": "30dfde0c7b40e9b1c9edfafa0704ec2ef48493c6ed72c2698a75d4a2606d0a4f",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/RESULT.md",
+      "line": 73,
+      "line_sha256": "6aff6fda4d4c0512dc06749bd4773ef36c94623bfbc02d674c2c8e2cfe7ecddd",
+      "action": "REPLACE_LINE",
+      "new": "was consequently not run."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/RESULT.md",
+      "line": 110,
+      "line_sha256": "f2f6458ac019bbc3d2c342c84dab90d14a9710ee3ec0725e47478513bf7a114b",
+      "action": "REPLACE_LINE",
+      "new": "capture, original narrow equality-family classification or result on"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/RESULT.md",
+      "line": 115,
+      "line_sha256": "bcced0a7f55802ccbdbbc8876eaf8daa8b98e6e5c9c44fedd86ededb4fb8c4ce",
+      "action": "REPLACE_LINE",
+      "new": "The script had soft/hard CPU limits 27/29 seconds."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/RESULT.md",
+      "line": 116,
+      "line_sha256": "5d3e79df19425cedb9717acb85973f3601ddf24b769359352bc70d2c6302e84f",
+      "action": "REPLACE_LINE",
+      "new": "Preparation cost `0.005790` CPU-s and the whole targeted calculation"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/RESULT.md",
+      "line": 117,
+      "line_sha256": "9fb397fbcefadb522b44f7725f603d6ab8c619543286237df413528cb681b6e4",
+      "action": "REPLACE_LINE",
+      "new": "`0.834626` CPU-s."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/RESULT.md",
+      "line": 118,
+      "line_sha256": "97adac28a41600f6d3e03438e6debc813ff0b2ee139745594295d148cd053132",
+      "action": "REPLACE_LINE",
+      "new": "There were no failed attempts or retries."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/RESULT.md",
+      "line": 119,
+      "line_sha256": "989a9bbf2f80494e3a68c17a07d0a4ba46b4d7ebf95979f9178282b6ba0cca32",
+      "action": "REPLACE_LINE",
+      "new": "Independent acceptance is recorded separately."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review-manifest.json",
+      "line": 78,
+      "line_sha256": "44d25f3d52e05266a04d36fe6889ed1a61247fcda6c2a09e8536581c0bd38913",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review.md",
+      "line": 7,
+      "line_sha256": "874e8832bcf56e0b892c76196f646dfe374298b85e216ab3c9d8eb20387555ed",
+      "action": "REPLACE_LINE",
+      "new": "The producer's file is `../SEVEN_FACE_COROLLARY.md`, SHA256"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review.md",
+      "line": 10,
+      "line_sha256": "11d1707596edfb879a7e14ff510af23a404582a6c5bb27c93a0bca5f1a93e3aa",
+      "action": "REPLACE_LINE",
+      "new": "depends on the accepted five-round review manifest"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review.md",
+      "line": 74,
+      "line_sha256": "6a85ea0e7a32935233f8b50adb51d071c6975379110ebcd522d8bb2b0ff69040",
+      "action": "REPLACE_LINE",
+      "new": "composition, or the common-frame capture problem."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review.md",
+      "line": 76,
+      "line_sha256": "9cd1cb001231438bfc23c0aacef23bcf7ba3d4916d8024b9d32a70c7dc68e9a0",
+      "action": "REPLACE_LINE",
+      "new": "The exact census used 0.004684 CPU-seconds."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review.md",
+      "line": 77,
+      "line_sha256": "a397a49dbdd50fe0b11597df97936658b8fe5a245ebffa198c7f30de138c1e6f",
+      "action": "REPLACE_LINE",
+      "new": "No"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/pss-ruling/ACCEPTED_INTERFACE.json",
+      "line": 5,
+      "line_sha256": "1a0341b88ad59a8da377469426baa5ab17b3b5f9c79da29015957ca0ba45a6ff",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/pss-ruling/ACCEPTED_INTERFACE.json",
+      "line": 6,
+      "line_sha256": "e27f849d57b17529a488e2d7a806677370fac90b231ec056b4dd94808bfa7972",
+      "action": "REMOVE_KEY",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/PROPOSAL.md",
+      "line": 147,
+      "line_sha256": "439e9b7218df7aefb466c208d8c78dcefc97d1ce26cb522e139f4cb72e921e8f",
+      "action": "DELETE_LINE",
+      "new": ""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/pse-review/ACCEPTED_INTERFACE.json",
+      "line": 89,
+      "line_sha256": "1161a23a04da9110a67b7c5dd653e398330a729dba893f7db310aa78462e8d06",
+      "action": "REPLACE_LINE",
+      "new": "  \"remaining\": \"An authentic complete exact budget for each PSE option actually chosen; other clauses and root coverage unchanged.\""
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/THEOREM_MANIFEST.json",
+      "line": 7502,
+      "line_sha256": "eba3d7ae5fcc645664d8ba5b69e61bc677b2f21fef7f3f2ab19896f18a5943cf",
+      "action": "REPLACE_LINE",
+      "new": "      \"reported_status\": \"Certified in an existing project record; not re-imported by this manifest audit.\","
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md",
+      "line": 43,
+      "line_sha256": "03e6180ddf105016ccf277e874b11e629a8b11232aa2a5aa4c4ba0da02b6e60e",
+      "action": "REPLACE_LINE",
+      "new": "implementation/replay review is separate."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md",
+      "line": 44,
+      "line_sha256": "463cfe70ab3b3930861cd5827112941d32135940586da2553f32536fe3c4f6c5",
+      "action": "REPLACE_LINE",
+      "new": "The analytic implications below do not rely"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPG3p_v5/REVIEW.md",
+      "line": 17,
+      "line_sha256": "0663d70d1c53120f04948d967e338f0deec92e8c407a0e32da3078f129ffd728",
+      "action": "REPLACE_LINE",
+      "new": "Cost of this independent streaming/geometry audit:6.581process CPU seconds, peakRSS332,824,576bytes, one process. No solver, tree regeneration or fresh leaf arithmetic. `audit.py` is adapted from the prior JPG15m reader with explicit new pins/census; ADAPTATION.json records the changes. Use replay.py for future repeats so accepted files remain immutable."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPWS_v4/REVIEW.md",
+      "line": 17,
+      "line_sha256": "73787708d1966dc24b8cf49284c73b8f69b6cbf86f6101cc26e9922cbdeb3812",
+      "action": "REPLACE_LINE",
+      "new": "Cost21.858CPU seconds, peakRSS416,972,800bytes, one process. No solver, regeneration or full polynomial replay. audit.py refuses to overwrite its output; replay.py uses an owned temporary directory. The adaptation diff is preserved."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 1,
+      "line_sha256": "3056d00da700bd3e76f1b8dbb8df0e9e783d16625615e327b9ec8d558409b345",
+      "action": "REPLACE_LINE",
+      "new": "# Restricted charge certificates: schema, statement, soundness (8 Oct 2026)"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 3,
+      "line_sha256": "9cd68c6c5a099fcadbede76cc775377d1c690e16804098978dbbdbe29b30acda",
+      "action": "REPLACE_LINE",
+      "new": "**What changed with the fixed-image extension.**"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 6,
+      "line_sha256": "9ebbf551f1506aca5c0fe56b7bc313ae7f340fb89ac62a17e7b7018b084b412c",
+      "action": "REPLACE_LINE",
+      "new": "  generator's provisional `\"none\"` stays refused; that one constant has to be changed. All 124 objects under"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 15,
+      "line_sha256": "7898443ad166f7bdaacf7ec8033a0ae45b712ac18bf1c7986c10b8c6ccf84e6d",
+      "action": "REPLACE_LINE",
+      "new": "* No soundness problem was found in the earlier symmetric checker (what was re-derived: section 9)."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 383,
+      "line_sha256": "4a2f5aaf5512e892d6f3e2588a5bbab77367bded6380a5c403877d2d84704715",
+      "action": "REPLACE_LINE",
+      "new": "Both decide R4. `reference` (the earlier code): a second tree sweep lists every checked cell below"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 440,
+      "line_sha256": "6f505a4bc8877da615cf66f3f5656ebcf77c2c760a99325fab95190771c50bc4",
+      "action": "REPLACE_LINE",
+      "new": "Speed (the build machine under load, CPU seconds of one process, fin473a image by image, 25-row slices,"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 445,
+      "line_sha256": "4acd1f4ab6f8414720a60846c726b06cb42e41669f43bdcbdafeb521d798cba1",
+      "action": "REPLACE_LINE",
+      "new": "minute per core). The exemption adds at most 0.25 s per row; `--audit` 3.7 s per row. Cores of a second machine"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 446,
+      "line_sha256": "b063bb23eea1e03f9f6b5aa562926b2969d79fa82ab021b6f69d53cddd6a8e7d",
+      "action": "REPLACE_LINE",
+      "new": "were measured earlier at one third to two thirds of a core of the build machine. A slice:"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 457,
+      "line_sha256": "0e0bd4c43fe4507f39c88f3ad1acb62ca8d1b249183e0c09d589a6e516cbd5ed",
+      "action": "REPLACE_LINE",
+      "new": "* Re-derived in the earlier code without finding an error: the similarity N = M W and K, the edge"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "line": 474,
+      "line_sha256": "f7c68eeff9915b55765a2216905e1f9ad0f0b7343304da0a9608df57ce6c78bc",
+      "action": "REPLACE_LINE",
+      "new": "* Not done: the acceptance run of a 300-row engine export (no export existed yet), any run"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/G20S_PLAN.md",
+      "line": 51,
+      "line_sha256": "755a7541f7ae26c22c9f3499ea51d06f19d21b2c5524375726d5e5da915e7279",
+      "action": "REPLACE_LINE",
+      "new": "smallest side with label 3 outside its factor is prepared as a separate computation."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 5,
+      "line_sha256": "15a3fea3abb5f0a42854b2adfde1b632e47444d7024166b5b760423f86eca608",
+      "action": "REPLACE_LINE",
+      "new": "Interpreter: Python 3.12.14"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 13,
+      "line_sha256": "4e6739940446c330ae08c90c7c69b875463d27b2484d45c868f7bc9bfa07800e",
+      "action": "REPLACE_LINE",
+      "new": "- **The principal instance is `instances/box-relaxed/`**: a in [0,1/4], b in [-1/20, 3/20], z in [-1/8, 3/40],"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 24,
+      "line_sha256": "ffb792b71ad9d7abce6822abca82206c2c906db8dded9953864d9ba0010263c8",
+      "action": "REPLACE_LINE",
+      "new": "- Targets (iii), (iv) fail **structurally**: for b > 0.2284 (true geometric limit 0.2303) the"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 32,
+      "line_sha256": "d4808195597ba210097b73d879e98022679b3667c4de44986c2766dd2c652735",
+      "action": "REPLACE_LINE",
+      "new": "- `scratch-original/` : unchanged copies of the producers' files, relative layout kept. SHA-256 of every original:"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 33,
+      "line_sha256": "70893dcab6c8206cf4fe77856d94c359bb1570766c0a41ae816de944f89090f0",
+      "action": "REPLACE_LINE",
+      "new": "  `SHA256SUMS-originals.txt` (verified equal after copying; `proof-receipt.json` there was regenerated by the replay)."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 38,
+      "line_sha256": "1d1845b17e3328eb7dd73c05fcc1ae1a252a1dcdc207ec961f635530161cdab4",
+      "action": "REPLACE_LINE",
+      "new": "- `tools/` : scripts added for this analysis. `make_instance.py`, `run_instance.sh`, `finalize_instance.py`, `composition_check.py`,"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 45,
+      "line_sha256": "0798b7befc55483513044a0bc82e90f7428d6c177d6f19b7cf13b79903054ba4",
+      "action": "REPLACE_LINE",
+      "new": "## 1. Reproduction"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 148,
+      "line_sha256": "5b0630c90abd3d0b8d0d70bcbd9dd79935c55a14d11a2f5696ffc3467eab76cd",
+      "action": "REPLACE_LINE",
+      "new": "| `box-lead` | [0,1/4] | [-1/2500, 3/20] | [-1/8, 1/16] | 13, 4056, 47388403579/10^15 = 4.7388e-5 | PASS | 4, 368, 421149882627517/(5*10^14) = 0.842300 | 52 / 19 / 52 | 72.3 + 9.8, 45.2 + 0.1 + 7.7, 48.0 |"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 149,
+      "line_sha256": "92d15627eda57816cc2be9cf0531eb8b2226e37d6ce949e691450be31023e0b0",
+      "action": "REPLACE_LINE",
+      "new": "| **`box-relaxed`** (principal instance) | [0,1/4] | [-1/20, 3/20] | [-1/8, 3/40] | 14, 4368, 22715168151/(5*10^14) = 4.5430e-5 | PASS | 5, 460, 135416159726711/(2.5*10^14) = 0.541665 | 52 / 19 / 52 | 86.6 + 14.9, 57.3 + 0.1 + 11.7, 64.5 |"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 188,
+      "line_sha256": "e87a5cd15779437453412a05224cd765e34056c8acd3e47c79bbd94f00499622",
+      "action": "REPLACE_LINE",
+      "new": "bisected (secondary)."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 190,
+      "line_sha256": "dd94b86c5c889a58b07e2e199534d26181c09fb5dc6720b0d868e90a415ae865",
+      "action": "REPLACE_LINE",
+      "new": "## 4. Soundness review of the re-instantiation"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 226,
+      "line_sha256": "4ea5907cae0bc9c097c9904c4b0249e1621ffffd5a85fb56382e7c29ba07a411",
+      "action": "REPLACE_LINE",
+      "new": "  current bounds; no stored number is reused. A hand re-derivation of the two first-order row types"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 227,
+      "line_sha256": "db7707d76c0e8076ebf291ea859aeec6a602b44e123712cde3279a1af2caa02f",
+      "action": "REPLACE_LINE",
+      "new": "  (unique owner: `D*Wo^2/2 + Wo*dr + V*Eta^2/2`; parallel faces: the formula of PROOF section 5) found"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 246,
+      "line_sha256": "d94d50bbf05e648c1df8dd44e7dd84599818348961d7c2d486e58e5f37dd8b37",
+      "action": "REPLACE_LINE",
+      "new": "  proofs. The additions made here are exact bookkeeping checks (`composition_check.py`, `roster_check.py`,"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 251,
+      "line_sha256": "218da4734627993f363e2e660c48ce0b2f04f330001b31ed8ef0d2c3fc147ddd",
+      "action": "REPLACE_LINE",
+      "new": "  checked anywhere in Codex's code. The earlier wording \"automatic from S <= Sref\" was wrong and is"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 252,
+      "line_sha256": "e20f5866a0dae023b902679e49e50c2de25d65a5f6aa1a4c31264eba16609a9f",
+      "action": "REPLACE_LINE",
+      "new": "  corrected in every README."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 260,
+      "line_sha256": "171e6322bf15200e17d72c78b63162541d5d6579cc6b9fbf0323e7eae137e6fe",
+      "action": "REPLACE_LINE",
+      "new": "  therefore refuses an entry radius of exactly 1/50. The earlier wording \"radius <= 1/50\" is corrected."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 271,
+      "line_sha256": "ef7cd8caaf22d71afa81017e0ecaf4b1d489f8ec5bd1f37b869d082e24758b63",
+      "action": "REPLACE_LINE",
+      "new": "a proof in these notes, not used by any theorem here; Codex's `padded-terminal/check_stops.py` has a checked version at"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 348,
+      "line_sha256": "0aa4bb5a630dacd587d5577b749022bc7c308c48e03b1cf875257b6aaa9c58fb",
+      "action": "REPLACE_LINE",
+      "new": "| (1/100, 1/100) | subset of the previous line | A probe stopped after 5 rounds without deciding the box; no conclusion from that probe itself |"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 398,
+      "line_sha256": "8ad13f2a49d5704ff94946b9456229b457faee95380f3fd675e13055f5a78c9f",
+      "action": "REPLACE_LINE",
+      "new": "3. `instances/box-relaxed/composition_check.py` (added here, exact) and its output `logs/composition.out`."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 412,
+      "line_sha256": "26da425844b739c1f572ff8ff1f5c24b572d4b0e041484f748ea62120908acef",
+      "action": "REPLACE_LINE",
+      "new": "## 10. What comes from Codex's proof and is not established here"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 422,
+      "line_sha256": "998ea1f0ff45ed4e0d1845b3847bbdd4448184bbd0000387cc0dcece8ceba5eb",
+      "action": "REPLACE_LINE",
+      "new": "   with other constants, and sections 2 and 4 are the analysis of where the constants enter."
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 426,
+      "line_sha256": "71ef1b8804953b9dbe3e3aba6bf7afde248ae467cd2355a3f83f9bc43e6cfcf9",
+      "action": "REPLACE_LINE",
+      "new": "From these notes: the six fractions; the claim that only two lines change; `roster_check.py`; `composition_check.py`"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "line": 432,
+      "line_sha256": "d6cc41f4028ad24a1f27feece39f35d1930a33a2869b8a47251ccbb8324a0cea",
+      "action": "REPLACE_LINE",
+      "new": "- First relational probe of box (ii): the stall rule stopped at a two-round plateau and reported a stall; the box"
+    }
+  ],
+  "copies": [
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/inputs/root-proof/PROOF.md",
+      "sha256": "62a0c88675cb34b427087793cac3af27d4f2ac62b6ba720bd09ac2debab719a4",
+      "bytes": 6878,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/PROOF.md",
+      "original_sha256": "cb856fb216e6db9fde805e9865f201fd3fb330d1e7e82420dc1a3affd2c22390"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/PROPOSAL.md",
+      "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md",
+      "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/PROPOSAL.md",
+      "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md",
+      "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/PROPOSAL.md",
+      "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md",
+      "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/PROPOSAL.md",
+      "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md",
+      "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/PROPOSAL.md",
+      "original_sha256": "6cd45bf920afb9e2356b9829589bd188f523da90620e70e5a77aa31c7166260a"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md",
+      "original_sha256": "3919cd05803f8034798ae14eafd2a9f7ff0cfde34a4cb82cf4287bbf72c7ffae"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-terminal-manifest.json",
+      "sha256": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+      "bytes": 6915,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/MANIFEST.json",
+      "original_sha256": "61cfc9760b5fe2ba12d43015f4eb00fdaf3c8d6066a48ae18c5cccee5d1b9921"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/stop-review/producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1",
+      "bytes": 466,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/producer-replay.json",
+      "original_sha256": "402c4a9f7ab550ca7dd5f6bb98734351f31948e59fb1a356cd8a90a8ae323bfa"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "original_sha256": "bdfdc1d45f73e3c2c4f4eb0636f3b465b210d805b2b3479036b0351687d24b31"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/stop-review/producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1",
+      "bytes": 466,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/producer-replay.json",
+      "original_sha256": "402c4a9f7ab550ca7dd5f6bb98734351f31948e59fb1a356cd8a90a8ae323bfa"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/accepted-old-terminal-manifest.json",
+      "sha256": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+      "bytes": 6915,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/MANIFEST.json",
+      "original_sha256": "61cfc9760b5fe2ba12d43015f4eb00fdaf3c8d6066a48ae18c5cccee5d1b9921"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361,
+      "handled_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "original_sha256": "636591f0544c77021c9e8b31c319f6de7783a9dea8aa93bbcc6709f562c9a081"
+    }
+  ],
+  "scope": "Declared extracts checked by original file and line digests; removed text is not reproduced here. No new independent review is asserted.",
+  "second_list_sha256": "17cf876e8106de81ad5c9bf196bccb5af2c00f0d0760eb48f9bfbcc96596f26d",
+  "round5_overlap_composition": [
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 374,
+      "disposition": "two declared extracts touch this line; the removal is applied last",
+      "list1_line_sha256": "42452302a0346070fdedca66673f343efd70a9371de1717552e2e4914a09d70e",
+      "round5_new_line_sha256": "015a706c2d492fe29b3e852a51714bdbbf187cbfa0d8ebab24561fbd22f345ae"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 388,
+      "disposition": "two declared extracts touch this line; the removal is applied last",
+      "list1_line_sha256": "a405aec54b51b0b41e44e355003ca3b9e1e2aafd5a131dde3298680fc70ee27b",
+      "round5_new_line_sha256": "7dd20739d5ecfa725376a93354d2ca57d46fbcb7ec353570068b175df8151823"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 374,
+      "disposition": "two declared extracts touch this line; the removal is applied last",
+      "list1_line_sha256": "8d025ab47b12de534ac657d23e67b56ba7ca782dd57f348c1c8269d9afd41953",
+      "round5_new_line_sha256": "da8f5fe57dde6e42b1dd265ef8114365fa01e718bb205c31bddadff888a202cb"
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "line": 388,
+      "disposition": "two declared extracts touch this line; the removal is applied last",
+      "list1_line_sha256": "9332c378b58ddb0424bb8802e56f23a5d1358074253315deb2a344fb57682db1",
+      "round5_new_line_sha256": "257879a441df262e95e7dbc0485763735fc2b8eb25491dd3b7c1459fcdc069f3"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/fifth-order-20261010/jpa-import-AG/INDEPENDENT_REVIEW.md",
+      "line": 100,
+      "disposition": "two declared extracts touch this line; the removal is applied last",
+      "list1_line_sha256": "fceafadeda1e416aae8074f0de1d243e47b0badac625fb9f225bacf61548287e",
+      "round5_new_line_sha256": "660a71d20987af2ebe50da685f77caa1c802754d663f551a04af8879602994c9"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/third-order-20261010/local-region-audits/JPWS_v4/LEAD_RECORD_SNAPSHOT.md",
+      "line": 165,
+      "disposition": "two declared extracts touch this line; the removal is applied last",
+      "list1_line_sha256": "e48a2036184acb1e27b5c7b6cfebc323858bbb665b808fa1f5856b801003af0e",
+      "round5_new_line_sha256": "f41c094e537be90cd8d0b6256acb17d4f8137b2c600b99b9a5517bc9f9730220"
+    }
+  ],
+  "current_objects": [
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/REVIEW.md",
+      "sha256": "5e1625337eea549aafd6cbfb64414d60644ebdd72228e3194547a52e866a945a",
+      "bytes": 6911
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/reseal-resume-1120/graphs/objects/d349189dfc4e81ca3ec6029bbb7705a76f98d2a0dbe1079bf2a32571dd15a6ac/EDITED_LINES_RECORDS.tsv",
+      "sha256": "5173f6e98fec3e8db56c092227d3be9dc7c8709d66d02c08ecd9bfdbef9287e8",
+      "bytes": 71900
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/reseal-resume-1120/graphs/objects/e57f088880ceb4681070d7a6928fb6704d03373d4aa4a88fa779c203d6fcae99/EARLIER_EXECUTIONS.tsv",
+      "sha256": "e57f088880ceb4681070d7a6928fb6704d03373d4aa4a88fa779c203d6fcae99",
+      "bytes": 6307
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/reseal-resume-1120/graphs/objects/cce600b80d0d7df92da5fa5642dfce1e6576de15c2093adcbf0ecf8584092afa/RECORD_HASHES.json",
+      "sha256": "029aed5495812e2be0f565cd45f5d38b899a7c2662db3ee676e3e84c5acc243c",
+      "bytes": 7717
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJG_v2.md",
+      "sha256": "aa4931c5246af907514a965c7f220c66ef6c79c0fe80660d45673843a1b72d2f",
+      "bytes": 24112
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG15m_v5.md",
+      "sha256": "2ba460f0695bcea4233f539f61300593e507ab66634536c5965667ce4f0ef375",
+      "bytes": 18241
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG15p_v5.md",
+      "sha256": "6fabbcd875b57f363c273403fb31e9e44d12d45140e172a5fe6579381e2de402",
+      "bytes": 15352
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG17m_v5.md",
+      "sha256": "f26d995fb9017fb2db761209e4da58b575be04d7a98b194277b61812400f68ca",
+      "bytes": 15763
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG17p_v5.md",
+      "sha256": "7e6750bceefeab9dbc7b26ffc57666ed53b6c9cab7f3fcceb385dc5a4312f08b",
+      "bytes": 17672
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG3m_v5.md",
+      "sha256": "2fca7b5b1a05e65dfa433f901d4366608a3f881a8f6a6db97aa3ea3d388b0686",
+      "bytes": 16163
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG3p_v5.md",
+      "sha256": "0e66116336814bc2669d9ab61656ab8ced851205afe8df278e4a0713861d4c97",
+      "bytes": 16648
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPW13_v2x.md",
+      "sha256": "3ca62dd1396b61eada2543646c732f171bdc28d5b8ca652107da7955c83ea8bb",
+      "bytes": 35902
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPWS_v4.md",
+      "sha256": "8ece74d148f51994df00952c2dbdef487a768b3950478ef85f750caa6e6b4c80",
+      "bytes": 26829
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJQ_v1.md",
+      "sha256": "fb74f216cfbf016d737c4efcf8f40019243b10f144c831ca2e381aa51f073612",
+      "bytes": 6647
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/reseal-resume-1120/graphs/objects/631d325a92f83b621e1b3b24c06df0c17f62994484ba2e51f867184c6a712b08/record_edit_list.json",
+      "sha256": "f9042d6bac78f17433170495721119e3602aa55a62eb4da5213684d81321dccb",
+      "bytes": 97746
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/REVIEW_30.md",
+      "sha256": "85ad0498b2ae47cb0b6ba9f9ec4187da5bf6b16c1c7cddd2ce5f70f9fada519d",
+      "bytes": 129498
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/REVIEW_30_ACCEPT.md",
+      "sha256": "c64708f23a3eab19566ca2277da578a1893e7ce859e28e2f1f600f1067a1d363",
+      "bytes": 81613
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md",
+      "sha256": "f267ae76954bf1f73edb36f096c3aed3b5d33dfd9b474e925e66b3900e171ba9",
+      "bytes": 16719
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+      "sha256": "e34abbf4ab5c94d45f3a83651fac3f21e8be09c6f1335f8c72aba8f12a403a54",
+      "bytes": 22820
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+      "sha256": "80a84fb8a869ecff09e76a2ce1dd7d3d2a0f4c7b04ad8aac2400ded0d4eaf985",
+      "bytes": 10033
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+      "sha256": "7e2d1935775ae8c936a0e7c8a896c28164007c6d457d30f2261f7fb5dadad845",
+      "bytes": 12341
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+      "sha256": "c617776554d5b04e599a31ebd0e156575eb49f21acf3eedae541eea40a3be9df",
+      "bytes": 10771
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+      "sha256": "53c70a667c0e6bf52c7b3b4db56ceadb636eb132f90a460a133e1cb630308f79",
+      "bytes": 12652
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+      "sha256": "8bd94339f25c8b41771eae42b61454b20b453a3233f27f5f38d9565dcdff81b5",
+      "bytes": 6927
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT.md",
+      "sha256": "b81f450e63c4adf999eb99b2c69643cd757ff5ba6c5b58a01cb4f0a2545ad72f",
+      "bytes": 18911
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_ADMISSION.md",
+      "sha256": "dd31cfa4c8545bab768a527b8dbe65c0d2de2a138695ac3e3dd859e44e9b2bae",
+      "bytes": 17950
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_A_charge.md",
+      "sha256": "f8be3116ef16900218b89e935b6fc9f3fc05e07ffe5f58d43695b37e77acdbfe",
+      "bytes": 13822
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_B_local.md",
+      "sha256": "7136815b33bb7a2b57618290136499317d00b03eb402bfce54fcab56865e63d7",
+      "bytes": 16035
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_CAPACITY_LEMMA.md",
+      "sha256": "0fd99f5564807e8371181687ab4e4ffdea9cb354132a9f6f8a705644df35f02b",
+      "bytes": 13389
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_CHARGE_CORE.md",
+      "sha256": "1f1c43851adbf68fabb28faaad3b1ca9fc3083e1370be4c189a73a389a696b6f",
+      "bytes": 16274
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_CHARGE_SEMANTICS.md",
+      "sha256": "de635a114810b989ff81cad2b2b852d5d0e4fc7ad69e3e8780cada5a109d69b2",
+      "bytes": 16316
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_COMPOSITION.md",
+      "sha256": "6a44fd31f4feb4fd854a1cdfdce1a4cc5c98916d7ff1f7ac4ae2145216b6fc52",
+      "bytes": 41645
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_C_frame.md",
+      "sha256": "23d8b55034786178ec72af0356f9bcf65fb13af57529f2d6ea9f336f2c2f4230",
+      "bytes": 15115
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_D_join.md",
+      "sha256": "24308f74322369528ae3a0e44d3a52245eb4da26ab4e2b1f8151848b07719fca",
+      "bytes": 11522
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_ERRATA.md",
+      "sha256": "f76391d5b5f768588b6d0512f3689a78be6dd75e8fb11561f764e7887f29d215",
+      "bytes": 25320
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_ERRATA_2.md",
+      "sha256": "505bd3aac850454c31d182fdb5a0051fa4a9f27c13a2f8ede9e1bdb3ebc3f46b",
+      "bytes": 20928
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_FRAME.md",
+      "sha256": "6b7ba895f64ea1ae9f5dddf147c4393615afe8ea6b92837ea0898ddd3238efaf",
+      "bytes": 17973
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_LOCAL.md",
+      "sha256": "6794992f414b548049d3ce0a37d2e5f764e7ba6278342e96cd9e1947c48f6272",
+      "bytes": 21715
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_LOCAL_2C.md",
+      "sha256": "4f24555af2eb75b1e563c18777556237b742dc68922c55e78beedd263c3362ea",
+      "bytes": 5096
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_LOCAL_CHECKERS_IMPORT.md",
+      "sha256": "75b8855faf6a6ae979e8e74728ff7b01ab2bbcb473de096493d275c34c8e2926",
+      "bytes": 15493
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_LOCAL_PY.md",
+      "sha256": "ecbbfd3dcb86d81e148cee982d70898512a2ea81c9b9e7dd1e4a3664efb7defd",
+      "bytes": 20273
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_MACTREES_FINAL.md",
+      "sha256": "e9e4de08810f4aa34453484508eaaa7dc5761aca385fde41f745ade577a2b688",
+      "bytes": 6023
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_MARKER_CONVERSION.md",
+      "sha256": "e1ead69908beb73d4b6720e95c3a50a169b32933a5aeca8bbf2b6d12440141fd",
+      "bytes": 3401
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_ORBIT.md",
+      "sha256": "57bc90c7698a7589abf594e6d674303a81e4578200da7978b68744315d8fe3b7",
+      "bytes": 16133
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_RECEIPTS.md",
+      "sha256": "5fbb4925c4ff10c97fbab53b2053d595f0cd8b125f2a2ec98c790f959d3e1b7a",
+      "bytes": 23674
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_RECORDS.md",
+      "sha256": "3c2caee059c4fd547d64be64f85871f9d502a77cbab5196e656baef2e83aa8f6",
+      "bytes": 16265
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_S6_join_PS06T17ENDp.md",
+      "sha256": "389c8a00f0f22bad46b10c10dfe0ead9cbe67a7262ca1801d297e5b54a6387a9",
+      "bytes": 1410
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_S6_joins.md",
+      "sha256": "c6add8582d6f2c634977e08bac60ed40b919f735ed71b0aa73a48b3a09137270",
+      "bytes": 4564
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_SELECTOR_A.md",
+      "sha256": "af475de7dc09e10fa477cae5eb1709b865930814071008d4768a8dc38d60fcf4",
+      "bytes": 22884
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_SELECTOR_B.md",
+      "sha256": "a9ed6821e298a86e41e600b5bc3588d4da09c40e487089bf086280b68aa8f9b2",
+      "bytes": 19408
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_SELECTOR_C.md",
+      "sha256": "3765c2320e8cfb815813ddf9915a0b0321df20b68b886e800e7619deff9c1427",
+      "bytes": 15789
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_TERMINAL_2.md",
+      "sha256": "db59fe0da7d13ddae2e5e3a938c0a2c31f7fdd50dc1d1ef01e2bb9449d010a53",
+      "bytes": 19027
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_UPPER_EXACT.md",
+      "sha256": "506d6c8288828d58ef4f5700380c8d118533a36e5b275054456ee2d08d9c9eb3",
+      "bytes": 13349
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/reseal-resume-1120/graphs/objects/4da8d938feaf76d8e85ad018ef1ed3512d95f77550401797c279226fcab9ecd6/REVIEW_HASHES.json",
+      "sha256": "902d1e217c42161ebd338ade6b6f22df82b94e5b5634ac550e32d0a6aafff311",
+      "bytes": 12084
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/reseal-resume-1120/graphs/objects/126c9e391fc271a4182bc0101d5c9f06b555aa56e39b55cff3a4e2b354ad4d75/edit_list.json",
+      "sha256": "fb46f9eb13b2c296f616a2908f52276a292e3bce7868bd113d4a53b9b53c6441",
+      "bytes": 104125
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/reseal-t-1420/grapht/objects/b0092f4edbd1485f2269c2623c4258676cb3f6261d994da6b9fa2e20394712de/EDITED_LINES.tsv",
+      "sha256": "b0092f4edbd1485f2269c2623c4258676cb3f6261d994da6b9fa2e20394712de",
+      "bytes": 82757
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/REVIEW.md",
+      "sha256": "f76b5f8da527bed03ecd62e1595758ebf31974cbd0c47462b8159dfe7d81e92a",
+      "bytes": 9338
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/checkers/independent-review/inputs/RESTRICTED_CHECKER.md",
+      "sha256": "1b083a119b5f4b8c858dc052ee7dcb3551084f9a6e080f9b38ef5d99b093800f",
+      "bytes": 34463
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "bb620e04fe2d270372d1147957e3eb540edcd48c46d5b9b06ed9ccfc6b089e05",
+      "bytes": 4396
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md",
+      "sha256": "38906714154786f370fbdca4a53a154f986d58b1fbe796676991a314ab34fa8d",
+      "bytes": 12362
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/MANIFEST.json",
+      "sha256": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+      "bytes": 6915
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/RESULT.md",
+      "sha256": "0b97488e46f7e79c2201e0eb51cb8f734c99f69ad4919ac6db2fcbfc9c87c781",
+      "bytes": 4003
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/FRAME_L9.json",
+      "sha256": "603673f2213d128aad4cebc6cbf4a9dde348e0c05e9bbff0168434d326052424",
+      "bytes": 9546
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "sha256": "ba53b261c4cdf35c06067d02b014aec168c6be4a86de4943d4501368c3ba8c13",
+      "bytes": 11957
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "303749a22f3e46923a269bcc2d243d2132b0cb0db2c49327059449119fd789f3",
+      "bytes": 7434
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "sha256": "24a7a4d625b6b2e17407d771a4ce300211cc3eaea6bccdef638d944b28e3a439",
+      "bytes": 56160
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/premise-review-P/inputs/full_gate_analytic_review.md",
+      "sha256": "8d036de57d583155208ae6b1014f11041f952e22724922183373d0978863bf02",
+      "bytes": 7744
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/premise-review-P/inputs/local_spec_notes.md",
+      "sha256": "c685f6e1625b09ef237ee78671f2a8540bb0e4274853ec7be73472aefe1f255f",
+      "bytes": 8683
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/KNOWN_LIMITS.md",
+      "sha256": "caa79a6662be09b8d5a58587b9021169e945d9d8e6a55486810958ae96d9741a",
+      "bytes": 12574
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/PATH_NEUTRAL_LOCATOR_CHANGE.json",
+      "sha256": "1847578ae4044e2d9f41495efc723391bde4ac27c70cac9bbb4c159e422ab906",
+      "bytes": 1024
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/PATH_NEUTRAL_POLICY.json",
+      "sha256": "8bf0a6e240fc7d45e1ca100188cc6872692914f9a8120e9c2abd0abe778d15db",
+      "bytes": 953
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/ACCEPTED_INTERFACE.json.txt",
+      "sha256": "2a791cb40f7eb1d4bdd3953a952cd99fa10a50cda789cb4fd5557647f860a730",
+      "bytes": 28874
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/JPG15m_LEAD_RECORD.md",
+      "sha256": "0f198938eaf23ea6e1ab9e354ebbb372705f039751814b27f5f738faff819785",
+      "bytes": 13144
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/JPG3p_LEAD_RECORD.md",
+      "sha256": "b638e33957eb0e8b8a714960a3916917d854f78e05dc3288fc174b2fcd426584",
+      "bytes": 10903
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/THEOREM_G20S.md",
+      "sha256": "c311e482c50e66df5d1730a9b10e82bc54deb943ae23ee6fdffc90a261851a4c",
+      "bytes": 10263
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md",
+      "sha256": "87ead22a238ccc15c466a822d1c252822abe927456a300128b6585ae95f6c821",
+      "bytes": 12464
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/fifth-order-20261010/jpa-import-AG/INDEPENDENT_REVIEW.md",
+      "sha256": "00bd092bfffd4131c874e2858cf16b46f0a6c64227053a410e722be766a1e40f",
+      "bytes": 14364
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+      "sha256": "24a7a4d625b6b2e17407d771a4ce300211cc3eaea6bccdef638d944b28e3a439",
+      "bytes": 56160
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/finite-stopped-contraction/continuation/README.md",
+      "sha256": "3c49f9efadda5a074b2b17c82715bec1df7ff218f3b31ec39b566158ddb4b7d1",
+      "bytes": 1698
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/finite-stopped-contraction/producer/README.md",
+      "sha256": "39b31f77933852e3edcb84df42596fb3264792508a65718b9f97601817ef3cfe",
+      "bytes": 2817
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "sha256": "94f82607df426bf45b273ee0b01e360ff5f796f925bfdcfa87591928b3b8f463",
+      "bytes": 9903
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/join-design-files-20261009-1525/frame-premise-producer/THEOREM.md",
+      "sha256": "fc4f35a15e6c2caa54f6e15430057ef044ab1897a8fe2a0e2e133418eaf7bc68",
+      "bytes": 10898
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/third-order-20261010/local-region-audits/JPW13_v2x/LEAD_RECORD_SNAPSHOT.md",
+      "sha256": "27f96de158143a8eb56c9cd2e5aff9c5e505374f9e7b4c8920d9bacecb952c64",
+      "bytes": 28295
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/records/round2/window-capture/third-order-20261010/local-region-audits/JPWS_v4/LEAD_RECORD_SNAPSHOT.md",
+      "sha256": "e7df6f029b6a340f00685e6b034729081bc289296157547f327835141010d5fd",
+      "bytes": 19286
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v7/PROOF.md",
+      "sha256": "0d4c408d1e38a8d858281443b27ac4e0cf3591ba9045be8e8ec176a318916ee6",
+      "bytes": 59659
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/runbook_public.json",
+      "sha256": "ef3be16448f277f0b25aa4229f8429bf4c471161b92bb327725541c985a084f0",
+      "bytes": 23580
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/inputs/root-proof/PROOF.md",
+      "sha256": "62a0c88675cb34b427087793cac3af27d4f2ac62b6ba720bd09ac2debab719a4",
+      "bytes": 6878
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/REVIEW.md",
+      "sha256": "a697e6ac1cd1b698f273061eaec437b5531a459a9c7b3fe9d0a3d68069e4b9b2",
+      "bytes": 6154
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/PROOF.md",
+      "sha256": "62a0c88675cb34b427087793cac3af27d4f2ac62b6ba720bd09ac2debab719a4",
+      "bytes": 6878
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012i/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012n/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012q/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/current-author-20261012r/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/inputs/research/finishing-threshold-goal-20261007/window-capture/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/PREFREEZE_BINDING_FAILURE.md",
+      "sha256": "7078f19e68272af7d4a8849cba94710aa7e06e85ca961c559fd97e4f56069f48",
+      "bytes": 813
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/REVIEW.md",
+      "sha256": "4ed653f1365a24522cabf8ad06ad1c2ca89b1e85bab86106a7d3a1126907b253",
+      "bytes": 6722
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/producer-replay.json",
+      "sha256": "ca656b21b400c02bbf16cf6f64cff4e67427456e34fa06c374e2b92457c878e5",
+      "bytes": 466
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/REVIEW.md",
+      "sha256": "7d01422f04715bfd0ab832a213bfa8a81d714fca0c8b56343e186057c19980b7",
+      "bytes": 4529
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/check.py",
+      "sha256": "85d064c0d1a83f0ff3096ced34446426ffaa2194419e82dde5cede98705c6ff5",
+      "bytes": 13081
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation/README.md",
+      "sha256": "0071e92d9a65d0ca774562dfa4a9e19bf5a1fa8382794030c7b61153a2146546",
+      "bytes": 1588
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/RESULT.md",
+      "sha256": "94ce8a00f4185c7863c43b2a20442b814122193d332fbee4a6ddf9c16e369202",
+      "bytes": 1745
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-independent-review/REVIEW.md",
+      "sha256": "f9f0b6e0353e33e5b149c7f56ae391a5f3c78931db4cf6bab3812a99bf2924d7",
+      "bytes": 4254
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-independent-review/check.py",
+      "sha256": "edf090f0813b2c06a2262bc872f24da19f9bd13bbb44da2063daa66b85226880",
+      "bytes": 13978
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/independent-review/REVIEW.md",
+      "sha256": "047832de9ad20b5d72e64b7517d71fac03f1ca3bad34322ab70dd31a9f3f621c",
+      "bytes": 6718
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/independent-review/check.py",
+      "sha256": "2d99441c24f99af20741b2a177b2904e883539d05ecf26bb46533f3add3c0434",
+      "bytes": 11112
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/README.md",
+      "sha256": "25aed994bd441d45f7722c56dd2d908750740c1417138f4622dc383760ecb12a",
+      "bytes": 2707
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/producer/RESULT.md",
+      "sha256": "80d6c9c631a819e9e171d853c88578525ba7bd8728ef127d9a61e81376af2822",
+      "bytes": 2002
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/REVIEW.md",
+      "sha256": "298bd9b7d32614921db5667573c93911bb6f3123e132ac1e5c2c58023e19a00e",
+      "bytes": 4917
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/check.py",
+      "sha256": "36d3a6bfa167c4522a05b104d59380698985da73b6c5260c85a2f6ee36da147e",
+      "bytes": 14067
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry/RESULT.md",
+      "sha256": "c00e94712cba07155c47b14852b89e5ce7e35994fe8d80eba093eabe5534ec7e",
+      "bytes": 2082
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-terminal-manifest.json",
+      "sha256": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+      "bytes": 6915
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/RESULT.md",
+      "sha256": "c55cccf8261fae6d997e6d239dc28af819a5b56dbff3f6a7c071666173d0039c",
+      "bytes": 2385
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/THEOREM.md",
+      "sha256": "ced6028d1a33178f6f63f31f44f520785f812668d6a474878ef6a4077d54e55c",
+      "bytes": 6139
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/stop-review/producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1",
+      "bytes": 466
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/producer/inputs/stop-review/producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1",
+      "bytes": 466
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/REVIEW.md",
+      "sha256": "a65594ffb6cfca79fc2b532bc4ae21a59e670b851db234468973a7f71af22faf",
+      "bytes": 4747
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/independent-review/REVIEW.md",
+      "sha256": "ac96d816b9bf4265c739d85b2194aae83389f229cff8ddc669ee78b364f2db1f",
+      "bytes": 7799
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/RESULT.md",
+      "sha256": "ca6beff1d65ff5d1ea2c171a7944e75b0f9e73c5b08eaa04f85dc1511c93f334",
+      "bytes": 4544
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/accepted-old-terminal-manifest.json",
+      "sha256": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+      "bytes": 6915
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/normalized-dual-reuse/producer/inputs/full-gate-result.md",
+      "sha256": "068d914d988542e60abccfc918187c4ddf78c9833ae45c7559e55710259a072a",
+      "bytes": 7334
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/ASSESSMENT.md",
+      "sha256": "cdb0dd61c25ec91f31bbfcfffae67acef76d4a099c863c0b718a2d71954b67fc",
+      "bytes": 9795
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/G20S_PLAN.md",
+      "sha256": "732a20e8f2e41af0568d870f8a3cd08732d6ffb7e574e314842f9a7fc1532de8",
+      "bytes": 4290
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md",
+      "sha256": "d7c95901b4e42f85b6ee9f33b636bd1bba12dc06c625381cc8076953d4bed448",
+      "bytes": 37953
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/lp-review/PHYSICAL_SCOPE_MANIFEST.json",
+      "sha256": "5a47ab81102b644f67ed4bd51b23f9c026a32141c4c6f284b4c69200aa920f63",
+      "bytes": 975
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+      "bytes": 7550
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-review/producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1",
+      "bytes": 466
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/RESULT.md",
+      "sha256": "792877a9339c18c578b3d4e120a5f401f3413e6d1a0a2d09e2bb8d88d71e37ca",
+      "bytes": 6746
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+      "bytes": 70361
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review-manifest.json",
+      "sha256": "d98a4956589f65ff6fab859e12d9aeda6db27d04b1037625423f82863f633a60",
+      "bytes": 1881
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/targeted-seven-objectives/producer/inputs/seven-face-review.md",
+      "sha256": "4ac66c485f6b07bc5f1c368c084a815d15bdbcf97e40854fe549eb09af3eae4c",
+      "bytes": 4242
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/larger-leaf/RESULT.json",
+      "sha256": "e0b99376cc1239a843ad2d5cd2cebe29cf8791edfce13debd264a3874fc25a6b",
+      "bytes": 127792931
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/pss-ruling/ACCEPTED_INTERFACE.json",
+      "sha256": "1ee2462df7193c26650d4d41903cf54a002efdaf1e02e760107be3135fe01dc9",
+      "bytes": 782
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348",
+      "bytes": 8328
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/pse-review/ACCEPTED_INTERFACE.json",
+      "sha256": "04a0d4a86b8204f78a7a3f996ce2e60f1edd4fc29940eb161b575d3494b9c7be",
+      "bytes": 3696
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/THEOREM_MANIFEST.json",
+      "sha256": "3ac30598f4e78789f43080e2925fc1f4bce2e67312936bc0a1ff951b5de12147",
+      "bytes": 383515
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/slider-attainability/independent-review/REVIEW.md",
+      "sha256": "36799546617fd7dc10dd95744bd777b1d3c7661e9f7d53298fbe69245971b7af",
+      "bytes": 11474
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPG3p_v5/REVIEW.md",
+      "sha256": "9d0b8fdbf08d334ddc1be2d435496e341f8c37f31469f1358d62611bc3606658",
+      "bytes": 4828
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/local-region-audits/JPWS_v4/REVIEW.md",
+      "sha256": "090ad2c2b8fe45fca0c3558a0820a3d8c7502cf71f8cc83c17a3790f08447494",
+      "bytes": 3688
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/window-extension-20261008/reviews/REVIEW_30_JS.md",
+      "sha256": "8d7e66111b59d7d0eae969f3ebb6317391826beb0e9e3befa1721ad068c5feeb",
+      "bytes": 61338
+    },
+    {
+      "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/window-extension-20261008/reviews/REVIEW_30_PY.md",
+      "sha256": "09dc20259215a88d141cd4352c0c9d4be0dd9fd0c6b5d0f2687d2d5c0d4e865f",
+      "bytes": 90190
+    }
+  ],
+  "line_basis": "Line numbers and line digests identify source lines before extraction; file paths identify the current artifacts. Replacement text records the declared intermediate extract; later path substitutions and execution-limit changes are separately bound."
+}

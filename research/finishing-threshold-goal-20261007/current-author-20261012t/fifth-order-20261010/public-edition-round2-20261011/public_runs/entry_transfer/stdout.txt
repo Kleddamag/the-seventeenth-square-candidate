@@ -1,0 +1,1 @@
+{"status": "EXACT_TRANSFER_AND_RAW_SLACK_PASS_REQUIRES_SEPARATE_STOP_THEOREM_BINDING", "cpu_seconds": 0.004401999999999996, "raw_cutoffs": {"b_lower": "-213/25000", "b_plus_z_upper": "49/2000", "z_upper": "33/1000"}, "strict_raw_slacks_decimal": {"b_lower": 3.000000000006482e-06, "b_plus_z_upper": 6.085680459479321e-05, "z_upper": 4.385680459479969e-05}}

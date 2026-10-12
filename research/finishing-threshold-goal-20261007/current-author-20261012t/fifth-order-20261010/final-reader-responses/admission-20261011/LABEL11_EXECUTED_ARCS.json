@@ -1,0 +1,226 @@
+{
+  "status": "PASS_ALL_FOUR_ACTUALLY_CHECKED_LITERALS_SHARE_THE_EXACT_HULLW11_TARGET",
+  "selected_map": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/frozen-final-original-20261010_233915/SELECTED_ORIGINAL_MAP.json",
+    "sha256": "63943cf07fd93323890d9aff23264ae538504976a4de63e890686ae9cc1da0fd"
+  },
+  "receipt_roster": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/frozen-final-original-20261010_233915/RECEIPT_ROSTER.json",
+    "sha256": "c031c9afc47c7ddbc9bd6dd44eb2253e35af32d2d3025fe2b89a7af61a789423"
+  },
+  "rows": [
+    {
+      "statement": "CLASS_PSSW37_L11_T03",
+      "clauses": [
+        "BRANCH_JPG3m_L11",
+        "BRANCH_JPG3p_L11"
+      ],
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T03/classes.json",
+        "sha256": "62884f4713ede60ac2a9e94bb9c9f9ca457eb53ba0af74a610e72e617d9a32ac",
+        "bound": "23"
+      },
+      "checked_class": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T03/classes.json",
+        "sha256": "62884f4713ede60ac2a9e94bb9c9f9ca457eb53ba0af74a610e72e617d9a32ac"
+      },
+      "audit": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T03/audit.json",
+        "sha256": "2a32065d798e9ffa8ed8efb9daeb05bea8e8b6395607b26e4a5464fa5ef206cd"
+      },
+      "receipt_folder": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T03",
+      "target": {
+        "name": "HULLW_label11_exempt",
+        "threshold": "0",
+        "slots": [
+          {
+            "centre": {
+              "polygon": [
+                [
+                  "15471207/10000000",
+                  "9525267/5000000"
+                ],
+                [
+                  "18107389/10000000",
+                  "4249461/2000000"
+                ],
+                [
+                  "648923/400000",
+                  "23508531/10000000"
+                ],
+                [
+                  "13586893/10000000",
+                  "266397/125000"
+                ]
+              ]
+            },
+            "angle_tan_half": [
+              "1430271/5000000",
+              "4828869/10000000"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "statement": "CLASS_PSSW37_L11_T15",
+      "clauses": [
+        "BRANCH_JPG15m_L11",
+        "BRANCH_JPG15p_L11"
+      ],
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T15/classes.json",
+        "sha256": "dbb66ab1b94e553edd86968f0580430318bfb44805252c90fe469792fb90a4f1",
+        "bound": "23"
+      },
+      "checked_class": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T15/classes.json",
+        "sha256": "dbb66ab1b94e553edd86968f0580430318bfb44805252c90fe469792fb90a4f1"
+      },
+      "audit": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T15/audit.json",
+        "sha256": "4e0faa928485a9b6fdda2ed0d5c630bf5d05686adf0fee5a8795167a9a4187c3"
+      },
+      "receipt_folder": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T15",
+      "target": {
+        "name": "HULLW_label11_exempt",
+        "threshold": "0",
+        "slots": [
+          {
+            "centre": {
+              "polygon": [
+                [
+                  "15471207/10000000",
+                  "9525267/5000000"
+                ],
+                [
+                  "18107389/10000000",
+                  "4249461/2000000"
+                ],
+                [
+                  "648923/400000",
+                  "23508531/10000000"
+                ],
+                [
+                  "13586893/10000000",
+                  "266397/125000"
+                ]
+              ]
+            },
+            "angle_tan_half": [
+              "1430271/5000000",
+              "4828869/10000000"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "statement": "CLASS_PSW37_L11_T09",
+      "clauses": [
+        "BRANCH_JPA_L11"
+      ],
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T09/classes.json",
+        "sha256": "412cd87edd916b8adffa65e311c6c0d3a22151afbffadaaba6118c78f91d1bca",
+        "bound": "23"
+      },
+      "checked_class": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T09/classes.json",
+        "sha256": "412cd87edd916b8adffa65e311c6c0d3a22151afbffadaaba6118c78f91d1bca"
+      },
+      "audit": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T09/audit.json",
+        "sha256": "58d732c630ad25db26a2b69725092459b7532abea1f91ab7e07e22c51f5a4b4b"
+      },
+      "receipt_folder": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T09",
+      "target": {
+        "name": "HULLW_label11_exempt",
+        "threshold": "0",
+        "slots": [
+          {
+            "centre": {
+              "polygon": [
+                [
+                  "15471207/10000000",
+                  "9525267/5000000"
+                ],
+                [
+                  "18107389/10000000",
+                  "4249461/2000000"
+                ],
+                [
+                  "648923/400000",
+                  "23508531/10000000"
+                ],
+                [
+                  "13586893/10000000",
+                  "266397/125000"
+                ]
+              ]
+            },
+            "angle_tan_half": [
+              "1430271/5000000",
+              "4828869/10000000"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "statement": "CLASS_PSW37_L11_T17",
+      "clauses": [
+        "BRANCH_JPG17m_L11",
+        "BRANCH_JPG17p_L11"
+      ],
+      "literal": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T17/classes.json",
+        "sha256": "e8364ed2427eddc1b8c601b75a79b080ff821b19af44fd353f86edde7e0a4808",
+        "bound": "23"
+      },
+      "checked_class": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T17/classes.json",
+        "sha256": "e8364ed2427eddc1b8c601b75a79b080ff821b19af44fd353f86edde7e0a4808"
+      },
+      "audit": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T17/audit.json",
+        "sha256": "ccd033e9aa415e27e57ecb541e22785a1ed218e02143a738bcaf6ed7c2ef3f86"
+      },
+      "receipt_folder": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T17",
+      "target": {
+        "name": "HULLW_label11_exempt",
+        "threshold": "0",
+        "slots": [
+          {
+            "centre": {
+              "polygon": [
+                [
+                  "15471207/10000000",
+                  "9525267/5000000"
+                ],
+                [
+                  "18107389/10000000",
+                  "4249461/2000000"
+                ],
+                [
+                  "648923/400000",
+                  "23508531/10000000"
+                ],
+                [
+                  "13586893/10000000",
+                  "266397/125000"
+                ]
+              ]
+            },
+            "angle_tan_half": [
+              "1430271/5000000",
+              "4828869/10000000"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "negative_control": "Changed lower numerator1430271 to1430272; target identity test rejects",
+  "no_new_arithmetic_replay": true
+}

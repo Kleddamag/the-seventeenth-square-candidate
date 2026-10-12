@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "mode": "read_only_snapshot_check",
+  "command": "python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-producer/check_stops.py --snapshot --check",
+  "producer_manifest_sha256": "ebcb669d46ea8230bf840c98ff7fb7b0d6980bcce1ea11315a9b9508b9a7c03d",
+  "producer_receipt_sha256": "e4e7a631108bdea1bcbd368c99af5e6d504dc3f3b20c6d566b54061b637c1f9b",
+  "cpu_seconds": 0.014673
+}

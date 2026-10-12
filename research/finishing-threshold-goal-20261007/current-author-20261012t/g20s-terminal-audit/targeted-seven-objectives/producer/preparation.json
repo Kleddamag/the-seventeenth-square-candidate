@@ -1,0 +1,86 @@
+{
+  "status": "PREPARED_ONE_GLOBAL_B5_SEVEN_OBJECTIVE_ROUND",
+  "sources": [
+    {
+      "path": "instance/research/joint-capture-20261007/pilot.py",
+      "sha256": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/relational.py",
+      "sha256": "e268531d2279c38a7f47f809911890d17d8620aa9c49f1a87d230db6f17db1f0"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/rigidity.py",
+      "sha256": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/root_geometry.py",
+      "sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/uniform.py",
+      "sha256": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/upstream-root-certificate.json",
+      "sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/verify.py",
+      "sha256": "1a6c91a8cc1e665e03e3a96815dab106c236ca4dd64de0132aafd933562423d0"
+    },
+    {
+      "path": "instance/upper-packing-certificate.json",
+      "sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+    }
+  ],
+  "inputs": {
+    "accepted-prefix.json": "b79e7c9aced0b15a8abb470d70624b9f683771633220f22fd7702e084322ed80",
+    "accepted-prefix-producer-manifest.json": "3fc63f8aa60a1cee9106c69c9016f2dddc47514d21bfb60359c0c79fb82545a6",
+    "accepted-prefix-review-manifest.json": "7d9db75869c3bc781ca3a08e892dd12d4c3e5f5140fae3f0577ff32ddee2a901",
+    "accepted-prefix-review-receipt.json": "64848575d3deec2a51d68e75d8243e617cef9d9b82f0c219dfbfa8b9cb6ab5e5",
+    "seven-face-review-manifest.json": "d98a4956589f65ff6fab859e12d9aeda6db27d04b1037625423f82863f633a60",
+    "seven-face-review.md": "4ac66c485f6b07bc5f1c368c084a815d15bdbcf97e40854fe549eb09af3eae4c",
+    "full-gate-review-manifest.json": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+    "full-gate-receipt.json": "334bf800ec70961ff70cc29a431225160f6053132d938590d5cc989ff5510f51",
+    "accepted-root-gate.json": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5"
+  },
+  "cpu_seconds": 0.0057899999999999965,
+  "target_objectives": [
+    [
+      8,
+      -1
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      41,
+      1
+    ],
+    [
+      41,
+      -1
+    ],
+    [
+      44,
+      1
+    ],
+    [
+      49,
+      1
+    ]
+  ],
+  "maximum_lp_proposals": 7,
+  "producer_cpu_cap_seconds": 30,
+  "no_face_intersections": true
+}

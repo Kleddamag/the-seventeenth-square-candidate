@@ -1,0 +1,76 @@
+{
+  "status": "ACCEPTED_THREE_FULL_STOPPED_ROUNDS_NECESSARY_BOUNDS_NO_RIGIDITY",
+  "reviewer": "Codex contributor 07",
+  "producer": "Codex contributor 06",
+  "producer_manifest_sha256": "a756cea10c4cbc60dd686bb7bc9c10ed83ae4853122f91e77803f3e0a7b58a2a",
+  "dependencies": {
+    "accepted_B6_review": "b38fb735a1d3bdd84c662a68b37d7d10e806af71abf82b54c320424da79d1ad1",
+    "full_gate_review": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+    "physical_stop_review": "e8af5453f7e97d18ee2dab652644d797218ce2382fb928b53a8cb151cee7645d",
+    "physical_map": "5a47ab81102b644f67ed4bd51b23f9c026a32141c4c6f284b4c69200aa920f63"
+  },
+  "new_rounds": 3,
+  "new_exact_objectives": 276,
+  "rows_each_round": 245,
+  "full_domain_no_face_fixed": true,
+  "final_core_ratio": "1",
+  "final_other_core_radius": "235021159590017/500000000000000",
+  "strict_display_other_core_radius": "471/1000",
+  "sole_remaining_norm_face": [
+    44,
+    -1
+  ],
+  "raw_unused_product_diagnostic_not_accepted_as_cause": true,
+  "active_geometric_products": [
+    {
+      "column": 53,
+      "parameter": 2,
+      "angle_coordinate": 35
+    },
+    {
+      "column": 56,
+      "parameter": 2,
+      "angle_coordinate": 39
+    },
+    {
+      "column": 77,
+      "parameter": 21,
+      "angle_coordinate": 44
+    },
+    {
+      "column": 78,
+      "parameter": 21,
+      "angle_coordinate": 45
+    },
+    {
+      "column": 95,
+      "parameter": 25,
+      "angle_coordinate": 46
+    },
+    {
+      "column": 96,
+      "parameter": 25,
+      "angle_coordinate": 47
+    }
+  ],
+  "files": {
+    "check.py": "687117633213c48f4ca27b20861d4cb55842a1ad439bdc676f6edfd5552d5007",
+    "receipt.json": "772adf462994fc73f9dade79482a296a0a19f12fd8bf7be160641a2ed9ded8fb",
+    "check_saved_facts.py": "296eff7bdf4e5e3c83c121d6723599639664b54e39cdc9a0b38dcccab097fd05",
+    "saved-facts.json": "ec54f73fbb98e4ac4764e76d4a5fb887ce69bb84b1c96f690242193b993d2091",
+    "REVIEW.md": "052ba60a1efc21b9c7ec084cb6ba7535378bce3b29df45c4cbda8300f9b15fb7",
+    "COSTS.json": "3114302b01ab022a51f153610bca92388252205603f36ec7a21667c5b055456f"
+  },
+  "cost": {
+    "independent_exact_replay_cpu_seconds": 2.5595310000000002,
+    "saved_data_summary_cpu_seconds": 0.02273,
+    "conservative_prefix_review_charge_seconds": 5,
+    "original_shared_review_cap_seconds": 60,
+    "remaining_shared_review_reserve_seconds": 55,
+    "producer_prefix_charge_seconds": 5,
+    "failed_review_runs": 0,
+    "one_native_thread": true,
+    "optimizer_symbolic_or_old_checker_called": false
+  },
+  "seal_cpu_seconds": 0.0007240000000000024
+}

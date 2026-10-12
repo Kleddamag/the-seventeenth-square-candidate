@@ -1,0 +1,7 @@
+{"round": 4, "CPU_seconds": 0.5603879999999999, "target_reached": false}
+{"round": 5, "CPU_seconds": 0.5781449999999999, "target_reached": false}
+{"round": 6, "CPU_seconds": 0.5815860000000002, "target_reached": false}
+{"round": 7, "CPU_seconds": 0.5796060000000001, "target_reached": false}
+{"round": 8, "CPU_seconds": 0.5829109999999997, "target_reached": false}
+{"round": 9, "CPU_seconds": 0.5835089999999998, "target_reached": false}
+{"status": "PASS_EXACT_FINITE_PARTIAL_CONTRACTION_TARGET_NOT_REACHED", "CPU_seconds": 3.4982710000000004}

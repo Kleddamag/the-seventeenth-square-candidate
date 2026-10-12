@@ -1,0 +1,52 @@
+old_name	neutral_designation	statement_id	kind
+contract_FRAME_MARKER_CLASS_cloud	first execution of FRAME_MARKER	FRAME_MARKER	folder of an earlier execution
+screen_classP0506_cloud	first execution of FRAME_0506 with the plain Node checker	FRAME_0506	folder of an earlier execution
+screen_classP0506	first execution of FRAME_0506 with the plain Node checker	FRAME_0506	short form of that folder name
+second_screen_classP0506_cloud	second execution of FRAME_0506	FRAME_0506	folder of an earlier execution
+second_screen_classp1114_count2_hex	second execution of FRAME_1114	FRAME_1114	folder of an earlier execution
+second_screen_classP0917a_cloud	second execution of FRAME_0917	FRAME_0917	folder of an earlier execution
+contract_L07_onesided_wb_cloud	first execution of E07A with the repaired Node checker	E07A	folder of an earlier execution
+keyw_kw7_cloud	first execution of KEY_W	KEY_W	folder of an earlier execution
+contract_SL11_T020_cloud	first execution of SL11_T020	SL11_T020	folder of an earlier execution
+contract_Q11_wb_cloud	first execution of Q_11 with the repaired Node checker	Q_11	folder of an earlier execution
+contract_PW11_wb_cloud	first execution of PW_11 with the repaired Node checker	PW_11	folder of an earlier execution
+contract_PS05_T17_cloud	first execution of CLASS_PS_L05_T17	CLASS_PS_L05_T17	folder of an earlier execution
+contract_PS01_T17_cloud	first execution of CLASS_PS_L01_T17	CLASS_PS_L01_T17	folder of an earlier execution
+contract_PSS07_T03_cloud	first execution of CLASS_PSS_L07_T03	CLASS_PSS_L07_T03	folder of an earlier execution
+contract_PSS01_T15	first execution of CLASS_PSS_L01_T15	CLASS_PSS_L01_T15	short form of the folder name contract_PSS01_T15_cloud
+contract_PSSW37_11_T03_cloud	first execution of CLASS_PSSW37_L11_T03	CLASS_PSSW37_L11_T03	folder of an earlier execution
+contract_PSSW37_11_T15_cloud	first execution of CLASS_PSSW37_L11_T15	CLASS_PSSW37_L11_T15	folder of an earlier execution
+contract_PSW37_11_T09_cloud	first execution of CLASS_PSW37_L11_T09	CLASS_PSW37_L11_T09	folder of an earlier execution
+contract_PSW37_11_T17_cloud	first execution of CLASS_PSW37_L11_T17	CLASS_PSW37_L11_T17	folder of an earlier execution
+option_PSL06T17ENDmH4T4_cloud	first execution of CLASS_PS_L06_T17_ENDm_H4T4	CLASS_PS_L06_T17_ENDm_H4T4	folder of an earlier execution
+option_PSL06T17ENDpH4T4_cloud	first execution of CLASS_PS_L06_T17_ENDp_H4T4	CLASS_PS_L06_T17_ENDp_H4T4	folder of an earlier execution
+results/mac_exact_20261010/PS05_T17/src	source folder of the second execution of CLASS_PS_L05_T17	CLASS_PS_L05_T17	folder inside an earlier execution
+contract_Qnn_cloud	first execution of Q_nn	Q_nn	folder name pattern of earlier executions
+contract_PWnn_cloud	first execution of PW_nn	PW_nn	folder name pattern of earlier executions
+contract_Lnn_cloud	first execution of L_nn	L_nn	folder name pattern of earlier executions
+contract_Cnn_wb_cloud	first execution of C_nn with the repaired Node checker	C_nn	folder name pattern of earlier executions
+contract_Cnn_cloud	first execution of C_nn	C_nn	folder name pattern of earlier executions
+contract_PSSnn_T03_cloud	first execution of CLASS_PSS_Lnn_T03	CLASS_PSS_Lnn_T03	folder name pattern of earlier executions
+contract_PSSnn_T15_cloud	first execution of CLASS_PSS_Lnn_T15	CLASS_PSS_Lnn_T15	folder name pattern of earlier executions
+contract_PSnn_T09_cloud	first execution of CLASS_PS_Lnn_T09	CLASS_PS_Lnn_T09	folder name pattern of earlier executions
+contract_PSnn_T17_cloud	first execution of CLASS_PS_Lnn_T17	CLASS_PS_Lnn_T17	folder name pattern of earlier executions
+second_contract_*	second executions of those rows	21 rows, not named one by one in the report	folder name pattern of earlier executions
+second_option_*	second executions of those rows	21 rows, not named one by one in the report	folder name pattern of earlier executions
+second_keyw_*	second executions of those rows	21 rows, not named one by one in the report	folder name pattern of earlier executions
+second_* folders	folders of second executions	21 rows, not named one by one in the report	folder name pattern of earlier executions
+second_screen folders	second executions of FRAME_0506, FRAME_1114 and FRAME_0917	FRAME_0506, FRAME_1114, FRAME_0917	folder name pattern of earlier executions
+second_screen_class* folders	second executions of FRAME_0506, FRAME_1114 and FRAME_0917	FRAME_0506, FRAME_1114, FRAME_0917	folder name pattern of earlier executions
+git:cvP0506m_*	first execution of FRAME_0506 with the plain Node checker	FRAME_0506	receipt key (job names) of that execution
+screen_classp1114_count2_hex/node_by_macchat	first execution of FRAME_1114 with the plain Node checker	FRAME_1114	receipt key (Node receipt folder) of that execution
+cvP0917a_*	first execution of FRAME_0917 with the plain Node checker	FRAME_0917	receipt key (job names) of that execution
+classcerts/ps0517mac	class-certificate folder named as source in the job file of the first execution of CLASS_PS_L05_T17	CLASS_PS_L05_T17	input folder named in a job file
+9mac	slice 9 of the first execution of CLASS_PS_L01_T17, computed on the build machine	CLASS_PS_L01_T17	slice of an earlier execution
+9mac.DONE	marker file of slice 9 of the first execution of CLASS_PS_L01_T17, computed on the build machine	CLASS_PS_L01_T17	file of a slice
+9mac.job.txt	job file of slice 9 of the first execution of CLASS_PS_L01_T17, computed on the build machine	CLASS_PS_L01_T17	file of a slice
+slice9_cloud_9b	later cloud run of slice 9 of the first execution of CLASS_PS_L01_T17	CLASS_PS_L01_T17	slice of an earlier execution
+cloud 9b	later cloud run of slice 9 of the first execution of CLASS_PS_L01_T17	CLASS_PS_L01_T17	short form of that slice name
+cloud slice 9b	later cloud run of slice 9 of the first execution of CLASS_PS_L01_T17	CLASS_PS_L01_T17	short form of that slice name
+PS05_T17	CLASS_PS_L05_T17	CLASS_PS_L05_T17	folder-style nickname of a statement
+PS01_T17	CLASS_PS_L01_T17	CLASS_PS_L01_T17	folder-style nickname of a statement
+PS05_T09	CLASS_PS_L05_T09	CLASS_PS_L05_T09	folder-style nickname of a statement
+local-research/claude-20261002/results/part3_exact_cloud/jQTw.n0.JQ/jQTw.n0.JQ.cert.jsonl.gz	copy of the certificate in the result folder of the exact computation that produced it	LOCAL_JQ	path of a second copy of a tree certificate (not a capture execution)

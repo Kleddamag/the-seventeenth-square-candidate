@@ -1,0 +1,25 @@
+{
+  "CPU_seconds": 0.008794999999999997,
+  "accepted_ancestor_rounds": 15,
+  "actual_side_premise_preserved": true,
+  "all3_slider_inclusions": true,
+  "all45_exact_endpoint_inclusions": true,
+  "coordinate_centres_checked": 16,
+  "explicit_all17_containment_and_interior_disjointness_checked": true,
+  "full17_free4_premise_preserved": true,
+  "independent_radian_angle_count": 16,
+  "interface_sha256": "bb7c8d6894965dbe7d0d35940c34a9b3e3ff6638acb6ce926ada10c9ee167965",
+  "maximum_final_core": "64007486789/1000000000000000",
+  "new_completed_rounds": 2,
+  "omitted_packing_guard_controls_rejected": [
+    "missing:all17_squares_physically_contained_and_interior_disjoint",
+    "missing:all17_squares_physically_contained_in_actual_container",
+    "missing:all17_squares_pairwise_interior_disjoint"
+  ],
+  "orthonormal_reference_axis_pairs_checked": 16,
+  "partial_old16_used": false,
+  "position_core_count": 29,
+  "raw_core_zero_not_claimed": true,
+  "slack_to_small_theorem": "35992513211/1000000000000000",
+  "status": "PASS_COMPLETE_FINITE_ENTRY_TO_ACCEPTED_EXACT_ROOT_THEOREM"
+}

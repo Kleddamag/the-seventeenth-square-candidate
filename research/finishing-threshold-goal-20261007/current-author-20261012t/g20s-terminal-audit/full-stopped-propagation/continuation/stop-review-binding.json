@@ -1,0 +1,31 @@
+{
+  "accepted": true,
+  "manifest_sha256": "e8af5453f7e97d18ee2dab652644d797218ce2382fb928b53a8cb151cee7645d",
+  "files": [
+    {
+      "path": "inputs/stop-review/REVIEW.md",
+      "sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169"
+    },
+    {
+      "path": "inputs/stop-review/check.py",
+      "sha256": "55fdb424142a6d6224a95cd525568ff69ab6dae3e5740b3a3bb577d90f6f0053"
+    },
+    {
+      "path": "inputs/stop-review/producer-replay.json",
+      "sha256": "111e65b108491f5295d7b6c456bb9fd08cab8c3dd0dc398c62e9bdb6dacd59c1"
+    },
+    {
+      "path": "inputs/stop-review/receipt.json",
+      "sha256": "62c302926da9e25e2cfb4ae42b7d8ebe188bf19a445c57b8af4c9c434ec5bcc2"
+    },
+    {
+      "path": "inputs/stop-review/resources.json",
+      "sha256": "c83af2c724b86b5696283e447bc41aaa3fe0f9ff24ccfe6f32d58ec2ee2930ad"
+    },
+    {
+      "path": "inputs/stop-review/manifest.json",
+      "sha256": "e8af5453f7e97d18ee2dab652644d797218ce2382fb928b53a8cb151cee7645d"
+    }
+  ],
+  "CPU_seconds": 0.0023839999999999972
+}

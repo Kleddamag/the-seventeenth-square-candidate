@@ -1,0 +1,35 @@
+{
+  "status": "REVIEWED_CONDITIONAL_SELECTOR_NOT_FULL_PROOF",
+  "producer_classes": "Claude capture and window analyses",
+  "reviewer": "automated reviewer",
+  "selector": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/selector/PER_BRANCH_CAPTURE_OPTIONS_V5_PSS_PSE.json",
+    "sha256": "bf162dccc402d3423000ea0b2c7ffb84282cb210f2fd42c41c665b1a76747e80"
+  },
+  "widened_pending": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/selector/WIDENED_OPTIONS_PENDING_ROOTS.json",
+    "sha256": "73b490db76be20203de99acb1aa40e036cab00e3919db83ac2f064c09e539cee"
+  },
+  "clauses": 96,
+  "distinct_candidates": 126,
+  "no_new_capture_certificates": true,
+  "no_new_local_theorems": true,
+  "inputs": {
+    "pss": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/pss-ruling/ACCEPTED_INTERFACE.json",
+      "sha256": "1ee2462df7193c26650d4d41903cf54a002efdaf1e02e760107be3135fe01dc9"
+    },
+    "psv": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/psv-audit/RESULT.json",
+      "sha256": "b426c9bbf00b5548d356fd4bbbd530a6d4152b502cea132ee123d4ccb40c6bce"
+    },
+    "receipts": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/morning-contract-20261010/receipt-audits/BATCH_ACCEPTED.json",
+      "sha256": "245585c34118f5f207db49ce0535308911ce287057b44edf60c395544fbe2e0a"
+    },
+    "H2": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/standing-contract-20261009-2134/option-coverage-audit/RESULT.json",
+      "sha256": "136e88b882833c45d196e805408502592ae7c5dae4210487a120b1852c62abaa"
+    }
+  }
+}

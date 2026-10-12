@@ -1,0 +1,27 @@
+{
+  "id": "entry_transfer",
+  "status": "PASS",
+  "error": null,
+  "missing_required_output": [],
+  "wall_seconds": 0.024023666977882385,
+  "cpu_seconds": 0.023960000000000002,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "executable": "python3.12",
+  "script_sha256": "3598ba9b3d067d624f5632a9a3d8cb406dfa0d71243cb770e7c79d0b35f05663",
+  "original_last_line": "{\"status\": \"EXACT_TRANSFER_AND_RAW_SLACK_PASS_REQUIRES_SEPARATE_STOP_THEOREM_BINDING\", \"cpu_seconds\": 0.004401999999999996, \"raw_cutoffs\": {\"b_lower\": \"-213/25000\", \"b_plus_z_upper\": \"49/2000\", \"z_upper\": \"33/1000\"}, \"strict_raw_slacks_decimal\": {\"b_lower\": 3.000000000006482e-06, \"b_plus_z_upper\": 6.085680459479321e-05, \"z_upper\": 4.385680459479969e-05}}",
+  "inputs_read": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/check_transfer.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/inputs/accepted-root-gate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/continuation/instance/upper-packing-certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/MANIFEST.json"
+  ],
+  "redirected_outputs": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/transfer-receipt.json": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/entry_transfer/outputs/research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/transfer-receipt.json"
+  },
+  "path_adaptations": [
+    "author repository prefix",
+    "BI manifest.json case alias",
+    "round2: revision-v4/PROOF.md reads revision-v7/PROOF.md"
+  ],
+  "scope": "New execution of the named check only, not a new independent mathematical review."
+}

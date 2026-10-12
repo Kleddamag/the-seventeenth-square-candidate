@@ -1,0 +1,122 @@
+[
+  {
+    "original_file": "research/window-extension-20261008/reviews/REVIEW_30.md",
+    "original_sha256": "bd04cd0fbec2a066ac3d468377a9afe502121c0ff1bdc296a93fac55901a7a05",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/REVIEW_30.md",
+    "sha256": "85ad0498b2ae47cb0b6ba9f9ec4187da5bf6b16c1c7cddd2ce5f70f9fada519d"
+  },
+  {
+    "original_file": "research/window-extension-20261008/reviews/REVIEW_30_ACCEPT.md",
+    "original_sha256": "092357a914c6435393e7782f514cde5792de1e40ac8c9042f92442d078173142",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/REVIEW_30_ACCEPT.md",
+    "sha256": "c64708f23a3eab19566ca2277da578a1893e7ce859e28e2f1f600f1067a1d363"
+  },
+  {
+    "original_file": "research/window-extension-20261008/reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md",
+    "original_sha256": "9ac387300a880a0f2b3ab7c5d27e0984cbefca90190ee501e1efd7c804fd1900",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md",
+    "sha256": "f267ae76954bf1f73edb36f096c3aed3b5d33dfd9b474e925e66b3900e171ba9"
+  },
+  {
+    "original_file": "research/window-extension-20261008/reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+    "original_sha256": "77da7db7f81007c7765dc852b9aeec672c4ea4e4579cd5d587d0c40c43be722a",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+    "sha256": "80a84fb8a869ecff09e76a2ce1dd7d3d2a0f4c7b04ad8aac2400ded0d4eaf985"
+  },
+  {
+    "original_file": "research/window-extension-20261008/reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+    "original_sha256": "9fa9013da56b4a184836160cae6b745e8dfe9e38136867ab7b4c27c10a7c4841",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+    "sha256": "7e2d1935775ae8c936a0e7c8a896c28164007c6d457d30f2261f7fb5dadad845"
+  },
+  {
+    "original_file": "research/window-extension-20261008/reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+    "original_sha256": "2de8ae1b9d0c7ad1439b1ff492a40aae6e6ba00dc72a97bad15d316e13e8fa45",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+    "sha256": "c617776554d5b04e599a31ebd0e156575eb49f21acf3eedae541eea40a3be9df"
+  },
+  {
+    "original_file": "research/window-extension-20261008/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+    "original_sha256": "25227b662a3e6211cc35fa09492e716c5e0e4001ca3d339b7623146a0f958905",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+    "sha256": "e34abbf4ab5c94d45f3a83651fac3f21e8be09c6f1335f8c72aba8f12a403a54"
+  },
+  {
+    "original_file": "research/window-extension-20261008/reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+    "original_sha256": "0600869f8775b6aea1c3c954b52365cc87e90c27087d156f1f58149d40d1163d",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+    "sha256": "8bd94339f25c8b41771eae42b61454b20b453a3233f27f5f38d9565dcdff81b5"
+  },
+  {
+    "original_file": "research/window-extension-20261008/reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+    "original_sha256": "0a094486675bef106080299862c52968d6256de1c4499b1a4fd27bd339c4bcf6",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+    "sha256": "53c70a667c0e6bf52c7b3b4db56ceadb636eb132f90a460a133e1cb630308f79"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPWS_v4.md",
+    "original_sha256": "af742507a1553a11084ea98386a294ae997e9749122fe632f7e940aa414b2fed",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPWS_v4.md",
+    "sha256": "8ece74d148f51994df00952c2dbdef487a768b3950478ef85f750caa6e6b4c80"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPW13_v2x.md",
+    "original_sha256": "0f7d2cb3f0cb3d101d0e5dbf9c6fc5e86b73526bdf404be2a931392fbd0664f9",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPW13_v2x.md",
+    "sha256": "3ca62dd1396b61eada2543646c732f171bdc28d5b8ca652107da7955c83ea8bb"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG3m_v5.md",
+    "original_sha256": "493e912222a6a8e680d088e1ff399e4dfb1efe7507dc54f07d3d764cb34f426c",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG3m_v5.md",
+    "sha256": "2fca7b5b1a05e65dfa433f901d4366608a3f881a8f6a6db97aa3ea3d388b0686"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG3p_v5.md",
+    "original_sha256": "16226ebd1dca325b8f3fd2c7c35e91ab8ef5d114a1b751f74ec7291e9e92f319",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG3p_v5.md",
+    "sha256": "0e66116336814bc2669d9ab61656ab8ced851205afe8df278e4a0713861d4c97"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJG_v2.md",
+    "original_sha256": "947f9ffbb609e78cbb0663ed363dd092f8bfa82c3cf3a3402e61d7ef8f7af6ef",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJG_v2.md",
+    "sha256": "aa4931c5246af907514a965c7f220c66ef6c79c0fe80660d45673843a1b72d2f"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG17p_v5.md",
+    "original_sha256": "0054d9b1f67d013bd2364e8974399e501a418ace6397244b679259d8c895ef8a",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG17p_v5.md",
+    "sha256": "7e6750bceefeab9dbc7b26ffc57666ed53b6c9cab7f3fcceb385dc5a4312f08b"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG15m_v5.md",
+    "original_sha256": "33b20db1bc7f344e7fcd0f3fcab71d26affc3daa316d5dc52facad628ae23f30",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG15m_v5.md",
+    "sha256": "2ba460f0695bcea4233f539f61300593e507ab66634536c5965667ce4f0ef375"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJQ_v1.md",
+    "original_sha256": "d27d6d9b24f52eedcf6ac7a6445bde8f9b80dbff84477ba93e095397a2d7ceae",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJQ_v1.md",
+    "sha256": "fb74f216cfbf016d737c4efcf8f40019243b10f144c831ca2e381aa51f073612"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPA_v5.md",
+    "original_sha256": "e10be7862229bd33dbcd51a46300143b5ac89738d99e62ccfcaa9b298a620f79",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md",
+    "sha256": "24a7a4d625b6b2e17407d771a4ce300211cc3eaea6bccdef638d944b28e3a439"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG17m_v5.md",
+    "original_sha256": "ae527a87116bd33811e21b5cf49547c0310769f8ef126ff49d6e52d78035d456",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG17m_v5.md",
+    "sha256": "f26d995fb9017fb2db761209e4da58b575be04d7a98b194277b61812400f68ca"
+  },
+  {
+    "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG15p_v5.md",
+    "original_sha256": "8ce55c186f982223e030b48dd49b2a51fca436ce889eae3700353e72fbd2c506",
+    "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG15p_v5.md",
+    "sha256": "6fabbcd875b57f363c273403fb31e9e44d12d45140e172a5fe6579381e2de402"
+  }
+]

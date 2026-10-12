@@ -1,0 +1,107 @@
+acceptance run 2026-10-10 12:32:38  certificate /Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/../../local-research/claude-20261002/results/assembly/JPG3p_v5/JPG3p_v5.cert.jsonl.gz
+sha256 certificate:        804ae79493f6733645b3d70c10edc05d5ab0c20fea416284af16c9e855c7c0ea
+sha256 checker/wxcheck_v30.py:  cf8db52bfa1cc565d8610bf13b279d1b5da2f84c91ce2854d15a3b0a88cd096c   (FROZEN_30.json: cf8db52bfa1cc565d8610bf13b279d1b5da2f84c91ce2854d15a3b0a88cd096c)
+sha256 checker2/wxcheck2_v30.js:  97210adf74a3ebed7cde021a3cb1ff6ea6380d8d2d55540a2a2a1cb17dc27542   (FROZEN_30.json: 97210adf74a3ebed7cde021a3cb1ff6ea6380d8d2d55540a2a2a1cb17dc27542)
+sha256 SPEC_v3.0.md:  0a6dfc2ae10ed6f30a21ebe357a6e73dd7355223c521cc67a3f2bdab9549aba0   (FROZEN_30.json: 0a6dfc2ae10ed6f30a21ebe357a6e73dd7355223c521cc67a3f2bdab9549aba0)
+sha256 packing file:       24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7
+sha256 accept_tree30.sh:   0cd4ff06497209cb5622d018c34c5e1ad2ef41815b5a9db304974ffd565c1aa5
+sha256 h_report30.py:      0314aa1f8f742cd7156cc490764c8a308663ba87f359e0d8b97fb3d7189950db
+sha256 FROZEN_30.json:     6d65a0705c039bbf2f48acabb7f12275871af6b7b8fa308c0671ea6518b30803
+sha256 EXPECT file:        4450804df543078a20c83e71a82d505e756bfe4c1855416567cc82b8fafc6f41  bigbox/join/EXPECT_JPG3p_v5.json
+interpreters:              python 3.9.6 (/Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python); node v25.6.1 (/opt/homebrew/bin/node)
+--- C1 (python -I -B, isolated mode: no PYTHON* variables, the script's folder not on the module path; options: default)
+PASS
+nodes=36 accepted=36 infeasible=22 terminal=0 split=14 rounds_evaluated=22 steps=22 terms=988844 zero_steps=22
+root='root' packing_sha256=24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7 certificate_sha256=804ae79493f6733645b3d70c10edc05d5ab0c20fea416284af16c9e855c7c0ea
+labels=17 S_floor=4675530093604551/1000000000000000
+gzip input: certificate_sha256 is the hash of the compressed file; uncompressed_sha256=1a97f63c2828bd75eb355c4abb8b030d30d5183ffca06850788c719425df7c58
+checker: wxcheck 3.0 / SPEC 3.0 / wx-cert-2, wx-cert-3; 695.7 s
+      695.76 real       692.88 user         1.71 sys
+           728956928  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+      695.76 real       692.88 user         1.71 sys
+           728956928  maximum resident set size
+exit code C1: 0
+first output line C1: [PASS]
+--- C2 (node; options: default)
+PASS
+labels=17 S_floor=4675530093604551/1000000000000000
+schema=wx-cert-3
+  certificate: /Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/../../local-research/claude-20261002/results/assembly/JPG3p_v5/JPG3p_v5.cert.jsonl.gz  (SHA-256 of the checked bytes 1a97f63c2828bd75eb355c4abb8b030d30d5183ffca06850788c719425df7c58)
+  packing file: /Users/builder/Developer/07-math-research/17-squares-certified-bound/upper-packing-certificate.json  (SHA-256 24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7; Sref = 4675530093604551/1000000000000000)
+  nodes 36 (infeasible 22, terminal 0, split 14), rounds evaluated 22 (not evaluated 0), declarations 832, steps 22, terms 988844, tree depth 7
+  time: 134.85 s
+      134.95 real       144.17 user         0.89 sys
+          1165443072  maximum resident set size
+                   0  average shared memory size
+      134.95 real       144.17 user         0.89 sys
+          1165443072  maximum resident set size
+exit code C2: 0
+first output line C2: [PASS]
+--- report
+ok    FROZEN.json has the entries C1, C2, SPEC, frozen_on (and at most a note)
+ok    frozen Python checker checker/wxcheck_v30.py has the SHA-256 cf8db52bfa1cc565... of FROZEN.json (found cf8db52bfa1cc565...)
+ok    frozen Node checker checker2/wxcheck2_v30.js has the SHA-256 97210adf74a3ebed... of FROZEN.json (found 97210adf74a3ebed...)
+ok    frozen specification text SPEC_v3.0.md has the SHA-256 0a6dfc2ae10ed6f3... of FROZEN.json (found 0a6dfc2ae10ed6f3...)
+certificate '/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/../../local-research/claude-20261002/results/assembly/JPG3p_v5/JPG3p_v5.cert.jsonl.gz'
+sha256      804ae79493f6733645b3d70c10edc05d5ab0c20fea416284af16c9e855c7c0ea
+sha256 of the uncompressed stream 1a97f63c2828bd75eb355c4abb8b030d30d5183ffca06850788c719425df7c58
+ok    EXPECT.json has only known entries (unknown: [])
+statement: schema wx-cert-3, 17 labels, S_floor = 4675530093604551/1000000000000000
+ok    header schema 'wx-cert-3', expected 'wx-cert-3'
+ok    both reports: schema checked under = 'wx-cert-3' (C1 'wx-cert-3', C2 'wx-cert-3')
+ok    header label set: 17 (absent = 16), expected 17
+ok    header S_floor: '4675530093604551/1000000000000000' (absent = 4), expected 4675530093604551/1000000000000000
+ok    header has no field outside SPEC 3.0 section 10
+ok    both reports: label set used = 17 (C1 17, C2 17)
+ok    both reports: S_floor used = 4675530093604551/1000000000000000 (C1 '4675530093604551/1000000000000000', C2 '4675530093604551/1000000000000000')
+ok    C1 exit code 0
+ok    C2 exit code 0
+ok    C1 report: verdict 'PASS', mode 'full'
+ok    C2 report: result 'PASS', mode 'certificate'
+ok    C1 checked this file (hash of the file and of the uncompressed stream)
+ok    C2 checked this file (hash of the uncompressed stream)
+ok    reference file hash 24e296f5995a in the header and in both reports
+C1: wxcheck 3.0 / SPEC 3.0 / wx-cert-2, wx-cert-3; C2: wxcheck2.js SPEC_v3.0.md version 3.0
+ok    C1 report names the frozen text by its hash (spec_sha256 0a6dfc2ae10ed6f3...)
+ok    C2 report names version 3.0 (spec 'SPEC_v3.0.md version 3.0'; spec_sha256 0a6dfc2ae10ed6f3)
+ok    node ids unique in both reports
+ok    same node ids in both reports (36, 36)
+ok    every node accepted by both
+ok    every node entry of both reports has a closure kind (a rejected node has none)
+ok    same closure kind per node in both reports (differences: 0)
+nodes 36: infeasible 22, split 14
+C1 evidence of the infeasible leaves: 0-step 22
+C2 evidence of the infeasible leaves: 0-step 22
+ok    no leaf has zero_step_L in only one report (only C1: 0, only C2: 0)
+ok    zero_step_L is the same rational number in both reports for all 22 leaves that have it (different: [])
+ok    every leaf closed by a `0` step has zero_step_L in both reports (22 leaves by C1's evidence, 22 by C2's, 22 with both values)
+ok    every zero_step_L is positive
+      smallest zero_step_L: 1.927617e-03 at node 'pH11W37Gmppwu.n0.0.JPG3pv5.leaf'
+terminal leaves: []
+ok    number of terminal leaves is 0 (expected 0)
+ok    C1 counts agree with its node list
+ok    C2 counts agree with its node list
+ok    same number of steps and terms evaluated (22, 988844)
+ok    same number of rounds evaluated (C1 22, C2 22)
+ok    Sref = 4675530093604551/10^15
+ok    root id 'root' (header against the Python report; the Node report has no root key)
+ok    centre maps occur only under wx-cert-3 (header: window True, tube False)
+ok    both reports: centre maps present in the header: window True, tube False (C1 True False, C2 True False)
+ok    header window = expected window 'JPG3p root region (bigbox/join/JPG3p_exact_v5.json)' (boxes, angle radii and centres)
+ok    header tube = expected tube 'G20S window for the sixteen labels, label 4: its root box and radius 1' (boxes, angle radii and centres)
+labels with a centre other than the identity: window [3, 5, 6, 9, 10, 11, 12, 13, 14, 16], tube []
+ok    EXPECT root_region has exactly the keys file, sha256
+ok    root region file 'bigbox/join/JPG3p_exact_v5.json' has the stated SHA-256 c4287958b08fe4fc... (found c4287958b08fe4fc...)
+ok    the certificate has exactly one node with the header's root id 'root' (found 1)
+ok    root node: parent is null
+ok    root node: empty assumption list
+ok    root node and region file have exactly the labels of the statement
+ok    root node: side interval ['4675530093604551/1000000000000000', '4675530093604551/1000000000000000'] = the region's ['4675530093604551/1000000000000000', '4675530093604551/1000000000000000']
+ok    root node: box = the region's box, all 68 interval ends (labels that differ: [])
+ok    root node: every arc (centre and both end rotations) = the region's root arc (labels that differ: [])
+      the statement of this record is made for the ROOT REGION of 'bigbox/join/JPG3p_exact_v5.json' (its entries S, window.box and root_arc)
+RESULT: ACCEPTED
+exit code report: 0
+FIRST LINES: both PASS

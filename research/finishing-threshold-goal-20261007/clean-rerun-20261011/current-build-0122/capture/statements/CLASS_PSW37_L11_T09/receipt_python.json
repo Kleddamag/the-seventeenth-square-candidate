@@ -1,0 +1,78 @@
+{
+ "status": "PASS_CLASSES_EXACT_COVER",
+ "statement": "For every family of closed unit squares with pairwise disjoint interiors inside a square of side 4675531/1000000, read in the frame with the container centre at (1169/500, 1169/500), the sum of tau(pose) over the squares is less than 23, where tau(pose) is the least threshold among the classes that contain the pose and 1 if no class contains it. A class is the listed slots exactly as written (angle gates with all quarter-turn lifts). Classes: M threshold 4 (1 slots); T9_region9_square_beyond_its_gate_off_the_wall_column threshold 4 (1 slots); HULLW_label11_exempt threshold 0 (1 slots); WC_label9_wall_column_exempt threshold 0 (1 slots).",
+ "implementation": "python exact_classes.py",
+ "schema": "s17-classes-v1",
+ "symmetry": "fixed",
+ "bound": "23",
+ "classes": [
+  {
+   "name": "M",
+   "threshold": "4",
+   "slots": 1
+  },
+  {
+   "name": "T9_region9_square_beyond_its_gate_off_the_wall_column",
+   "threshold": "4",
+   "slots": 1
+  },
+  {
+   "name": "HULLW_label11_exempt",
+   "threshold": "0",
+   "slots": 1
+  },
+  {
+   "name": "WC_label9_wall_column_exempt",
+   "threshold": "0",
+   "slots": 1
+  }
+ ],
+ "total_intervals": 18000,
+ "required_units": "999970665",
+ "budget_units": "22999325293",
+ "surplus": "2",
+ "certificate_sha256": "a929e2de28ee2b6bfb2c57731e3a314db30ca1c959fd6e3eeaae1125d5adbfe5",
+ "classes_sha256": "412cd87edd916b8adffa65e311c6c0d3a22151afbffadaaba6118c78f91d1bca",
+ "checker_sha256": {
+  "exact_classes.py": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+  "exact_restricted.py": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+  "exact_general.py": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+  "integer_sweep.py": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+  "boolean_rule.py": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275"
+ },
+ "start": 0,
+ "end_exclusive": 18000,
+ "merged_files": 12,
+ "problems": [],
+ "missing_intervals": 0,
+ "first_missing_intervals": [],
+ "failed_intervals": [],
+ "unrestricted_minimum_units": 869773673,
+ "deficit_minimum_units": null,
+ "cells_default": {
+  "cells": 59397694296614,
+  "minimum_units": 999999911
+ },
+ "cells_by_class": [
+  {
+   "name": "M",
+   "cells": 600333015225,
+   "minimum_units": 4006493838
+  },
+  {
+   "name": "T9_region9_square_beyond_its_gate_off_the_wall_column",
+   "cells": 442484748774,
+   "minimum_units": 4006756040
+  },
+  {
+   "name": "HULLW_label11_exempt",
+   "cells": 148042572931,
+   "minimum_units": 869773673
+  },
+  {
+   "name": "WC_label9_wall_column_exempt",
+   "cells": 4176301565,
+   "minimum_units": 3828707015
+  }
+ ]
+}

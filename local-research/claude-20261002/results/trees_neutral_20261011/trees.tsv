@@ -1,0 +1,13 @@
+JQ	local-research/claude-20261002/cloud/analysis/part3_exact/certs/JQ_v1/jQTw.n0.JQ.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JQ_v1.json	30	10
+JPG15p_v5	local-research/claude-20261002/results/assembly/JPG15p_v5/JPG15p_v5.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JPG15p_v5.json	371	75
+JPG17m_v5	local-research/claude-20261002/results/assembly/JPG17m_v5/JPG17m_v5.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JPG17m_v5.json	531	110
+JPG3m_v5	local-research/claude-20261002/results/assembly/JPG3m_v5/JPG3m_v5.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JPG3m_v5.json	711	140
+JPG3p_v5	local-research/claude-20261002/results/assembly/JPG3p_v5/JPG3p_v5.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JPG3p_v5.json	752	140
+JPG17p_v5	local-research/claude-20261002/results/assembly/JPG17p_v5/JPG17p_v5.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JPG17p_v5.json	888	180
+JPG15m_v5	local-research/claude-20261002/results/assembly/JPG15m_v5/JPG15m_v5.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JPG15m_v5.json	1007	195
+G20S	research/window-extension-20261008/bigbox/gen17/G20S_tree.jsonl.gz	research/window-extension-20261008/acceptance/EXPECT_G20S.json	626	301
+HW	research/window-extension-20261008/bigbox/gen17/HW_tree.jsonl.gz	research/window-extension-20261008/acceptance/EXPECT_HW.json	461	210
+JG	local-research/claude-20261002/results/assembly/JG/JG.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JG_v2.json	1594	336
+JPWS_v4	local-research/claude-20261002/results/assembly/JPWS_v4/JPWS_v4.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JPWS_v4.json	1975	401
+JPW13	local-research/claude-20261002/results/assembly/JPW13/JPW13.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JPW13_v2x.json	4655	957
+JPA_v5	local-research/claude-20261002/results/assembly/JPA_v5/JPA_v5.cert.jsonl.gz	research/window-extension-20261008/bigbox/join/EXPECT_JPA_v5.json	8449	1674

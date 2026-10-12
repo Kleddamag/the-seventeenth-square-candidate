@@ -1,0 +1,95 @@
+{
+  "schema": "s17-g20s-stop-domain-extension-producer-v1",
+  "status": "PASS_PHYSICAL_STOP_EXTENSION_REQUIRES_SEPARATE_INDEPENDENT_REVIEW",
+  "files": [
+    {
+      "path": "PROOF.md",
+      "sha256": "832718fc249675567ae575346bad5853a9386c05463ca7a691f6b11177786138"
+    },
+    {
+      "path": "check_stops.py",
+      "sha256": "ee0320cc1eb673a9cd1dc5ec9c1dab9ff75b15d3b4da247b49cf3ed2de0a4194"
+    },
+    {
+      "path": "dependencies.json",
+      "sha256": "437b4dc0f026c24b2032cb75c61437fee9f0ed3558627882a32f2f37339be3fa"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/gate-receipt.json",
+      "sha256": "334bf800ec70961ff70cc29a431225160f6053132d938590d5cc989ff5510f51"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/root_geometry.py",
+      "sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/uniform.py",
+      "sha256": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/padded-terminal/PROPOSAL.md",
+      "sha256": "d6630b8dbfc3a3e17acfe3c0a0f1a60a18aab5e14becfb695fb0d3db96b29348"
+    },
+    {
+      "path": "inputs/research/finishing-threshold-goal-20261007/window-capture/padded-terminal/check_stops.py",
+      "sha256": "4dd254c3ebdef41990e91ed6345fa63c8ebb17217fb692d2f49a31188a3fee59"
+    },
+    {
+      "path": "inputs/research/uniform-capture-20261007/bridge.py",
+      "sha256": "8d5c2a8253f1aae97a243e907d08b337f334a8f27c66e3235e66a30fd8ae9f10"
+    },
+    {
+      "path": "inputs/research/uniform-capture-20261007/root_geometry.py",
+      "sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a"
+    },
+    {
+      "path": "inputs/research/uniform-capture-20261007/uniform.py",
+      "sha256": "f02470279d59f342244a2dfc2a0a65fbbf601e28c97a107a495782ee65b2282b"
+    },
+    {
+      "path": "inputs/research/uniform-capture-20261007/upstream-root-certificate.json",
+      "sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+    },
+    {
+      "path": "receipt.json",
+      "sha256": "e4e7a631108bdea1bcbd368c99af5e6d504dc3f3b20c6d566b54061b637c1f9b"
+    },
+    {
+      "path": "snapshot-receipt.json",
+      "sha256": "1dc6ffdbf0b502f8c1d46ad3af5f43b3ea5bc2dd739cd03c632b7aa9c8cd6f76"
+    },
+    {
+      "path": "terminal-interface.json",
+      "sha256": "139cdf719d5e0bdbe0981304f754bfb8e6862d2a4e8a0c0fe67b26266871e378"
+    }
+  ],
+  "accepted_full_gate_review_sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+  "claim": {
+    "b_lower": "-17/50000",
+    "b_plus_z_upper": "3/125",
+    "z_upper": "1/40"
+  },
+  "domain": "entire declared rational G20S sliders plus1e-12 exact-root outward padding, except a lower0; all45core<=1/5000; independent physical orientations",
+  "SAT_options_checked": 16,
+  "strictly_excluded": 12,
+  "retained_owner_alternatives": 4,
+  "old_D9_6_over_5_rejected": true,
+  "new_D9": "5/4",
+  "root_identities": "inherited accepted identities with exact source AST/map covariance; direct derivation in PROOF.md",
+  "solver_calls": 0,
+  "new_model_assembly": false,
+  "new_finite_reference_transfer_claimed": false,
+  "measured_cpu_seconds_before_seal": 0.050061999999999995,
+  "seal_cpu_seconds": 0.0028450000000000003,
+  "conservative_producer_cpu_charge_seconds": 2,
+  "producer_cpu_cap_seconds": 10,
+  "replay": "/usr/bin/python3 -B research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/stop-coupled-finish/stop-producer/check_stops.py --snapshot --check"
+}

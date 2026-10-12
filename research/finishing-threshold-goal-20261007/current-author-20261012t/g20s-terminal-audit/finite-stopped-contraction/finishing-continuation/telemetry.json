@@ -1,0 +1,8 @@
+{
+  "CPU_seconds": 14.945649,
+  "completed_rounds": 6,
+  "error": "Traceback (most recent call last):\n  File \"/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/run.py\", line 169, in <module>\n    try: main()\n         ^^^^^^\n  File \"/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/finite-stopped-contraction/finishing-continuation/run.py\", line 137, in main\n    raise RuntimeError('native proposal not optimal: '+solver.modelStatusToString(solver.getModelStatus()))\nRuntimeError: native proposal not optimal: Time limit reached\n",
+  "source_sha256": "3709a8d27c6b96e9fceaa2666b4d1cfcece85890eaff8091805ebf7bbfba58b5",
+  "status": "FAILED",
+  "wall_seconds": 14.94560194015503
+}

@@ -1,0 +1,129 @@
+{
+  "status": "ACCEPTED_FIVE_ROUND_OLD_WEIGHT_REUSE_INCONCLUSIVE",
+  "reviewer": "Codex contributor 07",
+  "producer": "Codex contributor 06",
+  "producer_manifest_sha256": "3fc63f8aa60a1cee9106c69c9016f2dddc47514d21bfb60359c0c79fb82545a6",
+  "accepted_full_analytic_gate_review_sha256": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+  "model_source": "Inherited accepted full-gate exact kernel, source-equal; independently rebuilt at all five incoming boxes.",
+  "independently_recomputed": [
+    "weak duality",
+    "all signed residuals",
+    "initial box",
+    "simultaneous updates",
+    "outward rounding",
+    "48 product intervals",
+    "chain/final bounds"
+  ],
+  "rounds": 5,
+  "objectives": 460,
+  "changed_from_old_claimed_bounds": 428,
+  "final_ratio": "1",
+  "stuck_coordinates": [
+    {
+      "coordinate": 8,
+      "bounds": [
+        "-6981541439/1000000000000000",
+        "1"
+      ]
+    },
+    {
+      "coordinate": 14,
+      "bounds": [
+        "-1",
+        "1/10000"
+      ]
+    },
+    {
+      "coordinate": 15,
+      "bounds": [
+        "-1",
+        "1/10000"
+      ]
+    },
+    {
+      "coordinate": 41,
+      "bounds": [
+        "-1",
+        "1"
+      ]
+    },
+    {
+      "coordinate": 44,
+      "bounds": [
+        "-1",
+        "147523492924843/200000000000000"
+      ]
+    },
+    {
+      "coordinate": 49,
+      "bounds": [
+        "-1",
+        "223378506073533/500000000000000"
+      ]
+    }
+  ],
+  "conclusion": "These exact five old-weight rounds are inconclusive. No strict rigidity certificate, primal counterexample, or impossibility of fresh weights is established.",
+  "controls": [
+    {
+      "name": "corrupted claimed bound",
+      "status": "REJECTED"
+    },
+    {
+      "name": "negative weight",
+      "status": "REJECTED"
+    },
+    {
+      "name": "missing objective",
+      "status": "REJECTED"
+    },
+    {
+      "name": "corrupted signed residual",
+      "status": "REJECTED"
+    },
+    {
+      "name": "poisoned old claimed bounds and model digest",
+      "status": "IRRELEVANT_TO_EXTRACTED_WEIGHTS"
+    }
+  ],
+  "files": {
+    "COSTS.json": {
+      "sha256": "bfee8a9d59e0cc8b29c1d2848a1342f76d273d3d830cbfbcbc6cd38c9a7a6921",
+      "bytes": 579
+    },
+    "REVIEW.md": {
+      "sha256": "a246639472a6377197857e9ad92ae9698fe4e12fb4b9cc22ab642c23c565d1c3",
+      "bytes": 7040
+    },
+    "check-v2.py": {
+      "sha256": "3c20d1bcc8c7ab0357d66197b343087482e8cfa29c81c5e931a2bc8c2c547d8a",
+      "bytes": 11466
+    },
+    "check.py": {
+      "sha256": "99c85c21a30b9aa82bafac688933cad14fa7316c5c64e88ce4ea89b17f6da111",
+      "bytes": 11332
+    },
+    "failure-v1.json": {
+      "sha256": "be4c0792fab7baee89c660f5d48d2d8fa9ee44375bf3a7f5a54cb10fef9423e4",
+      "bytes": 603
+    },
+    "receipt.json": {
+      "sha256": "64848575d3deec2a51d68e75d8243e617cef9d9b82f0c219dfbfa8b9cb6ab5e5",
+      "bytes": 58620
+    }
+  },
+  "cost": {
+    "successful_replay_cpu_seconds": 4.135363,
+    "failed_first_reviewer_run_charge_seconds": 5,
+    "measured_first_run_cpu_seconds": null,
+    "failed_first_run_wall_seconds": 4.062106583,
+    "conservative_total_review_charge_seconds": 12,
+    "review_cap_seconds": 30,
+    "producer_charge_seconds": 4,
+    "combined_conservative_charge_seconds": 16,
+    "combined_allocated_cap_seconds": 90,
+    "single_native_thread": true,
+    "solvers_or_discovery": false,
+    "repeated_run_reason": "Reviewer-only diagnostic overclaimed both unit endpoints; all producer arithmetic had already matched."
+  },
+  "seal_cpu_seconds": 0.0010280000000000011
+}

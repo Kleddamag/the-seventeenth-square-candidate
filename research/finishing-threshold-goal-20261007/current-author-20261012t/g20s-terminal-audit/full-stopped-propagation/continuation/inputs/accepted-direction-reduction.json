@@ -1,0 +1,18 @@
+{
+  "status": "PRODUCER_CONDITIONAL_ONE_DIRECTION_REDUCTION_REQUIRES_SEPARATE_REVIEW",
+  "only_core_norm_face": [
+    [
+      44,
+      -1
+    ]
+  ],
+  "all_other_core_radius_at_most": "378457789018409/500000000000000",
+  "clean_bound_strictly_less_than": "757/1000",
+  "meaning": "If0<R<=1/5000 under accepted normalized physical hypotheses, then h44=-R and everyothercore|hj|<=rhoR.",
+  "not_implied": [
+    "zero core",
+    "physical feasibility of remaining face",
+    "finite capture",
+    "optimality"
+  ]
+}

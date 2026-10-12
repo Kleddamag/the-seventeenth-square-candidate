@@ -1,0 +1,41 @@
+{
+  "status": "ACCEPTED_SIX_NORM_FACES_ELIMINATED_ONE_REMAINS",
+  "producer": "Codex contributor 06",
+  "reviewer": "Codex contributor 07",
+  "producer_manifest_sha256": "6b765320f8e42bca2d4b25b4fb47b97b4c9d727f7c7b12c744b8468280902386",
+  "dependencies": {
+    "five_round_review": "7d9db75869c3bc781ca3a08e892dd12d4c3e5f5140fae3f0577ff32ddee2a901",
+    "full_analytic_gate_review": "a70b064bb81a55fca7f5ad9a9b19ea765c613877d8b243e041081760b9dc53dd",
+    "seven_face_review": "d98a4956589f65ff6fab859e12d9aeda6db27d04b1037625423f82863f633a60"
+  },
+  "global_B5_model_digest": "4469f117a953b255c88d6849aa23b08053eb9f93c02c57f0cbcb0a3fc32d58ef",
+  "new_exact_bounds_verified": 92,
+  "empty_weight_untargeted_objectives": 85,
+  "six_strict_global_target_bounds": true,
+  "only_remaining_norm_face": [
+    44,
+    -1
+  ],
+  "other_44_core_radius": "378457789018409/500000000000000",
+  "other_44_core_radius_strictly_below": "757/1000",
+  "conditional_direction": "For any nonzero core under the existing normalized hypotheses, h44=-R and all other core magnitudes are at most rho R.",
+  "full_rigidity_or_primal_feasibility_claim": false,
+  "files": {
+    "check.py": "5ede8a98a86e54defb14626dd552953d133bf779c353fa11c9e3709085132393",
+    "receipt.json": "abdbe1329a5f2c925ca0f94b13f890fe2263dbe30837cb10301ee94c4994d583",
+    "REVIEW.md": "23d0841fe4471b1616444f76345ecbdbc1c4c6803e3c93d20e9af5808d57b0c7",
+    "COSTS.json": "8c3da828deaa69fd51691ea38400badab5591eee847148ee7135df1b55867a10"
+  },
+  "cost": {
+    "successful_exact_review_cpu_seconds": 0.791167,
+    "conservative_review_charge_seconds": 3,
+    "shared_targeted_review_cap_seconds": 30,
+    "remaining_shared_review_reserve_seconds": 27,
+    "producer_charge_seconds": 3,
+    "combined_charge_for_this_step_seconds": 6,
+    "failed_review_runs": 0,
+    "one_native_thread": true,
+    "review_solver_or_symbolic_replay": false
+  },
+  "seal_cpu_seconds": 0.0005269999999999997
+}

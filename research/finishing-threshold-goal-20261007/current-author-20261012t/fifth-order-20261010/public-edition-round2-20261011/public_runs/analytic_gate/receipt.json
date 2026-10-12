@@ -1,0 +1,51 @@
+{
+  "id": "analytic_gate",
+  "status": "PASS",
+  "error": null,
+  "missing_required_output": [],
+  "wall_seconds": 0.14239029202144593,
+  "cpu_seconds": 0.139399,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "executable": "python3.12",
+  "script_sha256": "fb7b8ec2ffdf8119c39270e7b36444299cc5f1a01055c24997da118baa1a8e5c",
+  "original_last_line": "{\"status\": \"PASS_INDEPENDENT_COMPLETE_ROOT_ANALYTIC_GATE\", \"cpu_seconds\": 0.11202999999999999, \"maximum_excluded_root_upper\": -0.01682963400014499, \"finite_extra_options\": []}",
+  "inputs_read": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/joint-capture-20261007/pilot.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/bridge.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/relational.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/rigidity.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/root_geometry.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/uniform.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/upstream-root-certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/verify.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/upper-packing-certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/runtime/GATE_PREPARATION.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/analytic_gate.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/root_chart_transfer.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/gate-receipt.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-gate-receipt.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/accepted-terminal-manifest.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/assessment-producer-manifest.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/inputs/assessment-review-manifest.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/joint-capture-20261007/pilot.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/bridge.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/relational.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/rigidity.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/root_geometry.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/uniform.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/upstream-root-certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/verify.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/upper-packing-certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/normalized-model.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/symbolic-identities.json"
+  ],
+  "redirected_outputs": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/receipt.json": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/analytic_gate/outputs/research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/receipt.json"
+  },
+  "path_adaptations": [
+    "author repository prefix",
+    "BI manifest.json case alias",
+    "round2: revision-v4/PROOF.md reads revision-v7/PROOF.md"
+  ],
+  "scope": "New execution of the named check only, not a new independent mathematical review."
+}

@@ -1,0 +1,65 @@
+{
+ "status": "PASS_CLASSES_EXACT_COVER",
+ "statement": "For every family of closed unit squares with pairwise disjoint interiors inside a square of side 4675531/1000000, read in the frame with the container centre at (1169/500, 1169/500), the sum of tau(pose) over the squares is less than 23, where tau(pose) is the least threshold among the classes that contain the pose and 1 if no class contains it. A class is the listed slots exactly as written (angle gates with all quarter-turn lifts). Classes: M threshold 4 (1 slots); W_label9_wall_column_above_the_cut threshold 4 (1 slots); HULL_label16_exempt threshold 0 (1 slots).",
+ "implementation": "node verify_classes.js",
+ "schema": "s17-classes-v1",
+ "symmetry": "fixed",
+ "bound": "23",
+ "classes": [
+  {
+   "name": "M",
+   "threshold": "4",
+   "slots": 1
+  },
+  {
+   "name": "W_label9_wall_column_above_the_cut",
+   "threshold": "4",
+   "slots": 1
+  },
+  {
+   "name": "HULL_label16_exempt",
+   "threshold": "0",
+   "slots": 1
+  }
+ ],
+ "total_intervals": 18000,
+ "required_units": "999900238",
+ "budget_units": "22997705458",
+ "surplus": "16",
+ "certificate_sha256": "99723c7b67c4618d5913c9adcbaa320ed4c8e5d9f8179b9604cc60314662c562",
+ "classes_sha256": "1990f88ecdad2cbf321ba27896d349a16136df57894e07140f44f2e5cc1d5546",
+ "checker_sha256": {
+  "verify_classes.js": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40"
+ },
+ "start": 0,
+ "end_exclusive": 18000,
+ "merged_files": 12,
+ "problems": [],
+ "missing_intervals": 0,
+ "first_missing_intervals": [],
+ "failed_intervals": [],
+ "unrestricted_minimum_units": 814626862,
+ "deficit_minimum_units": null,
+ "cells_default": {
+  "cells": 70922709859337,
+  "minimum_units": 999999965
+ },
+ "cells_by_class": [
+  {
+   "name": "M",
+   "cells": 745870504575,
+   "minimum_units": 4008304716
+  },
+  {
+   "name": "W_label9_wall_column_above_the_cut",
+   "cells": 2145795796,
+   "minimum_units": 4010067310
+  },
+  {
+   "name": "HULL_label16_exempt",
+   "cells": 85786694105,
+   "minimum_units": 814626862
+  }
+ ],
+ "verified_utc": "2026-10-11T21:59:41.565Z"
+}

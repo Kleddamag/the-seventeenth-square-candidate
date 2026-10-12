@@ -1,0 +1,50 @@
+{
+  "status": "SOURCE_AND_CONSTANT_ASSESSMENT_ONLY_REQUIRES_SEPARATE_INDEPENDENT_REVIEW",
+  "producer": "Codex contributor 06",
+  "target_a_upper": "8/25",
+  "superseded_target_a_upper": "39/125",
+  "no_solver_or_new_model_or_certificate_replay": true,
+  "source_files_sha256": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/MANIFEST.json": "ce3e3a744ae6f35d521ee8549e3de93e83ca89fdc30db01fa82b3c2a119f4c6d",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md": "38906714154786f370fbdca4a53a154f986d58b1fbe796676991a314ab34fa8d",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/RESULT.md": "0b97488e46f7e79c2201e0eb51cb8f734c99f69ad4919ac6db2fcbfc9c87c781",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/upper-packing-certificate.json": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/INTERFACE-tube.json": "0ee14e37ebb2b0a629fa192335d60fe42bfda07760c947a06de67dd9dbcca56d",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/joint-capture-20261007/pilot.py": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/coarse-capture/new-leaf-import/hplus015-import/inputs/SPEC.md": "b8f8e9e510bb78ffb6ca181623802eb811f7d6b950e2a1d1926a79f9a2add896",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/coarse-capture/new-leaf-import/hplus015-import/inputs/wxcheck_v251.py": "c5e3b345234837a4d72c82ef2939a2c861bee34010788c406b1ad3169882acf9",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/coarse-capture/new-leaf-import/hplus015-import/inputs/wxcheck2_v251.js": "5e289a12da625890f83aa47fae1d8c58a650b215fe00315eb2c2758e2d415221",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/uniform.py": "2855813f04e0bc846ea88faaa6a3709033dcbf848747de968f68ff385bf04993",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/bridge.py": "ccc190e5f9c35a44a8ec309327815359f737093160d4bbaa9b147e388bc5bb09",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/rigidity.py": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/relational.py": "e268531d2279c38a7f47f809911890d17d8620aa9c49f1a87d230db6f17db1f0",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/root_geometry.py": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/verify.py": "1a6c91a8cc1e665e03e3a96815dab106c236ca4dd64de0132aafd933562423d0",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/upstream-root-certificate.json": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+  },
+  "document_snapshots": {
+    "TERMINAL_NOTES.md": {
+      "source": "research/window-extension-20261008/terminal/TERMINAL_NOTES.md",
+      "sha256": "d7c95901b4e42f85b6ee9f33b636bd1bba12dc06c625381cc8076953d4bed448"
+    },
+    "G20S_PLAN.md": {
+      "source": "research/window-extension-20261008/bigbox/G20S_PLAN.md",
+      "sha256": "732a20e8f2e41af0568d870f8a3cd08732d6ffb7e574e314842f9a7fc1532de8"
+    }
+  },
+  "cpu_seconds_tiny_checks": 0.04594400000000001,
+  "producer_cpu_charged_seconds": 2,
+  "files_sha256": {
+    "ASSESSMENT.md": "cdb0dd61c25ec91f31bbfcfffae67acef76d4a099c863c0b718a2d71954b67fc",
+    "TARGET.json": "01f3dba6bcf5b35ad41fc989564780adb9575ab8ef050b590e89d91a8f0365af",
+    "check_constants-v1.py": "1386b335f0eddd7bccf37c30b546d3e4b8241af6a7af6eec7513179f3c9a25a0",
+    "check_constants.py": "a0a14a2365ad322e4979c94fa8ecd09f0f48d51e836855cda38f81896295b00e",
+    "constants-v1.json": "8dbf8cc5ceaf3622f37349435a8cf4a0515d65d4ad37fd4c64894f3c2700fd43",
+    "constants.json": "5654b2e7e74979ec48dc95805c99c4d401fe7badc8772819cef17c0826257940",
+    "freeze.py": "64bfa12b9270229bb24c74830d5e12abab4ed0af11ee484e481fd81c91fe7c85",
+    "inputs/G20S_PLAN.md": "732a20e8f2e41af0568d870f8a3cd08732d6ffb7e574e314842f9a7fc1532de8",
+    "inputs/TERMINAL_NOTES.md": "d7c95901b4e42f85b6ee9f33b636bd1bba12dc06c625381cc8076953d4bed448"
+  },
+  "freeze_cpu_seconds": 0.0047830000000000025
+}

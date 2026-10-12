@@ -1,0 +1,16 @@
+{
+  "status": "ACCEPTED_PHYSICAL_BRANCH_B_SCOPE_STILL_INCONCLUSIVE",
+  "arithmetic_review_sha256": "e4f91fcbb7d9fce42fa4818487709c561ce65bc7387daf7a0c1f83438e32a9fc",
+  "independent_stop_review_sha256": "e8af5453f7e97d18ee2dab652644d797218ce2382fb928b53a8cb151cee7645d",
+  "independent_stop_review_prose_sha256": "7623f5b2290f22c49be71ee5ebeebc218d313b565de829a3829b4e67ac30e169",
+  "accepted_B6_review_sha256": "b38fb735a1d3bdd84c662a68b37d7d10e806af71abf82b54c320424da79d1ad1",
+  "same_domain_indices_and_core_scale_checked": true,
+  "physical_application": "For any nonzero core under the existing normalized physical hypotheses, branch B cuts are necessary.",
+  "finishing_contradiction_obtained": false,
+  "files": {
+    "PHYSICAL_SCOPE_ADDENDUM.md": "38e8c37131c5bd83a9a955319e0066adada8e9f8e640512a71c5a2e167042b20"
+  },
+  "additional_cpu_seconds": 0.004180000000000003,
+  "included_in_existing_four_second_review_charge": true,
+  "optimizer_or_model_replay": false
+}

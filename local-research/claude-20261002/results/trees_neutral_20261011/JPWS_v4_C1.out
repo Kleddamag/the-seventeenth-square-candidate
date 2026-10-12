@@ -1,0 +1,6 @@
+PASS
+nodes=110 accepted=110 infeasible=70 terminal=0 split=40 rounds_evaluated=70 steps=70 terms=2982299 zero_steps=70
+root='root' packing_sha256=24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7 certificate_sha256=538a6a512a10b72dd59f7a4eeec710c6bddb12411c6728745c7bbcf9cb333cf4
+labels=17 S_floor=4675530093604551/1000000000000000
+gzip input: certificate_sha256 is the hash of the compressed file; uncompressed_sha256=fa745f412c202f2957840444faefa2185ef98688d88080987049848239c7691c
+checker: wxcheck 3.0 / SPEC 3.0 / wx-cert-2, wx-cert-3; 1811.7 s

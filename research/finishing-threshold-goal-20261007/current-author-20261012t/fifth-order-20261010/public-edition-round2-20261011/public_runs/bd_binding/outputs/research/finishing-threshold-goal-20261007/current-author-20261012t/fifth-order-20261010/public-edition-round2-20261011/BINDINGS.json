@@ -1,0 +1,169 @@
+{
+  "status": "AUTHOR_CLARIFICATION_REQUIRES_SEPARATE_INDEPENDENT_READ",
+  "bindings": [
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/uniform-capture-20261007/uniform.py",
+      "sha256": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d",
+      "bytes": 18448
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-gate/producer/instance/research/joint-capture-20261007/pilot.py",
+      "sha256": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306",
+      "bytes": 26210
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/PROOF.md",
+      "sha256": "62a0c88675cb34b427087793cac3af27d4f2ac62b6ba720bd09ac2debab719a4",
+      "bytes": 6878
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-producer/root-interface.json",
+      "sha256": "c0a2e20edd832648f44edef6e0ee83507a7e6acd91e83785c0ccd10a3958bc0e",
+      "bytes": 7079
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/REVIEW.md",
+      "sha256": "4ed653f1365a24522cabf8ad06ad1c2ca89b1e85bab86106a7d3a1126907b253",
+      "bytes": 6722
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/root-review/manifest.json",
+      "sha256": "907071a795d42b92890da0a1894b3a9765635908caf2812044ade6d65d76056e",
+      "bytes": 6686
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/PROOF.md",
+      "sha256": "cf079be5b08240876c787bc7747237c0f6ebba74774d9bca08ab4e21d67a02a0",
+      "bytes": 5407
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-producer/PRUNING.json",
+      "sha256": "0a2655c65353b67cfd22ba05b9e84208e9c03c6664c3900ff3f771326ae9eb34",
+      "bytes": 34864
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/REVIEW.md",
+      "sha256": "a697e6ac1cd1b698f273061eaec437b5531a459a9c7b3fe9d0a3d68069e4b9b2",
+      "bytes": 6154
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/MANIFEST.json",
+      "sha256": "1f53aada94731e6d9189efd5833ebf3911b02d311a2616cc5bf1a35ab3cb3f18",
+      "bytes": 2978
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/check_transfer.py",
+      "sha256": "3598ba9b3d067d624f5632a9a3d8cb406dfa0d71243cb770e7c79d0b35f05663",
+      "bytes": 7225
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-entry-stop-pruning/entry-review/check_binding.py",
+      "sha256": "bc90201c786ac7039becc17d62ed9799b7ac411166c7a70c9602f942fd1196f4",
+      "bytes": 9569
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/REVIEW.md",
+      "sha256": "a65594ffb6cfca79fc2b532bc4ae21a59e670b851db234468973a7f71af22faf",
+      "bytes": 4747
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/MANIFEST.json",
+      "sha256": "5a70b980bdf8c519d1bcb19a6f710737e41073e782286f849e9ac62915f3b3cc",
+      "bytes": 1797
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/MATHEMATICAL_INTERFACE.json",
+      "sha256": "d1aead18ef637439b696c303e050c63afeb9782e326703e7e9c7bd9b70939ff4",
+      "bytes": 24866
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/full-stopped-propagation/rational-entry-review/check_corollary.py",
+      "sha256": "ac1eb19c3037b7865efeedf2c5db82cff7f25ecb654566df3a31a6316587757f",
+      "bytes": 7720
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/sixteen-square-corollary/producer/THEOREM.md",
+      "sha256": "80c9d10ae1ea60c6f1955a319e00666766238436b9961766dd9b81756bb33563",
+      "bytes": 10283
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/sixteen-square-corollary/producer/MATHEMATICAL_INTERFACE.json",
+      "sha256": "c57c89b70d57ca9425a699e76f05af67b644c1822c99858689e0dc6cd50e9ab9",
+      "bytes": 26435
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/sixteen-square-corollary/independent-review/REVIEW.md",
+      "sha256": "7618dbceac97d38da8e67f5bc6704e6668415edd471073e67637b80757198c1d",
+      "bytes": 9025
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/sixteen-square-corollary/independent-review/MANIFEST.json",
+      "sha256": "eb793556d044f9de7b81e39ff93789ad4aab3825453533a7c258d2adf66ad855",
+      "bytes": 22058
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/independent-review/REVIEW.md",
+      "sha256": "047832de9ad20b5d72e64b7517d71fac03f1ca3bad34322ab70dd31a9f3f621c",
+      "bytes": 6718
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/independent-review/MANIFEST.json",
+      "sha256": "65ba63fc416b50daf3c179901b059d9e2da6b340c3b70604983aa52931fa86ec",
+      "bytes": 8672
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/REVIEW.md",
+      "sha256": "7d01422f04715bfd0ab832a213bfa8a81d714fca0c8b56343e186057c19980b7",
+      "bytes": 4529
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/continuation-independent-review/MANIFEST.json",
+      "sha256": "0a8aa22c9c6ba5e7e223669f4dd5891392832b0484e107570d175229016f68ed",
+      "bytes": 10331
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-independent-review/REVIEW.md",
+      "sha256": "f9f0b6e0353e33e5b149c7f56ae391a5f3c78931db4cf6bab3812a99bf2924d7",
+      "bytes": 4254
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/finishing-independent-review/MANIFEST.json",
+      "sha256": "7766e022697c707fb576b9108f7323c99f47dd5e658e6603fa68b22a28857c9f",
+      "bytes": 11257
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/REVIEW.md",
+      "sha256": "298bd9b7d32614921db5667573c93911bb6f3123e132ac1e5c2c58023e19a00e",
+      "bytes": 4917
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/finite-stopped-contraction/proposal-timeout-retry-independent-review/MANIFEST.json",
+      "sha256": "f2ff70c6b08b1a57fa7226a525e4d8f36980b5ef5db0ac75617577543a6146b4",
+      "bytes": 13776
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v4/PROOF.md",
+      "sha256": "0d4c408d1e38a8d858281443b27ac4e0cf3591ba9045be8e8ec176a318916ee6",
+      "bytes": 59659
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/finite_scope.py",
+      "sha256": "9286c30d282ffeb05a831a1ddb3fa0f403f7f7f6418988732fdb27c7848f4215",
+      "bytes": 3444
+    }
+  ],
+  "entry_core_upper": "50000000000000431936528801877692509867571574499684018536212759948600149018787/10000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "entry_margin_to_501_over_100000": "99999999999568063471198122307490132428425500315981463787240051399850981213/10000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "checks": [
+    "small source files hashed",
+    "core upper strictly inside 501/100000",
+    "nonnegative root a explicitly uses actual right wall",
+    "rational tan remainder guard at q=1/10"
+  ],
+  "not_replayed": [
+    "finite models",
+    "duals",
+    "trees",
+    "old independent-check scripts"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "SOURCE_PREPARED_NOT_EXECUTED",
+  "origin": "research/global-compensation-20261007/reviews/wider-contraction-portable-1007/evidence/audit.py",
+  "origin_sha256": "5b66215f6bbbbf06f5474997d31e83cfed2fac822249c9f66d5c07c6d8d89f3b",
+  "changes": [
+    "No producer imports or calls",
+    "Only 48 slider-angle products and 100 columns",
+    "New G20S slider box and raw seeded b/z cuts",
+    "Append exact -b-z physical row each model",
+    "Parallel error uses independent-angle radii mean to match unchanged uniform no-relation semantics",
+    "Remove shared quadratic and relation rows"
+  ],
+  "CPU_seconds": 0.0004200000000000037
+}

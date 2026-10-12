@@ -1,0 +1,38 @@
+{
+  "status": "CURRENT_ENDPOINT_EXECUTION_BINDINGS",
+  "checks": {
+    "endpoint_upper": {
+      "script": {
+        "file": "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/check_endpoint.py",
+        "sha256": "3d49d934f7d66fd42b67feba38db86e1e1435a2620bc6f1b63c282a8236bf9b2",
+        "bytes": 15261
+      },
+      "receipt": {
+        "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/endpoint_upper/receipt.json",
+        "sha256": "9325ba6e69c9090d782c69439234e532c8be04fef0cbce22550c08b67b3ada64",
+        "bytes": 1404
+      },
+      "outputs": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/endpoint_upper/outputs/research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/endpoint-receipt.json",
+          "sha256": "f0c92961fd7f93d77ea76d477aac3d4906e4ac3f11c3065b2ca1f36eaac4ad4c",
+          "bytes": 286249
+        }
+      ]
+    },
+    "endpoint_enclosure": {
+      "script": {
+        "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/check_endpoint_enclosure.py",
+        "sha256": "c5516de0a97c3d52e05c21b86dde7b58ca3114a5f2ec70d4fec4ac41e529eb51",
+        "bytes": 9241
+      },
+      "receipt": {
+        "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/endpoint_enclosure/receipt.json",
+        "sha256": "3adfb0a957e15ab98e46192afd50e3e57c2dbc1245c03d439fb1547998b2b7b9",
+        "bytes": 1496
+      },
+      "outputs": []
+    }
+  },
+  "scope": "Current actual endpoint checks; earlier wide-enclosure comparisons remain historical evidence."
+}

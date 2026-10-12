@@ -1,0 +1,37 @@
+{
+  "status": "ACCEPT_INHERITED_LITERAL_C7_C8_OCCUPANCY",
+  "producer_proof_sha256": "e84f898fea26892ef97983750f16cc15774f47e11cf09aef1680f96a63e7d1d3",
+  "producer_check_sha256": "b1fb9d3df5a65ec92e482fa9c984ad1e3841fb3f16552c473380e5e9d127f283",
+  "producer_result_sha256": "fa26164523505ba6f793feeaf1b5750a48e74f214543ac32ceb5789de374f65e",
+  "input_sha256": {
+    "accepted": "3eca7bba368deb680ae5a3b599716c88816230dd3a6937ea4c748ee6dc1efe6d",
+    "classes": "fe4e7bdb8df862240a0c521eedbfc1958375a907ce30895300544d578999f164",
+    "C7": "456a1da31fdd594edad7d5a3e4ca66e51eca58e30154724c1d1b16b02e21d60d",
+    "C8": "88b7d7340b6f4d98ac25bd23752cb61d877beb524a824013e18ef0f0da9b32ca"
+  },
+  "accepted_interface_artifacts_bound": 6,
+  "scope": [
+    "Exactly17 contained interior-disjoint physical unit squares with actual S<=4675531/1000000",
+    "One common centred frame U=1169/250 after shift (U-S)/2 in each coordinate",
+    "Literal family-C half-marker occupied"
+  ],
+  "imported_execution_qualification": {
+    "Node_workers_per_slice": 4,
+    "Python_workers_per_slice": 4,
+    "actual_six_checker_blobs_equal_accepted_algorithm_pins": true,
+    "future_runs_or_repaired_checker_not_implicitly_accepted": true,
+    "old_Node_general_worker_binding_defect_retained": true,
+    "only_these_twelve_stable_executions_accepted": true,
+    "ordinary_authentic_saved_execution_evidence_not_runtime_attestation": true,
+    "stable_tracked_inputs_staged_before_both_checkers": true,
+    "worker_run_cvjob_blobs_equal_previously_accepted_stable_flow": true
+  },
+  "reflected_e07a_target_x": [
+    "19879/5000",
+    "647/125"
+  ],
+  "literal_C8_containment_slack": "3/125",
+  "literal_C7_C8_x_separation": "8189/2500",
+  "new_charge_calculation": false,
+  "missing_repaired_files_not_asserted": true
+}

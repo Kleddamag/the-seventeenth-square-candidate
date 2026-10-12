@@ -1,0 +1,3 @@
+{"round": 16, "CPU_seconds": 0.572531, "target_reached": false}
+{"round": 17, "CPU_seconds": 0.5855540000000001, "target_reached": true}
+{"status": "PASS_EXACT_FINITE_ENTRY_TO_ACCEPTED_RATIONAL_THEOREM", "CPU_seconds": 1.190983}

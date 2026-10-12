@@ -1,0 +1,11 @@
+{
+  "status": "PASS_G20S_FINITE_ENTRY_ROOT_STOPS_PENDING_REVIEW",
+  "cpu_seconds": 0.020857,
+  "simple_closed_conclusions": {
+    "b_lower": "-8517/1000000",
+    "b_plus_z_upper": "49/2000",
+    "z_upper": "33/1000"
+  },
+  "old_D_rejected": true
+}
+{"replay_telemetry": {"status": "PASS", "process_CPU_seconds": 0.074541, "calculation_CPU_seconds": 0.02141, "wall_seconds": 0.021492000000000004, "runtime": "3.9.6 (default, Aug 25 2026, 21:26:21) \n[Clang 21.0.0 (clang-2100.3.34.2)]", "solver_calls": 0}}

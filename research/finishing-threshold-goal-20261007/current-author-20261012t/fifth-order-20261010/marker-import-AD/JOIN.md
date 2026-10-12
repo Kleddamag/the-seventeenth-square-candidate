@@ -1,0 +1,9 @@
+# Exact marker class budget implies the original FRAME_MARKER row
+
+Let E be the closed pose union in the original marker520ce3ce..., with its literal F_U frame, orbit symmetry and explicitly represented quarter-turn directions. Literal comparison gives exactly the same slots, frame and symmetry for the sole threshold0 class in FRAME_MARKER_CLASSaa8b1410.... There are no other classes. Hence the operational high-first score of any pose is psi(p)=0 on E and1 outside E. This avoids the legacy multi-class minimum-score wording issue completely.
+
+For a packing of seventeen parents at cap4675531/1000000, the authenticated complete class checks of certificate4f6fd341... imply sum psi <17. Equivalently17-N(E)<17, so N(E)>=1. The integer certificate proof is strict: Gamma998328901, budget16971591304, and17Gamma-budget=13>0. The reviewed charge soundness bounds the score for every physical packing, not only checked sample poses. Closed boundaries of E remain included. For smaller actual side S<=Sstar, use the already accepted ENDPOINT concentric placement into F_U; no square is rescaled or reoriented.
+
+This is precisely the original restricted marker occupation conclusion: it changes neither the half-marker selection nor the subsequent single common D4 frame, labelled parent assignment, L statements or branch hypotheses. Those conclusions still use their own recorded dependencies. The new arithmetic evidence is the class run, never a relabelling of old restricted-checker receipts.
+
+Author join complete; independent conversion/join review is required before FRAME_MARKER is promoted in the active manifest. The current prepared file deliberately leaves it OPEN until that independent report is imported. The saved audit proves authentic execution/row agreement, not a new local rerun of the charge geometry.

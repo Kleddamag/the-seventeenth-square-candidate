@@ -1,0 +1,1697 @@
+{
+  "aliases": [
+    {
+      "id": "FRAME_MARKER",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_MARKER/classes.json",
+        "sha256": "6691f91f9d5038e413c5b8f9bd7e7b48ce793d9374d6adce1ef94fe9f89ab50c",
+        "bytes": 1696
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_MARKER/classes.json",
+        "sha256": "6691f91f9d5038e413c5b8f9bd7e7b48ce793d9374d6adce1ef94fe9f89ab50c",
+        "bytes": 1696
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "FRAME_0506",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0506/classes.json",
+        "sha256": "fe34f35030d736a4d165a4f5a92cdd154acc9583ede2e2aa8a5aba9da1e9cc6d",
+        "bytes": 1075
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0506/classes.json",
+        "sha256": "fe34f35030d736a4d165a4f5a92cdd154acc9583ede2e2aa8a5aba9da1e9cc6d",
+        "bytes": 1075
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "FRAME_1114",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_1114/classes.json",
+        "sha256": "b1d6815c9f28bc0df7bdabad8c774e8e76de94fca8cddb6d4ede2a5ddcf6d9cd",
+        "bytes": 1410
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_1114/classes.json",
+        "sha256": "b1d6815c9f28bc0df7bdabad8c774e8e76de94fca8cddb6d4ede2a5ddcf6d9cd",
+        "bytes": 1410
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "FRAME_0917",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0917/classes.json",
+        "sha256": "20fe5ad1403ae2b9bac9dc64b8421da81e0cd5f46a16b6e1a9659782ebbc2c71",
+        "bytes": 1892
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0917/classes.json",
+        "sha256": "20fe5ad1403ae2b9bac9dc64b8421da81e0cd5f46a16b6e1a9659782ebbc2c71",
+        "bytes": 1892
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "E07A",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/E07A/classes.json",
+        "sha256": "fe4e7bdb8df862240a0c521eedbfc1958375a907ce30895300544d578999f164",
+        "bytes": 1362
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/E07A/classes.json",
+        "sha256": "fe4e7bdb8df862240a0c521eedbfc1958375a907ce30895300544d578999f164",
+        "bytes": 1362
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_1",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_1/classes.json",
+        "sha256": "40c38b3011d40ce4240a44fde78d832e55aa0a22fee633299d732157bedd7931",
+        "bytes": 1591
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_1/classes.json",
+        "sha256": "40c38b3011d40ce4240a44fde78d832e55aa0a22fee633299d732157bedd7931",
+        "bytes": 1591
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_2",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_2/classes.json",
+        "sha256": "ebab89a44794133cc656a67ae2e7ca42d04de0eef679478994dca30cd990cfbb",
+        "bytes": 1593
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_2/classes.json",
+        "sha256": "ebab89a44794133cc656a67ae2e7ca42d04de0eef679478994dca30cd990cfbb",
+        "bytes": 1593
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_3",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_3/classes.json",
+        "sha256": "26dd485c091bb835d0a632637a7e4817276fba7a59a9595a2e9ef69d8714faf1",
+        "bytes": 1587
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_3/classes.json",
+        "sha256": "26dd485c091bb835d0a632637a7e4817276fba7a59a9595a2e9ef69d8714faf1",
+        "bytes": 1587
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_4",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_4/classes.json",
+        "sha256": "c0520b39b27d618e81ade2657be0d203f610a0a2e316a070edc8292147bc709f",
+        "bytes": 1591
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_4/classes.json",
+        "sha256": "c0520b39b27d618e81ade2657be0d203f610a0a2e316a070edc8292147bc709f",
+        "bytes": 1591
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_5",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_5/classes.json",
+        "sha256": "c380520234cd962a468c66a3035127081c6a7d78c490f6ca4ed753874a8b0a59",
+        "bytes": 1607
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_5/classes.json",
+        "sha256": "c380520234cd962a468c66a3035127081c6a7d78c490f6ca4ed753874a8b0a59",
+        "bytes": 1607
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_6",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_6/classes.json",
+        "sha256": "337b5da1acc32aba2db8f4ec5fd57e73538f63b428ab48cc6f645993add74493",
+        "bytes": 1608
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_6/classes.json",
+        "sha256": "337b5da1acc32aba2db8f4ec5fd57e73538f63b428ab48cc6f645993add74493",
+        "bytes": 1608
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_7",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_7/classes.json",
+        "sha256": "e4818172bd8c628bfeb7ab3edadc43ad7b8dffd3af46c21640a6ef8b2dd7f757",
+        "bytes": 1594
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_7/classes.json",
+        "sha256": "e4818172bd8c628bfeb7ab3edadc43ad7b8dffd3af46c21640a6ef8b2dd7f757",
+        "bytes": 1594
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_8",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_8/classes.json",
+        "sha256": "33829e421ec29e7c64e7f4586a336a6bf5a52944b4715b4b788de67056d84c62",
+        "bytes": 1597
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_8/classes.json",
+        "sha256": "33829e421ec29e7c64e7f4586a336a6bf5a52944b4715b4b788de67056d84c62",
+        "bytes": 1597
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_10",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_10/classes.json",
+        "sha256": "f0a70efeb3783db28a9529fcd1c4cb8a84c8bc1ac5fcaba963d6a1cd96077c55",
+        "bytes": 1623
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_10/classes.json",
+        "sha256": "f0a70efeb3783db28a9529fcd1c4cb8a84c8bc1ac5fcaba963d6a1cd96077c55",
+        "bytes": 1623
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_11",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/classes.json",
+        "sha256": "9869a38bf87fc3384e342fcf8de914478c27d28ab9a0fa0f1e099418063b8d4b",
+        "bytes": 1625
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_11/classes.json",
+        "sha256": "9869a38bf87fc3384e342fcf8de914478c27d28ab9a0fa0f1e099418063b8d4b",
+        "bytes": 1625
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_12",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_12/classes.json",
+        "sha256": "c29d666395db09fc22baf396eb4fb19853e9c4dbd4f5fcd0aee11f95f3f86889",
+        "bytes": 4974
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_12/classes.json",
+        "sha256": "c29d666395db09fc22baf396eb4fb19853e9c4dbd4f5fcd0aee11f95f3f86889",
+        "bytes": 4974
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_13",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_13/classes.json",
+        "sha256": "61ad2287267695b82a10b4f011b446a68f62ae0824721c323eafa42d324f7878",
+        "bytes": 1633
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_13/classes.json",
+        "sha256": "61ad2287267695b82a10b4f011b446a68f62ae0824721c323eafa42d324f7878",
+        "bytes": 1633
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_14",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_14/classes.json",
+        "sha256": "ca8ca9972536dfc4d4bfd857bf9176ae4b3b2a151080f207dc2cdb84ba6ce481",
+        "bytes": 1633
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_14/classes.json",
+        "sha256": "ca8ca9972536dfc4d4bfd857bf9176ae4b3b2a151080f207dc2cdb84ba6ce481",
+        "bytes": 1633
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_15/classes.json",
+        "sha256": "8c78dcca7213fc4d58b14045e4c65931fb897941608537d4065db3f2fdcf58f8",
+        "bytes": 1590
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_15/classes.json",
+        "sha256": "8c78dcca7213fc4d58b14045e4c65931fb897941608537d4065db3f2fdcf58f8",
+        "bytes": 1590
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_16",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_16/classes.json",
+        "sha256": "be16c4d71835d2d8c2d60a35c4339307d2791c3aff77bd329f2cd5f755ffae96",
+        "bytes": 1617
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_16/classes.json",
+        "sha256": "be16c4d71835d2d8c2d60a35c4339307d2791c3aff77bd329f2cd5f755ffae96",
+        "bytes": 1617
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "Q_17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_17/classes.json",
+        "sha256": "94277f4cf2bc9fd1a42896a2d46d9a47f95e301e28bf3eb16db82de23be92bca",
+        "bytes": 1590
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/Q_17/classes.json",
+        "sha256": "94277f4cf2bc9fd1a42896a2d46d9a47f95e301e28bf3eb16db82de23be92bca",
+        "bytes": 1590
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_1",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_1/classes.json",
+        "sha256": "974ebb07bdcbb027dbabeb0d38ad600980a903783ec2b231002dbf4115792dae",
+        "bytes": 1600
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_1/classes.json",
+        "sha256": "974ebb07bdcbb027dbabeb0d38ad600980a903783ec2b231002dbf4115792dae",
+        "bytes": 1600
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_2",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_2/classes.json",
+        "sha256": "770eba40a4928d01a6722e72819330a8df1febba994c69b383637d0e188c44b1",
+        "bytes": 1600
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_2/classes.json",
+        "sha256": "770eba40a4928d01a6722e72819330a8df1febba994c69b383637d0e188c44b1",
+        "bytes": 1600
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_5",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_5/classes.json",
+        "sha256": "9747b1045f00f4f44f93bfa8e38f4cfc928dff8f2b1290fb4e1fb7eb0f5a4228",
+        "bytes": 1610
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_5/classes.json",
+        "sha256": "9747b1045f00f4f44f93bfa8e38f4cfc928dff8f2b1290fb4e1fb7eb0f5a4228",
+        "bytes": 1610
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_6",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_6/classes.json",
+        "sha256": "4f4699f5e548d290ece62ccdd59d3539fac3cc57c76e1d5a30b8d45cdf4b0197",
+        "bytes": 1611
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_6/classes.json",
+        "sha256": "4f4699f5e548d290ece62ccdd59d3539fac3cc57c76e1d5a30b8d45cdf4b0197",
+        "bytes": 1611
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_7",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_7/classes.json",
+        "sha256": "a8878a5a98bb238b383218d05cee2308ace18e46e45dd35582c1721092beccc4",
+        "bytes": 1600
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_7/classes.json",
+        "sha256": "a8878a5a98bb238b383218d05cee2308ace18e46e45dd35582c1721092beccc4",
+        "bytes": 1600
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_8",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_8/classes.json",
+        "sha256": "f77336fb746031f0056215374106ac61b13b37411321b7c7903b0617d3d6b51d",
+        "bytes": 1602
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_8/classes.json",
+        "sha256": "f77336fb746031f0056215374106ac61b13b37411321b7c7903b0617d3d6b51d",
+        "bytes": 1602
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_10",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_10/classes.json",
+        "sha256": "770cf844df42e279f6851e33e4846904b093e5b25ee40116a4d708b4c4718f15",
+        "bytes": 1619
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_10/classes.json",
+        "sha256": "770cf844df42e279f6851e33e4846904b093e5b25ee40116a4d708b4c4718f15",
+        "bytes": 1619
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_11",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/classes.json",
+        "sha256": "0fc8882907e5f43317019cf58da37b20a1bb3f09b6345e699abbb6db99cf105e",
+        "bytes": 1671
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_11/classes.json",
+        "sha256": "0fc8882907e5f43317019cf58da37b20a1bb3f09b6345e699abbb6db99cf105e",
+        "bytes": 1671
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_12",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_12/classes.json",
+        "sha256": "024c5dc5a82230fded20926ec3ab2a297e028efd9f89be2bda4826d5c7aa2b99",
+        "bytes": 3920
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_12/classes.json",
+        "sha256": "024c5dc5a82230fded20926ec3ab2a297e028efd9f89be2bda4826d5c7aa2b99",
+        "bytes": 3920
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_13",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_13/classes.json",
+        "sha256": "e06867f2c24fdb10d9410a374b23ba966b6e923931ecb731dbf288367e24e724",
+        "bytes": 1670
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_13/classes.json",
+        "sha256": "e06867f2c24fdb10d9410a374b23ba966b6e923931ecb731dbf288367e24e724",
+        "bytes": 1670
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_14",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_14/classes.json",
+        "sha256": "4e873486808763ad11336fb5387a89eea03ededca5f9b888cd53c7f8550cca65",
+        "bytes": 1628
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_14/classes.json",
+        "sha256": "4e873486808763ad11336fb5387a89eea03ededca5f9b888cd53c7f8550cca65",
+        "bytes": 1628
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "PW_16",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_16/classes.json",
+        "sha256": "1990f88ecdad2cbf321ba27896d349a16136df57894e07140f44f2e5cc1d5546",
+        "bytes": 1630
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/PW_16/classes.json",
+        "sha256": "1990f88ecdad2cbf321ba27896d349a16136df57894e07140f44f2e5cc1d5546",
+        "bytes": 1630
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "L_3",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+        "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+        "bytes": 1596
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_3/classes.json",
+        "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f",
+        "bytes": 1596
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "L_4",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_4/classes.json",
+        "sha256": "1d82397ce1399d4c82099901b8c548b6c73847e0e3615a5cd1922abe81523aae",
+        "bytes": 1606
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_4/classes.json",
+        "sha256": "1d82397ce1399d4c82099901b8c548b6c73847e0e3615a5cd1922abe81523aae",
+        "bytes": 1606
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "L_15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+        "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+        "bytes": 1601
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_15/classes.json",
+        "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496",
+        "bytes": 1601
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "L_17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_17/classes.json",
+        "sha256": "a3d752494123ba8d2d28548c48e03d25842d7e33a890b099da439c7e083a0056",
+        "bytes": 1607
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/L_17/classes.json",
+        "sha256": "a3d752494123ba8d2d28548c48e03d25842d7e33a890b099da439c7e083a0056",
+        "bytes": 1607
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_1",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_1/classes.json",
+        "sha256": "e208025e9e5905f3d1ad524a692facfe28b3e7092fcdbfef2fd74d26cb5de1a6",
+        "bytes": 3088
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_1/classes.json",
+        "sha256": "e208025e9e5905f3d1ad524a692facfe28b3e7092fcdbfef2fd74d26cb5de1a6",
+        "bytes": 3088
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_2",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_2/classes.json",
+        "sha256": "3e22dfbff872b1f02d7fb678e34ef2abfafeb950985970b492a3b49787f49823",
+        "bytes": 3090
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_2/classes.json",
+        "sha256": "3e22dfbff872b1f02d7fb678e34ef2abfafeb950985970b492a3b49787f49823",
+        "bytes": 3090
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_5",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_5/classes.json",
+        "sha256": "8fe1d426f7f4e679cc3ad90ab3675f05efd131ac2fce1bff9f0e4ec87cc94d8b",
+        "bytes": 3102
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_5/classes.json",
+        "sha256": "8fe1d426f7f4e679cc3ad90ab3675f05efd131ac2fce1bff9f0e4ec87cc94d8b",
+        "bytes": 3102
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_6",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_6/classes.json",
+        "sha256": "33716398433a43b158c35552df8a88cc3cfa0253d26d27e1e6f59a0ae445f406",
+        "bytes": 3104
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_6/classes.json",
+        "sha256": "33716398433a43b158c35552df8a88cc3cfa0253d26d27e1e6f59a0ae445f406",
+        "bytes": 3104
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_10",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_10/classes.json",
+        "sha256": "0bf38130aeeb319b5f03b781e3df934cb3d5634d963310c9ccc1eacf142e689e",
+        "bytes": 3118
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_10/classes.json",
+        "sha256": "0bf38130aeeb319b5f03b781e3df934cb3d5634d963310c9ccc1eacf142e689e",
+        "bytes": 3118
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_11",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_11/classes.json",
+        "sha256": "9b036d26a87e4f89f356303004f817a9a8b2d1afff120ee6ff69cb4be69122b6",
+        "bytes": 3139
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_11/classes.json",
+        "sha256": "9b036d26a87e4f89f356303004f817a9a8b2d1afff120ee6ff69cb4be69122b6",
+        "bytes": 3139
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_12",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_12/classes.json",
+        "sha256": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc",
+        "bytes": 4786
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_12/classes.json",
+        "sha256": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc",
+        "bytes": 4786
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_13",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_13/classes.json",
+        "sha256": "4b42b2e549c779e2d130fd9c27b129b04f843f3c089f1cfd0c908b996a63bd15",
+        "bytes": 3146
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_13/classes.json",
+        "sha256": "4b42b2e549c779e2d130fd9c27b129b04f843f3c089f1cfd0c908b996a63bd15",
+        "bytes": 3146
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_14",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_14/classes.json",
+        "sha256": "f26744f1409e9e928123c63d26ce4e0e59d1987b51a695cbfc92eb3f3001a412",
+        "bytes": 3120
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_14/classes.json",
+        "sha256": "f26744f1409e9e928123c63d26ce4e0e59d1987b51a695cbfc92eb3f3001a412",
+        "bytes": 3120
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "C_16",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_16/classes.json",
+        "sha256": "01af04bb70955f839052b3c7abef582aad2578a29d60d6d8aecf3589109e6140",
+        "bytes": 3117
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_16/classes.json",
+        "sha256": "01af04bb70955f839052b3c7abef582aad2578a29d60d6d8aecf3589109e6140",
+        "bytes": 3117
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "KEY_W",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/classes.json",
+        "sha256": "64a965273a216b9a75ae424d4a94a4fbafeb04c3c1577b4e818a8d6e8355d4ed",
+        "bytes": 1742
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/KEY_W/classes.json",
+        "sha256": "64a965273a216b9a75ae424d4a94a4fbafeb04c3c1577b4e818a8d6e8355d4ed",
+        "bytes": 1742
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "SL11_T020",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/SL11_T020/classes.json",
+        "sha256": "0571ecd0f5d4bef2b2c76476d282cdb8f974865da0794e4b28aed2152def8659",
+        "bytes": 1646
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/SL11_T020/classes.json",
+        "sha256": "0571ecd0f5d4bef2b2c76476d282cdb8f974865da0794e4b28aed2152def8659",
+        "bytes": 1646
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L01_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T09/classes.json",
+        "sha256": "cf863943c8ad07d46ec51c7211e89c366108e935329a22615ce0c2a11c2ddb7a",
+        "bytes": 1892
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T09/classes.json",
+        "sha256": "cf863943c8ad07d46ec51c7211e89c366108e935329a22615ce0c2a11c2ddb7a",
+        "bytes": 1892
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L02_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T09/classes.json",
+        "sha256": "02a9e631e8aef429b0ae9e611dbcb710666e9d58e46534ffc32b818ac7c1a7e3",
+        "bytes": 1894
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T09/classes.json",
+        "sha256": "02a9e631e8aef429b0ae9e611dbcb710666e9d58e46534ffc32b818ac7c1a7e3",
+        "bytes": 1894
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L05_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T09/classes.json",
+        "sha256": "52d382b99c4316a30679aac1acc9ae2f7fab767647311c8c3fcdae89a4f0167b",
+        "bytes": 1903
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T09/classes.json",
+        "sha256": "52d382b99c4316a30679aac1acc9ae2f7fab767647311c8c3fcdae89a4f0167b",
+        "bytes": 1903
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L06_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T09/classes.json",
+        "sha256": "a60ff063c193a12c693a51d2210401435787bfc9fe47d0e513a5537e1969bae7",
+        "bytes": 1905
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T09/classes.json",
+        "sha256": "a60ff063c193a12c693a51d2210401435787bfc9fe47d0e513a5537e1969bae7",
+        "bytes": 1905
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L07_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T09/classes.json",
+        "sha256": "15008f41f0178377a1bfd7236a94cbb0983563d69672e1097ce78bdb7c0a13ff",
+        "bytes": 1894
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T09/classes.json",
+        "sha256": "15008f41f0178377a1bfd7236a94cbb0983563d69672e1097ce78bdb7c0a13ff",
+        "bytes": 1894
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L08_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T09/classes.json",
+        "sha256": "6033cb4d727787bb32cecbb639cd9774d64702870ddae39c3f6aedd13ed4ffd9",
+        "bytes": 1896
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T09/classes.json",
+        "sha256": "6033cb4d727787bb32cecbb639cd9774d64702870ddae39c3f6aedd13ed4ffd9",
+        "bytes": 1896
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L10_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L10_T09/classes.json",
+        "sha256": "b0a6d13da7851e18cc12c159dd7d32a22f190b8f827395629d9eb1f74b9e2b04",
+        "bytes": 1923
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L10_T09/classes.json",
+        "sha256": "b0a6d13da7851e18cc12c159dd7d32a22f190b8f827395629d9eb1f74b9e2b04",
+        "bytes": 1923
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSW37_L11_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T09/classes.json",
+        "sha256": "412cd87edd916b8adffa65e311c6c0d3a22151afbffadaaba6118c78f91d1bca",
+        "bytes": 1968
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T09/classes.json",
+        "sha256": "412cd87edd916b8adffa65e311c6c0d3a22151afbffadaaba6118c78f91d1bca",
+        "bytes": 1968
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L12_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T09/classes.json",
+        "sha256": "72a0c9e08a1cb86666eb7070dea5dc0da4c8a0e04420de01bcfe77a26e26f866",
+        "bytes": 4226
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T09/classes.json",
+        "sha256": "72a0c9e08a1cb86666eb7070dea5dc0da4c8a0e04420de01bcfe77a26e26f866",
+        "bytes": 4226
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L13_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L13_T09/classes.json",
+        "sha256": "991d8796d38b3a714d7459c70bb5cfb4cb791809b6743417a488e2800ca165dd",
+        "bytes": 1920
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L13_T09/classes.json",
+        "sha256": "991d8796d38b3a714d7459c70bb5cfb4cb791809b6743417a488e2800ca165dd",
+        "bytes": 1920
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L14_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T09/classes.json",
+        "sha256": "6a0ae987bd8639ae4f20bf5945b04d53d30b65b76ec7a244bca6ffc2a9fe0645",
+        "bytes": 1922
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T09/classes.json",
+        "sha256": "6a0ae987bd8639ae4f20bf5945b04d53d30b65b76ec7a244bca6ffc2a9fe0645",
+        "bytes": 1922
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L16_T09",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L16_T09/classes.json",
+        "sha256": "9569dba71efd7fac6cb5b7c66ec0646b1030d3f7de000b33192e0c59594b7378",
+        "bytes": 1922
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L16_T09/classes.json",
+        "sha256": "9569dba71efd7fac6cb5b7c66ec0646b1030d3f7de000b33192e0c59594b7378",
+        "bytes": 1922
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L01_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T03/classes.json",
+        "sha256": "8ae6c76791b55d51e8260e70dc79150466ac59f63aa64a7fae52d43eccef8004",
+        "bytes": 2032
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T03/classes.json",
+        "sha256": "8ae6c76791b55d51e8260e70dc79150466ac59f63aa64a7fae52d43eccef8004",
+        "bytes": 2032
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L02_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T03/classes.json",
+        "sha256": "d088c2915c27c540d11c357d413b1c24ebe30424d5e9e0b6f57da23a4fa81efa",
+        "bytes": 2034
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T03/classes.json",
+        "sha256": "d088c2915c27c540d11c357d413b1c24ebe30424d5e9e0b6f57da23a4fa81efa",
+        "bytes": 2034
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L05_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T03/classes.json",
+        "sha256": "f70a3923ed7948c3b61464156bbb4debdab3b612e443f9017bcb7cf09f961444",
+        "bytes": 2043
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T03/classes.json",
+        "sha256": "f70a3923ed7948c3b61464156bbb4debdab3b612e443f9017bcb7cf09f961444",
+        "bytes": 2043
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L06_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T03/classes.json",
+        "sha256": "24017292d83783d46f864ed4b62e387679d94a9b118d403dd5bc1559a4331c52",
+        "bytes": 2045
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T03/classes.json",
+        "sha256": "24017292d83783d46f864ed4b62e387679d94a9b118d403dd5bc1559a4331c52",
+        "bytes": 2045
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L07_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T03/classes.json",
+        "sha256": "a40daf705130c2bb72607801009ef1bad21ff35c6f725b24fb222a5d71576fad",
+        "bytes": 2034
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T03/classes.json",
+        "sha256": "a40daf705130c2bb72607801009ef1bad21ff35c6f725b24fb222a5d71576fad",
+        "bytes": 2034
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L08_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T03/classes.json",
+        "sha256": "2a63485ed9c40b6dc1cf4dc85b57e5dccc7fb4e8099479c641bdc9262416d42c",
+        "bytes": 2036
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T03/classes.json",
+        "sha256": "2a63485ed9c40b6dc1cf4dc85b57e5dccc7fb4e8099479c641bdc9262416d42c",
+        "bytes": 2036
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L10_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T03/classes.json",
+        "sha256": "4abd345bf45ae7c33bf9ff807f3c6a7f2940d5112373825ddb8557e58715556c",
+        "bytes": 2063
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T03/classes.json",
+        "sha256": "4abd345bf45ae7c33bf9ff807f3c6a7f2940d5112373825ddb8557e58715556c",
+        "bytes": 2063
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSSW37_L11_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T03/classes.json",
+        "sha256": "62884f4713ede60ac2a9e94bb9c9f9ca457eb53ba0af74a610e72e617d9a32ac",
+        "bytes": 2108
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T03/classes.json",
+        "sha256": "62884f4713ede60ac2a9e94bb9c9f9ca457eb53ba0af74a610e72e617d9a32ac",
+        "bytes": 2108
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L12_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T03/classes.json",
+        "sha256": "f482bf2f00cff2a68336582f6f59f8eee9e597a9bb2e262be53f220fc1ec4b25",
+        "bytes": 4366
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T03/classes.json",
+        "sha256": "f482bf2f00cff2a68336582f6f59f8eee9e597a9bb2e262be53f220fc1ec4b25",
+        "bytes": 4366
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L13_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T03/classes.json",
+        "sha256": "de107501a681e10c34dee1e1a4e5ca7be1a68fa8764ee7486603b398c322aef5",
+        "bytes": 2060
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T03/classes.json",
+        "sha256": "de107501a681e10c34dee1e1a4e5ca7be1a68fa8764ee7486603b398c322aef5",
+        "bytes": 2060
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L14_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T03/classes.json",
+        "sha256": "79a1e0632b4e0387426630b04955b250fca1b018244d3d3e7bb9a49fa273b7a4",
+        "bytes": 2062
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T03/classes.json",
+        "sha256": "79a1e0632b4e0387426630b04955b250fca1b018244d3d3e7bb9a49fa273b7a4",
+        "bytes": 2062
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L16_T03",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T03/classes.json",
+        "sha256": "e201fcfe967ae51b6afed3e023c2fe55974b91663b3da081cbae0c4330046b06",
+        "bytes": 2062
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T03/classes.json",
+        "sha256": "e201fcfe967ae51b6afed3e023c2fe55974b91663b3da081cbae0c4330046b06",
+        "bytes": 2062
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L01_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T17/classes.json",
+        "sha256": "908568bc86012c6c6e6059c89a8d18163ab8f44396c4f959e5a840e6ce0351b5",
+        "bytes": 2112
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L01_T17/classes.json",
+        "sha256": "908568bc86012c6c6e6059c89a8d18163ab8f44396c4f959e5a840e6ce0351b5",
+        "bytes": 2112
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L02_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T17/classes.json",
+        "sha256": "4977cb1cead16954109054d905ce709a04cf1d8a411c17f5cbf83c113b69c30c",
+        "bytes": 2114
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L02_T17/classes.json",
+        "sha256": "4977cb1cead16954109054d905ce709a04cf1d8a411c17f5cbf83c113b69c30c",
+        "bytes": 2114
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L05_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T17/classes.json",
+        "sha256": "fd6975bab124ef46cb82c69c08de6698276cbdc21148a1cbf1e082bf74166b15",
+        "bytes": 2123
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L05_T17/classes.json",
+        "sha256": "fd6975bab124ef46cb82c69c08de6698276cbdc21148a1cbf1e082bf74166b15",
+        "bytes": 2123
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L07_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T17/classes.json",
+        "sha256": "005656a102ffa96d41fd8bc82f7f0e7c8af6788238aec87ebb4380b6a4bf043a",
+        "bytes": 2114
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L07_T17/classes.json",
+        "sha256": "005656a102ffa96d41fd8bc82f7f0e7c8af6788238aec87ebb4380b6a4bf043a",
+        "bytes": 2114
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L08_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T17/classes.json",
+        "sha256": "ec2ef3a80c75d895214105b5f225a76cf290ce760efb16dd022c6980654ffa59",
+        "bytes": 2116
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L08_T17/classes.json",
+        "sha256": "ec2ef3a80c75d895214105b5f225a76cf290ce760efb16dd022c6980654ffa59",
+        "bytes": 2116
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L10_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L10_T17/classes.json",
+        "sha256": "3b865a9969842eae2228a0e2f9927632ce83b28827819044db3089150b99730a",
+        "bytes": 2143
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L10_T17/classes.json",
+        "sha256": "3b865a9969842eae2228a0e2f9927632ce83b28827819044db3089150b99730a",
+        "bytes": 2143
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSW37_L11_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T17/classes.json",
+        "sha256": "e8364ed2427eddc1b8c601b75a79b080ff821b19af44fd353f86edde7e0a4808",
+        "bytes": 2188
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSW37_L11_T17/classes.json",
+        "sha256": "e8364ed2427eddc1b8c601b75a79b080ff821b19af44fd353f86edde7e0a4808",
+        "bytes": 2188
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L12_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T17/classes.json",
+        "sha256": "0d50c1245b0c491762133539e274e3b2f42c473e70c0c365a53e834a07656694",
+        "bytes": 4446
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L12_T17/classes.json",
+        "sha256": "0d50c1245b0c491762133539e274e3b2f42c473e70c0c365a53e834a07656694",
+        "bytes": 4446
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L13_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L13_T17/classes.json",
+        "sha256": "5be93afc48f5a0c695fe8636de0cc3590d06132bba5b4d4673abfdc65b41e21b",
+        "bytes": 2140
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L13_T17/classes.json",
+        "sha256": "5be93afc48f5a0c695fe8636de0cc3590d06132bba5b4d4673abfdc65b41e21b",
+        "bytes": 2140
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L14_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T17/classes.json",
+        "sha256": "0f4387d451bc63dc98a4cfe73d460aa27f47bc1a1fba1a46aa3be7ec1b505c9d",
+        "bytes": 2142
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L14_T17/classes.json",
+        "sha256": "0f4387d451bc63dc98a4cfe73d460aa27f47bc1a1fba1a46aa3be7ec1b505c9d",
+        "bytes": 2142
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L16_T17",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L16_T17/classes.json",
+        "sha256": "c5121f5d7ca01b8708317050f19c2b0d529183112ab1bd133d8e3f5f17ecbd16",
+        "bytes": 2142
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L16_T17/classes.json",
+        "sha256": "c5121f5d7ca01b8708317050f19c2b0d529183112ab1bd133d8e3f5f17ecbd16",
+        "bytes": 2142
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L01_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T15/classes.json",
+        "sha256": "f86fd85a135968cefe289e156c0682a97d6bbfbb69f75f1b23f6321670bcbc2d",
+        "bytes": 2042
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L01_T15/classes.json",
+        "sha256": "f86fd85a135968cefe289e156c0682a97d6bbfbb69f75f1b23f6321670bcbc2d",
+        "bytes": 2042
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L02_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T15/classes.json",
+        "sha256": "b4da182de81bbfba970a818f90cd4d88d9ffe32c90cb269a1086a42e41811a48",
+        "bytes": 2044
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L02_T15/classes.json",
+        "sha256": "b4da182de81bbfba970a818f90cd4d88d9ffe32c90cb269a1086a42e41811a48",
+        "bytes": 2044
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L05_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T15/classes.json",
+        "sha256": "0efc813df60b0a8038d47e7136c8bfbc0dd9aa8517a87a8853afdcbd8d4df41f",
+        "bytes": 2053
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L05_T15/classes.json",
+        "sha256": "0efc813df60b0a8038d47e7136c8bfbc0dd9aa8517a87a8853afdcbd8d4df41f",
+        "bytes": 2053
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L06_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T15/classes.json",
+        "sha256": "de85adf8c426e8b707c74fca6ba8280ad71e0728946c8733d3f3ba3d085eeacb",
+        "bytes": 2055
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L06_T15/classes.json",
+        "sha256": "de85adf8c426e8b707c74fca6ba8280ad71e0728946c8733d3f3ba3d085eeacb",
+        "bytes": 2055
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L07_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T15/classes.json",
+        "sha256": "9be54730c0d6f3df38c08c4382e761990ba05c58a232a2c15385961e9c3f4ad4",
+        "bytes": 2044
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L07_T15/classes.json",
+        "sha256": "9be54730c0d6f3df38c08c4382e761990ba05c58a232a2c15385961e9c3f4ad4",
+        "bytes": 2044
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L08_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T15/classes.json",
+        "sha256": "6cf2ec359c7c854c499a1f02afd9fd9eaac7801ecd3a3d8f6b6b87a16a3c581f",
+        "bytes": 2046
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L08_T15/classes.json",
+        "sha256": "6cf2ec359c7c854c499a1f02afd9fd9eaac7801ecd3a3d8f6b6b87a16a3c581f",
+        "bytes": 2046
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L10_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T15/classes.json",
+        "sha256": "409e2c0ed3c0cecd4ccf80d23455ea7236ed78b776070f1710b0cbb61b95b7dc",
+        "bytes": 2073
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L10_T15/classes.json",
+        "sha256": "409e2c0ed3c0cecd4ccf80d23455ea7236ed78b776070f1710b0cbb61b95b7dc",
+        "bytes": 2073
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSSW37_L11_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T15/classes.json",
+        "sha256": "dbb66ab1b94e553edd86968f0580430318bfb44805252c90fe469792fb90a4f1",
+        "bytes": 2118
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSSW37_L11_T15/classes.json",
+        "sha256": "dbb66ab1b94e553edd86968f0580430318bfb44805252c90fe469792fb90a4f1",
+        "bytes": 2118
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L12_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T15/classes.json",
+        "sha256": "f97677de9779e9e150a1aded11b776dea42879d58108c615419440406fe8d260",
+        "bytes": 4376
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L12_T15/classes.json",
+        "sha256": "f97677de9779e9e150a1aded11b776dea42879d58108c615419440406fe8d260",
+        "bytes": 4376
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L13_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T15/classes.json",
+        "sha256": "d4cf80e98fc30a7f055b873d42b7aeda7f1c8c5d22ed3567b19a5bee8543237a",
+        "bytes": 2070
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L13_T15/classes.json",
+        "sha256": "d4cf80e98fc30a7f055b873d42b7aeda7f1c8c5d22ed3567b19a5bee8543237a",
+        "bytes": 2070
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L14_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/classes.json",
+        "sha256": "2981d82e61a486f553de90a396a7a20807206d892a8aa3cb86d4b867cd9a5aa0",
+        "bytes": 2072
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L14_T15/classes.json",
+        "sha256": "2981d82e61a486f553de90a396a7a20807206d892a8aa3cb86d4b867cd9a5aa0",
+        "bytes": 2072
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PSS_L16_T15",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T15/classes.json",
+        "sha256": "766f855f06919d30dc4fb3102f466814ab7a7b87f96ce892b51ea76c0df3be16",
+        "bytes": 2072
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PSS_L16_T15/classes.json",
+        "sha256": "766f855f06919d30dc4fb3102f466814ab7a7b87f96ce892b51ea76c0df3be16",
+        "bytes": 2072
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L06_T17_ENDm_H4T4",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/classes.json",
+        "sha256": "b9b44bd070c7a08faf890face91d3203c6e6bbf23c21e5c75f36a59d22d04cb2",
+        "bytes": 1909
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/classes.json",
+        "sha256": "b9b44bd070c7a08faf890face91d3203c6e6bbf23c21e5c75f36a59d22d04cb2",
+        "bytes": 1909
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    },
+    {
+      "id": "CLASS_PS_L06_T17_ENDp_H4T4",
+      "pinned": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDp_H4T4/classes.json",
+        "sha256": "c4664fbfdf7caee23936b18f9f6d7844bd426abb9f188aa8128368ce35a57288",
+        "bytes": 1907
+      },
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDp_H4T4/classes.json",
+        "sha256": "c4664fbfdf7caee23936b18f9f6d7844bd426abb9f188aa8128368ce35a57288",
+        "bytes": 1907
+      },
+      "kind": "IDENTICAL_BYTES",
+      "typed_parsed_value_equal": true,
+      "projection_method": "Exact typed JSON after removing optional comment/slot labels and applying the ten declared injective class-name replacements; all geometry, thresholds, bounds and symmetry retained. Historical identity hashes are in the separately fixed CLASS_PROJECTIONS record."
+    }
+  ],
+  "alias_counts": {
+    "IDENTICAL_BYTES": 98
+  },
+  "signed_rows": [
+    {
+      "id": "CLASS_PS_L06_T17_ENDm_H4T4",
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/classes.json",
+        "sha256": "b9b44bd070c7a08faf890face91d3203c6e6bbf23c21e5c75f36a59d22d04cb2",
+        "bytes": 1909
+      },
+      "source": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/classes.json",
+        "sha256": "b9b44bd070c7a08faf890face91d3203c6e6bbf23c21e5c75f36a59d22d04cb2"
+      },
+      "trigger": {
+        "name": "T17_region17_square_beyond_its_gate",
+        "threshold": "4",
+        "slots": [
+          {
+            "centre": {
+              "polygon": [
+                [
+                  "3775331/1000000",
+                  "24137/10000"
+                ],
+                [
+                  "5199531/1000000",
+                  "24137/10000"
+                ],
+                [
+                  "5199531/1000000",
+                  "29637/10000"
+                ],
+                [
+                  "3775331/1000000",
+                  "29637/10000"
+                ]
+              ]
+            },
+            "angle_tan_half": [
+              "-207107/500000",
+              "-1/20"
+            ]
+          }
+        ]
+      },
+      "receipts": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/receipt_python.json",
+          "sha256": "30bcd4dba55d57bd2db3c4b67bf306208b800472611be84c60a16c3028b91bc9",
+          "bytes": 2627
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDm_H4T4/receipt_node.json",
+          "sha256": "807e884e5abff6a781a4dbfcef132609e6fc9513b4c2b6484173f2bf00dc48d3",
+          "bytes": 2309
+        }
+      }
+    },
+    {
+      "id": "CLASS_PS_L06_T17_ENDp_H4T4",
+      "executed": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDp_H4T4/classes.json",
+        "sha256": "c4664fbfdf7caee23936b18f9f6d7844bd426abb9f188aa8128368ce35a57288",
+        "bytes": 1907
+      },
+      "source": {
+        "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDp_H4T4/classes.json",
+        "sha256": "c4664fbfdf7caee23936b18f9f6d7844bd426abb9f188aa8128368ce35a57288"
+      },
+      "trigger": {
+        "name": "T17_region17_square_beyond_its_gate",
+        "threshold": "4",
+        "slots": [
+          {
+            "centre": {
+              "polygon": [
+                [
+                  "3775331/1000000",
+                  "24137/10000"
+                ],
+                [
+                  "5199531/1000000",
+                  "24137/10000"
+                ],
+                [
+                  "5199531/1000000",
+                  "29637/10000"
+                ],
+                [
+                  "3775331/1000000",
+                  "29637/10000"
+                ]
+              ]
+            },
+            "angle_tan_half": [
+              "1/20",
+              "207107/500000"
+            ]
+          }
+        ]
+      },
+      "receipts": {
+        "python": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDp_H4T4/receipt_python.json",
+          "sha256": "bc293386eada1d9ab341a12b5a5e7d96054b342a7302603e1804516228e284e7",
+          "bytes": 2626
+        },
+        "node": {
+          "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/CLASS_PS_L06_T17_ENDp_H4T4/receipt_node.json",
+          "sha256": "910c48d10ee563a57204b916be03aa503f61c5949a6ea159de7399f0a785da70",
+          "bytes": 2308
+        }
+      }
+    }
+  ],
+  "actual_Node_checker": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/checker_sources/src/node/verify_classes_wb.js",
+    "sha256": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40"
+  },
+  "Node_checker_independent_review": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-capture-audit/worker-binding-repair/independent-review/ACCEPTED_INTERFACE.json",
+    "sha256": "bb620e04fe2d270372d1147957e3eb540edcd48c46d5b9b06ed9ccfc6b089e05"
+  }
+}

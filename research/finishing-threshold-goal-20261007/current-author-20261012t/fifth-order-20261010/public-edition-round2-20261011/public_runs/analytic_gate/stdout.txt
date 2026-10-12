@@ -1,0 +1,1 @@
+{"status": "PASS_INDEPENDENT_COMPLETE_ROOT_ANALYTIC_GATE", "cpu_seconds": 0.11202999999999999, "maximum_excluded_root_upper": -0.01682963400014499, "finite_extra_options": []}

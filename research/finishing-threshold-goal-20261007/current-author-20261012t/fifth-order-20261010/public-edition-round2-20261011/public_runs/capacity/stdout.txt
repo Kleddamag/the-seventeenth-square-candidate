@@ -1,0 +1,105 @@
+{
+  "status": "PASS_EXACT_CAPACITY_CURRENT_ESCAPES_FRAME_INCLUSION_AND_DERIVED_GATE",
+  "script": {
+    "file": "/private/tmp/s17-roster-only-t-final-20261012/17-squares-certified-bound/research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-AP/verify_readonly.py",
+    "sha256": "7f45730568b02c6b5550670c61080d9a6bb3019717a82f58a1c76fa758ecdae0"
+  },
+  "bridge": {
+    "file": "/private/tmp/s17-roster-only-t-final-20261012/17-squares-certified-bound/research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-AP/PROOF_BRIDGE_V2.md",
+    "sha256": "3f8ccadf85729f7a14df6c6bda7d99612146e5abd6e89b47a4553521e378d236"
+  },
+  "proof": {
+    "file": "/private/tmp/s17-roster-only-t-final-20261012/17-squares-certified-bound/research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/PROOF.md",
+    "sha256": "bae9384411086b31ea5a547e40409409e3fd50b514da13078e0c189c3c227a28"
+  },
+  "saved_tables": {
+    "file": "/private/tmp/s17-roster-only-t-final-20261012/17-squares-certified-bound/research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/coarse-capacity-R/RESULT.json",
+    "sha256": "5a466b6e51c3d1b55d66713af225873d15214d842cea9a02b99c647dc73fb41e"
+  },
+  "Bernstein_coefficients": 1280,
+  "minima": {
+    "3": "634043429/125829120000",
+    "15": "43535731167/8388608000000"
+  },
+  "coarse17_diameter_squared": "1851391155161/4000000000000",
+  "frame17_subset_coarse17": true,
+  "reflection_shift": "-469/1000000",
+  "current_literals": [
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/continuation-0340/graph/design/classes/L_L03.json",
+      "sha256": "c45adab1a75783f1dbb284fa1468c81892bf940926504d803e3061d27928445f"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/continuation-0340/graph/design/classes/L_L04.json",
+      "sha256": "1d82397ce1399d4c82099901b8c548b6c73847e0e3615a5cd1922abe81523aae"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/continuation-0340/graph/design/classes/L_L15.json",
+      "sha256": "34d0c3c52718564d797324609dca5d0aa24e65ee709b98c6f2da12f25539f496"
+    },
+    {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/continuation-0340/graph/design/classes/L_L17.json",
+      "sha256": "a3d752494123ba8d2d28548c48e03d25842d7e33a890b099da439c7e083a0056"
+    },
+    {
+      "name": "C_1",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_1/classes.json",
+      "sha256": "e208025e9e5905f3d1ad524a692facfe28b3e7092fcdbfef2fd74d26cb5de1a6"
+    },
+    {
+      "name": "C_2",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_2/classes.json",
+      "sha256": "3e22dfbff872b1f02d7fb678e34ef2abfafeb950985970b492a3b49787f49823"
+    },
+    {
+      "name": "C_5",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_5/classes.json",
+      "sha256": "8fe1d426f7f4e679cc3ad90ab3675f05efd131ac2fce1bff9f0e4ec87cc94d8b"
+    },
+    {
+      "name": "C_6",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_6/classes.json",
+      "sha256": "33716398433a43b158c35552df8a88cc3cfa0253d26d27e1e6f59a0ae445f406"
+    },
+    {
+      "name": "C_10",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_10/classes.json",
+      "sha256": "0bf38130aeeb319b5f03b781e3df934cb3d5634d963310c9ccc1eacf142e689e"
+    },
+    {
+      "name": "C_11",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_11/classes.json",
+      "sha256": "9b036d26a87e4f89f356303004f817a9a8b2d1afff120ee6ff69cb4be69122b6"
+    },
+    {
+      "name": "C_12",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_12/classes.json",
+      "sha256": "f3a0525a5d515c8b0e511b8afaf31afb9346a2e2fbbdae71e834a9f064508ecc"
+    },
+    {
+      "name": "C_13",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_13/classes.json",
+      "sha256": "4b42b2e549c779e2d130fd9c27b129b04f843f3c089f1cfd0c908b996a63bd15"
+    },
+    {
+      "name": "C_14",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_14/classes.json",
+      "sha256": "f26744f1409e9e928123c63d26ce4e0e59d1987b51a695cbfc92eb3f3001a412"
+    },
+    {
+      "name": "C_16",
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/C_16/classes.json",
+      "sha256": "01af04bb70955f839052b3c7abef582aad2578a29d60d6d8aecf3589109e6140"
+    }
+  ],
+  "gate_source": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/continuation-0340/graph/design/classes_v2/PS_L01_T09.json",
+    "sha256": "cf863943c8ad07d46ec51c7211e89c366108e935329a22615ce0c2a11c2ddb7a"
+  },
+  "gate": [
+    "61301/200000",
+    "591183/1408817"
+  ],
+  "old_outputs_unchanged": true,
+  "scope": "Pure arithmetic/geometry replay only; no charge arithmetic, local trees or new independent acceptance of composition."
+}

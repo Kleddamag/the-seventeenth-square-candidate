@@ -1,0 +1,543 @@
+{
+  "schema": "s17-independent-conditional-composition-review-v1",
+  "status": "ACCEPTED_CONDITIONAL_COMPOSITION_ONLY",
+  "reviewer": "Codex composition reviewer",
+  "packet_author": "Codex proof author",
+  "date": "2026-10-10",
+  "accepted_claim": "If the remaining base capture premises, one admitted strict option per remaining OR clause with all extra premises, and the remaining whole-root local conclusions are proved as specified by the frozen manifest, its existing named accepted dependencies imply s(17)=L. No additional mathematical assumption is needed for this composition.",
+  "premise_meaning": "Literal source/root bindings, authentic complete exact acceptance and the prior reviews' stated scopes and qualifications remain required. This is a conditional proof, not acceptance of absent proof data.",
+  "packet": {
+    "SNAPSHOT.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/SNAPSHOT.json",
+      "sha256": "3794db0d41e6efd7a476614289b6d4746b906d1ee056dd9e904d48f7322469df",
+      "bytes": 10139
+    },
+    "THEOREM_MANIFEST.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/THEOREM_MANIFEST.json",
+      "sha256": "820402a6b6d6a2a08e50f7b27ee8f11e6f017ccae6d41a1547daf1133c33771c",
+      "bytes": 271275
+    },
+    "PROOF_SKELETON.md": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/PROOF_SKELETON.md",
+      "sha256": "ec77d0830ae3af8e96a60aff0c3d066b820c049ea230bd8fffc0f8b9b80c54d0",
+      "bytes": 33598
+    },
+    "PROOF_TEXT.md": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/PROOF_TEXT.md",
+      "sha256": "57284a3a8d95fc97adb6b234e8aa730f4c14df624cb7cee243ff1a6b19b2442c",
+      "bytes": 33102
+    },
+    "ENDPOINT_CASE_G_LEMMA.md": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/ENDPOINT_CASE_G_LEMMA.md",
+      "sha256": "e7dc64526a0a3ff8dfda95ed6995c58f61e45390c2a1630322651cde286d2048",
+      "bytes": 3907
+    },
+    "EXACT_ENDPOINT_AND_CASES.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/EXACT_ENDPOINT_AND_CASES.json",
+      "sha256": "3417d4fa166c6755aa27ed74672e0de4c1f841cadb0042dbd56b74c27f082123",
+      "bytes": 29322
+    },
+    "CASE_PARTITION.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/CASE_PARTITION.json",
+      "sha256": "58fa515866f28e793d1841154786e4d097f3b9b6e302465bb43e1083343e8a6f",
+      "bytes": 7562
+    },
+    "BRANCH_DEPENDENCIES.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/BRANCH_DEPENDENCIES.json",
+      "sha256": "9c49533365649993247ce6cb288116b9e49a7abe54343da551cbff66eb08c4b9",
+      "bytes": 18943
+    },
+    "SIDE_CAP_TRANSFER.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/SIDE_CAP_TRANSFER.json",
+      "sha256": "03bd02446841983273c608a35df5397ee588227ebcf8b3db03d74f5d61b119cc",
+      "bytes": 8765
+    },
+    "DIRECT_UPPER_IMPORT.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/DIRECT_UPPER_IMPORT.json",
+      "sha256": "48c8b18460004bcd93e80455c4d769729bdcc95f0e3ae605481e2cf8fb198b1a",
+      "bytes": 2908
+    },
+    "OPTION_SUPPLEMENT_BINDING.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/OPTION_SUPPLEMENT_BINDING.json",
+      "sha256": "73daa7d8dc47d6c65b561d44e05e227e2db5f490523baef6ea9d0ddc3da916ce",
+      "bytes": 912
+    },
+    "SUPPLEMENTAL_JOIN_ACCEPTANCE.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/SUPPLEMENTAL_JOIN_ACCEPTANCE.json",
+      "sha256": "1f7d8ef9483173b3d43f717ccf67a7ed93b3f461944658f493eae9b50142e4ad",
+      "bytes": 2483
+    }
+  },
+  "artifacts": {
+    "REVIEW.md": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/independent-composition-review/REVIEW.md",
+      "sha256": "9171764452d7ef0938f41ef68aac40c7494357cbd58185e7cad7dd2bce9d3ac8",
+      "bytes": 14553
+    },
+    "check_composition.py": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/independent-composition-review/check_composition.py",
+      "sha256": "d3c229a0e4d39ec73fbe61f41d4f91f30f3439f1a701c033cb17af48cc70b330",
+      "bytes": 16172
+    },
+    "RESULT.json": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/independent-composition-review/RESULT.json",
+      "sha256": "e94e88ec883c01de4c50552357f7f52fec1cf845e1b197f0d5b309b61cbb24bf",
+      "bytes": 80320
+    }
+  },
+  "named_manifest_references_imported_with_recorded_scopes": {
+    "contract": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-1702/d-selected-roots-v2-producer/FINISHING_CONTRACT.json",
+      "sha256": "258fba208f17fa7760bf2a0d97664f89de3f29624a38555d4598da804100d708"
+    },
+    "root_admission": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-1702/d-selected-roots-v2-review/ACCEPTED_INTERFACE.json",
+      "sha256": "033302490f21463e5d6f05839c81d0db646cf4e02ee3da4d90ff45c8fda2ad4a"
+    },
+    "endpoint": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-files-20261009-1525/independent-endpoint-normalization-review/ACCEPTED_INTERFACE.json",
+      "sha256": "4f8f41090aeba3e477d737cbe9bdca0c980c4323056e835147d8e44a79642cd6"
+    },
+    "rational_reference": {
+      "file": "upper-packing-certificate.json",
+      "sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+    },
+    "root_existence_gate": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/claude-extension-audit/terminal-producer/gate-receipt.json",
+      "sha256": "26079181b2ba653da8c5ff37dcfb2df4d729fc1c1c990933e3987281cdcbef95"
+    },
+    "root_gate_review": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/full-gate/independent-review/MANIFEST.json",
+      "sha256": "62ee9cc30f7a3bea63ce864efd7ab53c6b641ea860a7b7de54cba2f7ea213831"
+    },
+    "exact_upper_H256": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/contract-stage-20261009-1252/reflection-closed/chirality-coupling/exact-root-extension/producer/inputs/H256_CERTIFICATE.json",
+      "sha256": "f052f6ae476c4d4a79a082aecbab981e6d4885934efd36f2bf5acf4a63c73992"
+    },
+    "upper_specification": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/contract-stage-20261009-1252/reflection-closed/chirality-coupling/exact-root-extension/producer/inputs/H256.md",
+      "sha256": "cc311f95dfc0554006574f3e505342e072e048defa025104399a1593279fb971"
+    },
+    "upper_checker": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/contract-stage-20261009-1252/reflection-closed/chirality-coupling/exact-root-extension/producer/inputs/H256_CHECKER.py",
+      "sha256": "2d3b9d6e361e8790bb2f6d14cf4f11d44b473fbc828bb080d7d3a1939d5c2145"
+    },
+    "upper_import_review": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/contract-stage-20261009-1252/reflection-closed/chirality-coupling/exact-root-extension/independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "47d3eb452ff855f0382852049ea01649692414a974c813d6da58eb0edca811fe"
+    },
+    "class_checker_theorem": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/class-capture-audit/checkers/independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "efd913623a2f9821a5b96a1a79ae12be40e4b14030d558ffc8b12ef5178cbf4e"
+    },
+    "frame_binding": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/contract-author-20261009-2110/FRAME_L9.json",
+      "sha256": "15975a656870d9f93abfaf3ac9b125edb169b971a503beff70e26264b9acef38"
+    },
+    "frame_review": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/contract-author-20261009-2110/independent-frame-review/ACCEPTED_INTERFACE.json",
+      "sha256": "a72f5556e5d49b5297c38c7683e1b2fe75f7e317ac39d4c0cd5c12150451f7d3"
+    },
+    "capture_roster": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/contract-author-20261009-2110/CAPTURE_ROWS.json",
+      "sha256": "6224e865c3ab1e4d2cff5a4ca870bda42c8568606ef350b1a3d6330bff51bd7f"
+    },
+    "four_capture_bindings": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/contract-author-20261009-2110/FOUR_CAPTURE_BINDINGS.json",
+      "sha256": "65a0f499633391d18a8092a7a6a117e97861f88fbb2b0e6555dab92ad4740c57"
+    },
+    "four_capture_review": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/contract-author-20261009-2110/node-provenance-review/four-binding-independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "f1312bc66e9f77e08302c94eb11d5fe01382c9137257fe765d7b0a51e0174b96"
+    },
+    "C6_Q11_bindings": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/standing-contract-20261009-2134/receipt-audits/C06_Q11_ACCEPTANCE_BINDINGS.json",
+      "sha256": "441844854676822ac0703f86c24e6d6b49c1f836b91c5c3260c5cad0272ddd13"
+    },
+    "C06_review": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/standing-contract-20261009-2134/receipt-audits/C06/REVIEW.md",
+      "sha256": "4d9a39d434e8ad733869335cc4e41e82b1f81221b3db68b74ed466e8c45ec20e"
+    },
+    "Q11_review": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/standing-contract-20261009-2134/receipt-audits/Q11/REVIEW.md",
+      "sha256": "f1117d0e3f9bd7420e851f4b7df0b4496b1ae046126167af5979fc5f9279898a"
+    },
+    "wall_partition": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-1702/loose-only-review/ACCEPTED_INTERFACE.json",
+      "sha256": "1af452eaedca2d0004e7b74e189ccf039cb9131f621054e2ea6764308adc3de5"
+    },
+    "part3_profiles": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-1702/c-wall-v2-producer/repair-loose-only/run-01/PART3_REQUIRED_CLASS_FRAME.json",
+      "sha256": "d2c9d0a0d9c684a01876fe9642dcbb0d49c0713964f864ae57cf7c562cb669e6"
+    },
+    "JQ_empty": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-1702/jq-one-node-review/ACCEPTED_INTERFACE.json",
+      "sha256": "32ef5169ea9e1ee93f77d5d86fafa82ee66ddab67a84b7d7190f1c70477a0fce"
+    },
+    "G20S_local": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/broad-tree-import/g20s/independent-review/MANIFEST.json",
+      "sha256": "06a3375df2ab3833fa6ca9c5251bf30cf424ffe3dea50cbd8867d9051f876e06"
+    },
+    "sixteen_terminal": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/g20s-terminal-audit/sixteen-square-corollary/independent-review/MANIFEST.json",
+      "sha256": "91aa01bea5eb624656be669c7330672a82e3b001f386fd30bea832662e1c074f"
+    },
+    "G20S_statement": {
+      "file": "research/window-extension-20261008/bigbox/THEOREM_G20S.md",
+      "sha256": "ed64ff7ec8aef6ed7256edeb83732046b6eb95e574c77dfd6528403c94aa2a32"
+    },
+    "v5_selector": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/standing-contract-20261009-2134/v5-root-review/PER_BRANCH_CAPTURE_OPTIONS_V5.json",
+      "sha256": "fbd521549301e14281fe44bfecfc8fab14e9d81210bafc8dd522c5ffdb3b5859"
+    },
+    "v5_admission": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/standing-contract-20261009-2134/v5-root-review/ACCEPTED_INTERFACE.json",
+      "sha256": "346a7e8501522232c7f3620b53072626fafb9ac0c4b643c412de0f6560b63df7"
+    },
+    "C05_provenance": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/standing-contract-20261009-2134/receipt-audits/C05/SAVED_PROVENANCE.json",
+      "sha256": "5b5ab5b798e08df7228bb19ff6993cb057afc5f48dea6ec42d9c4ff9ba85f4c0"
+    },
+    "C10_provenance": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/standing-contract-20261009-2134/receipt-audits/C10/SAVED_PROVENANCE.json",
+      "sha256": "cdb2f6f0146751cd85a980fe896efc27be32f9a299056faa511a66871853ca6d"
+    },
+    "C14_provenance": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/standing-contract-20261009-2134/receipt-audits/C14/SAVED_PROVENANCE.json",
+      "sha256": "ca8bac4318134d24c0d5c2dacf2780c4c1afc15e686e67d26b7c896950ba3c4e"
+    },
+    "morning_receipts": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/morning-contract-20261010/receipt-audits/BATCH_ACCEPTED.json",
+      "sha256": "245585c34118f5f207db49ce0535308911ce287057b44edf60c395544fbe2e0a"
+    },
+    "pss_interface": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/morning-contract-20261010/pss-ruling/ACCEPTED_INTERFACE.json",
+      "sha256": "c2a5a5359975aa6bcddae2ae70a73f6f5dc400e3df63d1f743aec9df0d41688d"
+    },
+    "psv_interface": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/morning-contract-20261010/psv-audit/RESULT.json",
+      "sha256": "72369adfca8b1fcd34da643fb6564ccaf4320e008f09cd3c508ac01f173e1a95"
+    },
+    "selector_interface": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/morning-contract-20261010/selector/ACCEPTED_INTERFACE.json",
+      "sha256": "c08f6fd3c8927b804b686d2d7589ccabd0c6d1c1a1c7fad2a1467e9334b4f6d5"
+    },
+    "larger_leaf_interface": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/morning-contract-20261010/larger-leaf/RESULT.json",
+      "sha256": "e0b99376cc1239a843ad2d5cd2cebe29cf8791edfce13debd264a3874fc25a6b"
+    },
+    "supplemental_join_acceptance": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/review-snapshots/20261010_112053/SUPPLEMENTAL_JOIN_ACCEPTANCE.json",
+      "sha256": "1f7d8ef9483173b3d43f717ccf67a7ed93b3f461944658f493eae9b50142e4ad"
+    },
+    "current_selector": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/key-w-active/PER_BRANCH_CAPTURE_OPTIONS_V5_PSS_PSE_KEYW.json",
+      "sha256": "4521655d218f635c561d57e82d1bd13dd3c902bd798e221423dbfd5682909215"
+    },
+    "current_join_acceptance": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/second-order-20261010/join/ACCEPTED_REGIONS.json",
+      "sha256": "cc6e08a7b21275c0fdd31ff52279316b460056a5db7b99c35e1b8cb0bd35fb62"
+    },
+    "endpoint_analytic_proof": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-files-20261009-1525/endpoint-normalization-producer/THEOREM.md",
+      "sha256": "892de6a57a36098f6e7df76d795712b5a7cb303d4ca24d36fb181e2fa0980b3c"
+    },
+    "endpoint_analytic_review": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-files-20261009-1525/independent-endpoint-normalization-review/REVIEW.md",
+      "sha256": "64145f2c787116c09eb2833d065479e5f23689e21bd2b8ec70fb41805d111c7a"
+    },
+    "endpoint_case_G_explicit_application": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/second-order-20261010/theorem/ENDPOINT_CASE_G_LEMMA.md",
+      "sha256": "e7dc64526a0a3ff8dfda95ed6995c58f61e45390c2a1630322651cde286d2048"
+    },
+    "C7_C8_acceptance": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-1702/c7-c8-inherited-review/RECEIPT.json",
+      "sha256": "16a97f3303f225fe2cdabcc60ce4ed7f1ad1d2bb99ffa672544d9c6da0f9429a"
+    },
+    "C7_C8_proof": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/join-design-1702/c7-c8-inherited-producer/PROOF.md",
+      "sha256": "c35d48ab808fd23c1ed60fbc5c83718bfffe05ffa37abf0e18aa8d69c8b2091b"
+    },
+    "high_first_score": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/class-capture-audit/checkers/independent-review/HIGH_FIRST_REVIEW.md",
+      "sha256": "d6fd0d89c38734e67ebc95a832d50c5ac644c3c5361624f86d69fc85185a83e8"
+    },
+    "worker_binding_repair": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/class-capture-audit/worker-binding-repair/independent-review/ACCEPTED_INTERFACE.json",
+      "sha256": "e2efa5bf1908888552793f8af3dd7b9c6ceb48509814a363b7e65081846b6c68"
+    },
+    "KEY_W_conditional_only": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/second-order-20261010/key-w/CONDITIONAL_AMENDMENT.json",
+      "sha256": "4253c8a936c814708b4e65dac4681baf9d36eae233c185e7476128d558ace583"
+    },
+    "pse_end_to_end": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/second-order-20261010/pse-review/ACCEPTED_INTERFACE.json",
+      "sha256": "d205dcc9075b3b71d2d9b9e61beb11d12270ef45a652ef13ecd09812a6f9dace"
+    },
+    "local_SPEC3": {
+      "file": "research/window-extension-20261008/SPEC_v3.0.md",
+      "sha256": "0a6dfc2ae10ed6f30a21ebe357a6e73dd7355223c521cc67a3f2bdab9549aba0"
+    },
+    "local_SPEC3_review": {
+      "file": "research/window-extension-20261008/reviews/REVIEW_30.md",
+      "sha256": "bd04cd0fbec2a066ac3d468377a9afe502121c0ff1bdc296a93fac55901a7a05"
+    },
+    "local_python3": {
+      "file": "research/window-extension-20261008/checker/wxcheck_v30.py",
+      "sha256": "cf8db52bfa1cc565d8610bf13b279d1b5da2f84c91ce2854d15a3b0a88cd096c"
+    },
+    "local_python3_review": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/window-extension-20261008/reviews/REVIEW_30_PY.md",
+      "sha256": "09dc20259215a88d141cd4352c0c9d4be0dd9fd0c6b5d0f2687d2d5c0d4e865f"
+    },
+    "local_node3": {
+      "file": "research/window-extension-20261008/checker2/wxcheck2_v30.js",
+      "sha256": "97210adf74a3ebed7cde021a3cb1ff6ea6380d8d2d55540a2a2a1cb17dc27542"
+    },
+    "local_node3_review": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/window-extension-20261008/reviews/REVIEW_30_JS.md",
+      "sha256": "8d7e66111b59d7d0eae969f3ebb6317391826beb0e9e3befa1721ad068c5feeb"
+    },
+    "local_acceptance_review": {
+      "file": "research/window-extension-20261008/reviews/REVIEW_30_ACCEPT.md",
+      "sha256": "092357a914c6435393e7782f514cde5792de1e40ac8c9042f92442d078173142"
+    },
+    "local_side_cap_transfer": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/SIDE_CAP_TRANSFER.json",
+      "sha256": "03bd02446841983273c608a35df5397ee588227ebcf8b3db03d74f5d61b119cc"
+    },
+    "exact_endpoint_and_cases": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/second-order-20261010/theorem/EXACT_ENDPOINT_AND_CASES.json",
+      "sha256": "3417d4fa166c6755aa27ed74672e0de4c1f841cadb0042dbd56b74c27f082123"
+    },
+    "direct_upper_import": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/manuscript/DIRECT_UPPER_IMPORT.json",
+      "sha256": "48c8b18460004bcd93e80455c4d769729bdcc95f0e3ae605481e2cf8fb198b1a"
+    },
+    "direct_upper_acceptance": {
+      "file": "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/audit-manifest.json",
+      "sha256": "9636f7d2b4a433f6048323ed511626f324e60e465e57e96b338ce06ced1b4a55"
+    },
+    "direct_upper_review": {
+      "file": "local-research/claude-20261002/review/public-edition/round5/extra/research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/REVIEW.md",
+      "sha256": "5e1625337eea549aafd6cbfb64414d60644ebdd72228e3194547a52e866a945a"
+    },
+    "direct_upper_receipt": {
+      "file": "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/endpoint-receipt.json",
+      "sha256": "f75bb799888eee7fbe68cd8ed2a2be4a93e5cff6b164ac61d698a8cc378636b5"
+    },
+    "direct_upper_checker": {
+      "file": "research/global-compensation-20261007/reviews/fresh-structure/endpoint-feasibility/check_endpoint.py",
+      "sha256": "3d49d934f7d66fd42b67feba38db86e1e1435a2620bc6f1b63c282a8236bf9b2"
+    },
+    "KEY_W_activation": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/key-w-active/ACTIVATION.json",
+      "sha256": "60c13d920adbdfb81f237bebf72920f77884bbd7afb16bbe4375047fb19a59c4"
+    },
+    "KEY_W_review": {
+      "file": "research/window-extension-20261008/reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+      "sha256": "0600869f8775b6aea1c3c954b52365cc87e90c27087d156f1f58149d40d1163d"
+    },
+    "KEY_W_exact_budget": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/third-order-20261010/receipt-audits/KEY_W/SAVED_PROVENANCE.json",
+      "sha256": "842e3a45a5d1a9406f0c93a8ead992358ada259bd12853265b069f0976be6421"
+    },
+    "reviewed_fallback_option_index": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fourth-order-20261010/ADMITTED_FALLBACK_OPTIONS.json",
+      "sha256": "3499596a88fee2797b59e835819b45d874fddb399776ada1cdc86c7dcb42e496"
+    },
+    "reviewed_K_reserve_composition": {
+      "file": "research/finishing-threshold-goal-20261007/window-capture/fourth-order-20261010/independent-review/K_ACCEPTED_INTERFACE.json",
+      "sha256": "ba8b62a9d5ccbe4e1fb75a8558136933b6fc484432b3bc15e79e93a179543c8c"
+    }
+  },
+  "optional_supplement_imports": {
+    "J": {
+      "index": {
+        "file": "research/finishing-threshold-goal-20261007/window-capture/fourth-order-20261010/ADMITTED_FALLBACK_OPTIONS.json",
+        "sha256": "3499596a88fee2797b59e835819b45d874fddb399776ada1cdc86c7dcb42e496"
+      },
+      "independent_acceptances": [
+        {
+          "file": "research/finishing-threshold-goal-20261007/window-capture/fourth-order-20261010/independent-review/ACCEPTED_INTERFACE.json",
+          "sha256": "90b5c67665e0d6bbb72e836de860dcc867387f424d3a68da615a6a12581b798a"
+        },
+        {
+          "file": "research/finishing-threshold-goal-20261007/window-capture/fourth-order-20261010/independent-review/BATCH2_ACCEPTED_INTERFACE.json",
+          "sha256": "1dc5fec49c1dc8b490dfe26cd70b3775bdf531974db742342e5644c4d9268539"
+        }
+      ],
+      "status": "COUNTED_AS_CONDITIONAL_OPTIONS_ONLY",
+      "new_exact_budgets_counted_here": 0,
+      "ordinary_selector_still_valid": true,
+      "receipt_join_obligation": "For a new literal budget, import its authentic execution review and its accepted actual clause/root/L binding before discharging the clause. The source budget is not a substitute."
+    },
+    "K": {
+      "acceptance": {
+        "file": "research/finishing-threshold-goal-20261007/window-capture/fourth-order-20261010/independent-review/K_ACCEPTED_INTERFACE.json",
+        "sha256": "ba8b62a9d5ccbe4e1fb75a8558136933b6fc484432b3bc15e79e93a179543c8c"
+      },
+      "status": "COUNTED_CONDITIONAL_IMPLICATION_ONLY",
+      "new_exact_budgets_counted_here": 0,
+      "derived_budget_obligation": "Both authentic literal reserve budgets plus max-score theorem; never fabricate original-class execution. PSS occupancy still needs L3."
+    }
+  },
+  "frozen_inventory": {
+    "base_counted": 37,
+    "base_total": 50,
+    "base_open": [
+      "Q_2",
+      "Q_5",
+      "Q_13",
+      "Q_15",
+      "PW_1",
+      "PW_2",
+      "PW_5",
+      "PW_6",
+      "PW_7",
+      "PW_8",
+      "L_3",
+      "L_4",
+      "L_17"
+    ],
+    "clause_counted": 9,
+    "clause_total": 84,
+    "clause_open": [
+      "BRANCH_JPA_L01",
+      "BRANCH_JPA_L02",
+      "BRANCH_JPA_L05",
+      "BRANCH_JPA_L06",
+      "BRANCH_JPA_L07",
+      "BRANCH_JPA_L08",
+      "BRANCH_JPA_L10",
+      "BRANCH_JPA_L11",
+      "BRANCH_JPA_L13",
+      "BRANCH_JPA_L14",
+      "BRANCH_JPA_L16",
+      "BRANCH_JPG3m_L01",
+      "BRANCH_JPG3p_L01",
+      "BRANCH_JPG3m_L02",
+      "BRANCH_JPG3p_L02",
+      "BRANCH_JPG3m_L05",
+      "BRANCH_JPG3p_L05",
+      "BRANCH_JPG3m_L06",
+      "BRANCH_JPG3p_L06",
+      "BRANCH_JPG3m_L07",
+      "BRANCH_JPG3p_L07",
+      "BRANCH_JPG3m_L08",
+      "BRANCH_JPG3p_L08",
+      "BRANCH_JPG3m_L10",
+      "BRANCH_JPG3p_L10",
+      "BRANCH_JPG3m_L11",
+      "BRANCH_JPG3p_L11",
+      "BRANCH_JPG3m_L12",
+      "BRANCH_JPG3p_L12",
+      "BRANCH_JPG3m_L13",
+      "BRANCH_JPG3p_L13",
+      "BRANCH_JPG3m_L14",
+      "BRANCH_JPG3p_L14",
+      "BRANCH_JPG3m_L16",
+      "BRANCH_JPG3p_L16",
+      "BRANCH_JPG17m_L01",
+      "BRANCH_JPG17p_L01",
+      "BRANCH_JPG17m_L02",
+      "BRANCH_JPG17p_L02",
+      "BRANCH_JPG17m_L05",
+      "BRANCH_JPG17p_L05",
+      "BRANCH_JPG17m_L06",
+      "BRANCH_JPG17p_L06",
+      "BRANCH_JPG17m_L07",
+      "BRANCH_JPG17p_L07",
+      "BRANCH_JPG17m_L10",
+      "BRANCH_JPG17p_L10",
+      "BRANCH_JPG17m_L12",
+      "BRANCH_JPG17p_L12",
+      "BRANCH_JPG17m_L14",
+      "BRANCH_JPG17p_L14",
+      "BRANCH_JPG17m_L16",
+      "BRANCH_JPG17p_L16",
+      "BRANCH_JPG15m_L01",
+      "BRANCH_JPG15p_L01",
+      "BRANCH_JPG15m_L02",
+      "BRANCH_JPG15p_L02",
+      "BRANCH_JPG15m_L05",
+      "BRANCH_JPG15p_L05",
+      "BRANCH_JPG15m_L06",
+      "BRANCH_JPG15p_L06",
+      "BRANCH_JPG15m_L07",
+      "BRANCH_JPG15p_L07",
+      "BRANCH_JPG15m_L08",
+      "BRANCH_JPG15p_L08",
+      "BRANCH_JPG15m_L10",
+      "BRANCH_JPG15p_L10",
+      "BRANCH_JPG15m_L11",
+      "BRANCH_JPG15p_L11",
+      "BRANCH_JPG15m_L13",
+      "BRANCH_JPG15p_L13",
+      "BRANCH_JPG15m_L14",
+      "BRANCH_JPG15p_L14",
+      "BRANCH_JPG15m_L16",
+      "BRANCH_JPG15p_L16"
+    ],
+    "local_counted": [
+      "JQ",
+      "JG",
+      "JPG3m",
+      "JPG17m",
+      "JPG17p",
+      "JPG15m",
+      "JPG15p"
+    ],
+    "local_open": [
+      "JPA",
+      "JPWS",
+      "JPW13",
+      "JPG3p"
+    ],
+    "local_total": 11,
+    "slab_T020_status": "COUNTED",
+    "final_independent_assembly_review": {
+      "status": "NOT STARTED",
+      "needed": "A reviewer independent of this inventory should check the complete selected proof DAG, all satisfied clauses, literal source identities and final composition after remaining receipts arrive. This does not invalidate already reviewed conditional sublemmas."
+    }
+  },
+  "independent_checks": {
+    "small_files_hashed": 336,
+    "large_pins_imported_without_fresh_hash_or_replay": 11,
+    "guard_atoms": 30870,
+    "negative_controls_rejected": [
+      "missing_Q5",
+      "dropped_PSS_L_premise",
+      "wrong_v5_root",
+      "unconditional_assembly_promotion",
+      "lost_upper9_equality",
+      "lost_wall_13over5",
+      "lost_first_loose_equality"
+    ],
+    "all_eleven_root_side_intervals_singleton_R": true,
+    "JG_terminal_matches_sixteen_G20S_factors": true,
+    "active_selector_candidates_roots_extra_L_match": true,
+    "snapshot_relocation_exactly_reversible": true,
+    "successful_CPU_seconds": 5.945391,
+    "conservative_total_development_CPU_seconds": 30,
+    "maximum_concurrent_processes": 1
+  },
+  "scope_distinctions": [
+    "Actual contradiction and physical wall contact are at algebraic L, not rational R or charge cap C.",
+    "Fixed-pose side enlargement to R preserves root and tube coordinates; the physical packing remains contained at L.",
+    "Common whole-packing D4 frame and actual distinct parents; no per-parent reflection assumption.",
+    "C7/C8 import occupancy transfer, not new literal class score budgets.",
+    "KEY_W excludes the actual JPB branch, not its padded root product.",
+    "PSS extra L and all label11 v5 restrictions are retained; seven PSE scopes are not widened.",
+    "Accepted whole-root results are imported with their literal roots; incomplete leaves are insufficient.",
+    "J/K remain optional conditional implications requiring their own actual budgets.",
+    "Future receipt imports and final unconditional assembly require their own binding audit."
+  ],
+  "new_capture_arithmetic_replays": 0,
+  "new_local_arithmetic_replays": 0,
+  "new_capture_budgets_counted": 0,
+  "new_local_root_results_counted": 0,
+  "unlisted_mathematical_assumptions_found": [],
+  "global_optimality_counted": false,
+  "final_independent_assembly_review_counted": false,
+}

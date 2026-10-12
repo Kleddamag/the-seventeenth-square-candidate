@@ -1,0 +1,38 @@
+{
+  "status": "STRICT_CONTRACTION_REQUIRES_SEPARATE_INDEPENDENT_EXACT_REVIEW",
+  "LP_calls": 184,
+  "maximum_LP_calls": 1104,
+  "rounds": [
+    {
+      "round": 4,
+      "core_ratio": "1",
+      "core_ratio_decimal": 1.0,
+      "LP_calls": 92,
+      "round_sha256": "114fc192af7e0a068de5975ef06ce68e51dfcb71386f8699a6433fe4e09ac6fa"
+    },
+    {
+      "round": 5,
+      "core_ratio": "159201934153319/200000000000000",
+      "core_ratio_decimal": 0.796009670766595,
+      "LP_calls": 92,
+      "round_sha256": "7ea72a403f11bfb8d7e7f422c90092387590a95e84c7c59057806c0f4c6b92cc"
+    }
+  ],
+  "no_subdivision": true,
+  "no_fixed_norm_face": true,
+  "old_rigidity_check_called": false,
+  "runtime": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "native_threads": 1,
+    "options": {
+      "threads": 1,
+      "time_limit": 1.0
+    }
+  },
+  "current_round": 5,
+  "current_round_objectives": 88,
+  "CPU_seconds": 1.829879,
+  "final_core_ratio": "159201934153319/200000000000000",
+  "final_core_ratio_decimal": 0.796009670766595
+}

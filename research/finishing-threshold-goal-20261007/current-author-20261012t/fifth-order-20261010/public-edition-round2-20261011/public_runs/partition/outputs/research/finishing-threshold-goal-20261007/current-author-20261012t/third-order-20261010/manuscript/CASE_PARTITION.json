@@ -1,0 +1,371 @@
+{
+  "status": "PASS_EXACT_GUARD_PARTITION_ON_ALL_SIGN_ATOMS",
+  "source": {
+    "file": "/private/tmp/s17-roster-only-t-final-20261012/17-squares-certified-bound/research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/EXACT_ENDPOINT_AND_CASES.json",
+    "sha256": "ea0c3739f00d7513f4adf2c18ce7ebc133141dd12b827229a1f13f461d890e3b"
+  },
+  "reader": {
+    "file": "/private/tmp/s17-roster-only-t-final-20261012/17-squares-certified-bound/research/finishing-threshold-goal-20261007/current-author-20261012t/third-order-20261010/manuscript/check_case_partition.py",
+    "sha256": "97ef83686bdd79a3e0d74de3a1c5dd41c9624a3d1cdf3eaa611b708798737d87"
+  },
+  "domains": {
+    "x9": [
+      null,
+      null,
+      true,
+      true
+    ],
+    "y9": [
+      null,
+      null,
+      true,
+      true
+    ],
+    "t9": [
+      "0",
+      "1",
+      true,
+      false
+    ],
+    "tau3": [
+      "-207107/500000",
+      "207107/500000",
+      true,
+      true
+    ],
+    "tau17": [
+      "-207107/500000",
+      "207107/500000",
+      true,
+      true
+    ],
+    "tau15": [
+      "-207107/500000",
+      "207107/500000",
+      true,
+      true
+    ]
+  },
+  "atoms": {
+    "x9": [
+      {
+        "lower": null,
+        "upper": "53/100",
+        "kind": "open_interval"
+      },
+      {
+        "value": "53/100",
+        "kind": "singleton"
+      },
+      {
+        "lower": "53/100",
+        "upper": null,
+        "kind": "open_interval"
+      }
+    ],
+    "y9": [
+      {
+        "lower": null,
+        "upper": "129/50",
+        "kind": "open_interval"
+      },
+      {
+        "value": "129/50",
+        "kind": "singleton"
+      },
+      {
+        "lower": "129/50",
+        "upper": "13/5",
+        "kind": "open_interval"
+      },
+      {
+        "value": "13/5",
+        "kind": "singleton"
+      },
+      {
+        "lower": "13/5",
+        "upper": null,
+        "kind": "open_interval"
+      }
+    ],
+    "t9": [
+      {
+        "value": "0",
+        "kind": "singleton"
+      },
+      {
+        "lower": "0",
+        "upper": "61301/200000",
+        "kind": "open_interval"
+      },
+      {
+        "value": "61301/200000",
+        "kind": "singleton"
+      },
+      {
+        "lower": "61301/200000",
+        "upper": "591183/1408817",
+        "kind": "open_interval"
+      },
+      {
+        "value": "591183/1408817",
+        "kind": "singleton"
+      },
+      {
+        "lower": "591183/1408817",
+        "upper": "44941/100000",
+        "kind": "open_interval"
+      },
+      {
+        "value": "44941/100000",
+        "kind": "singleton"
+      },
+      {
+        "lower": "44941/100000",
+        "upper": "1",
+        "kind": "open_interval"
+      }
+    ],
+    "tau3": [
+      {
+        "value": "-207107/500000",
+        "kind": "singleton"
+      },
+      {
+        "lower": "-207107/500000",
+        "upper": "-1/20",
+        "kind": "open_interval"
+      },
+      {
+        "value": "-1/20",
+        "kind": "singleton"
+      },
+      {
+        "lower": "-1/20",
+        "upper": "1/20",
+        "kind": "open_interval"
+      },
+      {
+        "value": "1/20",
+        "kind": "singleton"
+      },
+      {
+        "lower": "1/20",
+        "upper": "207107/500000",
+        "kind": "open_interval"
+      },
+      {
+        "value": "207107/500000",
+        "kind": "singleton"
+      }
+    ],
+    "tau17": [
+      {
+        "value": "-207107/500000",
+        "kind": "singleton"
+      },
+      {
+        "lower": "-207107/500000",
+        "upper": "-1/20",
+        "kind": "open_interval"
+      },
+      {
+        "value": "-1/20",
+        "kind": "singleton"
+      },
+      {
+        "lower": "-1/20",
+        "upper": "1/20",
+        "kind": "open_interval"
+      },
+      {
+        "value": "1/20",
+        "kind": "singleton"
+      },
+      {
+        "lower": "1/20",
+        "upper": "207107/500000",
+        "kind": "open_interval"
+      },
+      {
+        "value": "207107/500000",
+        "kind": "singleton"
+      }
+    ],
+    "tau15": [
+      {
+        "value": "-207107/500000",
+        "kind": "singleton"
+      },
+      {
+        "lower": "-207107/500000",
+        "upper": "-1/20",
+        "kind": "open_interval"
+      },
+      {
+        "value": "-1/20",
+        "kind": "singleton"
+      },
+      {
+        "lower": "-1/20",
+        "upper": "1/20",
+        "kind": "open_interval"
+      },
+      {
+        "value": "1/20",
+        "kind": "singleton"
+      },
+      {
+        "lower": "1/20",
+        "upper": "207107/500000",
+        "kind": "open_interval"
+      },
+      {
+        "value": "207107/500000",
+        "kind": "singleton"
+      }
+    ]
+  },
+  "atom_counts_by_case": {
+    "JQ": 10976,
+    "JPWS": 10976,
+    "JPW13": 5488,
+    "JPB": 5145,
+    "JPG3m": 735,
+    "JPG17m": 105,
+    "JPG15m": 15,
+    "JG": 5,
+    "JPG15p": 15,
+    "JPG17p": 105,
+    "JPG3p": 735,
+    "JPA": 5145,
+    "REMOVED_HIGH9": 1715
+  },
+  "total_atoms": 41160,
+  "negative_controls": [
+    {
+      "mutation": "lost_upper9_endpoint",
+      "counterexample": {
+        "point": {
+          "x9": "153/100",
+          "y9": "79/50",
+          "t9": "591183/1408817",
+          "tau3": "-207107/500000",
+          "tau17": "-207107/500000",
+          "tau15": "-207107/500000"
+        },
+        "matching": []
+      }
+    },
+    {
+      "mutation": "lost_KEYW_upper_endpoint",
+      "counterexample": {
+        "point": {
+          "x9": "153/100",
+          "y9": "79/50",
+          "t9": "44941/100000",
+          "tau3": "-207107/500000",
+          "tau17": "-207107/500000",
+          "tau15": "-207107/500000"
+        },
+        "matching": []
+      }
+    },
+    {
+      "mutation": "double_owned_KEYW_upper_endpoint",
+      "counterexample": {
+        "point": {
+          "x9": "153/100",
+          "y9": "79/50",
+          "t9": "44941/100000",
+          "tau3": "-207107/500000",
+          "tau17": "-207107/500000",
+          "tau15": "-207107/500000"
+        },
+        "matching": [
+          "JPA",
+          "REMOVED_HIGH9"
+        ]
+      }
+    },
+    {
+      "mutation": "lost_lower9_endpoint",
+      "counterexample": {
+        "point": {
+          "x9": "153/100",
+          "y9": "79/50",
+          "t9": "61301/200000",
+          "tau3": "-207107/500000",
+          "tau17": "-207107/500000",
+          "tau15": "-207107/500000"
+        },
+        "matching": []
+      }
+    },
+    {
+      "mutation": "lost_wall_seam",
+      "counterexample": {
+        "point": {
+          "x9": "-47/100",
+          "y9": "13/5",
+          "t9": "0",
+          "tau3": "-207107/500000",
+          "tau17": "-207107/500000",
+          "tau15": "-207107/500000"
+        },
+        "matching": []
+      }
+    },
+    {
+      "mutation": "double_owned_wall_seam",
+      "counterexample": {
+        "point": {
+          "x9": "-47/100",
+          "y9": "13/5",
+          "t9": "0",
+          "tau3": "-207107/500000",
+          "tau17": "-207107/500000",
+          "tau15": "-207107/500000"
+        },
+        "matching": [
+          "JPWS",
+          "JPW13"
+        ]
+      }
+    },
+    {
+      "mutation": "lost_positive3_endpoint",
+      "counterexample": {
+        "point": {
+          "x9": "153/100",
+          "y9": "79/50",
+          "t9": "204598490917/563526800000",
+          "tau3": "1/20",
+          "tau17": "-207107/500000",
+          "tau15": "-207107/500000"
+        },
+        "matching": []
+      }
+    },
+    {
+      "mutation": "double_owned_negative3_endpoint",
+      "counterexample": {
+        "point": {
+          "x9": "153/100",
+          "y9": "79/50",
+          "t9": "204598490917/563526800000",
+          "tau3": "-1/20",
+          "tau17": "-207107/500000",
+          "tau15": "-207107/500000"
+        },
+        "matching": [
+          "JPG3m",
+          "JPG17m"
+        ]
+      }
+    }
+  ],
+  "logical_justification": "Every parsed guard is an AND of comparisons between one coordinate and a rational constant. All its cut constants are atom boundaries. Each comparison, hence each guard, is constant on every product atom. Exact representative tests therefore prove disjoint exhaustiveness on the entire domain, including every singleton seam; they are not numerical sampling. JPB and REMOVED_HIGH9 are excluded only by the separately accepted KEY_W implication with both exact endpoints. Loose angle domain is a rational superset of the true canonical interval.",
+  "not_proved": "Marker/frame existence, parent assignment, any class budget, root admission, any local EMPTY/TUBE, or final optimality. Those remain named imported premises.",
+  "CPU_seconds": 0.07847799999999999
+}

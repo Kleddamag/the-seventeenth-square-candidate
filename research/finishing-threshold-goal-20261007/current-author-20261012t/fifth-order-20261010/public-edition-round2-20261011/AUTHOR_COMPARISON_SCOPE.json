@@ -1,0 +1,10 @@
+{
+  "status": "PASS_11_EXPLICIT_CURRENT_DATA_PROJECTIONS",
+  "projection_source": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current_data_core.py",
+    "sha256": "ddba52fcd1d8fec0461122a5d7ac8ca35dcc3e2f963a64ec88cdceee603c1675",
+    "bytes": 3309
+  },
+  "rows": 11,
+  "scope": "Current capture identities, numerical class theorem and all row coverage are separate current-run checks. None of the current_* projections claims equality of historical and fresh execution records. The four arc-record receipt folders are checked against the current class and audit identities separately."
+}

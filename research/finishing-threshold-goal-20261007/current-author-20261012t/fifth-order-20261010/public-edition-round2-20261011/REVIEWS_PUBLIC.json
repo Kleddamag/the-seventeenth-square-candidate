@@ -1,0 +1,205 @@
+[
+  {
+    "label": "review:REPORT_ADMISSION",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_ADMISSION.md",
+    "original_sha256": "34a889bffd776b1dbe716fd6961f5cb0f1bf0582539f6816503f2f79ccb1724a",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_ADMISSION.md",
+    "sha256": "dd31cfa4c8545bab768a527b8dbe65c0d2de2a138695ac3e3dd859e44e9b2bae"
+  },
+  {
+    "label": "review:REPORT_CHARGE_CORE",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_CHARGE_CORE.md",
+    "original_sha256": "6f8f7e897cd754dbbb5c260a184e813f10d427a47f0247fe7f21cae595f9b284",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_CHARGE_CORE.md",
+    "sha256": "1f1c43851adbf68fabb28faaad3b1ca9fc3083e1370be4c189a73a389a696b6f"
+  },
+  {
+    "label": "review:REPORT_COMPOSITION",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_COMPOSITION.md",
+    "original_sha256": "5b32420aa514586bc0013e1390ad0cf3adb98c221409bbe982d876c46aad1425",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_COMPOSITION.md",
+    "sha256": "6a44fd31f4feb4fd854a1cdfdce1a4cc5c98916d7ff1f7ac4ae2145216b6fc52"
+  },
+  {
+    "label": "review:REPORT_ERRATA",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_ERRATA.md",
+    "original_sha256": "a5a9dc7dc520ed16c36d4697e0d438e5475d21a3617278310eedbf7788a35295",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_ERRATA.md",
+    "sha256": "f76391d5b5f768588b6d0512f3689a78be6dd75e8fb11561f764e7887f29d215"
+  },
+  {
+    "label": "review:REPORT_ERRATA_2",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_ERRATA_2.md",
+    "original_sha256": "ccf8cba37ca02fe63bd7f98f67e80208fb5c58bfc76d371db8b9eab616eb3a82",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_ERRATA_2.md",
+    "sha256": "505bd3aac850454c31d182fdb5a0051fa4a9f27c13a2f8ede9e1bdb3ebc3f46b"
+  },
+  {
+    "label": "review:REPORT_FRAME",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_FRAME.md",
+    "original_sha256": "f97019c656ee33d92c2be3645e13bb2d08e3bd2ac04a0ac551575ea4f645fb54",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_FRAME.md",
+    "sha256": "6b7ba895f64ea1ae9f5dddf147c4393615afe8ea6b92837ea0898ddd3238efaf"
+  },
+  {
+    "label": "review:REPORT_LOCAL",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_LOCAL.md",
+    "original_sha256": "022131e8adc458305614525d2c14dd55e7a676f0219c958b14b6560b1b7cc2f5",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_LOCAL.md",
+    "sha256": "6794992f414b548049d3ce0a37d2e5f764e7ba6278342e96cd9e1947c48f6272"
+  },
+  {
+    "label": "review:REPORT_LOCAL_2C",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_LOCAL_2C.md",
+    "original_sha256": "adb94911b987c343fa449bb7fb1c7eef81945bcdb2694db59e459bd6e7f3cefd",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_LOCAL_2C.md",
+    "sha256": "4f24555af2eb75b1e563c18777556237b742dc68922c55e78beedd263c3362ea"
+  },
+  {
+    "label": "review:REPORT_LOCAL_PY",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_LOCAL_PY.md",
+    "original_sha256": "ddc45b74eeb73f9de58258f1cde0b0b1f49ce4a0a08a88af9d6b973d416dcb2f",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_LOCAL_PY.md",
+    "sha256": "ecbbfd3dcb86d81e148cee982d70898512a2ea81c9b9e7dd1e4a3664efb7defd"
+  },
+  {
+    "label": "review:REPORT_MACTREES_FINAL",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_MACTREES_FINAL.md",
+    "original_sha256": "465e40b204caa3e31a68f263bf81bf722b1d336472315e945a18f2c004879936",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_MACTREES_FINAL.md",
+    "sha256": "e9e4de08810f4aa34453484508eaaa7dc5761aca385fde41f745ade577a2b688"
+  },
+  {
+    "label": "review:REPORT_ORBIT",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_ORBIT.md",
+    "original_sha256": "f3f6f132b5a30819c36551422e5e22d6390035dbdf4a8748969d8cee95eae3b8",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_ORBIT.md",
+    "sha256": "57bc90c7698a7589abf594e6d674303a81e4578200da7978b68744315d8fe3b7"
+  },
+  {
+    "label": "review:REPORT_RECEIPTS",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_RECEIPTS.md",
+    "original_sha256": "ab18158a320996ec67f5720f2c5990da33ae9401d6a1b5f4035bdbf1cebe7a95",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_RECEIPTS.md",
+    "sha256": "5fbb4925c4ff10c97fbab53b2053d595f0cd8b125f2a2ec98c790f959d3e1b7a"
+  },
+  {
+    "label": "review:REPORT_RECORDS",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_RECORDS.md",
+    "original_sha256": "b9dcfaedcf6fa1715a2f5b7feee90c79d8676796a06b05fe1e8d8c9e11bf1cb3",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_RECORDS.md",
+    "sha256": "3c2caee059c4fd547d64be64f85871f9d502a77cbab5196e656baef2e83aa8f6"
+  },
+  {
+    "label": "review:REPORT_SELECTOR_A",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_SELECTOR_A.md",
+    "original_sha256": "32f283bfe5b33ca62cd529fa6cb6a33dc1a961199398e920cc6bef6b35e033da",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_SELECTOR_A.md",
+    "sha256": "af475de7dc09e10fa477cae5eb1709b865930814071008d4768a8dc38d60fcf4"
+  },
+  {
+    "label": "review:REPORT_SELECTOR_B",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_SELECTOR_B.md",
+    "original_sha256": "1c2003f5afdca97499a44813390831914397713532f0987f9dd73ad31d42c48b",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_SELECTOR_B.md",
+    "sha256": "a9ed6821e298a86e41e600b5bc3588d4da09c40e487089bf086280b68aa8f9b2"
+  },
+  {
+    "label": "review:REPORT_SELECTOR_C",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_SELECTOR_C.md",
+    "original_sha256": "783a47f8871db75f204a2a6b8a23b4f6ac1740b758d55de424ed2e5faef63966",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_SELECTOR_C.md",
+    "sha256": "3765c2320e8cfb815813ddf9915a0b0321df20b68b886e800e7619deff9c1427"
+  },
+  {
+    "label": "review:REPORT_TERMINAL_2",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_TERMINAL_2.md",
+    "original_sha256": "d95c56521d9224c7ee8ab738da110a4c35fb65b64a3b53b6dc5efedb521c1c29",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_TERMINAL_2.md",
+    "sha256": "db59fe0da7d13ddae2e5e3a938c0a2c31f7fdd50dc1d1ef01e2bb9449d010a53"
+  },
+  {
+    "label": "review:REPORT_UPPER_EXACT",
+    "original_file": "local-research/claude-20261002/review/final-read/reports/REPORT_UPPER_EXACT.md",
+    "original_sha256": "07c83ab5ec0fe0bc87a0c05c29608181c662b2fb179f6d18444dc50e95f8600e",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_UPPER_EXACT.md",
+    "sha256": "506d6c8288828d58ef4f5700380c8d118533a36e5b275054456ee2d08d9c9eb3"
+  },
+  {
+    "label": "review:REPORT",
+    "original_file": "local-research/claude-20261002/review/final-review-20261010/REPORT.md",
+    "original_sha256": "cd4fcea6405084ae09dade8cbaf8439315c544bab76b195d1d6476c075aad68f",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT.md",
+    "sha256": "b81f450e63c4adf999eb99b2c69643cd757ff5ba6c5b58a01cb4f0a2545ad72f"
+  },
+  {
+    "label": "review:REPORT_A_charge",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_A_charge.md",
+    "original_sha256": "fdc92d4c02cb9f54b36fe426ab7d005c46df846a2c66f5c095f84e6b75e01d73",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_A_charge.md",
+    "sha256": "f8be3116ef16900218b89e935b6fc9f3fc05e07ffe5f58d43695b37e77acdbfe"
+  },
+  {
+    "label": "review:REPORT_CAPACITY_LEMMA",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_CAPACITY_LEMMA.md",
+    "original_sha256": "d9b883c5c42dc024c371eca5a97263fc0012df7ca6644d5541c7a79fa54c208c",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_CAPACITY_LEMMA.md",
+    "sha256": "0fd99f5564807e8371181687ab4e4ffdea9cb354132a9f6f8a705644df35f02b"
+  },
+  {
+    "label": "review:REPORT_CHARGE_SEMANTICS",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_CHARGE_SEMANTICS.md",
+    "original_sha256": "89e5b8211283ab839d2b9975fde617e95ffa404232994a520df1166c5bc16574",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_CHARGE_SEMANTICS.md",
+    "sha256": "de635a114810b989ff81cad2b2b852d5d0e4fc7ad69e3e8780cada5a109d69b2"
+  },
+  {
+    "label": "review:REPORT_C_frame",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_C_frame.md",
+    "original_sha256": "113f6fa4df01a0f8a39408b7cd11d34bbf98e67e295e3c1b72dcac5cc1c7278a",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_C_frame.md",
+    "sha256": "23d8b55034786178ec72af0356f9bcf65fb13af57529f2d6ea9f336f2c2f4230"
+  },
+  {
+    "label": "review:REPORT_D_join",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_D_join.md",
+    "original_sha256": "8e7631592ea2a3ef74c27010ce10fd6ce3bdd52f9d93dd24e946c0f7aacc4ce1",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_D_join.md",
+    "sha256": "24308f74322369528ae3a0e44d3a52245eb4da26ab4e2b1f8151848b07719fca"
+  },
+  {
+    "label": "review:REPORT_LOCAL_CHECKERS_IMPORT",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_LOCAL_CHECKERS_IMPORT.md",
+    "original_sha256": "7216ed6a50f96c7d0f79063b679834dd279de3905aa5ee6cb6008172ab7ddd6c",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_LOCAL_CHECKERS_IMPORT.md",
+    "sha256": "75b8855faf6a6ae979e8e74728ff7b01ab2bbcb473de096493d275c34c8e2926"
+  },
+  {
+    "label": "review:REPORT_MARKER_CONVERSION",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_MARKER_CONVERSION.md",
+    "original_sha256": "a366444cd16397abf93890864e6df718e809e68f32a58e73cef0fb219d7f8373",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_MARKER_CONVERSION.md",
+    "sha256": "e1ead69908beb73d4b6720e95c3a50a169b32933a5aeca8bbf2b6d12440141fd"
+  },
+  {
+    "label": "review:REPORT_S6_join_PS06T17ENDp",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_S6_join_PS06T17ENDp.md",
+    "original_sha256": "252056233c814a755ef56e251e31770f08beb72f494c44d19521ac8ca9cf13c2",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_S6_join_PS06T17ENDp.md",
+    "sha256": "389c8a00f0f22bad46b10c10dfe0ead9cbe67a7262ca1801d297e5b54a6387a9"
+  },
+  {
+    "label": "review:REPORT_S6_joins",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_S6_joins.md",
+    "original_sha256": "5bf2f5b613368ee7706d46c20b0625efb86fd91f8a00fdafb3e6d96578b71fb9",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_S6_joins.md",
+    "sha256": "c6add8582d6f2c634977e08bac60ed40b919f735ed71b0aa73a48b3a09137270"
+  },
+  {
+    "label": "review:REPORT_B_local",
+    "original_file": "local-research/claude-20261002/review/premise-review-20261010/REPORT_B_local.md",
+    "original_sha256": "cf54d5dc37c004e5c7cd103642dbf5f6e6cb0df2550dcb10b48c75f21261973f",
+    "file": "local-research/claude-20261002/review/public-edition/round5/reports/REPORT_B_local.md",
+    "sha256": "7136815b33bb7a2b57618290136499317d00b03eb402bfce54fcab56865e63d7"
+  }
+]

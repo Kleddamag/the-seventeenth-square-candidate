@@ -1,0 +1,108 @@
+{
+ "rows": [
+  3000,
+  4500
+ ],
+ "certificate_sha256": "9262e8cd526849a96d58578765acd6836c004f5ddb4cc73288db6d28b63473b9",
+ "classes_sha256": "01af04bb70955f839052b3c7abef582aad2578a29d60d6d8aecf3589109e6140",
+ "python_output_sha256": "d97095c0dd169d1b49abea2ff55eb49bccb85fa48cf0ee4f88f919710ea3de54",
+ "python_output_bytes": 919759,
+ "node_output_sha256": "90c76ed49c49178b4a35616107c64a1decc222ac3283c8d5c09894aef1cf536c",
+ "node_output_bytes": 917795,
+ "python": "PASS",
+ "python_note": "every row passes",
+ "python_exit": 0,
+ "node": "PASS",
+ "node_note": "every row passes",
+ "node_exit": 0,
+ "agree": "yes",
+ "rows_compared": 1500,
+ "rows_differing": 0,
+ "header_fields_differing": 0,
+ "rows_with_witness_compared": 0,
+ "compared_per_row": [
+  "passed",
+  "minimum_units",
+  "cells",
+  "deficient_slabs",
+  "deficit_minimum_units",
+  "default",
+  "classes",
+  "witness: slab, cell, charge"
+ ],
+ "compared_in_header": [
+  "schema",
+  "symmetry",
+  "bound",
+  "classes",
+  "total_intervals",
+  "required_units",
+  "budget_units",
+  "surplus",
+  "certificate_sha256",
+  "classes_sha256"
+ ],
+ "differences": [],
+ "python_minimum_units_of_slice": 774082856,
+ "python_cells_of_slice": 4795958875733,
+ "python_cells_default": {
+  "cells": 4172857198076,
+  "minimum_units": 1002546858
+ },
+ "python_cells_by_class": [
+  {
+   "name": "M",
+   "threshold": "4",
+   "cells": 89044074651,
+   "minimum_units": 4014458593
+  },
+  {
+   "name": "T_label16_exempt",
+   "threshold": "0",
+   "cells": 0,
+   "minimum_units": null
+  },
+  {
+   "name": "X_some_loose_label_not_gated_exempt",
+   "threshold": "0",
+   "cells": 534057603006,
+   "minimum_units": 774082856
+  }
+ ],
+ "python_checker_sha256": {
+  "exact_classes.py": "802dc62aa4f2a9e15ae406d39d5161540403972abbf21819660191d67dd6150b",
+  "exact_restricted.py": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9",
+  "exact_general.py": "89954c6c44e1368b8553eb4d71d860f1a51b010be698088b6fbe3d4fad8eac46",
+  "integer_sweep.py": "3a2bfd8892a9693b4dfca72e4d8e547a7be8775b22306740f4e6b63d0928b34b",
+  "boolean_rule.py": "c49d38ac96027b34103c075a9996b6229fd2cf829055897dce2d8cf9a6db8275"
+ },
+ "node_minimum_units_of_slice": 774082856,
+ "node_cells_of_slice": 4795958875733,
+ "node_cells_default": {
+  "cells": 4172857198076,
+  "minimum_units": 1002546858
+ },
+ "node_cells_by_class": [
+  {
+   "name": "M",
+   "threshold": "4",
+   "cells": 89044074651,
+   "minimum_units": 4014458593
+  },
+  {
+   "name": "T_label16_exempt",
+   "threshold": "0",
+   "cells": 0,
+   "minimum_units": null
+  },
+  {
+   "name": "X_some_loose_label_not_gated_exempt",
+   "threshold": "0",
+   "cells": 534057603006,
+   "minimum_units": 774082856
+  }
+ ],
+ "node_checker_sha256": {
+  "verify_classes.js": "7f6b234768f812b7acf515c28cc4ced0e5b7fb5bcd4c0ba03114733975087d40"
+ }
+}

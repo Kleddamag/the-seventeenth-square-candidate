@@ -1,0 +1,48 @@
+{
+  "status": "PASS_COMPUTED_SLOT_ORBIT_QUARTER_TURN_ROW_COVER_AND_FRAME_BINDING",
+  "inputs": {
+    "original_marker": {
+      "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/class-snapshot-20261009-1144/marker.json",
+      "sha256": "9e1ef6e5ac1e7e431ec19a2fb021cc8e16667ce096112e3b1fc382892917e5ed"
+    },
+    "class": {
+      "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_MARKER/classes.json",
+      "sha256": "6691f91f9d5038e413c5b8f9bd7e7b48ce793d9374d6adce1ef94fe9f89ab50c"
+    },
+    "certificate": {
+      "file": "local-research/claude-20261002/results/screen_marker_hexagon_cap/certificate.json",
+      "sha256": "a0de9a67de3543ce0703a01293878d257fc3addef09a8d237ad9c48b534101e7"
+    }
+  },
+  "frame_binding": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/contract-author-20261009-2110/FRAME_L9.json",
+    "sha256": "603673f2213d128aad4cebc6cbf4a9dde348e0c05e9bbff0168434d326052424"
+  },
+  "D4_source": {
+    "file": "local-research/claude-20261002/cert_restricted/exact_restricted.py",
+    "sha256": "caae39b30cfcde513740337792865f43ed18738a539a34d9c8fec1e74d7686f9"
+  },
+  "distinct_polygon_images": 4,
+  "quarter_turn_lifts": [
+    [
+      "-707107/292893",
+      "-292893/707107"
+    ],
+    [
+      "-207107/500000",
+      "207107/500000"
+    ],
+    [
+      "292893/707107",
+      "707107/292893"
+    ]
+  ],
+  "row_and_reflection_enclosures": 18000,
+  "strict_margin": "309449/250000000000",
+  "script": {
+    "file": "/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/finishing-threshold-goal-20261007/window-capture/fifth-order-20261010/marker-import-AD/verify_computed_identity.py",
+    "sha256": "833a2bbcbc1b1dcb7eb2cd8c45f8363eda82a9cd559df115eb91316a4e806e4a"
+  },
+  "cpu_seconds": 0.121923,
+  "scope": "Exact transformations and membership-cover comparisons. Does not re-execute charge geometry or replace accepted row receipts."
+}

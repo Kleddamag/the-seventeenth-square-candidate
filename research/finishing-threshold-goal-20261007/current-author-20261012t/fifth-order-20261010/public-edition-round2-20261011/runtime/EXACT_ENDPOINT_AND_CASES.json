@@ -1,0 +1,87 @@
+{
+  "endpoint": {
+    "L_interval": [
+      "46755300936045509516341112704831466487671438550158796943662667240051399850981213/10000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "18702120374418203806536445081932586595068575420063518785870052852972573895623523/4000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    ]
+  },
+  "branches": [
+    {
+      "root": "JQ",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JQ_exact_v1.json",
+        "sha256": "f4d1607eb4378487fcf6d8a8011125855bfb5912a6fa833ad3dcfcd6be14d93e"
+      }
+    },
+    {
+      "root": "JPWS",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPWS_exact_v4.json",
+        "sha256": "7d32a55bc2b080056d267dd10d38abb003ff84a649cd22aabb05899ec2a8be1f"
+      }
+    },
+    {
+      "root": "JPW13",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPW13_exact_v2x.json",
+        "sha256": "e1a489e1f0d04ec0ee091ccbab9c4028a08c04ec15deeea26ff738e62b09505b"
+      }
+    },
+    {
+      "root": "JPA",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+        "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+      }
+    },
+    {
+      "root": "JPG3m",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+        "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+      }
+    },
+    {
+      "root": "JPG3p",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+        "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+      }
+    },
+    {
+      "root": "JPG17m",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+        "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+      }
+    },
+    {
+      "root": "JPG17p",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+        "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+      }
+    },
+    {
+      "root": "JPG15m",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+        "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+      }
+    },
+    {
+      "root": "JPG15p",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+        "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+      }
+    },
+    {
+      "root": "JG",
+      "root_pin": {
+        "file": "research/window-extension-20261008/bigbox/join/JG_exact_v2.json",
+        "sha256": "f635af684d0f81d318ad2f46f2721082e595d47ea294164062c10b6f2b941f32"
+      }
+    }
+  ]
+}

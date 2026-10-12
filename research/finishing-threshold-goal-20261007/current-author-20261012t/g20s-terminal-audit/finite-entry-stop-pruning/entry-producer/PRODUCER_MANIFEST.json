@@ -1,0 +1,138 @@
+{
+  "status": "EXACT_RAW_PRUNING_PASS_REQUIRES_SEPARATE_INDEPENDENT_ENTRY_REVIEW",
+  "files": [
+    {
+      "path": "PROOF.md",
+      "sha256": "cf079be5b08240876c787bc7747237c0f6ebba74774d9bca08ab4e21d67a02a0"
+    },
+    {
+      "path": "PRUNING.json",
+      "sha256": "0a2655c65353b67cfd22ba05b9e84208e9c03c6664c3900ff3f771326ae9eb34"
+    },
+    {
+      "path": "REPLAY.md",
+      "sha256": "927adebcd7788460d155c01f5c61bdd06624a84a18ee484d12d768233a6974ce"
+    },
+    {
+      "path": "RESULT.md",
+      "sha256": "c67d6e2b77acab031e73e46dc89788d0e1d255f04c0d77ab7d5cd554b1ab1821"
+    },
+    {
+      "path": "check_transfer.py",
+      "sha256": "38e5e22060476d04cc0d79d6f43099716d09930fb617ac75e31e51a18effa2f6"
+    },
+    {
+      "path": "export-receipt.json",
+      "sha256": "9f465d9996d784d7e98a76c8aace8fc3963ed57f56c99ca5471c3e4bb21e4efd"
+    },
+    {
+      "path": "export.py",
+      "sha256": "e5f79c67a228620c925df14980983c6dbb5d8c6de4f66ed7ab1ee79cccf45b5b"
+    },
+    {
+      "path": "inputs/accepted-root-gate.json",
+      "sha256": "7dee354d5582d3104a6972eb81efc988d9284ede0751906faf0ed9a10b25c8d5"
+    },
+    {
+      "path": "inputs/accepted-transfer-review.json",
+      "sha256": "ab96060dce2f0e5b17006b52a9a8c0d7b70f6a94897c9dd0f013d9911cfbdd12"
+    },
+    {
+      "path": "inputs/raw-reference-interface.json",
+      "sha256": "d1aead18ef637439b696c303e050c63afeb9782e326703e7e9c7bd9b70939ff4"
+    },
+    {
+      "path": "inputs/raw-reference-review.json",
+      "sha256": "5a70b980bdf8c519d1bcb19a6f710737e41073e782286f849e9ac62915f3b3cc"
+    },
+    {
+      "path": "inputs/root-proof/PROOF.md",
+      "sha256": "62a0c88675cb34b427087793cac3af27d4f2ac62b6ba720bd09ac2debab719a4"
+    },
+    {
+      "path": "inputs/root-proof/manifest.json",
+      "sha256": "5a3aab61d2a5f5b08090fc4fc8e0ad67482007b06e370d0cbdc4db255cdf9ead"
+    },
+    {
+      "path": "inputs/root-proof/receipt.json",
+      "sha256": "980aec13f9ea60c72fbd0dff0443240c4adef6590fa236af252c4de4f96ad10a"
+    },
+    {
+      "path": "inputs/root-proof/root-interface.json",
+      "sha256": "c0a2e20edd832648f44edef6e0ee83507a7e6acd91e83785c0ccd10a3958bc0e"
+    },
+    {
+      "path": "inputs/root-review/manifest.json",
+      "sha256": "907071a795d42b92890da0a1894b3a9765635908caf2812044ade6d65d76056e"
+    },
+    {
+      "path": "instance/research/joint-capture-20261007/pilot.py",
+      "sha256": "0870bec5b2243e7ad141722fcdbd0bc5ad1710c445696ffe3331ce7c0f2be306"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/bridge.py",
+      "sha256": "a3b496ca0422b4818651d2d59d9652e925eb12af79200bcdd27b47843d0a56cc"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/relational.py",
+      "sha256": "e268531d2279c38a7f47f809911890d17d8620aa9c49f1a87d230db6f17db1f0"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/rigidity.py",
+      "sha256": "2ba5c882eab4dccd83f17b011145c104c7b1c6dec7e453e320c736600824ec41"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/root_geometry.py",
+      "sha256": "8d31d7547394117f8fa4be7eb20beff85908f56409f5a0a3f57d4ffb08e1b38a"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/uniform.py",
+      "sha256": "019ce089aa4d531fc292d332585360a2087428a770d5a66b8a8e1cf04fca921d"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/upstream-root-certificate.json",
+      "sha256": "ef8069b30cd1336ae01124d0f54f13b4f69741c14941f997706b7f599c23a0d9"
+    },
+    {
+      "path": "instance/research/uniform-capture-20261007/verify.py",
+      "sha256": "1a6c91a8cc1e665e03e3a96815dab106c236ca4dd64de0132aafd933562423d0"
+    },
+    {
+      "path": "instance/upper-packing-certificate.json",
+      "sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+    },
+    {
+      "path": "preparation.json",
+      "sha256": "2bedc54ba20a24ef87731683d712a6cb5d377f5a03bf6b973100762749092e9b"
+    },
+    {
+      "path": "prepare.py",
+      "sha256": "6eff30694dc3755c84e017a8b6fda245ba1a1600280aef4aeb30c977abe67572"
+    },
+    {
+      "path": "seal.py",
+      "sha256": "e535e39e894dda10d7e9dde098e0a8319fb1fa799a73a8f101d472350702a104"
+    },
+    {
+      "path": "transfer-receipt.json",
+      "sha256": "f825cb02bdbcf70ac9dea57415861fac8a7d74bef8c7381fce0e70aa4d23372c"
+    }
+  ],
+  "scope": "Necessary guarded raw cuts on positions1/200/radianangles1/400; no finite contraction or terminal-reach claim.",
+  "accepted_root_stop_review_sha256": "907071a795d42b92890da0a1894b3a9765635908caf2812044ade6d65d76056e",
+  "pruning_export_sha256": "0a2655c65353b67cfd22ba05b9e84208e9c03c6664c3900ff3f771326ae9eb34",
+  "raw_reference_review_sha256": "5a70b980bdf8c519d1bcb19a6f710737e41073e782286f849e9ac62915f3b3cc",
+  "producer_CPU_cap_seconds": 10,
+  "producer_conservative_CPU_charge_seconds": 3,
+  "preparation_CPU_seconds": 0.004026,
+  "first_transfer_CPU_seconds": 0.022188,
+  "final_transfer_CPU_seconds": 0.021899999999999996,
+  "export_CPU_seconds": 0.0031149999999999997,
+  "seal_CPU_seconds": 0.002534999999999999,
+  "model_optimizer_symbolic_tree_calls": 0,
+  "physical_parent_count": 17,
+  "free_physical_label": 4,
+  "actual_side_premise": "S<=algebraic S*",
+  "WX_schema_acceptance_claimed": false,
+  "further_calculation_planned": false
+}

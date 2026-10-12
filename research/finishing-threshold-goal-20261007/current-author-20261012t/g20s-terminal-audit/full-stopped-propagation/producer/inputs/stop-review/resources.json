@@ -1,0 +1,11 @@
+{
+  "independent_initial_check_cpu_seconds": 0.02228,
+  "independent_interface_complete_check_cpu_seconds": 0.023217,
+  "independent_final_read_only_replay_cpu_seconds": 0.035123,
+  "producer_snapshot_replay_cpu_seconds": 0.014673,
+  "measured_check_total_cpu_seconds": 0.095293,
+  "conservative_review_charge_cpu_seconds": 2,
+  "review_cpu_cap_seconds": 10,
+  "solver_calls": 0,
+  "threads": 1
+}

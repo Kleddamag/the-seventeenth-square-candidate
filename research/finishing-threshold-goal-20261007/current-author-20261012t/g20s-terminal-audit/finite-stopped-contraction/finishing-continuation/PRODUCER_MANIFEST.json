@@ -1,0 +1,50 @@
+{
+  "certificate_sha256": "3733e287931bb0e0e7cd85217070761360a629ee42441860572db654951feae7",
+  "completed_global_rounds": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "completed_new_rounds": 6,
+  "cost": {
+    "conservative_preparation_sealing_charge_seconds": 1,
+    "producer_cap_seconds": 30,
+    "run_CPU_seconds": 14.930974,
+    "total_charge_CPU_seconds": 15.930974
+  },
+  "files": {
+    "INPUTS.json": "47278c5334dd38e3db4498c6a6848ee9ce0b43d29b01241237725717b2ef2d3d",
+    "PREPARATION.json": "a020760e2891facc111468e2d5df6d04bb607ae914adb48c46e2c2463b5130cf",
+    "README.md": "7bd937525b4a6c74374f3258b7d62cc4391733bd55403e88abd11104f68553ef",
+    "RESULT.md": "94ce8a00f4185c7863c43b2a20442b814122193d332fbee4a6ddf9c16e369202",
+    "certificate.json": "3733e287931bb0e0e7cd85217070761360a629ee42441860572db654951feae7",
+    "model-10.json": "e66e3cfdf1448cef82df4541e6d966683237c1c12579af6b00334645424b3f6e",
+    "model-11.json": "eb8ebda9d108564abee63f895c627fd0bb38feb1388c528fa3b554bef6f345cf",
+    "model-12.json": "89ec874925ecd5a20f425bcacc6a37d7a9134e0f527fc123edc62dc10b10e4e3",
+    "model-13.json": "e8db3f3e54b7e8730203cc8c602b7637d22e6991834ebdcafc2bc2fdf561c149",
+    "model-14.json": "9560264bb7bb88c161f9ef1a5b32e5166f7d4aed5bf5bb4ef16e406d2b392a0e",
+    "model-15.json": "6f9f86fc1ebf45eb5fc69162032b28cdbae7dedc62b637e011e46e544a56cfc9",
+    "model-16.json": "7fe9ad6833f2dcf629d121e7b0d41fff3f65569bee49fc06b2f03f33909fc910",
+    "run.py": "3709a8d27c6b96e9fceaa2666b4d1cfcece85890eaff8091805ebf7bbfba58b5",
+    "source-diff.patch": "8746d85958e62a41831fbe2d812204219636ba67cc58de9a6c1a9f79ea24c51e",
+    "telemetry.json": "e8f37830cbdbdb31cf5c95ed0940fa290558af79f383522a3384157c4cb099a5"
+  },
+  "final_angle_radius": "107198988591/500000000000000",
+  "final_position_radius": "101779367707/1000000000000000",
+  "new_complete_bound_count": 552,
+  "new_complete_rows_total": 4638,
+  "partial_round": {
+    "exact_bound_count": 1,
+    "global_round": 16,
+    "model_hash": "7fe9ad6833f2dcf629d121e7b0d41fff3f65569bee49fc06b2f03f33909fc910",
+    "used_for_box_update": false
+  },
+  "prefix_certificate_sha256": "07e88130ce59aea972226570441849cc04ad3ed435a6367e25c654bfe786ff10",
+  "prefix_independent_review_sha256": "0a8aa22c9c6ba5e7e223669f4dd5891392832b0484e107570d175229016f68ed",
+  "status": "PRODUCER_SIX_COMPLETE_FINISHING_ROUNDS_AND_PARTIAL_NUMERICAL_TIMEOUT_REQUIRES_SEPARATE_REVIEW",
+  "target_raw_core_radius": "1/10000",
+  "target_reached": false
+}

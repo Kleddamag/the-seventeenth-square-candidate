@@ -1,0 +1,161 @@
+{
+  "status": "PASS_SAVED_BOUNDS_ONLY",
+  "producer_diagnostic_manifest_sha256": "28573aa8b3a922891a89cd18569d696f5a12dacd0d694a17dde4b321fcf676fe",
+  "certificate_sha256": "530a6356ac517d6bbc0dbc8ffc37aaded5304175c0fbed6fa5418d3f42fd0ed2",
+  "rounds": [
+    {
+      "round": 1,
+      "strict_angle_endpoint_improvements": 15,
+      "unchanged_angle_endpoints": [
+        [
+          2,
+          -1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          6,
+          -1
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          7,
+          -1
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          8,
+          -1
+        ],
+        [
+          8,
+          1
+        ],
+        [
+          9,
+          -1
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          10,
+          1
+        ],
+        [
+          11,
+          -1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          -1
+        ]
+      ],
+      "negative_side_gap_upper": "260965043029/1000000000000000",
+      "h22_upper": "1189419429559/500000000000000",
+      "h23_upper": "33139017043/15625000000000"
+    },
+    {
+      "round": 2,
+      "strict_angle_endpoint_improvements": 25,
+      "unchanged_angle_endpoints": [
+        [
+          8,
+          -1
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          10,
+          1
+        ],
+        [
+          11,
+          -1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          16,
+          -1
+        ]
+      ],
+      "negative_side_gap_upper": "27851528803/250000000000000",
+      "h22_upper": "452665991333/250000000000000",
+      "h23_upper": "256158273713/125000000000000"
+    },
+    {
+      "round": 3,
+      "strict_angle_endpoint_improvements": 25,
+      "unchanged_angle_endpoints": [
+        [
+          8,
+          -1
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          10,
+          1
+        ],
+        [
+          11,
+          -1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          16,
+          -1
+        ]
+      ],
+      "negative_side_gap_upper": "14276686789/200000000000000",
+      "h22_upper": "715037126617/500000000000000",
+      "h23_upper": "1363536314037/1000000000000000"
+    }
+  ],
+  "normalized_sole_angle11_face_not_established": true,
+  "more_rounds_not_run_or_predicted_to_close": true,
+  "CPU_seconds": 0.0029700000000000004
+}

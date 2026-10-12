@@ -1,0 +1,24 @@
+PASS
+nodes=36 accepted=36 infeasible=22 terminal=0 split=14 rounds_evaluated=22 steps=22 terms=988844 zero_steps=22
+root='root' packing_sha256=24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7 certificate_sha256=804ae79493f6733645b3d70c10edc05d5ab0c20fea416284af16c9e855c7c0ea
+labels=17 S_floor=4675530093604551/1000000000000000
+gzip input: certificate_sha256 is the hash of the compressed file; uncompressed_sha256=1a97f63c2828bd75eb355c4abb8b030d30d5183ffca06850788c719425df7c58
+checker: wxcheck 3.0 / SPEC 3.0 / wx-cert-2, wx-cert-3; 750.8 s
+      750.93 real       719.25 user         3.73 sys
+           694747136  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+              481501  page reclaims
+                  17  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                  54  voluntary context switches
+              596117  involuntary context switches
+       9684770246638  instructions retired
+       2741864448985  cycles elapsed
+           496976688  peak memory footprint

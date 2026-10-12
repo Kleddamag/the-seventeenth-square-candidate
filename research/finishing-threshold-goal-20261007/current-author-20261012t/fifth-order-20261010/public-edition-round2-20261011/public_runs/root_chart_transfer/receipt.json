@@ -1,0 +1,51 @@
+{
+  "id": "root_chart_transfer",
+  "status": "PASS",
+  "error": null,
+  "missing_required_output": [],
+  "wall_seconds": 0.030218750005587935,
+  "cpu_seconds": 0.027042999999999998,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "executable": "python3.12",
+  "script_sha256": "a130af5a3f8e021be4e1193a7a182f8430599ead13f9894a89f2bd943a284f95",
+  "original_last_line": "{\"status\": \"PASS_INDEPENDENT_SOURCE_AND_CONDITIONAL_CONSTANT_ASSESSMENT\", \"cpu_seconds\": 0.007872999999999998, \"single_option_upper_decimal\": -0.009077046518790528}",
+  "inputs_read": [
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/ANALYTIC_AUDIT.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/MANIFEST.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/RESULT.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/gate-receipt.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/INTERFACE-tube.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/joint-capture-20261007/pilot.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/bridge.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/relational.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/rigidity.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/root_geometry.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/uniform.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/upstream-root-certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/research/uniform-capture-20261007/verify.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/claude-extension-audit/terminal-producer/snapshot/upper-packing-certificate.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/coarse-capture/new-leaf-import/hplus015-import/inputs/SPEC.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/coarse-capture/new-leaf-import/hplus015-import/inputs/wxcheck2_v251.js",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/coarse-capture/new-leaf-import/hplus015-import/inputs/wxcheck_v251.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/runtime/TRANSFER_INPUTS.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/scripts/root_chart_transfer.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/ASSESSMENT.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/TARGET.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/check_constants-v1.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/check_constants.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/constants-v1.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/constants.json",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/freeze.py",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/G20S_PLAN.md",
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/g20s-terminal-audit/producer/inputs/TERMINAL_NOTES.md"
+  ],
+  "redirected_outputs": {
+    "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/receipt.json": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/public_runs/root_chart_transfer/outputs/research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/receipt.json"
+  },
+  "path_adaptations": [
+    "author repository prefix",
+    "BI manifest.json case alias",
+    "round2: revision-v4/PROOF.md reads revision-v7/PROOF.md"
+  ],
+  "scope": "New execution of the named check only, not a new independent mathematical review."
+}

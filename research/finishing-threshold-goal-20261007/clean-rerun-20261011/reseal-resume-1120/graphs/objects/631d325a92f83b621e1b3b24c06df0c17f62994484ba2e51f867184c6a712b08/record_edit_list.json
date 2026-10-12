@@ -1,0 +1,2210 @@
+{
+ "schema": "record-edit-list-v2",
+ "scope_sentence": "This record refers in passing to the working folder of the computation that produced its certificate, named here by a neutral designation (table EARLIER_EXECUTIONS.tsv).",
+ "scope_files": [
+  "bigbox/join/RECORD_EJQ_v1.md"
+ ],
+ "base": "research/window-extension-20261008/",
+ "note_line": "Note for this edition: this is a record from the project's sealed record of 8 to 11 October 2026. File names, hashes and line numbers in it refer to that record. Passages about the logistics of the work were removed; the mathematical content is unchanged. Statements of status in it (for example \"not certified\", \"not reviewed\") describe the day the record was written, not this edition. The table EDITED_LINES_RECORDS.tsv lists every changed line.",
+ "files": [
+  {
+   "original_file": "research/window-extension-20261008/reviews/REVIEW_30.md",
+   "original_sha256": "bd04cd0fbec2a066ac3d468377a9afe502121c0ff1bdc296a93fac55901a7a05",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/REVIEW_30.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/reviews/REVIEW_30_ACCEPT.md",
+   "original_sha256": "092357a914c6435393e7782f514cde5792de1e40ac8c9042f92442d078173142",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/REVIEW_30_ACCEPT.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md",
+   "original_sha256": "9ac387300a880a0f2b3ab7c5d27e0984cbefca90190ee501e1efd7c804fd1900",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+   "original_sha256": "77da7db7f81007c7765dc852b9aeec672c4ea4e4579cd5d587d0c40c43be722a",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+   "original_sha256": "9fa9013da56b4a184836160cae6b745e8dfe9e38136867ab7b4c27c10a7c4841",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+   "original_sha256": "2de8ae1b9d0c7ad1439b1ff492a40aae6e6ba00dc72a97bad15d316e13e8fa45",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/reviews/join_roots/batch2/REVIEW_BATCH2.md",
+   "original_sha256": "25227b662a3e6211cc35fa09492e716c5e0e4001ca3d339b7623146a0f958905",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch2/REVIEW_BATCH2.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+   "original_sha256": "0600869f8775b6aea1c3c954b52365cc87e90c27087d156f1f58149d40d1163d",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "original_sha256": "0a094486675bef106080299862c52968d6256de1c4499b1a4fd27bd339c4bcf6",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/reviews/join_roots/batch6/REVIEW_EJPWS_v4.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPWS_v4.md",
+   "original_sha256": "af742507a1553a11084ea98386a294ae997e9749122fe632f7e940aa414b2fed",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPWS_v4.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPW13_v2x.md",
+   "original_sha256": "0f7d2cb3f0cb3d101d0e5dbf9c6fc5e86b73526bdf404be2a931392fbd0664f9",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPW13_v2x.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG3m_v5.md",
+   "original_sha256": "493e912222a6a8e680d088e1ff399e4dfb1efe7507dc54f07d3d764cb34f426c",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG3m_v5.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG3p_v5.md",
+   "original_sha256": "16226ebd1dca325b8f3fd2c7c35e91ab8ef5d114a1b751f74ec7291e9e92f319",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG3p_v5.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJG_v2.md",
+   "original_sha256": "947f9ffbb609e78cbb0663ed363dd092f8bfa82c3cf3a3402e61d7ef8f7af6ef",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJG_v2.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG17p_v5.md",
+   "original_sha256": "0054d9b1f67d013bd2364e8974399e501a418ace6397244b679259d8c895ef8a",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG17p_v5.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG15m_v5.md",
+   "original_sha256": "33b20db1bc7f344e7fcd0f3fcab71d26affc3daa316d5dc52facad628ae23f30",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG15m_v5.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJQ_v1.md",
+   "original_sha256": "d27d6d9b24f52eedcf6ac7a6445bde8f9b80dbff84477ba93e095397a2d7ceae",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJQ_v1.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPA_v5.md",
+   "original_sha256": "e10be7862229bd33dbcd51a46300143b5ac89738d99e62ccfcaa9b298a620f79",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPA_v5.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG17m_v5.md",
+   "original_sha256": "ae527a87116bd33811e21b5cf49547c0310769f8ef126ff49d6e52d78035d456",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG17m_v5.md"
+  },
+  {
+   "original_file": "research/window-extension-20261008/bigbox/join/RECORD_EJPG15p_v5.md",
+   "original_sha256": "8ce55c186f982223e030b48dd49b2a51fca436ce889eae3700353e72fbd2c506",
+   "file": "local-research/claude-20261002/review/public-edition/round5/records/bigbox/join/RECORD_EJPG15p_v5.md"
+  }
+ ],
+ "edits": [
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "784f25e4f9568dbf5b34be0cbe08257b6ebd48d2d2872838740eb661b980e902",
+   "new_text": "The referee, 2026-10-09. Written in parts: A first, then B, C,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 30,
+   "action": "REPLACED",
+   "original_line_sha256": "0cb87b326e0fb8b708da894c81cab877ec6450d1af18e941cafdc92e99360f1b",
+   "new_text": "Status of the parts: all written. A, B, C, D, E: the audit of the candidate (B.7 = the table of",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 31,
+   "action": "REPLACED",
+   "original_line_sha256": "6657d4cf40a6e08f29b82d5aae894b70d1d8e4a7497f0cebdf971b6bd03414e8",
+   "new_text": "readings). F: the verdict, the lead's ten decisions (F.2), the MUST and SHOULD lists with",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 49,
+   "action": "REPLACED",
+   "original_line_sha256": "71ade4431e7bb6750ab8f67923844d61fc421d7124d41dd5915b4b5a42d40067",
+   "new_text": "correct as written, and each of the seven points examined has the answer the author intends. What I found",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 66,
+   "action": "REPLACED",
+   "original_line_sha256": "b88b3c6ccc28e36b182914f7238e6f9afd62390dfad9f656b0c37509c87ae482",
+   "new_text": "### A.2 Section 4.9, `sq` and `pol` (lines 379-387), point 4 of the seven",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 88,
+   "action": "REPLACED",
+   "original_line_sha256": "f06705420d458b4abdc8fd450ad1ceb1af257789c615ef969c0c33505f411312",
+   "new_text": "### A.3 Section 4.10, the indicator construction (lines 389-439), points 1, 2, 5 of the seven",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 160,
+   "action": "REPLACED",
+   "original_line_sha256": "51a716e9e69051eb5de6500ff34703cf9462dabb54d763aad92c4e384b3b0f61",
+   "new_text": "### A.4 Section 5, term rules, TERM LEMMA, CLAIM (lines 443-512), points 2, 3, 6 of the seven",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 225,
+   "action": "REPLACED",
+   "original_line_sha256": "e67bc03622620fa97f3a10c1c816d4ca894c8b295eea01a757a2c141d2798d7f",
+   "new_text": "### A.5 Section 8 with centres (lines 599-634), point 7 of the seven",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 305,
+   "action": "REPLACED",
+   "original_line_sha256": "b7b62b89a7c68d9f33550ebf485eea567491fd5133d6063389712cda28e16f15",
+   "new_text": "`b_table.py`, `b_corpus.py`), with PY the Python interpreter of the review.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 363,
+   "action": "REPLACED",
+   "original_line_sha256": "c86db9e2763ea33bdf068b2f3a4a2fbf16c8a2face7964780d8360bda25c8fe5",
+   "new_text": "wording of `SPEC_v2.6_ERRATA.md`. (The erratum F5 that the lead added during the review, on my finding B-1, is of course",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 467,
+   "action": "REPLACED",
+   "original_line_sha256": "95df65914112463299e7f164a545e5b1e0ad403cf77d24469e0630ba4956f26b",
+   "new_text": "Sources: `checker/CHECKER_NOTES.md` section 4 (R1-R13 and \"two",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 593,
+   "action": "REPLACED",
+   "original_line_sha256": "49035e8d0d8892a5cc8a9261bd96b5aa84d1d8b448f925d44ff7288161ed64e2",
+   "new_text": "Together with the lead's statement that the second checker reproduces the prototype's L on the 81 leaves of the",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 670,
+   "action": "REPLACED",
+   "original_line_sha256": "fd521f765d4ae2ee0446a7f5c639954de991ad44be79467ac2801121ebcaa065",
+   "new_text": "The true twin (\"a closure that is true only because of an option assumption\"):",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 796,
+   "action": "REPLACED",
+   "original_line_sha256": "eaabc0965dff9c9e7a39f034a85012558e1a90effd302992174d2a2934f5370c",
+   "new_text": "### E.1 The author's proof and mine",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 805,
+   "action": "REPLACED",
+   "original_line_sha256": "a3a92959c0496b5163d30072d3873e967e867b814b2b1e39851bb7c2fee40cc6",
+   "new_text": "### E.2 The author's list of decisions (DELTA part D; PROTO_NOTES 17) against my reading",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 807,
+   "action": "REPLACED",
+   "original_line_sha256": "25ab8b0929af305505a3c18b584e2c0d55489ec78c2f9cb16b43c0a086c9adf4",
+   "new_text": "| the author's point | final text | my assessment |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 814,
+   "action": "REPLACED",
+   "original_line_sha256": "6306215ac3af60655cbd8ef0d7465c22a54e1eb951f62bfbf53c0652c223f7e7",
+   "new_text": "| D13 one `ind` declaration per pair and round; `opt` and `ind` of one pair were ALLOWED in the author's draft (the fact wins), forbidden by the lead | (R1), (R2), (R3) | both versions are sound. I had written in A-3 that (R2) is needed for the names to mean one thing; the author's draft shows it is a choice. Corrected in A-3 |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 819,
+   "action": "REPLACED",
+   "original_line_sha256": "70974f6dbcb4f054a0abc9fd35045c15dd13a5a56bf626228ed88c5fb4b067b5",
+   "new_text": "### E.3 What the author's self-audit calls untested, and what this review adds",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 821,
+   "action": "REPLACED",
+   "original_line_sha256": "0e2c2a56cd34a906506383f83555e66065884969bb957ac13f594f1ba5fd19f6",
+   "new_text": "| the author's \"no test of its own\" (PROTO_NOTES 17.5, DELTA part F) | here |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 837,
+   "action": "REPLACED",
+   "original_line_sha256": "472e94c11f6664e7e0000de4034483f53db3ae354fe953cf6f3d2d714ba75aff",
+   "new_text": "RESULT (details in part H): **all 81 leaves recomputed; in all 81 my L equals the",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 843,
+   "action": "REPLACED",
+   "original_line_sha256": "aa62825d192135bfe1a8a64a42374bd4477f2dedb172b60f3aa226b3bd01fcaa",
+   "new_text": "### E.4 What the author found in the text of 2.6",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 852,
+   "action": "REPLACED",
+   "original_line_sha256": "1f8e6ac2e8efaa145a0df971f626ec8f0ab217e96f63e3830f66568bb4776d1c",
+   "new_text": "`[circ, pol, pol]`, `[circ, pol, ind]`). These terms obey (T1) to (T4), and the author's sentence \"a wrong multiplier",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 854,
+   "action": "REPLACED",
+   "original_line_sha256": "f2a59294980e34207d3b812f3f41e977be881023dbbbfdc03aa09522a5d77845",
+   "new_text": "monomials in the remainder and lower L\" is A.2. Nothing there touches the text. The author's measurement that a",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 879,
+   "action": "REPLACED",
+   "original_line_sha256": "ac733bf16576d83ed66f47f0f277a9a2522b1a2539ff8eabf16e909813f03de3",
+   "new_text": "the lead had to choose (the lead chose the rule of the Python checker: a non-empty string; see F.7).",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 881,
+   "action": "REPLACED",
+   "original_line_sha256": "0a2e19af5cbad415e8023f7b0fbc1494b598b743b5bc6114655ccb504b88df14",
+   "new_text": "### F.2 The lead's ten decisions (given during the review)",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 890,
+   "action": "REPLACED",
+   "original_line_sha256": "781cbc21bd5f69f642333efad3fb007b556971c1b819d53ad2c125ce6bbd8e2e",
+   "new_text": "| 2 | every item of WELL-FORMEDNESS on the whole file; only what depends on a store in evaluated rounds | yes | yes for every item the lead lists (`R_d05`, `R_n07`-`R_n09`, `R_t06c`, `K73`, `K74`, `R_n11*`, `R_n16`, `R_t06b`, `R_s02*`: all FAIL, FAIL in the round that is not evaluated). **But the criterion \"depends on a store\" must not be the rule:** the guard (T3), \"the pair has a declaration in this round\", k <= m, and the availability of `asg` do not depend on a store and ARE evaluated-only today, in the text (line 722-724), in the prototype (`d/O_nev_T3_unguarded_corner_N`, `O_nev_ind_undeclared_pair_N`, `O_nev_ind_k_beyond_m_N`: PASS) and, for `opt`, `par`, `asg`, in both frozen checkers (`R_n03_opt_undeclared_N`, `R_n04_par_undeclared_N`, `R_n06_asg_no_assumption_N`: PASS, PASS). Stated as a criterion, decision 2 would turn these six files into FAIL; the three `R_*` files are \"wx-cert-2\", so it would change what \"wx-cert-2\" accepts | (a) line 691-692 \"A step may only use facts that are available in its round\" is an item of WELL-FORMEDNESS and is not whole-file; (b) line 722-724 as above | MUST-2 (two explicit lists) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1068,
+   "action": "REPLACED",
+   "original_line_sha256": "ae8a4cc64d7061f0df161b4d2291947010c4a9b00330712b521491afcd3b4d77",
+   "new_text": "- The source of the prototype and the second 3.0 checker. The prototype was a black box.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1119,
+   "action": "REPLACED",
+   "original_line_sha256": "b8da1af62df1c195bf01f419517fde6076767033a0fe0e2497cd1c6edaa25a8c",
+   "new_text": "With the wording of MUST-2 as it stands above (including the refinement of the `opt` clause)",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1120,
+   "action": "REPLACED",
+   "original_line_sha256": "a73434cdb7f195a555de3c3f6ad1286c0e08d1c5b844bac1eaaf5328c8f3fd26",
+   "new_text": "I find no test that is in neither class.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1122,
+   "action": "REPLACED",
+   "original_line_sha256": "8ab2e0a754430e21ed302045c9349678b2f75d87706d78c15c665065e1dbe45d",
+   "new_text": "### F.7 For the record: what the lead decided on this report",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1188,
+   "action": "REPLACED",
+   "original_line_sha256": "ea88daf615b5bc81ebca151e5f8192b0cc443fa5894ec96d0a1b3145e01d0eca",
+   "new_text": "  of MUST-2 is mine: I added it to this file after I had given MUST-2 to the",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1189,
+   "action": "REPLACED",
+   "original_line_sha256": "9d64cda55b04f61c5be2b49979da960902b4f3e9238630fc9d07cc1c1e52205d",
+   "new_text": "  lead, when I compared my two lists with the lead's words \"closure evidence\". It belongs there (refined by R7).",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1219,
+   "action": "REPLACED",
+   "original_line_sha256": "6635e68c924c9c118e960a64a5761543bce9101c3e9783c543385b9e2e8c9020",
+   "new_text": "1. **\"ids\" in item (5) of the version note.** The author is right: \"rules that both checkers of version 2.6 enforce\"",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1274,
+   "action": "REPLACED",
+   "original_line_sha256": "6cc9f753fe2a96ed058192fe438be6ca9c7e95dcbadd8985323d05bb4fafd979",
+   "new_text": "0a6dfc2ae10ed6f30a21ebe357a6e73dd7355223c521cc67a3f2bdab9549aba0** (checked with `r30/g_final.py`).",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1301,
+   "action": "REPLACED",
+   "original_line_sha256": "73ebf79821316979b7e54eddaa7cd87c253bdf45e531b3a7cb3a259ed09fbf23",
+   "new_text": "After the final text was installed: (1) the 81 leaves to the end, (2) my own",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1326,
+   "action": "REPLACED",
+   "original_line_sha256": "71109a46b50e35ef023dcf6bd5afdaa8c209bf4dd8c31442c9b5648b4a4f6cfc",
+   "new_text": "| time | 31 to 66 s per leaf, 3,213 s in all |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1369,
+   "action": "REPLACED",
+   "original_line_sha256": "5fee97f0e0963de5241600f7f63ea6184acf5f9fa23fb1f57635071098d5bdf5",
+   "new_text": "428 s. **Nothing unexpected.**",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1391,
+   "action": "REPLACED",
+   "original_line_sha256": "dbf9756aaa1690026c362147a4c971be03f5e3a19091d94a07dd0f5859b0aa88",
+   "new_text": "Not mine: the lead reports that its cross-run put the same 553 files through both drafts of the 3.0 checkers,",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1395,
+   "action": "REPLACED",
+   "original_line_sha256": "7d303e652692c0860ec33edb9a2fc9e1cba836cbd718cee8d15dba2b8690222e",
+   "new_text": "### H.4 Where the audit stands",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1417,
+   "action": "REPLACED",
+   "original_line_sha256": "d4047ce3b148349c24ce980c0897e8c326a8bccd6bae8bb3b65d2c0ae5655dcd",
+   "new_text": "PY = the Python interpreter of the review; every script is run from `W/reviews/r30/`.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1418,
+   "action": "REPLACED",
+   "original_line_sha256": "409dee193d9caa70f16b16d7dc2ff00cccdc430123cb06f27351465bbed30a0a",
+   "new_text": "All three programs are used as black boxes (`harness.py`).",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30.md",
+   "line": 1436,
+   "action": "REPLACED",
+   "original_line_sha256": "2aacc1c8f34e701e834b8f556b578f62eb106a8df54629d31892ebd51ecaaa16",
+   "new_text": "| `wait_until.sh`, `wait_log.sh` | wait for a run of mine to end | - |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "04663fbe8183643d153b4cff431a262281e5166bebeb47aafab60c1b33727180",
+   "new_text": "Reviewer: the reviewer of the 2.6 acceptance (`reviews/REVIEW_26.md` parts R4 and R5) and of the two 3.0",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 4,
+   "action": "REPLACED",
+   "original_line_sha256": "b81ab759a93321d472f9a92c0196eee4b1a8a19f77308e4c655cc102589a747b",
+   "new_text": "checkers (`reviews/REVIEW_30_PY.md` and `reviews/REVIEW_30_JS.md`). 9 October 2026;",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 5,
+   "action": "REPLACED",
+   "original_line_sha256": "6edf75b0599100d0babc31b7cae1799cfe397ecb29bb2b3ce964c632c70b2e37",
+   "new_text": "part R, a follow-up on a draft of the report script with a new statement-file entry",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 6,
+   "action": "REPLACED",
+   "original_line_sha256": "fc195043138d287c1dc1d46170c0982bdc45f70827258228c3cb057cff56d755",
+   "new_text": "(`root_region`), was added at the end and changes nothing in sections 0 to 9. I wrote none of the reviewed files. What I wrote: this file and the folder `reviews/r30acc/`",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 56,
+   "action": "REPLACED",
+   "original_line_sha256": "8bd7367f658965a8dc3c4a2ad841a8e45e45d0c3e5097c0115610a2b2add7197",
+   "new_text": "| `acceptance/round1_0316/` | README.md f42d7fac... | the first-round records, moved there by the lead |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 58,
+   "action": "REPLACED",
+   "original_line_sha256": "f08ae282b3e01d8f4e0a0cb9eb52f9110a323360eb96fcf1d267cf0fecf18a01",
+   "new_text": "The lead's scripts were run only as copies inside",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 59,
+   "action": "REPLACED",
+   "original_line_sha256": "493c70a48bfe80017df5a844b2c96af33572417af2a71de6d9ed40009740849e",
+   "new_text": "sandboxes in `reviews/r30acc/` (`sbx/`, `sbx2/`, `sbx3/`, `sbx4/`, each a mirror of the folder layout the scripts expect, with byte",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 60,
+   "action": "REPLACED",
+   "original_line_sha256": "da90f6b8f513f401b0dfcd69d19d10186fc88062e7394ec553baa61ce7ccbc0d",
+   "new_text": "copies of the frozen files), never in `acceptance/`.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 61,
+   "action": "REMOVED",
+   "original_line_sha256": "bfe28b9b36496695f434bb37ce5fd6d271d97543821b159e49e256d788678e0f",
+   "new_text": "",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 63,
+   "action": "REPLACED",
+   "original_line_sha256": "a2d9a5f983362bffa6672e93adedca904c1e7c72fc1027feb7371773b9b3503c",
+   "new_text": "Order of events, for the reader of the records. First round of acceptance runs (first shell",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 65,
+   "action": "REPLACED",
+   "original_line_sha256": "4ec8130b4fce2d9da9b863131850900082cca974a30bb824c97439590e544370",
+   "new_text": "ended NOT ACCEPTED through a flaw of the report script itself). Then my first round of cases, findings",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 66,
+   "action": "REPLACED",
+   "original_line_sha256": "be759a722fa1148f7f4071c6b535125657b5ad8cdc3e4764c0fba7c881979de3",
+   "new_text": "A28b, A29, A25. Then the second versions. Then my second round, findings B02, B03, B12, B12b, and a",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 67,
+   "action": "REPLACED",
+   "original_line_sha256": "7431685342554c2378470adeaf62b1ac32499477b9bc1c531a9c77567554b0ee",
+   "new_text": "tested replacement. Then the lead installs the replacement exactly, makes both scripts read-only,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 195,
+   "action": "REPLACED",
+   "original_line_sha256": "a771064653de1b68f90390977a53203b5828769493e59bd68bab2572dd8b3009",
+   "new_text": "The lead's four further questions on the second version. Can `first1` / `first2` be anything but the first line of the",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 387,
+   "action": "REPLACED",
+   "original_line_sha256": "deb3872a757de22c9a1d9a0c9110901d335f7ae00ddf955f69895807af2fd55d",
+   "new_text": "Checked independently of the lead's scripts (`acc_record.py sos`; nothing of the lead's code is imported), for the",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 411,
+   "action": "REPLACED",
+   "original_line_sha256": "4dc5c142114a464d6f58525073ce1eb8a4e014a93f63500ac95a6653fcebc693",
+   "new_text": "  time and the path, and so does the lead's C2 report: all 153 node entries, evidence, final-store digests, counts,",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 418,
+   "action": "REPLACED",
+   "original_line_sha256": "d4f33bcbd215b936e078d950ee41a9868392b1a719dd287d11ffae3291ae69ff",
+   "new_text": "The referee's report adds a check that owes nothing to either program: the referee's own calculator, written from the",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 424,
+   "action": "REPLACED",
+   "original_line_sha256": "c91223fbc241a36f454b054918a5cb3b3de5164122e6482626ab6275f5a77dd3",
+   "new_text": "two chains, both scripts with file times 04:04:37 and 03:47:11 and read-only:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 436,
+   "action": "REPLACED",
+   "original_line_sha256": "71d66d4fc3db141ee1a29584e1036265eb741c325584de167cbab380f91dd6ec",
+   "new_text": "8c0565d1c379ff0e75e5d3efc985f261bde7900db4ebde8d413190190d868059 (G20S_v30): the same as the lead",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 437,
+   "action": "REPLACED",
+   "original_line_sha256": "1cd02507e9c75a18ab58ae5b80530ac34fc19169b84978f8b8ce569917c526c9",
+   "new_text": "stated. Each ends with the three lines of 1.4.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 511,
+   "action": "REPLACED",
+   "original_line_sha256": "5b4f38293ac18ca6f84742b0cf8299a98fdd3a58d72a68649f67bb07fef25b34",
+   "new_text": "- all components reviewed, each by a reviewer that did not write it: the text (`REVIEW_30.md`), C1",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 523,
+   "action": "REPLACED",
+   "original_line_sha256": "2d198879d45db7740a97143c2781f63036e277e577b5d69243bc15504edf59e8",
+   "new_text": "   every such record takes as given. The 3.0 part of C1 and the certificate come from the same author",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 533,
+   "action": "REPLACED",
+   "original_line_sha256": "b6bee16639b0d72f26ceda874cb3de70711b6e0fec50e8a50ca38b96f1c4f6b3",
+   "new_text": "procedure are each reviewed by a reviewer that did not write them; the certificate speaks about the side Sref, and",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 569,
+   "action": "REPLACED",
+   "original_line_sha256": "421b0a19344d0bd4b170c7a44e6c2af0b294a452b62cebf63a2cff938b8fbc16",
+   "new_text": "`ACC_SBX=<the same> python -B acc_attack.py cases` (one minute).",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 571,
+   "action": "REPLACED",
+   "original_line_sha256": "63e7aba2d023a718ea218ed4a50ab54d3ccb2f781df11d5033b14a2129598d48",
+   "new_text": "## Part R. The draft with the statement-file entry `root_region` (9 October 2026)",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 573,
+   "action": "REPLACED",
+   "original_line_sha256": "58f77edc3be1d4fbacfd417a8fb43d9dd1952836289f5eeecd5bf3179b0df641",
+   "new_text": "After the acceptance of the four records: a draft of the report script that lets a statement be",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 575,
+   "action": "REPLACED",
+   "original_line_sha256": "60179aef61ca188440e02bb8ad5c1b9409b7d49ba8042c1a654f0f483d0e5008",
+   "new_text": "labels, five of them with free direction). Everything of mine is in `reviews/r30acc/`",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/REVIEW_30_ACCEPT.md",
+   "line": 828,
+   "action": "REPLACED",
+   "original_line_sha256": "ddb4b6276fcd40e03a6f4e2a9ac698f14a92e6c39b00a0e44b00df7f8b46001c",
+   "new_text": "hard-window certificate as above, also with the region file given by a path relative to the working folder",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "2098994489929448ce7bd8bee7d56f19a521c7b57a50252a16382b5828ade1ca",
+   "new_text": "Independent reviewer (the same reviewer as `REVIEW_JOIN_ROOTS.md`), 2026-10-09.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md",
+   "line": 168,
+   "action": "REPLACED",
+   "original_line_sha256": "04a7f764782726d5ad4224bdfa1bf09a5367583955aefa7765a0c25351b94368",
+   "new_text": "freeze; this record reviewed by a reviewer that wrote none of it), once S2's wording is in. Limits: the",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md",
+   "line": 179,
+   "action": "REPLACED",
+   "original_line_sha256": "053b3abda6d4a2d58eef2250be96020108db9d4b0b68a481bba245f34fecaf02",
+   "new_text": "  11, the notes' corollary, three replies of Codex.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md",
+   "line": 192,
+   "action": "REPLACED",
+   "original_line_sha256": "ea07c23e3cb8ce687ac9604f982638059e99a74e9e6defc764f318f0708ada16",
+   "new_text": "`accept_rerun.stdout`, the two \"as reviewed\" copies. Outside this folder:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "178c34bbe93967f32225d3c061591bb4d3a2fb98774d571b040faf4f0a4941df",
+   "new_text": "Reviewer: a reviewer of the window side that wrote none of the record, of the certificate, of the",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+   "line": 4,
+   "action": "REPLACED",
+   "original_line_sha256": "c019b75f9ca0c10628bda85c65faf3f952dd3ec08e868e44a2b4da0a5eb83680",
+   "new_text": "checkers or of the tools. Text reviewed: the copy in",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+   "line": 60,
+   "action": "REPLACED",
+   "original_line_sha256": "8ff4eab7b0ccf0483f58936a693250f3305e4500416043650e62d1af69c2c1cb",
+   "new_text": "- (d) The producer's two checker runs read a copy under `<scratch>/` (the file in the assembly folder is dated",
+   "rule": "2",
+   "reason": "location on the working machine (rule 2)"
+  },
+  {
+   "file": "reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+   "line": 105,
+   "action": "REPLACED",
+   "original_line_sha256": "a6c475ffbd8fdd7b9f860dd4f3213a88f4768a00b4dc29ce2ad2fb90ee1d532b",
+   "new_text": "Not checked by me: the two frozen checkers and the acceptance script were not rerun, so the",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+   "line": 111,
+   "action": "REPLACED",
+   "original_line_sha256": "f0c59be0368676d08c88f80b1856ac48626c5d812f8fa4ecf793f5eda889ac05",
+   "new_text": "reviewers' code, which I read once and ran; `mk_record.py` and `region_facts.py` were not read",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+   "line": 114,
+   "action": "REPLACED",
+   "original_line_sha256": "a0e0db861b305c2a9b4335bbe966aa5bb8fc05d352ba52009b7c5ba397d271c6",
+   "new_text": "How the work was done: the run on the certificate went through",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+   "line": 116,
+   "action": "REPLACED",
+   "original_line_sha256": "111d5bb3de4e44978312f256bde6ebda6f8c016a4ff316475a4fadb6588f7b39",
+   "new_text": "standard library, exact comparisons with fractions.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md",
+   "line": 117,
+   "action": "REMOVED",
+   "original_line_sha256": "a9dfb477245df0fd53fd2da405752747c63fb7ad13a8ad9acb3e271f86948132",
+   "new_text": "",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "178c34bbe93967f32225d3c061591bb4d3a2fb98774d571b040faf4f0a4941df",
+   "new_text": "Reviewer: a reviewer of the window side that wrote none of the record, of the certificate, of the",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+   "line": 4,
+   "action": "REPLACED",
+   "original_line_sha256": "d3d97ad75d457e54d79eddb2e7a638a8afde58416787a2d668edb024bcebe65a",
+   "new_text": "checkers or of the earlier tools. Text reviewed: the copy in",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+   "line": 120,
+   "action": "REPLACED",
+   "original_line_sha256": "a6c475ffbd8fdd7b9f860dd4f3213a88f4768a00b4dc29ce2ad2fb90ee1d532b",
+   "new_text": "Not checked by me: the two frozen checkers and the acceptance script were not rerun, so the",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+   "line": 131,
+   "action": "REPLACED",
+   "original_line_sha256": "e9d51c60b11d749101d7084437b77e86ae7a347e54a21faedc1ed1e5e2383a40",
+   "new_text": "How the work was done: one run on the certificate, through",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+   "line": 133,
+   "action": "REPLACED",
+   "original_line_sha256": "a64e226d69a8848b6f3b685b24ad8e6e91e7f3f099cabe044bf0c1c0542ab3bf",
+   "new_text": "exact comparisons with fractions.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md",
+   "line": 134,
+   "action": "REMOVED",
+   "original_line_sha256": "2a1cb73e8f7cf99df125e8d5380a6505203890146324f94b69f9cba58441ed0c",
+   "new_text": "",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "9a9d1e3581ef0faa999f95309f0b804973b0cb6b442b99dcf7f9be46fa867932",
+   "new_text": "Reviewer: a reviewer that wrote none of the record, the certificate, the checkers or the tools; 2026-10-10.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+   "line": 4,
+   "action": "REPLACED",
+   "original_line_sha256": "d203057c0a9f7dc06f3e4d59e13b55c645c98762f6f11f18b93ab4769711680f",
+   "new_text": "Record as reviewed: `as_reviewed/RECORD_EJPW13_v2x.md` (254 lines), sha256 7ff9ee9ceaae5474...e2e3b057d5.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+   "line": 29,
+   "action": "REPLACED",
+   "original_line_sha256": "314dc03bc20e53bf8457cc27aec740779bc684b82e5d4468d204d38f9678bd68",
+   "new_text": "slots. The upper-wall L deductions are not used at equality.\" (`<author reply>`, line 3).",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); name of an internal file (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+   "line": 35,
+   "action": "REPLACED",
+   "original_line_sha256": "3a4afd69cf1e7a92b742afc00145b0eb5e76b4db72331d62fcf66ce4259cbb4a",
+   "new_text": "RECORD_EJPW13_v2x.md` (absolute paths): 562.8 s wall, 560.6 s user, 534.4 MB",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+   "line": 44,
+   "action": "REPLACED",
+   "original_line_sha256": "7dfbf8a70f683ac904377918904ace06cec0b14494cfcb75eafbad4f6a785739",
+   "new_text": "49d7d8ad2ef9adf3...), so the quote cannot be recomputed from it; Codex's own reply `<author reply>`",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); name of an internal file (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md",
+   "line": 57,
+   "action": "REPLACED",
+   "original_line_sha256": "edb78eed51216aa391d9fdad877c3357e415804abff4d7bea736d76238b695cd",
+   "new_text": "- place (a) fits: 159 nodes reach beyond the root, every one a leaf, none in a box interval, labels",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch2/REVIEW_BATCH2.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "507fe36ff0fccba15c728bcb9e1dbed10da401f7cd9e58d460605879c8d53f9f",
+   "new_text": "Reviewer: a reviewer of the window side that wrote none of the six records, of the certificates, of",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch2/REVIEW_BATCH2.md",
+   "line": 4,
+   "action": "REPLACED",
+   "original_line_sha256": "d829f33bc5ee9d6ca83f66935fa6f8f3d2cef60ac4fc0e48ee1eb7d503f84fe8",
+   "new_text": "the checkers or of the tools. Texts reviewed: the copies in",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch2/REVIEW_BATCH2.md",
+   "line": 156,
+   "action": "REPLACED",
+   "original_line_sha256": "6a836d41ab4cf84d04b9d7d87917a2f5339bbeb4dcbb0d500a7ec246e375e92d",
+   "new_text": "  usage error) and four lines with exit 1 in `proto30/out/contain/runs.jsonl`.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch2/REVIEW_BATCH2.md",
+   "line": 241,
+   "action": "REPLACED",
+   "original_line_sha256": "51cb0d7002dee014a2a1fa62b437d2223caa511ce2826622f976c3037a8c381f",
+   "new_text": "- The two frozen checkers were not rerun and the acceptance script was not rerun. The arithmetic",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch2/REVIEW_BATCH2.md",
+   "line": 258,
+   "action": "REPLACED",
+   "original_line_sha256": "d99a979cbddd148c34310e8037a750f85074b6536253c7d098707e111657dd2d",
+   "new_text": "`rjlib.py` and that reviewer's tests, which I copied and extended (`reviews/join_roots/REVIEW_EJPG17m_v2.md`).",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch2/REVIEW_BATCH2.md",
+   "line": 260,
+   "action": "REPLACED",
+   "original_line_sha256": "a5824405249b219c4007c47603840477816c68456a1dbafec6489c6de7cf6fce",
+   "new_text": "How the work was done: the six runs that read a certificate went",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch2/REVIEW_BATCH2.md",
+   "line": 263,
+   "action": "REPLACED",
+   "original_line_sha256": "9b0ddc990fdde6143fd3a83fefac56b4f4ae4f51f203ad233ff28e57979dcee2",
+   "new_text": "with fractions, floats only for printing.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch2/REVIEW_BATCH2.md",
+   "line": 264,
+   "action": "REMOVED",
+   "original_line_sha256": "2a1cb73e8f7cf99df125e8d5380a6505203890146324f94b69f9cba58441ed0c",
+   "new_text": "",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "1a22c565938421bd2c56c150b437d13405ffbe17b6b77eb1a7b24e440e28491e",
+   "new_text": "Lead of the window side (author of the root files), 2026-10-10 09:05.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+   "line": 4,
+   "action": "REPLACED",
+   "original_line_sha256": "47a13530d742e6c8a72cb23518093ab393c22aa693d221c7b8ce5315018145c9",
+   "new_text": "I wrote none of the amendment, of the class files or of the class checkers. Reviewed texts:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+   "line": 5,
+   "action": "REPLACED",
+   "original_line_sha256": "0c1bc4f5b2dbd9eccce8655c79ccc4271e63c0388446022bf58650902c4f614a",
+   "new_text": "`research/finishing-threshold-goal-20261007/<author reply>` (sha256 352273f9a2ae1207...) and",
+   "rule": "3",
+   "reason": "name of an internal file (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+   "line": 41,
+   "action": "REPLACED",
+   "original_line_sha256": "96bc918fc7ffa619c9a1642f8e8b264ff6d55c6b0279bf8d1a5595c63687c1a6",
+   "new_text": "5. **Against the root files**: label 9's arc in `JPB_exact_v5.json` (and v1, v2) is",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+   "line": 67,
+   "action": "REPLACED",
+   "original_line_sha256": "1484b1bf7bb0a0117904be8f4d9cbee5d9b9e1092b56a67de185e467a0bd8cfc",
+   "new_text": "- Optional: under KEY_W the branch JPA needs label 9's direction only up to +0.1499987538 rad, not",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+   "line": 68,
+   "action": "REPLACED",
+   "original_line_sha256": "c7b6d2659acee02f04ab5bf61b9c7add46749116addc5a98baf9e6f5a412a572",
+   "new_text": "  up to rot(4147/10000) = +0.786228. A cut root for JPA would be a new region file and a new seal",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/keyw_amendment/REVIEW_KEYW_AMENDMENT.md",
+   "line": 69,
+   "action": "REPLACED",
+   "original_line_sha256": "ddf63ad69496c1770598eeafedbf6c7cbf87a0e312bf60eafbada82b67b244a7",
+   "new_text": "  (worth it only if open JPA cells lie beyond +0.15).",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "d03ab124323feae382ba45d329d1eff049ce36ceedc86b24b7dba67320de1e17",
+   "new_text": "Reviewer: independent reviewer of batch 6 (wrote none of the files under review); 2026-10-10. Record as reviewed: sha256",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 14,
+   "action": "REPLACED",
+   "original_line_sha256": "4489633202ffd0a1bb31b1fb066d58488ad59b24fa497a51427b70911424732d",
+   "new_text": "<batch6>/t_tree.py JPWS v4 JPWS_v4 RECORD_EJPWS_v4.md`; 211.9 s wall, largest resident size 464.7 MB; exit 1 because of the one FAIL.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 19,
+   "action": "REPLACED",
+   "original_line_sha256": "776107d61e1a817874d96d7abf3d1a0073a71ca9eaf893489c306c995c4cd871",
+   "new_text": "full digest stands in `<author reply>`, line 7.",
+   "rule": "3",
+   "reason": "name of an internal file (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 55,
+   "action": "REPLACED",
+   "original_line_sha256": "df56ffa49e515d433d1839d764d1a5eb979ad12accbea5af9d2ae9e6389ec027",
+   "new_text": "- Acceptance run: the log's first line names the producer's work file (a path in the producer's work folder); `BATCH_1609.log`: sha256 equal to the named one before the run and 538a6a51... after it; exit 0 at 16:46:55.",
+   "rule": "2",
+   "reason": "location on the working machine (rule 2)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 64,
+   "action": "REPLACED",
+   "original_line_sha256": "f49642232e93ac564a0c7575da935e2aedd96811136b8897344494f6aa7fdf8f",
+   "new_text": "none in a box. Six of the leaves are printed one by one in `hand_checks.out`.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 80,
+   "action": "REPLACED",
+   "original_line_sha256": "85187b902a67c4e12f303c30f27ad770a578b6d89c4c3380546be3be7a4beec4",
+   "new_text": "- The two frozen checkers were not rerun. That each of the 70 `0` steps holds on its node (L > 0 exactly; 2,982,299 terms), the closing condition of every leaf, rests on the two checkers'",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 88,
+   "action": "REPLACED",
+   "original_line_sha256": "4ebd68c03b5414706ada63239d9a2239fec24c6e3cca8c3716882f6279fe0d4f",
+   "new_text": "- The audit lead's account of the replacement leaf (the float solve's interval): not looked up beyond the audit lead's log (line 7986) (\"node uncut on a shorter",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3); name of an internal file (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 89,
+   "action": "REPLACED",
+   "original_line_sha256": "6e79caec55be81373d457aaf4d34734dda4f49fa4b2627d2c4066f0f80b4c86d",
+   "new_text": "  side interval: the cell of leaf pUslabs20c945wb1m (+0.01)\"). It does not bear on the statement.",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 90,
+   "action": "REPLACED",
+   "original_line_sha256": "b96e8ab31a12e1550815c4d280865ebc1a83c482e7157084bdf5c121865c72ca",
+   "new_text": "- The acceptance run read the producer's work file in the producer's scratch folder, not the file under `results/assembly/JPWS_v4/`; that the bytes are the same rests on sha256 (log line 2, both",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 102,
+   "action": "REPLACED",
+   "original_line_sha256": "d314c673e82726bf60261032c6d520b43c1e930d37d7836e0885feed15d0b11b",
+   "new_text": "one-off exact checks; their code was not kept as a file); `SHA256SUMS_review.txt`. Outside the folder only what the runner writes (`proto30/out/contain/rev6_JPWS_v4.stdout`,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "reviews/join_roots/batch6/REVIEW_EJPWS_v4.md",
+   "line": 103,
+   "action": "REPLACED",
+   "original_line_sha256": "b4032a64a8332768a32d119a3c5c9b3c94b083a86739f42fa4ab92d45b3919fa",
+   "new_text": "`.stderr`, one line of `runs.jsonl`).",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "2ce27ec4ac85fb3eac6b6a52826293be6a3bb3f0b059e8e3639b1426a24f1aa3",
+   "new_text": "(`reviews/join_roots/batch6/REVIEW_EJPWS_v4.md`, sha256 0a094486675bef10...: its own run of the",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 31,
+   "action": "REPLACED",
+   "original_line_sha256": "1e44a93c0cd7294265e393a91745c7c3a18595cb9b73581c5372400155155204",
+   "new_text": "side's bookkeeping, quoted in the section on use and not checked here).",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 61,
+   "action": "REPLACED",
+   "original_line_sha256": "7dd3d97d5db2ec5ae7070fdeaf34b5c5ae09b961fcaf8e04f3482fd88fa15950",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description d8d8001929c41c2b...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 3621.3 s). Its own run of both frozen checkers under `--keep-going`: 110 of 110 nodes accepted by each (`JPWS_v4.run.json`, sha256 70317eaee35e3eda...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 62,
+   "action": "REPLACED",
+   "original_line_sha256": "a1cdf47a4c1e4134b597e760b2df4a39a774b9a1ee904a0c9415edab2f56007d",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JPWS_v4 <certificate> bigbox/join/EXPECT_JPWS_v4.json`, by the lead, 2026-10-10 16:07:20 to 16:46 on the Mac. Python checker 1952.51 s (622 MB), Node checker 401.60 s (1.27 GB). The run read the producer's work file in place (path in the log's first line), started in parallel with the producer's own checker run: the same bytes, sha256 equal to the named one before and after the run (`acceptance/BATCH_1609.log`) and equal to the file under `results/assembly/JPWS_v4/` named in the first row, from which the facts were made |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 75,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 172,
+   "action": "REPLACED",
+   "original_line_sha256": "0112161f4ff9e726887c20bf91c697ace972c56c75abca20d762f461adf06136",
+   "new_text": "  solve had failed twice (the audit lead's account). Its float solve",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 183,
+   "action": "REPLACED",
+   "original_line_sha256": "1260adccc8e05f2ae94d86a40a33a2e4bc6c9aa89ccf69636615c65c4c205a18",
+   "new_text": "  `<author reply>`): PW_1, PW_5, PW_7, PW_8, PW_10, PW_12, PW_13, PW_14, PW_16, the slab statement",
+   "rule": "3",
+   "reason": "name of an internal file (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 187,
+   "action": "REPLACED",
+   "original_line_sha256": "ead28b4febd4b38ca49afc3bd5cd9c8b646526b74ac5800d7afcf7fe139723d1",
+   "new_text": "  `ADMISSION_v4.md`; not reviewed by a reviewer).",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 191,
+   "action": "REPLACED",
+   "original_line_sha256": "b5c214313e57dbf11e3a0eb311fc25c907da8bc7033dc2b6b116d336bcfdb097",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 209,
+   "action": "REPLACED",
+   "original_line_sha256": "700dd3fd3198cc2b40a99378aa1f99b4b7042846b3ca0640d741d3eaff649cd9",
+   "new_text": "`<author reply>`. Its judgement: harmless, no defect of the record.",
+   "rule": "3",
+   "reason": "name of an internal file (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPWS_v4.md",
+   "line": 224,
+   "action": "REPLACED",
+   "original_line_sha256": "ac760de5bc5c5e2539dfdf4e4ffe9cee1b9c6796439ba048f7f6d5bf08f92a4d",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (each of the two frozen checkers",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "361ebea8c90a3190746fe6f8941eb692ea6b5b8ba7e938edf170f7ee0526393b",
+   "new_text": "(`reviews/join_roots/batch5/REVIEW_EJPW13_v2x.md`, sha256 2de8ae1b9d0c7ad1...: its own run of the",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 31,
+   "action": "REPLACED",
+   "original_line_sha256": "2a7fc007780e0b1bcd6ce382eeb54c7ee3dfd1c4209166c85437ba10c32e2bc7",
+   "new_text": "side's bookkeeping, quoted in the last section and not checked here).",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 61,
+   "action": "REPLACED",
+   "original_line_sha256": "0c33e174553df553a731f28d2290e66b127132b1eaa38785490e0b6554970ad6",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description 763aafe9fe2790cc...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 7813.1 s). Its own run of both frozen checkers under `--keep-going`: 255 of 255 nodes accepted by each (`JPW13.run.json`, sha256 e73048beaa2e19db...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 62,
+   "action": "REPLACED",
+   "original_line_sha256": "836be54726c0309fda6063fa050fd8750f13d83494e301c07e7258b575477eb2",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JPW13_v2x <certificate> bigbox/join/EXPECT_JPW13_v2x.json`, by the lead, 2026-10-10 13:24:48 to 14:57 on the Mac. Python checker 4591.59 s (692 MB), Node checker 927.80 s (2.40 GB) |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 75,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 265,
+   "action": "REPLACED",
+   "original_line_sha256": "7037f5a0d1cf7f6f883b26393802e28a0162ebea2ca8e065c2517e312086cce2",
+   "new_text": "  `<author reply>`; the live file has changed since): PW_1, PW_5, PW_10, PW_11, PW_12, PW_13, PW_14, PW_16 and",
+   "rule": "3",
+   "reason": "name of an internal file (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 273,
+   "action": "REPLACED",
+   "original_line_sha256": "ceea272030b9107efe7cbc6452197a4a087d449ebfc48eea5692ea006c79e664",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 295,
+   "action": "REPLACED",
+   "original_line_sha256": "4b760586c265b1e20b850b7d5eb94c2c6c2252c2bd6ab77c50c2b9614aecefa5",
+   "new_text": "`<author reply>` gives the full digest of that snapshot); the quote now says where it stands.",
+   "rule": "3",
+   "reason": "name of an internal file (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPW13_v2x.md",
+   "line": 306,
+   "action": "REPLACED",
+   "original_line_sha256": "d18e781ab2441a6aa2ac9e93b245a319c902f2f8744f96c13473617dd9690b53",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (the frozen checkers have run on",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "fdbe4bca6c3b9c9e670919f7cee6d17e030f77a87cae2218d936b6922395d3f5",
+   "new_text": "(`reviews/join_roots/batch2/REVIEW_BATCH2.md`, sha256 25227b662a3e6211..., one review of six records:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 10,
+   "action": "REPLACED",
+   "original_line_sha256": "9eca738c7320c635700aebd38c1bfbbe1eefebd88582d406f1c0d87ba7ffa321",
+   "new_text": "116 checks of its own on this certificate and 45 on the region files of the five regions (`v_regions.out`), none failed; its own reader of the certificate, its own",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 26,
+   "action": "REPLACED",
+   "original_line_sha256": "1f0a8fd80aff91dd9b346618254e2d3a296bdff2847bd2a6896f001c93b1efd2",
+   "new_text": "this region needs its class statements, which are not certified.",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 56,
+   "action": "REPLACED",
+   "original_line_sha256": "c6012ec7bd03d714c4716706650268fc3c1a07376cadc74642eb003bd512f0ed",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description e736aadb10aa1787...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 1305.8 s). Its own run of both frozen checkers under `--keep-going`: 36 of 36 nodes accepted by each (`JPG3m_v5.run.json`, sha256 4bcbdb534314cfb0...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 57,
+   "action": "REPLACED",
+   "original_line_sha256": "a14682ce5cfed5d6ff865d03acd2ce48c206c13dcb4d7a8924b025696751b2e0",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JPG3m_v5 <certificate> bigbox/join/EXPECT_JPG3m_v5.json`, by the lead, 2026-10-10 07:19:25 to 07:33 on the Mac. Python checker 692.41 s (698 MB), Node checker 133.09 s (1.29 GB) |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 70,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 118,
+   "action": "REPLACED",
+   "original_line_sha256": "def2ead59d487c90a2241cf8b21377819c2bc33ca1991fa26f3c24236be5ac6f",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3m_v5.md",
+   "line": 136,
+   "action": "REPLACED",
+   "original_line_sha256": "d18e781ab2441a6aa2ac9e93b245a319c902f2f8744f96c13473617dd9690b53",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (the frozen checkers have run on",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3p_v5.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3p_v5.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3p_v5.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "f0282ad2b277ed7926b25d84901ecc8852664a2c7ceab5a850ed1abf1b4e2427",
+   "new_text": "(`reviews/join_roots/batch4/REVIEW_EJPG3p_v5.md`, sha256 9fa9013da56b4a18...: 200 checks of its",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3p_v5.md",
+   "line": 27,
+   "action": "REPLACED",
+   "original_line_sha256": "1f0a8fd80aff91dd9b346618254e2d3a296bdff2847bd2a6896f001c93b1efd2",
+   "new_text": "this region needs its class statements, which are not certified.",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3p_v5.md",
+   "line": 57,
+   "action": "REPLACED",
+   "original_line_sha256": "6a561091f89863afbd3c5f8dc9328d87c4609d214047986148dad15831399fed",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description 71d57dfcfa4e3f02...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 1332.9 s). Its own run of both frozen checkers under `--keep-going`: 36 of 36 nodes accepted by each (`JPG3p_v5.run.json`, sha256 12cf02af3ebd9d9c...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3p_v5.md",
+   "line": 58,
+   "action": "REPLACED",
+   "original_line_sha256": "de0d919640c342c0d85921e080517abae152856cb36fe49de099aa166fc727ab",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JPG3p_v5 <certificate> bigbox/join/EXPECT_JPG3p_v5.json`, by the lead, 2026-10-10 12:32:38 to 12:46 on the Mac. Python checker 695.76 s (695 MB), Node checker 134.95 s (1.09 GB) |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3p_v5.md",
+   "line": 71,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3p_v5.md",
+   "line": 119,
+   "action": "REPLACED",
+   "original_line_sha256": "0947b52321415449d98a6ed4d1323e989e74a712269abf6c06c48056aea4abb6",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG3p_v5.md",
+   "line": 145,
+   "action": "REPLACED",
+   "original_line_sha256": "d18e781ab2441a6aa2ac9e93b245a319c902f2f8744f96c13473617dd9690b53",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (the frozen checkers have run on",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "fdbe4bca6c3b9c9e670919f7cee6d17e030f77a87cae2218d936b6922395d3f5",
+   "new_text": "(`reviews/join_roots/batch2/REVIEW_BATCH2.md`, sha256 25227b662a3e6211..., one review of six records:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 10,
+   "action": "REPLACED",
+   "original_line_sha256": "879ba7362e4a8675ab8343ac58585e6d7280fc08774db3f4b8a34fa42e4942fb",
+   "new_text": "131 checks of its own on this certificate, none failed; its own reader of the certificate, its own",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 27,
+   "action": "REPLACED",
+   "original_line_sha256": "1f0a8fd80aff91dd9b346618254e2d3a296bdff2847bd2a6896f001c93b1efd2",
+   "new_text": "this region needs its class statements, which are not certified.",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 68,
+   "action": "REPLACED",
+   "original_line_sha256": "6e06f70f1a14b51a9b576e599029cbf9fb481ec0560ad31b1bc335a84c356d0d",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description 436855a8f05ef000...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 1329.8 s). Its own run of both frozen checkers under `--keep-going`: 113 of 113 nodes accepted by each (`JG.run.json`, sha256 41a3a63199460276...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 69,
+   "action": "REPLACED",
+   "original_line_sha256": "dde83bc81efa4078828509de18ea7cb8294fe48f8545d953660298f75e1d2c37",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JG_v2 <certificate> bigbox/join/EXPECT_JG_v2.json`, by the lead, 2026-10-10 06:20:22 to 06:51 on the Mac. Python checker 1523.33 s (753 MB), Node checker 332.65 s (1.45 GB) |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 82,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 174,
+   "action": "REPLACED",
+   "original_line_sha256": "def2ead59d487c90a2241cf8b21377819c2bc33ca1991fa26f3c24236be5ac6f",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJG_v2.md",
+   "line": 197,
+   "action": "REPLACED",
+   "original_line_sha256": "d18e781ab2441a6aa2ac9e93b245a319c902f2f8744f96c13473617dd9690b53",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (the frozen checkers have run on",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "fdbe4bca6c3b9c9e670919f7cee6d17e030f77a87cae2218d936b6922395d3f5",
+   "new_text": "(`reviews/join_roots/batch2/REVIEW_BATCH2.md`, sha256 25227b662a3e6211..., one review of six records:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 10,
+   "action": "REPLACED",
+   "original_line_sha256": "32ec8b8a571dd7a2c970e1b101a32be88788ab6c0b42ac59ef8dd1d99dcab1bc",
+   "new_text": "117 checks of its own on this certificate and 45 on the region files of the five regions (`v_regions.out`), none failed; its own reader of the certificate, its own",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 26,
+   "action": "REPLACED",
+   "original_line_sha256": "1f0a8fd80aff91dd9b346618254e2d3a296bdff2847bd2a6896f001c93b1efd2",
+   "new_text": "this region needs its class statements, which are not certified.",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 56,
+   "action": "REPLACED",
+   "original_line_sha256": "db8651072cbfa81aa2d82a8267a26cb3d0e04c6aa09f4e67c572999f4a3b6497",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description 393b551525831749...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 1567.3 s). Its own run of both frozen checkers under `--keep-going`: 48 of 48 nodes accepted by each (`JPG17p_v5.run.json`, sha256 af382fd136cc694b...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 57,
+   "action": "REPLACED",
+   "original_line_sha256": "26f8cdd7bcca4867e8bdb269567fe4add4b3afdfeb17704d2b1c2e5222db6741",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JPG17p_v5 <certificate> bigbox/join/EXPECT_JPG17p_v5.json`, by the lead, 2026-10-10 07:02:38 to 07:19 on the Mac. Python checker 825.48 s (632 MB), Node checker 162.38 s (1.48 GB) |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 70,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 128,
+   "action": "REPLACED",
+   "original_line_sha256": "def2ead59d487c90a2241cf8b21377819c2bc33ca1991fa26f3c24236be5ac6f",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17p_v5.md",
+   "line": 146,
+   "action": "REPLACED",
+   "original_line_sha256": "d18e781ab2441a6aa2ac9e93b245a319c902f2f8744f96c13473617dd9690b53",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (the frozen checkers have run on",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15m_v5.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15m_v5.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15m_v5.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "81121ed12debb6e97d5df8d9ea3dc7fded5186f36e7fa9a609d94403d2f7a47f",
+   "new_text": "(`reviews/join_roots/batch3/REVIEW_EJPG15m_v5.md`, sha256 77da7db7f81007c7...: 172 checks of its",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15m_v5.md",
+   "line": 27,
+   "action": "REPLACED",
+   "original_line_sha256": "1f0a8fd80aff91dd9b346618254e2d3a296bdff2847bd2a6896f001c93b1efd2",
+   "new_text": "this region needs its class statements, which are not certified.",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15m_v5.md",
+   "line": 57,
+   "action": "REPLACED",
+   "original_line_sha256": "874922ff49cba0a4b5694accf66b5e91d8fcdfe788b28223f1684eaa1c7a377f",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description 4d770a3b59cf2cb3...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 1701.9 s). Its own run of both frozen checkers under `--keep-going`: 61 of 61 nodes accepted by each (`JPG15m_v5.run.json`, sha256 1cb536ae943c7d96...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15m_v5.md",
+   "line": 58,
+   "action": "REPLACED",
+   "original_line_sha256": "39cc7dfaf34cbcadb31a6de439ca3c72a4315960e1efa0c56412d549d34ced22",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JPG15m_v5 <certificate> bigbox/join/EXPECT_JPG15m_v5.json`, by the lead, 2026-10-10 09:42:46 to 10:01 on the Mac. Python checker 909.52 s (582 MB), Node checker 181.00 s (1.78 GB) |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15m_v5.md",
+   "line": 71,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15m_v5.md",
+   "line": 136,
+   "action": "REPLACED",
+   "original_line_sha256": "7ca348b34cf4e34342ac3f2b9022561840e371da4c37ccbaca697691a1afa284",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15m_v5.md",
+   "line": 155,
+   "action": "REPLACED",
+   "original_line_sha256": "d18e781ab2441a6aa2ac9e93b245a319c902f2f8744f96c13473617dd9690b53",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (the frozen checkers have run on",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJQ_v1.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "61808f6a99a75d5c132af0877e0124390d796923281485e90fa95d7855c0eda8",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED.",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJQ_v1.md",
+   "line": 7,
+   "action": "REPLACED",
+   "original_line_sha256": "a3e71e206ee09c23277d32a99c67c842230eb0fc804aeb22f5c640456d6cddd1",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it (`reviews/join_roots/REVIEW_JOIN_ROOTS_V2.md` part",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJQ_v1.md",
+   "line": 14,
+   "action": "REPLACED",
+   "original_line_sha256": "40f60e0c4296d6de2ce645de1e822411175648872fc10d5113c558c478891474",
+   "new_text": "the sixteen class certificates Q_j of the capture side, which do not exist.",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJQ_v1.md",
+   "line": 41,
+   "action": "REPLACED",
+   "original_line_sha256": "e7bd8daa0c18ed77f52000507c7aa57f14147ac8213a562a054910f60e5a7cbf",
+   "new_text": "| second copy | copy of the certificate in the result folder of the exact computation that produced it: identical bytes (`cmp`), with the cloud run's own checker reports (both PASS) and `SOURCE_COMMIT.txt` 4144fbf2b0fe657bccf935709555b1624cefa1f8 |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); designation of an earlier execution (rule 6)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJQ_v1.md",
+   "line": 42,
+   "action": "REPLACED",
+   "original_line_sha256": "cbd2a648207caa54a7659239829d2076c2beaa3923b387837143540e7cd71ece",
+   "new_text": "| producer | an exact leaf computation on the audit lead's side. Not made by the window side |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJQ_v1.md",
+   "line": 43,
+   "action": "REPLACED",
+   "original_line_sha256": "c326956f1c6df3589c038d091b0c4c325ff1d7cfe8c8665ce04dafe2e3aefd61",
+   "new_text": "| acceptance run | `acceptance/accept_tree30.sh JQ_v1_jQTwn0 <certificate> bigbox/join/EXPECT_JQ_v1.json`, by the lead, 18:05:25 to 18:06:03 on the Mac |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJQ_v1.md",
+   "line": 55,
+   "action": "REPLACED",
+   "original_line_sha256": "967611af77ed9ba8bf44f9251a28c6d2d2aa0aea8241e1cd3db5219c532b8017",
+   "new_text": "Independent of the window side: Codex replayed the same certificate with both frozen checkers and its own binding of",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJQ_v1.md",
+   "line": 57,
+   "action": "REPLACED",
+   "original_line_sha256": "b017678d0b2ebad08399722940038e25fe2638a7a851ff84b8e5146ab5a43c72",
+   "new_text": "(`research/finishing-threshold-goal-20261007/<author reply>`; acceptance file",
+   "rule": "3",
+   "reason": "name of an internal file (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "7c6b5d97bbbbfae7de75a34697c437e520460b2feb5526f58194d707d802ff4a",
+   "new_text": "(`reviews/join_roots/batch7/REVIEW_EJPA_v5.md`, sha256 623d8b32ac871925...: its own run of the",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 32,
+   "action": "REPLACED",
+   "original_line_sha256": "32f746af627dc4733189e1743382c2ebc1e96784bdae7eb6a7c36c7ae0b8e6ba",
+   "new_text": "use and not checked here).",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 62,
+   "action": "REPLACED",
+   "original_line_sha256": "1e21ede6e2a9de8c95979a587a7c2b2e90a40b8d9c2b87f395337585658373f5",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description 7f82aa23b94828e4...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 15859.3 s). Its own run of both frozen checkers under `--keep-going`: 416 of 416 nodes accepted by each (`JPA_v5.run.json`, sha256 9805254d6a52c09f...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 63,
+   "action": "REPLACED",
+   "original_line_sha256": "7dde10c90788e05ef6f4f7c42157910b4cf1d70994d751d6eff64519cfe56143",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JPA_v5 <certificate> bigbox/join/EXPECT_JPA_v5.json`, by the lead, 2026-10-10 15:36:08 to 18:23 on the Mac. Python checker 8323.25 s (718 MB), Node checker 1643.09 s (4.77 GB). The run read the producer's work file in place (path in the log's first line), started in parallel with the producer's own checker run: the same bytes, sha256 equal to the named one before and after the run (`acceptance/BATCH_1536.log`) and equal to the file under `results/assembly/JPA_v5/` named in the first row, from which the facts were made |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 76,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 372,
+   "action": "REPLACED",
+   "original_line_sha256": "2c492b1f7abf7d130ab78d802cbb1474557bb4656469ef7b9930248effbff840",
+   "new_text": "  of 17:32 found the target inside this root with least margin 1.9e-7, as stated by the audit lead,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 386,
+   "action": "REPLACED",
+   "original_line_sha256": "1c7d961980bac3c7863fe62b7948f3bf0eccf87155e6eacca184c9721794545c",
+   "new_text": "  label 9's absolute direction; as stated by the audit lead). That interval is [+0.0999006241,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 407,
+   "action": "REPLACED",
+   "original_line_sha256": "e66ccfd2f131c3f5e2a61c4cbb6a908f97588b303f54224fbd3241fa10cad387",
+   "new_text": "  reviewed by a reviewer).",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 411,
+   "action": "REPLACED",
+   "original_line_sha256": "3e59cde1b60e777de5b6e14b07abf05726e4e677ed790985effefe449a9e8a2d",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 439,
+   "action": "REPLACED",
+   "original_line_sha256": "fe87f3c0a76eeef14482c4bc4ca6c8d0f6021f4b2f089f6fc09881b68cdfab2b",
+   "new_text": "**The arc of label 9 covered by the root file itself:** as tan-half of the",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPA_v5.md",
+   "line": 451,
+   "action": "REPLACED",
+   "original_line_sha256": "ac760de5bc5c5e2539dfdf4e4ffe9cee1b9c6796439ba048f7f6d5bf08f92a4d",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (each of the two frozen checkers",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "fdbe4bca6c3b9c9e670919f7cee6d17e030f77a87cae2218d936b6922395d3f5",
+   "new_text": "(`reviews/join_roots/batch2/REVIEW_BATCH2.md`, sha256 25227b662a3e6211..., one review of six records:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 10,
+   "action": "REPLACED",
+   "original_line_sha256": "5859378cead0a712f0166f2bfaa773dedd734dd777b729984eeabd99a6807479",
+   "new_text": "115 checks of its own on this certificate and 45 on the region files of the five regions (`v_regions.out`), none failed; its own reader of the certificate, its own",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 26,
+   "action": "REPLACED",
+   "original_line_sha256": "1f0a8fd80aff91dd9b346618254e2d3a296bdff2847bd2a6896f001c93b1efd2",
+   "new_text": "this region needs its class statements, which are not certified.",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 56,
+   "action": "REPLACED",
+   "original_line_sha256": "c53850f39a6daaf465d093acbec01264c139d9729174e24ef6d5282ee0f79c78",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description 3a2ee8200cfd6422...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 954.6 s). Its own run of both frozen checkers under `--keep-going`: 31 of 31 nodes accepted by each (`JPG17m_v5.run.json`, sha256 27442dde4e9e2489...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 57,
+   "action": "REPLACED",
+   "original_line_sha256": "50f19e8e790c67e725aabe0b3a76a16cec9c69b2a8876fcb776bd8d22e616ca2",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JPG17m_v5 <certificate> bigbox/join/EXPECT_JPG17m_v5.json`, by the lead, 2026-10-10 06:51:59 to 07:02 on the Mac. Python checker 518.19 s (645 MB), Node checker 106.26 s (1.08 GB) |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 70,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 114,
+   "action": "REPLACED",
+   "original_line_sha256": "def2ead59d487c90a2241cf8b21377819c2bc33ca1991fa26f3c24236be5ac6f",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG17m_v5.md",
+   "line": 132,
+   "action": "REPLACED",
+   "original_line_sha256": "d18e781ab2441a6aa2ac9e93b245a319c902f2f8744f96c13473617dd9690b53",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (the frozen checkers have run on",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 3,
+   "action": "REPLACED",
+   "original_line_sha256": "92fcd997ad8e9a027edfd5b09fb65cc97e72b229b6d8075614984a2e99800b74",
+   "new_text": "Lead of the window side. Status words as in `bigbox/THEOREM_G20.md`: COMPUTED / PROVED; ACCEPTED",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 8,
+   "action": "REPLACED",
+   "original_line_sha256": "424107dcc5c406cdd34e576b3cfb7599a6c15737739a81e59e058ea04081b3ed",
+   "new_text": "and this record is reviewed by a reviewer that wrote none of it, nor the certificate, nor the tools",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 9,
+   "action": "REPLACED",
+   "original_line_sha256": "fdbe4bca6c3b9c9e670919f7cee6d17e030f77a87cae2218d936b6922395d3f5",
+   "new_text": "(`reviews/join_roots/batch2/REVIEW_BATCH2.md`, sha256 25227b662a3e6211..., one review of six records:",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 10,
+   "action": "REPLACED",
+   "original_line_sha256": "ccd23341213666f24b1703c907ed74a4f65662aa29079a4edba05259f692832e",
+   "new_text": "114 checks of its own on this certificate and 45 on the region files of the five regions (`v_regions.out`), none failed; its own reader of the certificate, its own",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 26,
+   "action": "REPLACED",
+   "original_line_sha256": "1f0a8fd80aff91dd9b346618254e2d3a296bdff2847bd2a6896f001c93b1efd2",
+   "new_text": "this region needs its class statements, which are not certified.",
+   "rule": "5",
+   "reason": "status sentence of the day of the record (rule 5)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 56,
+   "action": "REPLACED",
+   "original_line_sha256": "6e5aa4e2a1a1910f56269b7e3afab9417fe257c2a267bc5b52c72f9b10ca7c54",
+   "new_text": "| producer | the audit lead: description by its `regiontree.py` (sha256 of the description 3cad4e87ea717e7e...), certificate by the assembler `proto30/hull_tree.py` 8af834ec6ccff429... (exit 0, 689.3 s). Its own run of both frozen checkers under `--keep-going`: 23 of 23 nodes accepted by each (`JPG15p_v5.run.json`, sha256 71fd0cf12a4a3809...) |",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 57,
+   "action": "REPLACED",
+   "original_line_sha256": "4f923908ee068dae4cab9b1e0ef176e10a7b6710a11ca4fd8404e89e7c06e157",
+   "new_text": "| acceptance run | `locks/run_slot.sh acceptance/accept_tree30.sh JPG15p_v5 <certificate> bigbox/join/EXPECT_JPG15p_v5.json`, by the lead, 2026-10-10 07:33:28 to 07:40 on the Mac. Python checker 349.39 s (522 MB), Node checker 68.19 s (1.19 GB) |",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 70,
+   "action": "REPLACED",
+   "original_line_sha256": "b5814dc84afed4b731080e46a7bb8ad9e43c7f13f56b2d2d56a0b8dbb875c2d3",
+   "new_text": "writes it; in every row the Node report has the same rational number and the audit lead's assembler",
+   "rule": "3",
+   "reason": "role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 111,
+   "action": "REPLACED",
+   "original_line_sha256": "def2ead59d487c90a2241cf8b21377819c2bc33ca1991fa26f3c24236be5ac6f",
+   "new_text": "Reviewed 2026-10-10 by a reviewer that wrote none of the record, of the certificate or of the tools,",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1); role word (rule 3)"
+  },
+  {
+   "file": "bigbox/join/RECORD_EJPG15p_v5.md",
+   "line": 129,
+   "action": "REPLACED",
+   "original_line_sha256": "d18e781ab2441a6aa2ac9e93b245a319c902f2f8744f96c13473617dd9690b53",
+   "new_text": "It did not rerun the two frozen checkers or the acceptance script (the frozen checkers have run on",
+   "rule": "1",
+   "reason": "logistics of the work (rule 1)"
+  }
+ ]
+}

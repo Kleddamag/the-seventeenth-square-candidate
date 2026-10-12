@@ -1,0 +1,58 @@
+--- accepted-producer/run.py
++++ continuation/run.py
+@@ -1,5 +1,5 @@
+ #!/usr/bin/env python3
+-"""Three finite rounds at most; guarded raw cuts, exact bounds, one native thread."""
++"""At most six continuation rounds from the accepted three-round finite prefix."""
+ import os
+ THREAD_KEYS=('OMP_NUM_THREADS','OMP_THREAD_LIMIT','OPENBLAS_NUM_THREADS',
+  'MKL_NUM_THREADS','BLIS_NUM_THREADS','VECLIB_MAXIMUM_THREADS','NUMEXPR_NUM_THREADS','RAYON_NUM_THREADS')
+@@ -13,8 +13,8 @@
+ G=HERE.parents[1]
+ RADIUS=F(1,200)
+ TARGET=F(1,10000)
+-STATE={'schema':'s17-guarded-finite-stopped-three-rounds-v1',
+- 'status':'PREPARING','steps':[],'maximum_rounds':3,'producer_total_CPU_cap_seconds':30,
++STATE={'schema':'s17-guarded-finite-stopped-continuation-v1',
++ 'status':'PREPARING','steps':[],'maximum_rounds':6,'accepted_prefix_rounds':3,'producer_total_CPU_cap_seconds':30,
+  'run_hard_CPU_seconds':29,'run_soft_CPU_seconds':27,
+  'preparation_CPU_reserve_seconds':1,'target_raw_core_radius':str(TARGET),
+  'physical_scope':'17 actual squares; free4; common frame/injective labels; actual S<=S*',
+@@ -78,10 +78,27 @@
+       'Sref':str(side),'centre_y_core_index':15,'unit_square_vertical_support_lower':'1/2',
+       'proved_delta_lower':str(side_floor),'model_delta_lower':'-1/50',
+       'reason':'top containment; every unit square has vertical half support at least1/2'}
++    prefix_path=ROOT/pins['prefix_certificate']
++    prefix=json.loads(prefix_path.read_text())
++    review=json.loads((ROOT/pins['prefix_review']).read_text())
++    assert review['status']==pins['prefix_review_status'] and review['status'].startswith('ACCEPTED')
++    assert prefix['schema']=='s17-guarded-finite-stopped-three-rounds-v1'
++    assert prefix['status']=='THREE_ROUNDS_COMPLETED_TARGET_NOT_REACHED'
++    assert len(prefix['steps'])==3 and prefix['steps'][-1]['outgoing_bounds']==prefix['final_bounds']
++    expected_registry=json.loads(json.dumps(STATE['registry']))
++    assert prefix['registry']==expected_registry
++    restored=[tuple(map(F,interval)) for interval in prefix['final_bounds']]
++    assert len(restored)==100 and within(restored,bounds)
++    assert u.refresh_products(restored)==restored
++    STATE['guard_seed_box']=packed(bounds)
++    STATE['prefix_certificate_sha256']=sha(prefix_path)
++    STATE['prefix_producer_manifest_sha256']=sha(ROOT/pins['prefix_producer_manifest'])
++    STATE['prefix_independent_review_sha256']=sha(ROOT/pins['prefix_review'])
++    bounds=restored;STATE['initial_bounds']=packed(bounds)
+     STATE['status']='RUNNING';save(output,STATE)
+     np,h,solver,readback=native();STATE['runtime']=readback
+     from scipy.sparse import csc_matrix
+-    for number in range(1,4):
++    for number in range(4,10):
+         budget_check(); started=time.process_time()
+         rows,stats=u.model(bounds,True,True)
+         extra=u.zero();extra[21]=extra[25]=F(-1)
+@@ -141,7 +158,7 @@
+         if active['target_reached']: break
+     for rel,digest in pins['files'].items():
+         if sha(ROOT/rel)!=digest: raise ValueError('input changed during run '+rel)
+-    STATE['status']='PRODUCER_TARGET_REACHED_PENDING_REVIEW' if STATE['steps'][-1]['target_reached'] else 'THREE_ROUNDS_COMPLETED_TARGET_NOT_REACHED'
++    STATE['status']='PRODUCER_TARGET_REACHED_PENDING_REVIEW' if STATE['steps'][-1]['target_reached'] else 'SIX_FURTHER_ROUNDS_COMPLETED_TARGET_NOT_REACHED'
+     save(output,STATE)
+ 
+ if __name__=='__main__':

@@ -1,0 +1,167 @@
+2026-10-11 00:52:34 frozen files have the pinned hashes; queue of 26 jobs, 3 slots
+2026-10-11 00:52:34 SHA   JQ 0b2a8ff8a3f9e12d96291643785fdf29ce1e07889b6f3b5ece8190f961c5482e record 0b2a8ff8a3f9e12d96291643785fdf29ce1e07889b6f3b5ece8190f961c5482e equal
+2026-10-11 00:52:34 START JQ C1 pid 57468: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/cloud/analysis/part3_exact/certs/JQ_v1/jQTw.n0.JQ.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JQ_C1.json
+2026-10-11 00:52:34 START JQ C2 pid 57472: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/cloud/analysis/part3_exact/certs/JQ_v1/jQTw.n0.JQ.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JQ_C2.json
+2026-10-11 00:52:34 SHA   JPG15p_v5 1adb38643a3a28a15f877199bf5eb2af97bd5a315298c155a89a33575419b788 record 1adb38643a3a28a15f877199bf5eb2af97bd5a315298c155a89a33575419b788 equal
+2026-10-11 00:52:34 START JPG15p_v5 C1 pid 57476: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG15p_v5/JPG15p_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG15p_v5_C1.json
+2026-10-11 00:52:44 END   JQ C2 exit 0 first [PASS] wall 10 s peak 729 MB now 1/1/0/0/1/48209 record 1/1/0/0/1/48209 EQUAL json-keys-differing: seconds
+2026-10-11 00:52:44 START JPG15p_v5 C2 pid 57657: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG15p_v5/JPG15p_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG15p_v5_C2.json
+2026-10-11 00:52:59 resident memory of the running checkers, new maximum: 1.5 GB (JQ C1, JPG15p_v5 C1, JPG15p_v5 C2)
+2026-10-11 00:53:04 END   JQ C1 exit 0 first [PASS] wall 30 s peak 454 MB now 1/1/0/0/1/48209 record 1/1/0/0/1/48209 EQUAL json-keys-differing: seconds
+2026-10-11 00:53:04 REPORT start JQ
+2026-10-11 00:53:04 SHA   JPG17m_v5 68613d8407cb5a9f8fdb7142641b3d4237f36f002ba856f6498bff7a66aa1751 record 68613d8407cb5a9f8fdb7142641b3d4237f36f002ba856f6498bff7a66aa1751 equal
+2026-10-11 00:53:04 START JPG17m_v5 C1 pid 57970: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG17m_v5/JPG17m_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG17m_v5_C1.json
+2026-10-11 00:53:10 REPORT end JQ exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 00:53:30 resident memory of the running checkers, new maximum: 1.8 GB (JPG15p_v5 C1, JPG15p_v5 C2, JPG17m_v5 C1)
+2026-10-11 00:54:00 END   JPG15p_v5 C2 exit 0 first [PASS] wall 75 s peak 1268 MB now 23/15/0/8/15/502001 record 23/15/0/8/15/502001 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 00:54:00 START JPG17m_v5 C2 pid 59441: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG17m_v5/JPG17m_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG17m_v5_C2.json
+2026-10-11 00:55:00 resident memory of the running checkers, new maximum: 1.9 GB (JPG15p_v5 C1, JPG17m_v5 C1, JPG17m_v5 C2)
+2026-10-11 00:55:30 resident memory of the running checkers, new maximum: 2.0 GB (JPG15p_v5 C1, JPG17m_v5 C1, JPG17m_v5 C2)
+2026-10-11 00:55:50 END   JPG17m_v5 C2 exit 0 first [PASS] wall 110 s peak 1316 MB now 31/18/0/13/18/748232 record 31/18/0/13/18/748232 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 00:55:50 SHA   JPG3m_v5 7535735021ff18c43e84956180d0389e423ff863e5dd2e2cf661e227f0a94fd4 record 7535735021ff18c43e84956180d0389e423ff863e5dd2e2cf661e227f0a94fd4 equal
+2026-10-11 00:55:50 START JPG3m_v5 C1 pid 64042: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG3m_v5/JPG3m_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG3m_v5_C1.json
+2026-10-11 00:58:45 END   JPG15p_v5 C1 exit 0 first [PASS] wall 371 s peak 549 MB now 23/15/0/8/15/502001 record 23/15/0/8/15/502001 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 00:58:45 REPORT start JPG15p_v5
+2026-10-11 00:58:45 START JPG3m_v5 C2 pid 70215: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG3m_v5/JPG3m_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG3m_v5_C2.json
+2026-10-11 00:58:50 REPORT end JPG15p_v5 exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 01:00:30 resident memory of the running checkers, new maximum: 2.1 GB (JPG17m_v5 C1, JPG3m_v5 C1, JPG3m_v5 C2)
+2026-10-11 01:01:00 resident memory of the running checkers, new maximum: 2.3 GB (JPG17m_v5 C1, JPG3m_v5 C1, JPG3m_v5 C2)
+2026-10-11 01:01:05 END   JPG3m_v5 C2 exit 0 first [PASS] wall 140 s peak 1314 MB now 36/22/0/14/22/993869 record 36/22/0/14/22/993869 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 01:01:05 SHA   JPG3p_v5 804ae79493f6733645b3d70c10edc05d5ab0c20fea416284af16c9e855c7c0ea record 804ae79493f6733645b3d70c10edc05d5ab0c20fea416284af16c9e855c7c0ea equal
+2026-10-11 01:01:05 START JPG3p_v5 C1 pid 73127: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG3p_v5/JPG3p_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG3p_v5_C1.json
+2026-10-11 01:01:55 END   JPG17m_v5 C1 exit 0 first [PASS] wall 531 s peak 657 MB now 31/18/0/13/18/748232 record 31/18/0/13/18/748232 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 01:01:55 REPORT start JPG17m_v5
+2026-10-11 01:01:55 START JPG3p_v5 C2 pid 73768: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG3p_v5/JPG3p_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG3p_v5_C2.json
+2026-10-11 01:02:05 REPORT end JPG17m_v5 exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 01:04:16 END   JPG3p_v5 C2 exit 0 first [PASS] wall 140 s peak 1322 MB now 36/22/0/14/22/988844 record 36/22/0/14/22/988844 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 01:04:16 SHA   JPG17p_v5 f392b6ba42c9abc3a60957cceeb70078dd72b200c2ef032ebdb8a0c6a7044b97 record f392b6ba42c9abc3a60957cceeb70078dd72b200c2ef032ebdb8a0c6a7044b97 equal
+2026-10-11 01:04:16 START JPG17p_v5 C1 pid 77533: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG17p_v5/JPG17p_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG17p_v5_C1.json
+2026-10-11 01:07:41 END   JPG3m_v5 C1 exit 0 first [PASS] wall 711 s peak 729 MB now 36/22/0/14/22/993869 record 36/22/0/14/22/993869 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 01:07:41 REPORT start JPG3m_v5
+2026-10-11 01:07:41 START JPG17p_v5 C2 pid 82232: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG17p_v5/JPG17p_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG17p_v5_C2.json
+2026-10-11 01:07:51 REPORT end JPG3m_v5 exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 06:38:19 RESUMED RUN (driver2.py). frozen files have the pinned hashes; queue of 17 jobs, 3 slots
+2026-10-11 06:38:19 DISK  67.9 GiB free before the next start
+2026-10-11 06:38:20 SHA   JPG3p_v5 804ae79493f6733645b3d70c10edc05d5ab0c20fea416284af16c9e855c7c0ea record 804ae79493f6733645b3d70c10edc05d5ab0c20fea416284af16c9e855c7c0ea equal
+2026-10-11 06:38:20 START JPG3p_v5 C1 pid 1665: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG3p_v5/JPG3p_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG3p_v5_C1.json
+2026-10-11 06:38:20 DISK  67.9 GiB free before the next start
+2026-10-11 06:38:20 SHA   JPG17p_v5 f392b6ba42c9abc3a60957cceeb70078dd72b200c2ef032ebdb8a0c6a7044b97 record f392b6ba42c9abc3a60957cceeb70078dd72b200c2ef032ebdb8a0c6a7044b97 equal
+2026-10-11 06:38:20 START JPG17p_v5 C1 pid 1668: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG17p_v5/JPG17p_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG17p_v5_C1.json
+2026-10-11 06:38:20 DISK  67.9 GiB free before the next start
+2026-10-11 06:38:20 START JPG17p_v5 C2 pid 1671: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG17p_v5/JPG17p_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG17p_v5_C2.json
+2026-10-11 06:38:45 resident memory of the running checkers, new maximum: 1.3 GB (JPG3p_v5 C1, JPG17p_v5 C1, JPG17p_v5 C2)
+2026-10-11 06:39:45 resident memory of the running checkers, new maximum: 1.9 GB (JPG3p_v5 C1, JPG17p_v5 C1, JPG17p_v5 C2)
+2026-10-11 06:40:15 resident memory of the running checkers, new maximum: 1.9 GB (JPG3p_v5 C1, JPG17p_v5 C1, JPG17p_v5 C2)
+2026-10-11 06:40:45 resident memory of the running checkers, new maximum: 2.1 GB (JPG3p_v5 C1, JPG17p_v5 C1, JPG17p_v5 C2)
+2026-10-11 06:41:15 resident memory of the running checkers, new maximum: 2.2 GB (JPG3p_v5 C1, JPG17p_v5 C1, JPG17p_v5 C2)
+2026-10-11 06:41:20 END   JPG17p_v5 C2 exit 0 first [PASS] wall 180 s peak 1531 MB now 48/32/0/16/32/1176714 record 48/32/0/16/32/1176714 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 06:41:20 DISK  72.8 GiB free before the next start
+2026-10-11 06:41:21 SHA   JPA_v5 b9f9283979d2fab1f20307ac09f988e23dbd3b51abb827b9982c50c48214d2a7 record b9f9283979d2fab1f20307ac09f988e23dbd3b51abb827b9982c50c48214d2a7 equal
+2026-10-11 06:41:21 START JPA_v5 C1 pid 9533: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPA_v5/JPA_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPA_v5_C1.json
+2026-10-11 06:50:52 END   JPG3p_v5 C1 exit 0 first [PASS] wall 752 s peak 695 MB now 36/22/0/14/22/988844 record 36/22/0/14/22/988844 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 06:50:52 REPORT start JPG3p_v5
+2026-10-11 06:50:52 DISK  70.2 GiB free before the next start
+2026-10-11 06:50:52 SHA   JPG15m_v5 ed66c59b16b4b3549826311b8ba2b5be9c538e0235abab3cebb19789b9637c58 record ed66c59b16b4b3549826311b8ba2b5be9c538e0235abab3cebb19789b9637c58 equal
+2026-10-11 06:50:52 START JPG15m_v5 C1 pid 22759: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG15m_v5/JPG15m_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG15m_v5_C1.json
+2026-10-11 06:51:02 REPORT end JPG3p_v5 exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 06:53:07 END   JPG17p_v5 C1 exit 0 first [PASS] wall 888 s peak 629 MB now 48/32/0/16/32/1176714 record 48/32/0/16/32/1176714 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 06:53:07 REPORT start JPG17p_v5
+2026-10-11 06:53:07 DISK  70.2 GiB free before the next start
+2026-10-11 06:53:07 START JPG15m_v5 C2 pid 28571: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPG15m_v5/JPG15m_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPG15m_v5_C2.json
+2026-10-11 06:53:17 REPORT end JPG17p_v5 exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 06:53:17 the three interrupted runs and their post-checks are done
+2026-10-11 06:54:48 resident memory of the running checkers, new maximum: 2.3 GB (JPA_v5 C1, JPG15m_v5 C1, JPG15m_v5 C2)
+2026-10-11 06:55:18 resident memory of the running checkers, new maximum: 2.6 GB (JPA_v5 C1, JPG15m_v5 C1, JPG15m_v5 C2)
+2026-10-11 06:56:18 resident memory of the running checkers, new maximum: 2.6 GB (JPA_v5 C1, JPG15m_v5 C1, JPG15m_v5 C2)
+2026-10-11 06:56:23 END   JPG15m_v5 C2 exit 0 first [PASS] wall 195 s peak 1883 MB now 61/39/0/22/39/1453516 record 61/39/0/22/39/1453516 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 06:56:23 DISK  69.9 GiB free before the next start
+2026-10-11 06:56:23 SHA   G20S 3275f52aca2e23e1916744d294bfdca827dd71db7cfe38fede277cca94c68f84 record 3275f52aca2e23e1916744d294bfdca827dd71db7cfe38fede277cca94c68f84 equal
+2026-10-11 06:56:23 START G20S C1 pid 30774: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/bigbox/gen17/G20S_tree.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/G20S_C1.json
+2026-10-11 07:06:49 END   G20S C1 exit 0 first [PASS] wall 626 s peak 350 MB now 679/302/38/339/218259/30019872 record 679/302/38/339/218259/30019872 EQUAL json-keys-differing: seconds
+2026-10-11 07:06:49 DISK  70.1 GiB free before the next start
+2026-10-11 07:06:49 START G20S C2 pid 37982: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/bigbox/gen17/G20S_tree.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/G20S_C2.json
+2026-10-11 07:07:39 END   JPG15m_v5 C1 exit 0 first [PASS] wall 1007 s peak 595 MB now 61/39/0/22/39/1453516 record 61/39/0/22/39/1453516 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 07:07:39 REPORT start JPG15m_v5
+2026-10-11 07:07:39 DISK  70.1 GiB free before the next start
+2026-10-11 07:07:39 SHA   HW c974a9c5dce91e7db0e04fb17a7a5500b477a48448073d7ed29779423bf0be73 record c974a9c5dce91e7db0e04fb17a7a5500b477a48448073d7ed29779423bf0be73 equal
+2026-10-11 07:07:39 START HW C1 pid 38719: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/bigbox/gen17/HW_tree.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/HW_C1.json
+2026-10-11 07:07:54 REPORT end JPG15m_v5 exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 07:10:20 resident memory of the running checkers, new maximum: 2.8 GB (JPA_v5 C1, G20S C2, HW C1)
+2026-10-11 07:10:50 resident memory of the running checkers, new maximum: 3.4 GB (JPA_v5 C1, G20S C2, HW C1)
+2026-10-11 07:11:50 END   G20S C2 exit 0 first [PASS] wall 301 s peak 2692 MB now 679/302/38/339/218259/30019872 record 679/302/38/339/218259/30019872 EQUAL json-keys-differing: seconds
+2026-10-11 07:11:50 REPORT start G20S
+2026-10-11 07:11:50 DISK  70.0 GiB free before the next start
+2026-10-11 07:11:50 START HW C2 pid 41424: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/bigbox/gen17/HW_tree.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/HW_C2.json
+2026-10-11 07:11:55 REPORT end G20S exit 0 last line [RESULT: ACCEPTED] ok lines 40
+2026-10-11 07:15:20 END   HW C1 exit 0 first [PASS] wall 461 s peak 1009 MB now 579/289/1/289/156260/22540696 record 579/289/1/289/156260/22540696 EQUAL json-keys-differing: seconds
+2026-10-11 07:15:20 END   HW C2 exit 0 first [PASS] wall 210 s peak 2529 MB now 579/289/1/289/156260/22540696 record 579/289/1/289/156260/22540696 EQUAL json-keys-differing: seconds
+2026-10-11 07:15:20 REPORT start HW
+2026-10-11 07:15:20 DISK  69.8 GiB free before the next start
+2026-10-11 07:15:21 SHA   JG e7587199a38d4772394c1284b0abe4b90e8f98f7dc3845c639e5dc08839ac7b5 record e7587199a38d4772394c1284b0abe4b90e8f98f7dc3845c639e5dc08839ac7b5 equal
+2026-10-11 07:15:21 START JG C1 pid 43864: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JG/JG.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JG_C1.json
+2026-10-11 07:15:21 DISK  69.8 GiB free before the next start
+2026-10-11 07:15:21 START JG C2 pid 43867: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JG/JG.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JG_C2.json
+2026-10-11 07:15:26 REPORT end HW exit 0 last line [RESULT: ACCEPTED] ok lines 40
+2026-10-11 07:15:26 G20S and HW are done with the pinned post-check
+2026-10-11 07:20:56 END   JG C2 exit 0 first [PASS] wall 336 s peak 2334 MB now 113/56/1/56/56/2670577 record 113/56/1/56/56/2670577 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 07:20:56 DISK  69.9 GiB free before the next start
+2026-10-11 07:20:56 SHA   JPWS_v4 538a6a512a10b72dd59f7a4eeec710c6bddb12411c6728745c7bbcf9cb333cf4 record 538a6a512a10b72dd59f7a4eeec710c6bddb12411c6728745c7bbcf9cb333cf4 equal
+2026-10-11 07:20:56 START JPWS_v4 C1 pid 47624: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPWS_v4/JPWS_v4.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPWS_v4_C1.json
+2026-10-11 07:41:54 END   JG C1 exit 0 first [PASS] wall 1594 s peak 912 MB now 113/56/1/56/56/2670577 record 113/56/1/56/56/2670577 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 07:41:54 REPORT start JG
+2026-10-11 07:41:54 DISK  71.4 GiB free before the next start
+2026-10-11 07:41:54 START JPWS_v4 C2 pid 61711: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPWS_v4/JPWS_v4.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPWS_v4_C2.json
+2026-10-11 07:42:14 REPORT end JG exit 0 last line [RESULT: ACCEPTED] ok lines 49
+2026-10-11 07:47:55 resident memory of the running checkers, new maximum: 3.5 GB (JPA_v5 C1, JPWS_v4 C1, JPWS_v4 C2)
+2026-10-11 07:48:25 resident memory of the running checkers, new maximum: 3.6 GB (JPA_v5 C1, JPWS_v4 C1, JPWS_v4 C2)
+2026-10-11 07:48:35 END   JPWS_v4 C2 exit 0 first [PASS] wall 401 s peak 2648 MB now 110/70/0/40/70/2982299 record 110/70/0/40/70/2982299 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 07:48:35 DISK  71.3 GiB free before the next start
+2026-10-11 07:48:35 SHA   JPW13 7147d7780da9006064160c6b49a4196678bcc20cd31234f1b3a0a4c54fcc050b record 7147d7780da9006064160c6b49a4196678bcc20cd31234f1b3a0a4c54fcc050b equal
+2026-10-11 07:48:35 START JPW13 C1 pid 73079: /usr/bin/time -l /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python -I -B wxcheck_v30.py /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPW13/JPW13.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPW13_C1.json
+2026-10-11 07:53:51 END   JPWS_v4 C1 exit 0 first [PASS] wall 1975 s peak 691 MB now 110/70/0/40/70/2982299 record 110/70/0/40/70/2982299 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 07:53:51 REPORT start JPWS_v4
+2026-10-11 07:53:51 DISK  71.3 GiB free before the next start
+2026-10-11 07:53:51 START JPW13 C2 pid 76733: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPW13/JPW13.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPW13_C2.json
+2026-10-11 07:54:16 REPORT end JPWS_v4 exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 07:59:57 resident memory of the running checkers, new maximum: 3.7 GB (JPA_v5 C1, JPW13 C1, JPW13 C2)
+2026-10-11 08:00:27 resident memory of the running checkers, new maximum: 3.7 GB (JPA_v5 C1, JPW13 C1, JPW13 C2)
+2026-10-11 08:00:57 resident memory of the running checkers, new maximum: 3.8 GB (JPA_v5 C1, JPW13 C1, JPW13 C2)
+2026-10-11 08:01:27 resident memory of the running checkers, new maximum: 4.0 GB (JPA_v5 C1, JPW13 C1, JPW13 C2)
+2026-10-11 08:01:57 resident memory of the running checkers, new maximum: 4.1 GB (JPA_v5 C1, JPW13 C1, JPW13 C2)
+2026-10-11 08:02:27 resident memory of the running checkers, new maximum: 4.3 GB (JPA_v5 C1, JPW13 C1, JPW13 C2)
+2026-10-11 08:08:58 resident memory of the running checkers, new maximum: 4.4 GB (JPA_v5 C1, JPW13 C1, JPW13 C2)
+2026-10-11 08:09:48 END   JPW13 C2 exit 0 first [PASS] wall 957 s peak 3412 MB now 255/163/0/92/163/7133642 record 255/163/0/92/163/7133642 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 08:09:48 DISK  71.2 GiB free before the next start
+2026-10-11 08:09:48 START JPA_v5 C2 pid 87892: /usr/bin/time -l node --max-old-space-size=12000 wxcheck2_v30.js /Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/results/assembly/JPA_v5/JPA_v5.cert.jsonl.gz --json /private/tmp/claude-501/-Users-builder-Developer-07-math-research-17-squares-certified-bound/00000000-0000-0000-0000-000000000000/scratchpad/mactrees/JPA_v5_C2.json
+2026-10-11 08:20:00 resident memory of the running checkers, new maximum: 4.5 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:21:00 resident memory of the running checkers, new maximum: 4.5 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:21:30 resident memory of the running checkers, new maximum: 4.7 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:22:00 resident memory of the running checkers, new maximum: 5.0 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:22:30 resident memory of the running checkers, new maximum: 5.1 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:23:00 resident memory of the running checkers, new maximum: 5.2 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:23:30 resident memory of the running checkers, new maximum: 5.4 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:24:00 resident memory of the running checkers, new maximum: 5.5 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:24:30 resident memory of the running checkers, new maximum: 5.7 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:25:00 resident memory of the running checkers, new maximum: 5.9 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:25:31 resident memory of the running checkers, new maximum: 6.0 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:26:01 resident memory of the running checkers, new maximum: 6.2 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:27:01 resident memory of the running checkers, new maximum: 6.3 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:27:31 resident memory of the running checkers, new maximum: 6.7 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:28:01 resident memory of the running checkers, new maximum: 6.7 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:28:31 resident memory of the running checkers, new maximum: 6.9 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:29:01 resident memory of the running checkers, new maximum: 7.1 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:29:31 resident memory of the running checkers, new maximum: 7.2 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:30:01 resident memory of the running checkers, new maximum: 7.3 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:30:31 resident memory of the running checkers, new maximum: 7.4 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:31:01 resident memory of the running checkers, new maximum: 7.6 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:31:31 resident memory of the running checkers, new maximum: 7.8 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:33:01 resident memory of the running checkers, new maximum: 7.8 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:33:32 resident memory of the running checkers, new maximum: 7.8 GB (JPA_v5 C1, JPW13 C1, JPA_v5 C2)
+2026-10-11 08:37:42 END   JPA_v5 C2 exit 0 first [PASS] wall 1674 s peak 6997 MB now 416/281/0/135/281/12439907 record 416/281/0/135/281/12439907 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 09:02:10 END   JPA_v5 C1 exit 0 first [PASS] wall 8449 s peak 744 MB now 416/281/0/135/281/12439907 record 416/281/0/135/281/12439907 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 09:02:10 REPORT start JPA_v5
+2026-10-11 09:03:35 REPORT end JPA_v5 exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 09:06:11 END   JPW13 C1 exit 0 first [PASS] wall 4655 s peak 761 MB now 255/163/0/92/163/7133642 record 255/163/0/92/163/7133642 EQUAL json-keys-differing: certificate,seconds
+2026-10-11 09:06:11 REPORT start JPW13
+2026-10-11 09:07:01 REPORT end JPW13 exit 0 last line [RESULT: ACCEPTED] ok lines 50
+2026-10-11 09:07:06 queue finished; stop flag False

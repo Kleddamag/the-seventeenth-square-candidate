@@ -1,0 +1,97 @@
+acceptance run 2026-10-09 04:06:42  certificate /Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/bigbox/gen17/HW_tree.jsonl.gz
+sha256 certificate:        c974a9c5dce91e7db0e04fb17a7a5500b477a48448073d7ed29779423bf0be73
+sha256 checker/wxcheck_v30.py:  cf8db52bfa1cc565d8610bf13b279d1b5da2f84c91ce2854d15a3b0a88cd096c   (FROZEN_30.json: cf8db52bfa1cc565d8610bf13b279d1b5da2f84c91ce2854d15a3b0a88cd096c)
+sha256 checker2/wxcheck2_v30.js:  97210adf74a3ebed7cde021a3cb1ff6ea6380d8d2d55540a2a2a1cb17dc27542   (FROZEN_30.json: 97210adf74a3ebed7cde021a3cb1ff6ea6380d8d2d55540a2a2a1cb17dc27542)
+sha256 SPEC_v3.0.md:  0a6dfc2ae10ed6f30a21ebe357a6e73dd7355223c521cc67a3f2bdab9549aba0   (FROZEN_30.json: 0a6dfc2ae10ed6f30a21ebe357a6e73dd7355223c521cc67a3f2bdab9549aba0)
+sha256 packing file:       24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7
+sha256 accept_tree30.sh:   0cd4ff06497209cb5622d018c34c5e1ad2ef41815b5a9db304974ffd565c1aa5
+sha256 h_report30.py:      1c01dda73b9ff5814ba52207aa43ef25145ab84baf97c5d580a156adc1c7bc78
+sha256 FROZEN_30.json:     6d65a0705c039bbf2f48acabb7f12275871af6b7b8fa308c0671ea6518b30803
+sha256 EXPECT file:        5f63bf97bf6e39f639bfa4b43fdc6c6c604eb55d07a1fa9de6df87ca95eb7200  acceptance/EXPECT_HW.json
+interpreters:              python 3.9.6 (/Users/builder/Developer/07-math-research/17-squares-certified-bound/local-research/claude-20261002/.venv/bin/python); node v25.6.1 (/opt/homebrew/bin/node)
+--- C1 (python -I -B, isolated mode: no PYTHON* variables, the script's folder not on the module path; options: default)
+PASS
+nodes=579 accepted=579 infeasible=289 terminal=1 split=289 rounds_evaluated=1776 steps=156260 terms=22540696 zero_steps=224
+root='root' packing_sha256=24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7 certificate_sha256=c974a9c5dce91e7db0e04fb17a7a5500b477a48448073d7ed29779423bf0be73
+labels=16 S_floor=4
+gzip input: certificate_sha256 is the hash of the compressed file; uncompressed_sha256=a8cc9689a3cd9cf15b5f198edb597b734039bf8eeededafb05366a85408e426a
+checker: wxcheck 3.0 / SPEC 3.0 / wx-cert-2, wx-cert-3; 522.1 s
+      522.20 real       512.31 user         1.63 sys
+          1013137408  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+      522.20 real       512.31 user         1.63 sys
+          1013137408  maximum resident set size
+exit code C1: 0
+first output line C1: [PASS]
+--- C2 (node; options: default)
+PASS
+labels=16 S_floor=4
+schema=wx-cert-2
+  certificate: /Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/bigbox/gen17/HW_tree.jsonl.gz  (SHA-256 of the checked bytes a8cc9689a3cd9cf15b5f198edb597b734039bf8eeededafb05366a85408e426a)
+  packing file: /Users/builder/Developer/07-math-research/17-squares-certified-bound/upper-packing-certificate.json  (SHA-256 24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7; Sref = 4675530093604551/1000000000000000)
+  nodes 579 (infeasible 289, terminal 1, split 289), rounds evaluated 1776 (not evaluated 0), declarations 64701, steps 156260, terms 22540696, tree depth 11
+  time: 238.20 s
+      238.39 real       259.30 user         2.49 sys
+          1689911296  maximum resident set size
+                   0  average shared memory size
+      238.39 real       259.30 user         2.49 sys
+          1689911296  maximum resident set size
+exit code C2: 0
+first output line C2: [PASS]
+--- report
+ok    FROZEN.json has the entries C1, C2, SPEC, frozen_on (and at most a note)
+ok    frozen Python checker checker/wxcheck_v30.py has the SHA-256 cf8db52bfa1cc565... of FROZEN.json (found cf8db52bfa1cc565...)
+ok    frozen Node checker checker2/wxcheck2_v30.js has the SHA-256 97210adf74a3ebed... of FROZEN.json (found 97210adf74a3ebed...)
+ok    frozen specification text SPEC_v3.0.md has the SHA-256 0a6dfc2ae10ed6f3... of FROZEN.json (found 0a6dfc2ae10ed6f3...)
+certificate '/Users/builder/Developer/07-math-research/17-squares-certified-bound/research/window-extension-20261008/bigbox/gen17/HW_tree.jsonl.gz'
+sha256      c974a9c5dce91e7db0e04fb17a7a5500b477a48448073d7ed29779423bf0be73
+sha256 of the uncompressed stream a8cc9689a3cd9cf15b5f198edb597b734039bf8eeededafb05366a85408e426a
+ok    EXPECT.json has only known entries (unknown: [])
+statement: schema wx-cert-2, 16 labels, S_floor = 4
+ok    header schema 'wx-cert-2', expected 'wx-cert-2'
+ok    both reports: schema checked under = 'wx-cert-2' (C1 None = key absent, as in every wx-cert-2 report of C1, C2 'wx-cert-2')
+ok    header label set: None (absent = 16), expected 16
+ok    header S_floor: None (absent = 4), expected 4
+ok    header has no field outside SPEC 3.0 section 10
+ok    both reports: label set used = 16 (C1 16, C2 16)
+ok    both reports: S_floor used = 4 (C1 '4', C2 '4')
+ok    C1 exit code 0
+ok    C2 exit code 0
+ok    C1 report: verdict 'PASS', mode 'full'
+ok    C2 report: result 'PASS', mode 'certificate'
+ok    C1 checked this file (hash of the file and of the uncompressed stream)
+ok    C2 checked this file (hash of the uncompressed stream)
+ok    reference file hash 24e296f5995a in the header and in both reports
+C1: wxcheck 3.0 / SPEC 3.0 / wx-cert-2, wx-cert-3; C2: wxcheck2.js SPEC_v3.0.md version 3.0
+ok    C1 report names the frozen text by its hash (spec_sha256 0a6dfc2ae10ed6f3...)
+ok    C2 report names version 3.0 (spec 'SPEC_v3.0.md version 3.0'; spec_sha256 0a6dfc2ae10ed6f3)
+ok    node ids unique in both reports
+ok    same node ids in both reports (579, 579)
+ok    every node accepted by both
+ok    every node entry of both reports has a closure kind (a rejected node has none)
+ok    same closure kind per node in both reports (differences: 0)
+nodes 579: infeasible 289, split 289, terminal 1
+C1 evidence of the infeasible leaves: 0-step 224, pair 10-15: all 8 options excluded 1, pair 14-17: all 8 options excluded 16, pair 2-6: all 8 options excluded 44, pair 5-11: all 8 options excluded 2, pair 5-9: all 8 options excluded 2
+C2 evidence of the infeasible leaves: 0-step 224, pair 65
+ok    no leaf has zero_step_L in only one report (only C1: 0, only C2: 0)
+ok    zero_step_L is the same rational number in both reports for all 224 leaves that have it (different: [])
+ok    every leaf closed by a `0` step has zero_step_L in both reports (224 leaves by C1's evidence, 224 by C2's, 224 with both values)
+ok    every zero_step_L is positive
+      smallest zero_step_L: 6.165709e-07 at node 'root.1.1.1.1.1.1.2.1.1'
+terminal leaves: ['root.1.2.1.2.1.2.1.2.1.2.1']
+      number of terminal leaves: 1 (not fixed by the statement)
+ok    C1 counts agree with its node list
+ok    C2 counts agree with its node list
+ok    same number of steps and terms evaluated (156260, 22540696)
+ok    same number of rounds evaluated (C1 1776, C2 1776)
+ok    Sref = 4675530093604551/10^15
+ok    root id 'root' (header against the Python report; the Node report has no root key)
+ok    centre maps occur only under wx-cert-3 (header: window False, tube False)
+ok    both reports: centre maps present in the header: window False, tube False (C1 None None, C2 False False)
+ok    header window = expected window 'HW: sixteen labels; core position radius 3/20, angle radius 101/1000 for all 16, slider box widened to the cuts (xi_{2,1} in [-8/25, 0], xi_{11,2} in [-1/5, 2/25], xi_{13,2} in [-1/5, 1/10])' (boxes, angle radii and centres)
+ok    header tube = expected tube 'planned entry tube of the terminal instance on the wide slider box: core 1/250, angles 1/500' (boxes, angle radii and centres)
+labels with a centre other than the identity: window [], tube []
+RESULT: ACCEPTED
+exit code report: 0
+FIRST LINES: both PASS

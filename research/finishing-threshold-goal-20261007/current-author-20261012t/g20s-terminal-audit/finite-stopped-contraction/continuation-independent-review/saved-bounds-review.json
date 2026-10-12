@@ -1,0 +1,118 @@
+{
+  "status": "PASS_SAVED_BOUND_DIAGNOSIS",
+  "rounds": [
+    {
+      "round": 4,
+      "strictly_improved_angle_endpoints": 29,
+      "unmoved": [
+        [
+          8,
+          -1
+        ],
+        [
+          11,
+          -1
+        ],
+        [
+          16,
+          -1
+        ]
+      ],
+      "side_gap_upper": "10068574581/200000000000000",
+      "h22_upper": "1161122446157/1000000000000000",
+      "h23_upper": "486751319371/500000000000000",
+      "theta11": [
+        "-1/400",
+        "42380853893/20000000000000"
+      ]
+    },
+    {
+      "round": 5,
+      "strictly_improved_angle_endpoints": 31,
+      "unmoved": [
+        [
+          11,
+          -1
+        ]
+      ],
+      "side_gap_upper": "8523110843/250000000000000",
+      "h22_upper": "844416325431/1000000000000000",
+      "h23_upper": "647251386081/1000000000000000",
+      "theta11": [
+        "-1/400",
+        "1424062460409/1000000000000000"
+      ]
+    },
+    {
+      "round": 6,
+      "strictly_improved_angle_endpoints": 31,
+      "unmoved": [
+        [
+          11,
+          -1
+        ]
+      ],
+      "side_gap_upper": "22235188653/1000000000000000",
+      "h22_upper": "8235468681/15625000000000",
+      "h23_upper": "400067369399/1000000000000000",
+      "theta11": [
+        "-1/400",
+        "887987282193/1000000000000000"
+      ]
+    },
+    {
+      "round": 7,
+      "strictly_improved_angle_endpoints": 31,
+      "unmoved": [
+        [
+          11,
+          -1
+        ]
+      ],
+      "side_gap_upper": "13987048237/1000000000000000",
+      "h22_upper": "156813048161/500000000000000",
+      "h23_upper": "235009129861/1000000000000000",
+      "theta11": [
+        "-1/400",
+        "527889924043/1000000000000000"
+      ]
+    },
+    {
+      "round": 8,
+      "strictly_improved_angle_endpoints": 31,
+      "unmoved": [
+        [
+          11,
+          -1
+        ]
+      ],
+      "side_gap_upper": "344130569/40000000000000",
+      "h22_upper": "45904807271/250000000000000",
+      "h23_upper": "136082455733/1000000000000000",
+      "theta11": [
+        "-1/400",
+        "310580167279/1000000000000000"
+      ]
+    },
+    {
+      "round": 9,
+      "strictly_improved_angle_endpoints": 31,
+      "unmoved": [
+        [
+          11,
+          -1
+        ]
+      ],
+      "side_gap_upper": "130396247/25000000000000",
+      "h22_upper": "106361359789/1000000000000000",
+      "h23_upper": "9790021093/125000000000000",
+      "theta11": [
+        "-1/400",
+        "36597225293/200000000000000"
+      ]
+    }
+  ],
+  "normalized_small_terminal_face_theorem_not_applied": true,
+  "note": "The raw sole unchanged endpoint does not supply the small normalized theorem domain; the raw maximum remains1/400.",
+  "CPU_seconds": 0.005353999999999998
+}

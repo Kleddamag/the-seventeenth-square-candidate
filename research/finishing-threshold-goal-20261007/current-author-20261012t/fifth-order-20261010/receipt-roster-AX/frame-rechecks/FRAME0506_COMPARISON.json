@@ -1,0 +1,126 @@
+{
+  "status": "PASS_ALL_OLD_NEW_ROW_FIELDS_EQUAL",
+  "new_authentic_execution_audit": {
+    "file": "research/finishing-threshold-goal-20261007/clean-rerun-20261011/current-build-0122/capture/statements/FRAME_0506/audit.json",
+    "sha256": "3aca19a3a64fd916a06ff2b53dfe13de533f85601cd8219979b61018c5630eb0"
+  },
+  "class_bytes_equal": true,
+  "certificate_bytes_equal": true,
+  "comparisons": [
+    {
+      "implementation": "python",
+      "old_sources": [
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/0.py.json",
+          "sha256": "788ce3755e1620580ae0684fe33854c3c3d96ebf289f92d9b7a0de9f6f0713f3"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/1.py.json",
+          "sha256": "740b13fa5c49c56f1d2ec4867887a53bdd6c17e3e133f5b089846337acf24f76"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/2.py.json",
+          "sha256": "713e2e01193d8d46c4fa620228685584872edf34caef83595591849a0e1c72ab"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/3.py.json",
+          "sha256": "f0e3cf07aa70120a3963dcaada9614060736eb9bd5d3f99e0830a7b8745b6958"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/4.py.json",
+          "sha256": "ef393bc542398d66f19807e72ba38625abf2447286a0c1c0fa90c2c3d0a09eb2"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/5.py.json",
+          "sha256": "034394a73b28a8a07a27f2b0ec12a397f94610fb5b5d9a94954920250c2fd254"
+        }
+      ],
+      "new_sources": [
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/0.py.json",
+          "sha256": "4432b4a9b9b128bd78e588115b5556ee99eb31d2a1e3bad6b9e04dc4749c3f4f"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/1.py.json",
+          "sha256": "01f52173859543766fec096fd509686d573ecbd3d01658c4b16750ffd4f093f7"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/2.py.json",
+          "sha256": "d062c108187b786c5e8306fb5f9382cf88e6e873889ebd4161539477e5c9a05b"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/3.py.json",
+          "sha256": "f46f7c57752bd992d8f4193398bd9146165f5ebb1a62235fd93a345243d40a03"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/4.py.json",
+          "sha256": "de98e011fe0227161e040d440aaded63dd1bd2c2b7155803c80aed375013f0ad"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/5.py.json",
+          "sha256": "ec33e5d90085dddd93836b2b070d08f259c5d559cd5d0c497002289cc8bf4c0e"
+        }
+      ],
+      "rows_equal": 9000,
+      "differences": 0
+    },
+    {
+      "implementation": "node",
+      "old_sources": [
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/0.node.json",
+          "sha256": "2cfa151db233adeca70fc810fa0dce0db1bf6305492e08f1fe09dec1802ecc8d"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/1.node.json",
+          "sha256": "0c62da311ac6e738c95a1a7891eadda6fc69db62221526251e6a3018b959ff27"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/2.node.json",
+          "sha256": "ecba9811b97691b2ac99647736fdd7cfccf5fdce9bd9259fff23608812bae6dd"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/3.node.json",
+          "sha256": "f6800f474ab20a77fa01c79ee305681cb00a158608df4502257c3aeb813e7234"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/4.node.json",
+          "sha256": "3a68403fb1120cee0eb004c32177352863f5a1a30fb2b511a8bcd71598b9f92b"
+        },
+        {
+          "file": "local-research/claude-20261002/results/screen_classP0506_cloud/exact/slices/5.node.json",
+          "sha256": "ccfe3469f8fe6eaac2d0870113c25a16d767a04cd8b483ef8482198565fa50ad"
+        }
+      ],
+      "new_sources": [
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/0.node.json",
+          "sha256": "b19cffa65395e7ec080b52b7b4b9445c66eae21a9c487520b2ee9eed250e7d7e"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/1.node.json",
+          "sha256": "aa5404fc548dab03ffd9076b6c335a1a3316c1b1fba660731b512f98e2a3debb"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/2.node.json",
+          "sha256": "4363da367d9c9eab540d2d26672ff65ce1b3343afe0e144c15515b49f5cac7fd"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/3.node.json",
+          "sha256": "9f07f486ec9e23092158cdb34bbd9a02d0e27a517b238ea5acd18c46da395ec9"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/4.node.json",
+          "sha256": "7fcc740f8de4b2197f51c0bc63aa76ce20aaf26a021747ca3d3d5209a127c261"
+        },
+        {
+          "file": "local-research/claude-20261002/results/second_screen_classP0506_cloud/exact/slices/5.node.json",
+          "sha256": "ea862b4910ce9ac0f57b73f8545e2a36fd062c7ce3e187f4d87e0a1a05a69ec5"
+        }
+      ],
+      "rows_equal": 9000,
+      "differences": 0
+    }
+  ],
+  "scope": "Saved-result comparison; not a checker rerun"
+}

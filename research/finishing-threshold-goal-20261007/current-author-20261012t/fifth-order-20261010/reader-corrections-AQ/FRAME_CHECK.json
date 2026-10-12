@@ -1,0 +1,86 @@
+{
+  "status": "PASS_FIXED_FRAME_WALL_ENDS_AND_T2_ENTRY",
+  "script": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/reader-corrections-AQ/verify_frame.py",
+    "sha256": "0dc1ca54835a29dfa4a82a183321ff5a472fb6d664fec695abd0dd59718dffcf"
+  },
+  "endpoint": {
+    "file": "research/finishing-threshold-goal-20261007/current-author-20261012t/second-order-20261010/theorem/EXACT_ENDPOINT_AND_CASES.json",
+    "sha256": "ea0c3739f00d7513f4adf2c18ce7ebc133141dd12b827229a1f13f461d890e3b"
+  },
+  "reference": {
+    "file": "upper-packing-certificate.json",
+    "sha256": "24e296f5995abc9424e2d8d39ea0a8e44953b919430a04f006fa84c56fef45f7"
+  },
+  "eps": "323264740583067756265381186720884493986257/62500000000000000000000000000000000000000000000000000000000",
+  "minimum_right_top_slack": "172774611520751077003947028629799873599009499147027426104376477/4000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "stronger_gap_R_minus_Lhi_minus_2eps": "152085668123434740602962632679663265983889051147027426104376477/4000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "roots": [
+    {
+      "name": "JQ",
+      "file": "research/window-extension-20261008/bigbox/join/JQ_exact_v1.json",
+      "sha256": "f4d1607eb4378487fcf6d8a8011125855bfb5912a6fa833ad3dcfcd6be14d93e"
+    },
+    {
+      "name": "JG",
+      "file": "research/window-extension-20261008/bigbox/join/JG_exact_v2.json",
+      "sha256": "f635af684d0f81d318ad2f46f2721082e595d47ea294164062c10b6f2b941f32"
+    },
+    {
+      "name": "JPA",
+      "file": "research/window-extension-20261008/bigbox/join/JPA_exact_v5.json",
+      "sha256": "adcf0d1bdc02b8ea3d3f6253c6643caa2d8865427b8e6b8b91ea795f9352ff89"
+    },
+    {
+      "name": "JPWS",
+      "file": "research/window-extension-20261008/bigbox/join/JPWS_exact_v4.json",
+      "sha256": "7d32a55bc2b080056d267dd10d38abb003ff84a649cd22aabb05899ec2a8be1f"
+    },
+    {
+      "name": "JPW13",
+      "file": "research/window-extension-20261008/bigbox/join/JPW13_exact_v2x.json",
+      "sha256": "e1a489e1f0d04ec0ee091ccbab9c4028a08c04ec15deeea26ff738e62b09505b"
+    },
+    {
+      "name": "JPG3m",
+      "file": "research/window-extension-20261008/bigbox/join/JPG3m_exact_v5.json",
+      "sha256": "1e2a3b429193a69f9426e4966b8dbacb85e960b0301b926b8c645e191f6a867e"
+    },
+    {
+      "name": "JPG3p",
+      "file": "research/window-extension-20261008/bigbox/join/JPG3p_exact_v5.json",
+      "sha256": "c4287958b08fe4fcd168aefc70223ac241541b4afa69995775e6c88cc60237d9"
+    },
+    {
+      "name": "JPG17m",
+      "file": "research/window-extension-20261008/bigbox/join/JPG17m_exact_v5.json",
+      "sha256": "18550e414d3f50577234684d54ceb4b0e44b45bbce6cd4b5efff9596e7f72272"
+    },
+    {
+      "name": "JPG17p",
+      "file": "research/window-extension-20261008/bigbox/join/JPG17p_exact_v5.json",
+      "sha256": "11b68ec1eb4aa790612e865da1983db23cde7cffe50aa59a84621f6fe2d39c12"
+    },
+    {
+      "name": "JPG15m",
+      "file": "research/window-extension-20261008/bigbox/join/JPG15m_exact_v5.json",
+      "sha256": "f6495dc60d07a4faead370a6af4b6f6e1c5f876c973f6dced71984b003f8aa06"
+    },
+    {
+      "name": "JPG15p",
+      "file": "research/window-extension-20261008/bigbox/join/JPG15p_exact_v5.json",
+      "sha256": "6c9ad4887e868fe0ef3449c294efaa887a1ef065691a2e3641ad1523781ed653"
+    }
+  ],
+  "windows": [
+    {
+      "file": "research/window-extension-20261008/acceptance/EXPECT_G20S.json",
+      "sha256": "1447c955c52f5a52146ef0dc1b812ed6a151464caecbba5e2820b04ba33e2454"
+    },
+    {
+      "file": "research/window-extension-20261008/acceptance/EXPECT_HW.json",
+      "sha256": "5f63bf97bf6e39f639bfa4b43fdc6c6c604eb55d07a1fa9de6df87ca95eb7200"
+    }
+  ],
+  "scope": "Checks fixed reference wall coordinates, root lower/upper ends, physical endpoint margin and T2 entry inclusion. Other target-factor admissions remain the independently reviewed source; no tree arithmetic replay."
+}

@@ -1,0 +1,10 @@
+{
+  "scope": "Path compatibility only; do not include superseded proof text. A pin emitted by the unchanged finite_scope.py for this logical legacy path refers to the current proof through this declared alias.",
+  "aliases": [
+    {
+      "logical_path": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v4/PROOF.md",
+      "actual_file": "research/finishing-threshold-goal-20261007/current-author-20261012t/fifth-order-20261010/public-edition-round2-20261011/revision-v7/PROOF.md",
+      "sha256": "0d4c408d1e38a8d858281443b27ac4e0cf3591ba9045be8e8ec176a318916ee6"
+    }
+  ]
+}
